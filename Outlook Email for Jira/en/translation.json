@@ -322,6 +322,7 @@
         "appVersion": "Release Notes",
         "systemInfo": "System info: {{systemVersion}}",
         "documentation": "Documentation",
-        "supportRequest": "Request Support"
+        "supportRequest": "Request Support",
+        "openLogFolder": "Show log files"
     }
 }
