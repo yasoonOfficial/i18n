@@ -1,0 +1,327 @@
+{
+    "relatedIssues": {
+        "headline": "Verwandte Vorgänge",
+        "senderTab": "Sender",
+        "conversationTab": "Konversation",
+        "emptyConversationHeading": "Keine Vorgänge gefunden",
+        "emptyConversationDescription": "Dieser Email oder Konversation ist kein Vorgang zugewiesen",
+        "createIssueButton": "Neuen Vorgang erzeugen",
+        "addIssueButton": "Einen existierenden Vorgang zuweisen",
+        "emptySenderDescription": "Wir konnten für die Emailadresse des Senders keine Vorgänge finden",
+        "emptySenderHeading": "Keine Vorgänge gefunden",
+        "attachments": "Anhänge",
+        "noAttachments": "Bisher keine Anhänge angefügt 💾",
+        "writeCommentMotivation": "Sei der erste, der ein Kommentar schreibt! 😊",
+        "shareWithCustomer": "Kunden antworten",
+        "commentInterally": "Intern kommentieren",
+        "emailHasChanged": "Die ausgewählte Email hat sich geändert",
+        "unsavedData": "Ungespeicherte Daten!",
+        "reloadRelatedIssuesMessage": "Vorgänge für aktuelle Email neu laden."
+    },
+    "showIssues": {
+        "descriptionHeading": "Beschreibung",
+        "noDescriptionMessage": "Keine Beschreibung vorhanden",
+        "issueLinksHeading": "Vorgangsverweise",
+        "subtasksHeading": "Sub-Tasks",
+        "detailsTabHeading": "Details",
+        "commentsTabHeading": "Kommentare",
+        "filesTabHeading": "Dateien"
+    },
+    
+    "officeActions": {
+        "createReminderOption": "Erinnerung erstellen",
+        "shareEmailOption": "Per Email antworten",
+        "emailAssigneeOption": "Email an Bearbeiter",
+        "emailReporterOption": "Email an Autor"
+    },
+    "issueActionDropdown": {
+        "toolsHeading": "TOOLS",
+        "followUpHeading": "NACHBEARBEITUNG"
+    },
+    "settingsScreen": {
+        "appSettingsTabHeading": "App Einstellungen",
+        "jiraLoginTabHeading": "Jirazugang",
+        "settingsHeader": "Einstellungen",
+        "back": "Zurück",
+        "generalSettingsHeading": "Allgemeine Einstellungen",
+        "language": "Sprache",
+        "languageSelectPlaceholder": "Auswählen...",
+        "remoteDebug": "Bildschirm aufnehmen (für externes debugging)",
+        "createAddIssueHeading": "Vorgangs Popup Einstellungen",
+        "addAttachmentsByDefault": "Immer Anhänge anfügen",
+        "preselectProjectIssueType": "Zuletzt verwendetes Projekt und Vorgangstyp vorselektieren",
+        "showServiceDeksPortalFields": "Zeige Portalfelder im Service Desk",
+        "addMailInformation": "Füge Email Informationen zur Beschreibung hinzu",
+        "includeAttachments": "Anhänge einbeziehen",
+        "includeSubject": "Beschreibung einbeziehen"
+    },
+    "createIssue": {
+        "headline": "Vorgang erstellen",
+        "servicePortalTab": "Service Portal",
+        "singleTab": "Alle Felder",
+        "serviceDeskIssueTypeTooltip": "Vorgangstyp verwenden",
+        "accountFieldPlaceholder": "Platzhalter für Accountfeld"
+    },
+    "addToIssue": {
+        "headline": "Zu Vorgang hinzufügen",
+        "shareWithCustomerButton": "Kunden antworten",
+        "commentInterallyButton": "Internen Hinweis hinzufügen"
+    },
+    "addInstance": {
+        "connectToJira": "Mit Jira verbinden",
+        "oAuthLoginDescription1": "Bitte auf Anmelden klicken - dies wird ein neues Fenster öffnen in welchem der Zugang zu Jira gewährt werden muss.",
+        "oAuthLoginDescription2": "Diese Seite wird automatisch nachladen und erst dann weiterleiten, wenn Sie fertig sind.",
+        "provideMailAddressMessage": "Bitte gib die Emailadresse für den Zugang zu Jira ein.",
+        "whereDoIFindThis": "Wo finde ich diese?",
+        "loginReminder": "Anmeldedaten für alle Geräte verwenden",
+        "aggreementMessage1": "Wenn Sie auf weiter klicken, stimmen Sie unseren",
+        "termsOfService": "Allgemeinen Geschäftsbedingungen",
+        "aggreementMessage2": "und",
+        "privacyPolicy": "Datenschutzrichtlinien",
+        "aggreementMessage3":"zu."
+    },
+    "attachmentField": {
+        "noAttachmentMessage": "Diese Email hat keine Anhänge",
+        "selectAllButton": "Alle",
+        "deselectAllButton": "Keine"
+    },
+    "jiraActions": {
+        "openInJiraOption": "In Jira öffnen",
+        "assignToMeOption": "Mir zuweisen",
+        "watchIssueOptionLabel": "Beobachtung beginnen",
+        "unwatchIssueOption": "Beobachtung beenden",
+        "watchIssueOption": "Beobachtung beginnen"
+    },
+    "actions": {
+        "createButton": "Erstellen",
+        "cancelButton": "Abbrechen",
+        "submit": "Absenden",
+        "fileUploadButton": "suchen.",
+        "fileUploadButtonPreText": "Dateien hierher ziehen, oder",
+        "logout": "Abmelden",
+        "login": "Anmelden",
+        "forget": "Verwerfen",
+        "edit": "Editieren",
+        "editInline": "editieren",
+        "continue": "weiter"
+    },
+    "feedBackButton": {
+        "subject": "Feedback zu Outlook Email for Jira",
+        "htmlBody": "Hey <br/><br/>, ich mag die App, aber es gibt mindestens eine Sache, die ihr besser machen könnt: <br/>",
+        "button": "Feedback absenden"
+    },
+    "fieldErrorBoundary": {
+        "errorMessage": "Sorry, wir konnten das Feld nicht richtig anzeigen. Es wird nicht an Jira gesendet!",
+        "reportInstruction": "Bitte melde uns, um welches Feld es sich handelt"
+    },
+    "instanceSettings": {
+        "loginMessage": "Du bist angemeldet als:",
+        "loginExpired": "Anmeldedaten abgelaufen",
+        "logoutLogin": "Abmelden & anmelden",
+        "notLoggedInMessage": "Du bist derzeit nicht angemeldet.",
+        "instancePickerPlaceholder": "Wähle eine Instanz aus",
+        "loginErrorDescription": "Beim anmelden kam es zu einem Fehler:",
+        "loginErrorTitle": "Fehler beim Anmelden bei Jira",
+        "loginWithJiraHosting": "Anmelden bei Jira {{hosting}}",
+        "yasoonConnectionErrorDescription": "Wir konnten useren Backendserver *.yasoon.com nicht erreichen. Dies könnte an einer restriktiven Firewall liegen. Du kannst das Addin weiterhin verwenden, aber manche Features funktionieren möglicherweise nicht wie erwartet. Wenn du den vollen Funktionsumfgang nutzen möchtest, stelle sicher (oder lasse von der IT sicherstellen), dass yasoon.com nicht geblockt wird",
+        "yasoonConnectionErrorTitle": "Keine Verbindung zu yasoon.com möglich",
+        "jiraConnectionErrorDescription1": "Wir konnten uns leider nicht zur Jirainstanz verbinden. Stelle sicher, dass die URL korrekt eingegeben wurde.",
+        "jiraConnectionErrorDescription2": "Wenn die URL stimmt, erfüllt das Jirasystem eventuell nicht die",
+        "jiraConnectionErrorDescription3": "technischen Voraussetzungen",
+        "jiraConnectionErrorDescription4": ".",
+        "jiraConnectionErrorDescription5": "Wenn die Jira Instanz von Ihnen gehosted wird, muss unser",
+        "jiraConnectionErrorDescription6": "Jira Server Addon",
+        "jiraConnectionErrorDescription7": "installiert sein und unter https erreichbar sein.",
+        "jiraConnectionErrorDescription8": "Wenn Sie der Meinung sind, dass es sich um einen Fehler handelt, bitte wenden Sie sich an unseren",
+        "jiraConnectionErrorDescription9": "Support",
+        "jiraConnectionErrorTitle": "Keine Verbindung zu Jira",
+        "alreadyConnectedDescription": "Sie sind bereits mit diesem System verbunden.",
+        "alreadyConnectedTitle": "Bereits verbunden",
+        "cannotReadJiraUserError": "Konnten den Jirabenutzer nicht finden - versuche es erneut.",
+        "cannotAssignUserError": "Konnte Benutzer nicht zuweisen - versuche es erneut"
+    },
+    "basicLogin": {
+        "headline": "Verbinde zu Jira",
+        "subHeadline": "Bitte gib deine Zugangsdaten ein.",
+        "jiraUrl": "Jira Url",
+        "usernameOrMail": "Benutzername oder Emailadresse",
+        "apiToken": "API Token",
+        "password": "Passwort",
+        "createApiToken": "Erstelle einen neuen API Token",
+        "back": "Zurück",
+        "invalidCredentialsTitle": "Ungültige Zugangsdaten",
+        "invalidCredentialsDescription1": "Bitte prüfe deine Zugangsdaten und versuche es erneut.",
+        "invalidCredentialsDescription2": "Hilfe zu API Tokens",
+        "errorDuringLoginTitle": "Fehler beim Anmelden",
+        "errorDuringLoginDescription1": "Es kam zu einem Fehler bei der Anmeldung.",
+        "errorDuringLoginDescription2": ". Bitte wende dich an deinen Jira Admin und stelle sicher, dass Basic Auth aktiviert ist."
+    },
+    "editorScreen": {
+        "headline": "Beschreibung bearbeiten",
+        "saveChanges": "Änderungen speichern"
+    },
+    "initialLoadingScreen": {
+        "loading": "Lädt..."
+    },
+    "welcomeScreen": {
+        "headline": "Jira trifft Outlook",
+        "createJiraIssues": "Erstelle Jira Vorgänge aus Emails heraus & übernehme Texte sowie Anhänge!",
+        "viewJiraIssues": "Finde Jira Vorgänge die zur aktuellen Email-Konversation gehören!",
+        "supportedEnvironments": "Funktioniert überall – Windows, Mac, iOS, Android & Web!",
+        "startNow": "Beginne jetzt!",
+        "pricingInfo": "Preisinformationen",
+        "aboutUs": "Über uns"
+    },
+    "instanceList": {
+        "addAnotherSystem": "Füge ein weiteres System hinzu"
+    },
+    "issueCard": {
+        "assignedToMe": "Dieser Vorgang ist dir zugewiesen!",
+        "youAreWatching": "Du beobachtest diesen Vorgang"
+    },
+    "securityIndicator": {
+        "headline": "Sicherheitsprüfung",
+        "connectedViaTLS": "Verbunden über TLS",
+        "connectedViaHttp": "Verbunden über plaintext HTTP",
+        "authWithToken": "Authentifikation über OAuth Token",
+        "authWithBasicAuth": "Authentifikation über Basic Auth",
+        "connectedWithYasoon": "Verbunden mit Yasoon Cloud Connect",
+        "recomendedConnection1": "Wir schlagen die Verbindung zu Jira über",
+        "recomendedConnectionLink1": "TLS",
+        "recomendedConnection2": "vor und delegieren die Authentifikation. Bitte verwende unsere",
+        "recomendedConnectionLink2": "Marktplatz app",
+        "recomendedConnection3": "um eine sichere Verbindung zu konfigurieren.",
+        "allSecureMessage": "Du bist startklar, alles ist sicher!"
+    },
+    "breadCrumbs": {
+        "back": "Zurück",
+        "relatedIssues": "Verwandte Vorgänge"
+    },
+    "trial": {
+        "errorHeadline": "Schließ dich uns an!",
+        "trialExpiredMessage": "Dein Testzeitraum ist vorbei. Hat dir die problemlose Arbeit mit Jira gefallen?",
+        "getLicense": "Hol dir eine Lizenz",
+        "status": "Status des Testzeitraums",
+        "runsOut": "Dein Testzeitraum läuft aus {{date}}",
+        "getALicense": "Hol dir eine Lizenz"
+    },
+    "jirafields": {
+        "participants": "Teilnehmner",
+        "reporter": "Im Name von",
+        "instance": "Jira Instanz",
+        "project": "Projekt",
+        "issueType": "Vorgangstyp",
+        "issue": "Vorgang",
+        "requesttype": "Anfragetyp",
+        "comment": "Kommentar",
+        "attachment": "Anhänge"
+    },
+    "groupField": {
+        "placeholder": "Suche eine Gruppe"
+    },
+    "labelField": {
+        "placeholder": "Füge ein label hinzu"
+    },
+    "projectField": {
+        "recentProjects": "Letzte Projekte",
+        "allProjects": "Alle Projekte"
+    },
+    "versionSelectField": {
+        "unreleasedVersion": "Nicht veröffentlicht",
+        "releasedVersion": "Veröffentlicht"
+    },
+    "tempo": {
+        "accountPlaceholder": "Wähle einen Account",
+        "teamPlaceholder": "Wähle ein Team",
+        "groupProjectAccounts": "Projekt Accounts",
+        "groupGlobalAccounts": "Globale Accounts"
+    },
+    "radioField": {
+        "noneOption": "Keins"
+    },
+    "statusField": {
+        "transitionTo": "Vorgang überführen zu:"
+    },
+    "userField": {
+        "assignToMe": "Mir zuweisen",
+        "defaultUserName": "Automatisch",
+        "unassignedUserName": "Nicht zugewiesen",
+        "relatedUsers": "Verwandte Benutzer",
+        "recentUsers": "Letzte Benutzer",
+        "searchResultFor": "Suchergebnis für"
+    },
+    "creatableSelect": {
+        "newSuffix": "(neu)"
+    },
+    "errorMessages": {
+        "noConnectToJiraTitle": "Keine Verbindung zu Jira",
+        "noConnectToJiraDescription": "Es scheint, als wäre der login abgelaufen. Bitte melde dich im Einstellungsmenu neu an",
+        "noSDSupportTitle": "Service Desk nicht unterstützt",
+        "noSDSupportDescription": "Du benötigst mindestens Jira Service Desk Version 3.3.0. Deine Version: ",
+        "uploadFilesError": "Konnte die Dateien nicht hochladen!",
+        "errorOnLoginTitle": "Fehler beim anmelden",
+        "errorOnLoginDescription": "Sorry - wir konnten den Jirabenutzer nicht finden. Dies ist höchstwahrscheinlich ein temporärer Fehler. Du kannst es erneut probieren.",
+        "openEmailFormTitle": "Email Formular konnte nicht geöffnet werden",
+        "openEmailFormDescription": "Wir konnten das Email Formular leider nicht öffnen.",
+        "internalErrorTitle": "Interner Fehler",
+        "internalErrorDescription": "Sorry - wir konnten die Eingabe nicht verarbeiten. Hierbei handelt es sich höchstwahrscheinlich um einen Fehler auf unserer Seite und es wäre super, wenn du uns das mitteilst. Der Vorgang wurde nicht erstellt",
+        "createIssueTitle": "Vorgang konnte nicht erstellt werden",
+        "unknownError": "Unbekannter Fehler",
+        "incompleteIssueTitle": "Vorgang {{issueKey}} wurde erstellt",
+        "incompleteIssueDescription": "Der Vorang wurde erstellt, ist aber möglicherweise unvollständig. Bitte schließe dieses Fenster und prüfe den Vorang manuell",
+        "selectIssueTitle": "Vorgang auswählen",
+        "selectIssueDescription": "Wähle einen Vorgang, den du kommentieren möchtest. Du kannst entweder per Titel oder Schlüssel suchen oder auf Projekte filtern",
+        "noContentTitle": "Kein Inhalt",
+        "noContentDescription": "Bitte füge ein Kommentar ein oder wähle mindestens eine Datei zum hochladen aus.",
+        "updateJiraIssueTitle": "Jirafeld Aktualisierung fehlgeschlagen",
+        "updateJiraIssueDescription": "Sorry - wir konnten den Kommentar nicht zum Vorgang hinzufügen, da",
+        "uploadAttachments": "Ein oder mehrere Anhänge konnten nicht hochgeladen werden.",
+        "headsUpTitle": "Achtung!",
+        "headsUpDescription": "Dieser Konversation wurde bereis der Vorgang {{issueKey}} zugewiesen."
+    },
+    "issueField": {
+        "relatedIssues": "Verwandte Vorgänge",
+        "recentIssues": "Letzte Vorgänge",
+        "allIssues": "Alle Vorgänge",
+        "searchResultFor": "Suchergebnis für"
+    },
+    "epicField": {
+        "suggestions": "Vorgeschlagen",
+        "allEpics": "Alle Epics"
+    },
+    "officeMessages": {
+        "reminderLinkToIssue": "Link zum Vorgang:",
+        "due": "[Fällig]",
+        "sendEmailSubject": "Betreffend des Jira Vorgangs",
+        "issueCreated": "Vorgang {{issueKey}} wurde erfolgreich erstellt",
+        "issueUpdated": "Vorgang {{issueKey}} wurde erfolgreich aktualisiert"
+    },
+    "ribbon": {
+        "newIssue": "Neuer Vorgang",
+        "addToIssue": "Zu Vorgang hinzufügen",
+        "viewIssues": "Vorgänge anzeigen",
+        "backstageTitle": "Outlook Email for Jira",
+        "proxySettings": "Proxy Einstellungen",
+        "proxyRadioLabel": "Änderungen erfordern einen Neustart von Outlook.",
+        "proxyAutoDetect": "Proxy automatisch erkennen",
+        "proxyNone": "Keinen Proxy verwenden",
+        "proxyCustom": "Eigenen proxy",
+        "proxyConfigure": "Konfigurieren",
+        "connectionSettings": "Verbindungseinstellungen",
+        "ssoSelectedCertificate": "Ausgewähltes Zertifikat: {{certificateName}}",
+        "ssoChooseCert": "Wähle Client-Zertifikat",
+        "disableCertCheck": "SSL Zertifikat-check deaktivieren (nicht empfohlen)",
+        "bypassAuthentication": "SSO verwenden (ohne eigene Authentifikation)",
+        "troubleshooting": "Fehlerbehebung",
+        "verboseLogging": "Explizite Log Nachrichten",
+        "networkTrace": "Netzwerk protokollieren",
+        "utils": "Tools",
+        "checkUpdates": "Auf Updates prüfen",
+        "about": "Über",
+        "aboutHeadline": "Outlook Email for Jira v{{addinVersion}}",
+        "appVersion": "Versionshinweise",
+        "systemInfo": "Systeminformation: {{systemVersion}}",
+        "documentation": "Dokumentation",
+        "supportRequest": "Supportanfrage"
+    }
+}

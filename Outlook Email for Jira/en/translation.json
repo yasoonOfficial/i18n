@@ -1,0 +1,327 @@
+{
+    "relatedIssues": {
+        "headline": "Related issues",
+        "senderTab": "Sender",
+        "conversationTab": "Conversation",
+        "emptyConversationHeading": "No issues found",
+        "emptyConversationDescription": "There is no issue assigned to the current mail or conversation",
+        "createIssueButton": "Create new Issue",
+        "addIssueButton": "Assign existing issue",
+        "emptySenderDescription": "We could not find issues for the current sender based on the email address",
+        "emptySenderHeading": "No issues found",
+        "attachments": "Attachments",
+        "noAttachments": "No attachments yet! 💾",
+        "writeCommentMotivation": "Be the first to write a comment! 😊",
+        "shareWithCustomer": " Share w/ customer",
+        "commentInterally": "Comment internally",
+        "emailHasChanged": "Selected email has changed",
+        "unsavedData": "Unsaved data!",
+        "reloadRelatedIssuesMessage": "Reload related issues for current email."
+    },
+    "showIssues": {
+        "descriptionHeading": "Description",
+        "noDescriptionMessage": "No description",
+        "issueLinksHeading": "Issue links",
+        "subtasksHeading": "Subtasks",
+        "detailsTabHeading": "Details",
+        "commentsTabHeading": "Comments",
+        "filesTabHeading": "Files"
+    },
+    
+    "officeActions": {
+        "createReminderOption": "Create reminder",
+        "shareEmailOption": "Share by email",
+        "emailAssigneeOption": "Email assignee",
+        "emailReporterOption": "Email reporter"
+    },
+    "issueActionDropdown": {
+        "toolsHeading": "TOOLS",
+        "followUpHeading": "FOLLOW UP"
+    },
+    "settingsScreen": {
+        "appSettingsTabHeading": "App Settings",
+        "jiraLoginTabHeading": "Jira Login",
+        "settingsHeader": "Settings",
+        "back": "Back",
+        "generalSettingsHeading": "General Settings",
+        "language": "Language",
+        "languageSelectPlaceholder": "Select...",
+        "remoteDebug": "Record screen (for remote debug purposes)",
+        "createAddIssueHeading": "Issue Dialog Settings",
+        "addAttachmentsByDefault": "Add attachments by default",
+        "preselectProjectIssueType": "Preselect last used project and issuetype",
+        "showServiceDeksPortalFields": "Show Portal fields in Service Desk",
+        "addMailInformation": "Add Mail Information to description",
+        "includeAttachments": "Include Attachments",
+        "includeSubject": "Include Subject"
+    },
+    "createIssue": {
+        "headline": "Create Issue",
+        "servicePortalTab": "Service Portal",
+        "singleTab": "All fields",
+        "serviceDeskIssueTypeTooltip": "Use Issue Type",
+        "accountFieldPlaceholder": "Placeholder Account Field"
+    },
+    "addToIssue": {
+        "headline": "Add to Issue",
+        "shareWithCustomerButton": "Share with customer",
+        "commentInterallyButton": "Comment internally"
+    },
+    "addInstance": {
+        "connectToJira": "Connect to Jira",
+        "oAuthLoginDescription1": "Please click on 'Login' to continue - this will open a new window where you have to approve the access to Jira.",
+        "oAuthLoginDescription2": "This page will refresh automatically and continue when you are done.",
+        "loginWithJiraHosting": "Login with Jira {{hosting}}",
+        "provideMailAddressMessage": "Please provide the address you use to access Jira.",
+        "whereDoIFindThis": "Where do I find this?",
+        "loginReminder": "Remember Login on every device",
+        "aggreementMessage1": "With continue, you agree to our",
+        "termsOfService": "Terms of Service",
+        "aggreementMessage2": "and",
+        "privacyPolicy": "Privacy Policy",
+        "aggreementMessage3":"."
+    },
+    "attachmentField": {
+        "noAttachmentMessage": "This mail has no attachments",
+        "selectAllButton": "All",
+        "deselectAllButton": "None"
+    },
+    "jiraActions": {
+        "openInJiraOption": "Open in Jira",
+        "assignToMeOption": "Assign to me",
+        "watchIssueOptionLabel": "Watch",
+        "unwatchIssueOption": "Unwatch",
+        "watchIssueOption": "Watch"
+    },
+    "actions": {
+        "createButton": "Create",
+        "cancelButton": "Cancel",
+        "submit": "Submit",
+        "fileUploadButton": " Browse.",
+        "fileUploadButtonPreText": "Drop files to attach, or",
+        "logout": "Logout",
+        "login": "Login",
+        "forget": "Forget",
+        "edit": "Edit",
+        "editInline": "edit",
+        "continue": "Continue"
+    },
+    "feedBackButton": {
+        "subject": "Feedback Outlook Email for Jira",
+        "htmlBody": "Hey guys, <br /><br/> I like the app, but there is at least one thing you have to improve:<br/>",
+        "button": "Send us feedback"
+    },
+    "fieldErrorBoundary": {
+        "errorMessage": "Sorry, we couldn't render this field correctly and it will not be send to Jira.",
+        "reportInstruction": "Please report what type of field it is"
+    },
+    "instanceSettings": {
+        "loginMessage": "You are logged in as:",
+        "loginExpired": "Login expired",
+        "logoutLogin": "Logout & Login",
+        "notLoggedInMessage": "You are currently not logged in.",
+        "instancePickerPlaceholder": "Select an instance",
+        "loginErrorDescription": "There has been an error during the login:",
+        "loginErrorTitle": "Error with Jira Login",
+        "yasoonConnectionErrorDescription": "We couldn't connect to our backend server at *.yasoon.com. This might be caused by a restrictive firewall. You can just continue to use the addin but some features may not work as expected. If you want to have the full functionality, please make sure to add (or ask your IT to add) yasoon.com to the whitelist",
+        "yasoonConnectionErrorTitle": "Cannot connect to yasoon.com",
+        "jiraConnectionErrorDescription1": "We couldn't connect to the Jira instance. At first, please make sure you have typed in the URL correctly.",
+        "jiraConnectionErrorDescription2": "If the URL is correct, the Jira system may not meet the",
+        "jiraConnectionErrorDescription3": "technical requirements",
+        "jiraConnectionErrorDescription4": ".",
+        "jiraConnectionErrorDescription5": "If you have a self hosted Jira instance, it needs to have our",
+        "jiraConnectionErrorDescription6": "Jira Server Addon",
+        "jiraConnectionErrorDescription7": "installed (and it needs to run on https)",
+        "jiraConnectionErrorDescription8": "If you think this is an error, please",
+        "jiraConnectionErrorDescription9": "contact our support",
+        "jiraConnectionErrorTitle": "Cannot connect to Jira",
+        "alreadyConnectedDescription": "You are already connected to this system.",
+        "alreadyConnectedTitle": "Already connected",
+        "cannotReadJiraUserError": "Cannot read own Jira user - try again.",
+        "cannotAssignUserError": "Cannot assign user - try again"
+    },
+    "basicLogin": {
+        "headline": "Connect to Jira",
+        "subHeadline": "Please provide your login credentials.",
+        "jiraUrl": "Jira Url",
+        "usernameOrMail": "Username or Email address",
+        "apiToken": "API Token",
+        "password": "Password",
+        "createApiToken": "Create a new API Token",
+        "back": "Back",
+        "invalidCredentialsTitle": "Invalid credentials",
+        "invalidCredentialsDescription1": "Please check your credentials and try again.",
+        "invalidCredentialsDescription2": "Help on API Tokens",
+        "errorDuringLoginTitle": "Error during Login",
+        "errorDuringLoginDescription1": "An error occured during login.",
+        "errorDuringLoginDescription2": ". Please contact your Jira Admin and make sure Basic Auth is enabled."
+    },
+    "editorScreen": {
+        "headline": "Edit Description",
+        "saveChanges": "Save Changes"
+    },
+    "initialLoadingScreen": {
+        "loading": "Loading..."
+    },
+    "welcomeScreen": {
+        "headline": "Jira meets Outlook",
+        "createJiraIssues": "Create new Jira issues from emails & quickly take over text and attachments!",
+        "viewJiraIssues": "View Jira issues that are related to the current email conversation!",
+        "supportedEnvironments": "Works everywhere  – Windows, Mac, iOS, Android & Web!",
+        "startNow": "Start now!",
+        "pricingInfo": "Pricing Info",
+        "aboutUs": "About Us"
+    },
+    "instanceList": {
+        "addAnotherSystem": "Add another System"
+    },
+    "issueCard": {
+        "assignedToMe": "This issue is assigned to you!",
+        "youAreWatching": "You are watching this issue"
+    },
+    "securityIndicator": {
+        "headline": "Security Check",
+        "connectedViaTLS": "Connected via TLS",
+        "connectedViaHttp": "Connected via plaintext HTTP",
+        "authWithToken": "Authentication via OAuth Token",
+        "authWithBasicAuth": "Authentication via Basic Auth",
+        "connectedWithYasoon": "Connected with Yasoon Cloud Connect",
+        "recomendedConnection1": "We recommend connecting to Jira via",
+        "recomendedConnectionLink1": "TLS",
+        "recomendedConnection2": "and delegated authentication. Please use our",
+        "recomendedConnectionLink2": "Marketplace app",
+        "recomendedConnection3": "to configure a secure connection.",
+        "allSecureMessage": "You are all set, everything is secure!"
+    },
+    "breadCrumbs": {
+        "back": "Back",
+        "relatedIssues": "Related Issues"
+    },
+    "trial": {
+        "errorHeadline": "Join us!",
+        "trialExpiredMessage": "Your trial has expired. You liked the hassle-free way of working with Jira?",
+        "getLicense": "Get a license",
+        "status": "Trial Status",
+        "runsOut": "Your trial runs out {{date}}",
+        "getALicense": "Get a license"
+    },
+    "jirafields": {
+        "participants": "Participants",
+        "reporter": "On Behalf of",
+        "instance": "Jira Instance",
+        "project": "Project",
+        "issueType": "Issue Type",
+        "issue": "Issue",
+        "requesttype": "Request Type",
+        "comment": "Comment",
+        "attachment": "Attachments"
+    },
+    "groupField": {
+        "placeholder": "Search a group"
+    },
+    "labelField": {
+        "placeholder": "Add a label"
+    },
+    "projectField": {
+        "recentProjects": "Recent Projects",
+        "allProjects": "All projects"
+    },
+    "versionSelectField": {
+        "unreleasedVersion": "Unreleased Versions",
+        "releasedVersion": "Released Versions"
+    },
+    "tempo": {
+        "accountPlaceholder": "Select an Account",
+        "teamPlaceholder": "Select a Team",
+        "groupProjectAccounts": "Project Accounts",
+        "groupGlobalAccounts": "Global Accounts"
+    },
+    "radioField": {
+        "noneOption": "None"
+    },
+    "statusField": {
+        "transitionTo": "transition issue to:"
+    },
+    "userField": {
+        "assignToMe": "Assign to me",
+        "defaultUserName": "Automatic",
+        "unassignedUserName": "Unassigned",
+        "relatedUsers": "Related Users",
+        "recentUsers": "Recent Users",
+        "searchResultFor": "Search result for"
+    },
+    "creatableSelect": {
+        "newSuffix": "(new)"
+    },
+    "errorMessages": {
+        "noConnectToJiraTitle": "Could not connect to Jira",
+        "noConnectToJiraDescription": "It looks like your login has expired. Please login again in the Settings menu.",
+        "noSDSupportTitle": "Servicedesk not supported",
+        "noSDSupportDescription": "You need at least Jira Servicedesk 3.3.0. You have",
+        "uploadFilesError": "Couldn't upload files!",
+        "errorOnLoginTitle": "Error on Login",
+        "errorOnLoginDescription": "Sorry - we cannot read your own Jira user. Most likely this is an temporary error and you can try it again.",
+        "openEmailFormTitle": "Could not open Email form",
+        "openEmailFormDescription": "We could not open the email message form.",
+        "internalErrorTitle": "Internal error",
+        "internalErrorDescription": "Sorry - we could not parse your input. This is most likely a bug on our side and it would be great if you report it. No issue has been created",
+        "createIssueTitle": "Issue could not be created",
+        "unknownError": "Unknown error",
+        "incompleteIssueTitle": "Issue {{issueKey}} has been created",
+        "incompleteIssueDescription": "The issue was created but it might be incomplete. Please close this window and check the issue manually",
+        "selectIssueTitle": "Select Issue",
+        "selectIssueDescription": "Please select an issue you want to comment. You can either search by key and title or filter by project",
+        "noContentTitle": "No Content",
+        "noContentDescription": "Please enter a comment or select at least one attachment for upload.",
+        "updateJiraIssueTitle": "Updating Jira failed",
+        "updateJiraIssueDescription": "Sorry - we couldn't add the comment to the issue due to",
+        "uploadAttachments": "We couldn't upload one or more attachments.",
+        "headsUpTitle": "Heads up!",
+        "headsUpDescription": "There is already the issue {{issueKey}} related to this mail conversation."
+    },
+    "issueField": {
+        "relatedIssues": "Related Issues",
+        "recentIssues": "Recent Issues",
+        "allIssues": "All Issues",
+        "searchResultFor": "Search result for"
+    },
+    "epicField": {
+        "suggestions": "Suggestions",
+        "allEpics": "All epics"
+    },
+    "officeMessages": {
+        "reminderLinkToIssue": "Link to issue:",
+        "due": "[Due]",
+        "sendEmailSubject": "Regarding Jira issue",
+        "issueCreated": "Issue {{issueKey}} has been created successfully",
+        "issueUpdated": "Issue {{issueKey}} has been updated successfully"
+    },
+    "ribbon": {
+        "newIssue": "New Issue",
+        "addToIssue": "Add to Issue",
+        "viewIssues": "View Issues",
+        "backstageTitle": "Outlook Email for Jira",
+        "proxySettings": "Proxy Settings",
+        "proxyRadioLabel": "Changes require an Outlook restart.",
+        "proxyAutoDetect": "Auto-Detect Proxy",
+        "proxyNone": "Don't use a proxy",
+        "proxyCustom": "Custom proxy",
+        "proxyConfigure": "Configure",
+        "connectionSettings": "Connection Settings",
+        "ssoSelectedCertificate": "Selected Certificate: {{certificateName}}",
+        "ssoChooseCert": "Choose client certificate",
+        "disableCertCheck": "Disable SSL certificate check (not recommended)",
+        "bypassAuthentication": "Assume SSO (bypass authentication)",
+        "troubleshooting": "Troubleshooting",
+        "verboseLogging": "Verbose logging",
+        "networkTrace": "Network logging",
+        "utils": "Tools",
+        "checkUpdates": "Check for updates",
+        "about": "About",
+        "aboutHeadline": "Outlook Email for Jira v{{addinVersion}}",
+        "appVersion": "Release Notes",
+        "systemInfo": "System info: {{systemVersion}}",
+        "documentation": "Documentation",
+        "supportRequest": "Request Support"
+    }
+}
