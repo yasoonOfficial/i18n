@@ -322,6 +322,7 @@
         "appVersion": "Versionshinweise",
         "systemInfo": "Systeminformation: {{systemVersion}}",
         "documentation": "Dokumentation",
-        "supportRequest": "Supportanfrage"
+        "supportRequest": "Supportanfrage",
+        "openLogFolder": "Log-Dateien anzeigen"
     }
 }
