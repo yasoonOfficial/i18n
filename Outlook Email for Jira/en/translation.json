@@ -324,7 +324,7 @@
         "systemInfo": "System info: {{systemVersion}}",
         "documentation": "Documentation",
         "supportRequest": "Request Support",
-        "openLogFolder": "Show log files"
+        "openLogFolder": "Show log files",
         "newIssueSupertip":"Create a new issue based on this email",
         "groupJiraMsgRead":"Jira",
         "newIssueDescription":"Create a new issue based on this email",
