@@ -299,6 +299,7 @@
     "ribbon": {
         "newIssue": "Neuer Vorgang",
         "addToIssue": "Zu Vorgang hinzufügen",
+        "relatedIssues":"Verwandte Vorgänge",
         "viewIssues": "Vorgänge anzeigen",
         "backstageTitle": "Outlook Email for Jira",
         "proxySettings": "Proxy Einstellungen",
@@ -324,5 +325,15 @@
         "documentation": "Dokumentation",
         "supportRequest": "Supportanfrage",
         "openLogFolder": "Log-Dateien anzeigen"
+        "newIssueSupertip":"Erzeuge aus dieser Email einen neuen Vorgang",
+        "groupJiraMsgRead":"Jira",
+        "newIssueDescription":"Erzeuge aus dieser Email einen neuen Vorgang",
+        "addToIssueSupertip":"Füge diese Email einem Vorgang hinzu",
+        "addToIssueDescription":"Füge diese Email einem Vorgang hinzu",
+        "relatedIssuesSupertip":"Zeige verwandte Vorgänge zu dieser Email an",
+        "relatedIssuesDescription":"Zeige verwandte Vorgänge zu dieser Email an",
+        "showFeed":"Zeige Feed",
+        "views":"Views",
+        "moduleFeed":"Jira"
     }
 }
