@@ -49,6 +49,7 @@
         "remoteDebug": "Bildschirm aufnehmen (für externes debugging)",
         "createAddIssueHeading": "Vorgangs Popup Einstellungen",
         "addAttachmentsByDefault": "Immer Anhänge anfügen",
+        "addEmailAsFile": "Immer Email als Datei anhängen",
         "preselectProjectIssueType": "Zuletzt verwendetes Projekt und Vorgangstyp vorselektieren",
         "showServiceDeksPortalFields": "Zeige Portalfelder im Service Desk",
         "addMailInformation": "Füge Email Informationen zur Beschreibung hinzu",

@@ -49,6 +49,7 @@
         "remoteDebug": "Record screen (for remote debug purposes)",
         "createAddIssueHeading": "Issue Dialog Settings",
         "addAttachmentsByDefault": "Add attachments by default",
+        "addEmailAsFile": "Add Email as file by default",
         "preselectProjectIssueType": "Preselect last used project and issuetype",
         "showServiceDeksPortalFields": "Show Portal fields in Service Desk",
         "addMailInformation": "Add Mail Information to description",
