@@ -75,11 +75,7 @@
         "provideMailAddressMessage": "Bitte gib die Emailadresse für den Zugang zu Jira ein.",
         "whereDoIFindThis": "Wo finde ich diese?",
         "loginReminder": "Anmeldedaten für alle Geräte verwenden",
-        "aggreementMessage1": "Wenn Sie auf weiter klicken, stimmen Sie unseren",
-        "termsOfService": "Allgemeinen Geschäftsbedingungen",
-        "aggreementMessage2": "und",
-        "privacyPolicy": "Datenschutzrichtlinien",
-        "aggreementMessage3":"zu."
+        "aggreementMessage": "Wenn Sie auf weiter klicken, stimmen Sie unseren <a href={{link1}} target=\"_blank\">Allgemeinen Geschäftsbedingungen</a> und <a href={{link2}} target=\"_blank\">Datenschutzrichtlinien</a> zu."
     },
     "attachmentField": {
         "noAttachmentMessage": "Diese Email hat keine Anhänge",
@@ -126,15 +122,10 @@
         "loginWithJiraHosting": "Anmelden bei Jira {{hosting}}",
         "yasoonConnectionErrorDescription": "Wir konnten useren Backendserver *.yasoon.com nicht erreichen. Dies könnte an einer restriktiven Firewall liegen. Du kannst das Addin weiterhin verwenden, aber manche Features funktionieren möglicherweise nicht wie erwartet. Wenn du den vollen Funktionsumfgang nutzen möchtest, stelle sicher (oder lasse von der IT sicherstellen), dass yasoon.com nicht geblockt wird",
         "yasoonConnectionErrorTitle": "Keine Verbindung zu yasoon.com möglich",
-        "jiraConnectionErrorDescription1": "Wir konnten uns leider nicht zur Jirainstanz verbinden. Stelle sicher, dass die URL korrekt eingegeben wurde.",
-        "jiraConnectionErrorDescription2": "Wenn die URL stimmt, erfüllt das Jirasystem eventuell nicht die",
-        "jiraConnectionErrorDescription3": "technischen Voraussetzungen",
-        "jiraConnectionErrorDescription4": ".",
-        "jiraConnectionErrorDescription5": "Wenn die Jira Instanz von Ihnen gehosted wird, muss unser",
-        "jiraConnectionErrorDescription6": "Jira Server Addon",
-        "jiraConnectionErrorDescription7": "installiert sein und unter https erreichbar sein.",
-        "jiraConnectionErrorDescription8": "Wenn Sie der Meinung sind, dass es sich um einen Fehler handelt, bitte wenden Sie sich an unseren",
-        "jiraConnectionErrorDescription9": "Support",
+        "jiraConnectionErrorDescription": "Wir konnten uns leider nicht zur Jirainstanz verbinden. Stelle sicher, dass die URL korrekt eingegeben wurde.",
+        "jiraConnectionErrorRequirements": "Wenn die URL stimmt, erfüllt das Jirasystem eventuell nicht die <a href={{link}} target=\"_blank\">technischen Voraussetzungen</a>.",
+        "jiraConnectionErrorMissingServerAddon": "Wenn die Jira Instanz von Ihnen gehosted wird, muss unser <a href={{link}} target=\"_blank\">Jira Server Addon</a> installiert sein und unter https erreichbar sein.",
+        "jiraConnectionErrorContactSupport": "Wenn Sie der Meinung sind, dass es sich um einen Fehler handelt, bitte wenden Sie sich an unseren <a href={{link}} target=\"_blank\">Support</a>.",
         "jiraConnectionErrorTitle": "Keine Verbindung zu Jira",
         "alreadyConnectedDescription": "Sie sind bereits mit diesem System verbunden.",
         "alreadyConnectedTitle": "Bereits verbunden",
@@ -151,11 +142,10 @@
         "createApiToken": "Erstelle einen neuen API Token",
         "back": "Zurück",
         "invalidCredentialsTitle": "Ungültige Zugangsdaten",
-        "invalidCredentialsDescription1": "Bitte prüfe deine Zugangsdaten und versuche es erneut.",
-        "invalidCredentialsDescription2": "Hilfe zu API Tokens",
+        "invalidCredentialsDescriptionCloud": "Bitte prüfe deine Zugangsdaten und versuche es erneut.",
+        "invalidCredentialsDescriptionServer": "Bitte prüfe deine Zugangsdaten und versuche es erneut. <br /> <a target=\"_blank\" href={{link}}>Hilfe zu API Tokens</a>",
         "errorDuringLoginTitle": "Fehler beim Anmelden",
-        "errorDuringLoginDescription1": "Es kam zu einem Fehler bei der Anmeldung.",
-        "errorDuringLoginDescription2": ". Bitte wende dich an deinen Jira Admin und stelle sicher, dass Basic Auth aktiviert ist."
+        "errorDuringLoginDescription": "Es kam zu einem Fehler bei der Anmeldung. {{message}}. Bitte wende dich an deinen Jira Admin und stelle sicher, dass Basic Auth aktiviert ist."
     },
     "editorScreen": {
         "headline": "Beschreibung bearbeiten",
@@ -166,10 +156,10 @@
     },
     "welcomeScreen": {
         "headline": "Jira trifft Outlook",
-        "createJiraIssues": "Erstelle Jira Vorgänge aus Emails heraus & übernehme Texte sowie Anhänge!",
-        "viewJiraIssues": "Finde Jira Vorgänge die zur aktuellen Email-Konversation gehören!",
-        "supportedEnvironments": "Funktioniert überall – Windows, Mac, iOS, Android & Web!",
-        "startNow": "Beginne jetzt!",
+        "createJiraIssues": "Erstelle Jira-Vorgänge einfach aus E-Mails heraus. Übernehme Texte und Anhänge.",
+        "viewJiraIssues": "Finde Jira-Vorgänge passend zur aktuellen E-Mail und bearbeite sie in Outlook.",
+        "supportedEnvironments": "Funktioniert überall – Windows, Mac, iOS, Android & Web.",
+        "startNow": "Jetzt starten!",
         "pricingInfo": "Preisinformationen",
         "aboutUs": "Über uns"
     },
@@ -187,11 +177,7 @@
         "authWithToken": "Authentifikation über OAuth Token",
         "authWithBasicAuth": "Authentifikation über Basic Auth",
         "connectedWithYasoon": "Verbunden mit Yasoon Cloud Connect",
-        "recomendedConnection1": "Wir schlagen die Verbindung zu Jira über",
-        "recomendedConnectionLink1": "TLS",
-        "recomendedConnection2": "vor und delegieren die Authentifikation. Bitte verwende unsere",
-        "recomendedConnectionLink2": "Marktplatz app",
-        "recomendedConnection3": "um eine sichere Verbindung zu konfigurieren.",
+        "recommendedConnection": "Wir schlagen die Verbindung zu Jira über <a href={{link1}} target=\"_blank\">TLS</a> vor und delegieren die Authentifikation. Bitte verwende unsere <a href={{link2}} target=\"_blank\">Marktplatz app</a> um eine sichere Verbindung zu konfigurieren.",
         "allSecureMessage": "Du bist startklar, alles ist sicher!"
     },
     "breadCrumbs": {

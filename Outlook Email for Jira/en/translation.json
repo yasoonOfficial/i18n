@@ -76,11 +76,7 @@
         "provideMailAddressMessage": "Please provide the address you use to access Jira.",
         "whereDoIFindThis": "Where do I find this?",
         "loginReminder": "Remember Login on every device",
-        "aggreementMessage1": "With continue, you agree to our",
-        "termsOfService": "Terms of Service",
-        "aggreementMessage2": "and",
-        "privacyPolicy": "Privacy Policy",
-        "aggreementMessage3":"."
+        "aggreementMessage": "With continue, you agree to our <a href={{link1}} target=\"_blank\">Terms of Service</a> and <a href={{link2}} target=\"_blank\">Privacy Policy</a>."
     },
     "attachmentField": {
         "noAttachmentMessage": "This mail has no attachments",
@@ -126,15 +122,10 @@
         "loginErrorTitle": "Error with Jira Login",
         "yasoonConnectionErrorDescription": "We couldn't connect to our backend server at *.yasoon.com. This might be caused by a restrictive firewall. You can just continue to use the addin but some features may not work as expected. If you want to have the full functionality, please make sure to add (or ask your IT to add) yasoon.com to the whitelist",
         "yasoonConnectionErrorTitle": "Cannot connect to yasoon.com",
-        "jiraConnectionErrorDescription1": "We couldn't connect to the Jira instance. At first, please make sure you have typed in the URL correctly.",
-        "jiraConnectionErrorDescription2": "If the URL is correct, the Jira system may not meet the",
-        "jiraConnectionErrorDescription3": "technical requirements",
-        "jiraConnectionErrorDescription4": ".",
-        "jiraConnectionErrorDescription5": "If you have a self hosted Jira instance, it needs to have our",
-        "jiraConnectionErrorDescription6": "Jira Server Addon",
-        "jiraConnectionErrorDescription7": "installed (and it needs to run on https)",
-        "jiraConnectionErrorDescription8": "If you think this is an error, please",
-        "jiraConnectionErrorDescription9": "contact our support",
+        "jiraConnectionErrorDescription": "We couldn't connect to the Jira instance. At first, please make sure you have typed in the URL correctly.",
+        "jiraConnectionErrorRequirements": "If the URL is correct, the Jira system may not meet the <a href={{link}} target=\"_blank\">technical requirements</a>.",
+        "jiraConnectionErrorMissingServerAddon": "If you have a self hosted Jira instance, it needs to have our <a href={{link}} target=\"_blank\">Jira Server Addon</a> installed (and it needs to run on https).",
+        "jiraConnectionErrorContactSupport": "If you think this is an error, please <a href={{link}} target=\"_blank\">contact our support</a>.",
         "jiraConnectionErrorTitle": "Cannot connect to Jira",
         "alreadyConnectedDescription": "You are already connected to this system.",
         "alreadyConnectedTitle": "Already connected",
@@ -151,11 +142,10 @@
         "createApiToken": "Create a new API Token",
         "back": "Back",
         "invalidCredentialsTitle": "Invalid credentials",
-        "invalidCredentialsDescription1": "Please check your credentials and try again.",
-        "invalidCredentialsDescription2": "Help on API Tokens",
+        "invalidCredentialsDescriptionCloud": "Please check your credentials and try again.",
+        "invalidCredentialsDescriptionServer": "Please check your credentials and try again. <br /> <a target=\"_blank\" href={{link}}>Help on API Tokens</a>",
         "errorDuringLoginTitle": "Error during Login",
-        "errorDuringLoginDescription1": "An error occured during login.",
-        "errorDuringLoginDescription2": ". Please contact your Jira Admin and make sure Basic Auth is enabled."
+        "errorDuringLoginDescription": "An error occured during login. {{message}}. Please contact your Jira Admin and make sure Basic Auth is enabled."
     },
     "editorScreen": {
         "headline": "Edit Description",
@@ -166,9 +156,9 @@
     },
     "welcomeScreen": {
         "headline": "Jira meets Outlook",
-        "createJiraIssues": "Create new Jira issues from emails & quickly take over text and attachments!",
-        "viewJiraIssues": "View Jira issues that are related to the current email conversation!",
-        "supportedEnvironments": "Works everywhere  – Windows, Mac, iOS, Android & Web!",
+        "createJiraIssues": "Create new Jira issues from emails & quickly take over text and attachments.",
+        "viewJiraIssues": "View Jira issues that are related to the current email conversation.",
+        "supportedEnvironments": "Works everywhere  – Windows, Mac, iOS, Android & Web.",
         "startNow": "Start now!",
         "pricingInfo": "Pricing Info",
         "aboutUs": "About Us"
@@ -187,11 +177,7 @@
         "authWithToken": "Authentication via OAuth Token",
         "authWithBasicAuth": "Authentication via Basic Auth",
         "connectedWithYasoon": "Connected with Yasoon Cloud Connect",
-        "recomendedConnection1": "We recommend connecting to Jira via",
-        "recomendedConnectionLink1": "TLS",
-        "recomendedConnection2": "and delegated authentication. Please use our",
-        "recomendedConnectionLink2": "Marketplace app",
-        "recomendedConnection3": "to configure a secure connection.",
+        "recommendedConnection": "We recommend connecting to Jira via <a href={{link1}} target=\"_blank\">TLS</a> and delegated authentication. Please use our <a href={{link2}} target=\"_blank\">Marketplace app</a> to configure a secure connection.",
         "allSecureMessage": "You are all set, everything is secure!"
     },
     "breadCrumbs": {
