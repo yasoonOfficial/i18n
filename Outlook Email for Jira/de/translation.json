@@ -264,7 +264,8 @@
         "updateJiraIssueDescription": "Sorry - wir konnten den Kommentar nicht zum Vorgang hinzufügen, da",
         "uploadAttachments": "Ein oder mehrere Anhänge konnten nicht hochgeladen werden.",
         "headsUpTitle": "Achtung!",
-        "headsUpDescription": "Dieser Konversation wurde bereis der Vorgang {{issueKey}} zugewiesen."
+        "headsUpDescription": "Dieser Konversation wurde bereis der Vorgang {{issueKey}} zugewiesen.",
+        "fetchingJiraIssueFailedFallback":"Fehler beim laden von Vorganginformationen"
     },
     "issueField": {
         "relatedIssues": "Verwandte Vorgänge",

@@ -264,7 +264,8 @@
         "updateJiraIssueDescription": "Sorry - we couldn't add the comment to the issue due to",
         "uploadAttachments": "We couldn't upload one or more attachments.",
         "headsUpTitle": "Heads up!",
-        "headsUpDescription": "There is already the issue {{issueKey}} related to this mail conversation."
+        "headsUpDescription": "There is already the issue {{issueKey}} related to this mail conversation.",
+        "fetchingJiraIssueFailedFallback":"Error while fetching issue data"
     },
     "issueField": {
         "relatedIssues": "Related Issues",
