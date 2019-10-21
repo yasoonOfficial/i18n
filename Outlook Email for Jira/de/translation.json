@@ -27,7 +27,6 @@
         "commentsTabHeading": "Kommentare",
         "filesTabHeading": "Dateien"
     },
-    
     "officeActions": {
         "createReminderOption": "Erinnerung erstellen",
         "shareEmailOption": "Per Email antworten",
@@ -130,7 +129,9 @@
         "alreadyConnectedDescription": "Sie sind bereits mit diesem System verbunden.",
         "alreadyConnectedTitle": "Bereits verbunden",
         "cannotReadJiraUserError": "Konnten den Jirabenutzer nicht finden - versuche es erneut.",
-        "cannotAssignUserError": "Konnte Benutzer nicht zuweisen - versuche es erneut"
+        "cannotAssignUserError": "Konnte Benutzer nicht zuweisen - versuche es erneut",
+        "noSupportTitle": "Version nicht unterstützt",
+        "noSupportDescription": "Diese Version von Outlook Email for Jira benötigt ein Update der Jira App. Bitte update die App aus dem Atlassian Marketplace."
     },
     "basicLogin": {
         "headline": "Verbinde zu Jira",
@@ -265,7 +266,7 @@
         "uploadAttachments": "Ein oder mehrere Anhänge konnten nicht hochgeladen werden.",
         "headsUpTitle": "Achtung!",
         "headsUpDescription": "Dieser Konversation wurde bereis der Vorgang {{issueKey}} zugewiesen.",
-        "fetchingJiraIssueFailedFallback":"Fehler beim laden von Vorganginformationen"
+        "fetchingJiraIssueFailedFallback": "Fehler beim laden von Vorganginformationen"
     },
     "issueField": {
         "relatedIssues": "Verwandte Vorgänge",
@@ -287,7 +288,7 @@
     "ribbon": {
         "newIssue": "Neuer Vorgang",
         "addToIssue": "Zu Vorgang hinzufügen",
-        "relatedIssues":"Verwandte Vorgänge",
+        "relatedIssues": "Verwandte Vorgänge",
         "viewIssues": "Vorgänge anzeigen",
         "backstageTitle": "Outlook Email for Jira",
         "proxySettings": "Proxy Einstellungen",
@@ -313,15 +314,15 @@
         "documentation": "Dokumentation",
         "supportRequest": "Supportanfrage",
         "openLogFolder": "Log-Dateien anzeigen",
-        "newIssueSupertip":"Erzeuge aus dieser Email einen neuen Vorgang",
-        "groupJiraMsgRead":"Jira",
-        "newIssueDescription":"Erzeuge aus dieser Email einen neuen Vorgang",
-        "addToIssueSupertip":"Füge diese Email einem Vorgang hinzu",
-        "addToIssueDescription":"Füge diese Email einem Vorgang hinzu",
-        "relatedIssuesSupertip":"Zeige verwandte Vorgänge zu dieser Email an",
-        "relatedIssuesDescription":"Zeige verwandte Vorgänge zu dieser Email an",
-        "showFeed":"Zeige Feed",
-        "views":"Views",
-        "moduleFeed":"Jira"
+        "newIssueSupertip": "Erzeuge aus dieser Email einen neuen Vorgang",
+        "groupJiraMsgRead": "Jira",
+        "newIssueDescription": "Erzeuge aus dieser Email einen neuen Vorgang",
+        "addToIssueSupertip": "Füge diese Email einem Vorgang hinzu",
+        "addToIssueDescription": "Füge diese Email einem Vorgang hinzu",
+        "relatedIssuesSupertip": "Zeige verwandte Vorgänge zu dieser Email an",
+        "relatedIssuesDescription": "Zeige verwandte Vorgänge zu dieser Email an",
+        "showFeed": "Zeige Feed",
+        "views": "Views",
+        "moduleFeed": "Jira"
     }
 }

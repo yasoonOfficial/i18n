@@ -27,7 +27,6 @@
         "commentsTabHeading": "Comments",
         "filesTabHeading": "Files"
     },
-    
     "officeActions": {
         "createReminderOption": "Create reminder",
         "shareEmailOption": "Share by email",
@@ -130,7 +129,9 @@
         "alreadyConnectedDescription": "You are already connected to this system.",
         "alreadyConnectedTitle": "Already connected",
         "cannotReadJiraUserError": "Cannot read own Jira user - try again.",
-        "cannotAssignUserError": "Cannot assign user - try again"
+        "cannotAssignUserError": "Cannot assign user - try again",
+        "noSupportTitle": "Version not supported",
+        "noSupportDescription": "This version of Outlook Email for Jira needs an update of the Jira app. Please update the app from the Atlassian Marketplace first."
     },
     "basicLogin": {
         "headline": "Connect to Jira",
@@ -265,7 +266,7 @@
         "uploadAttachments": "We couldn't upload one or more attachments.",
         "headsUpTitle": "Heads up!",
         "headsUpDescription": "There is already the issue {{issueKey}} related to this mail conversation.",
-        "fetchingJiraIssueFailedFallback":"Error while fetching issue data"
+        "fetchingJiraIssueFailedFallback": "Error while fetching issue data"
     },
     "issueField": {
         "relatedIssues": "Related Issues",
@@ -287,7 +288,7 @@
     "ribbon": {
         "newIssue": "New Issue",
         "addToIssue": "Add to Issue",
-        "relatedIssues":"Related Issues",
+        "relatedIssues": "Related Issues",
         "viewIssues": "View Issues",
         "backstageTitle": "Outlook Email for Jira",
         "proxySettings": "Proxy Settings",
@@ -313,15 +314,15 @@
         "documentation": "Documentation",
         "supportRequest": "Request Support",
         "openLogFolder": "Show log files",
-        "newIssueSupertip":"Create a new issue based on this email",
-        "groupJiraMsgRead":"Jira",
-        "newIssueDescription":"Create a new issue based on this email",
-        "addToIssueSupertip":"Add this email to an existing issue",
-        "addToIssueDescription":"Add this email to an existing issue",
-        "relatedIssuesSupertip":"Show related Issues to this email",
-        "relatedIssuesDescription":"Show related Issues to this email",
-        "showFeed":"Show Feed",
-        "views":"Views",
-        "moduleFeed":"Jira"
+        "newIssueSupertip": "Create a new issue based on this email",
+        "groupJiraMsgRead": "Jira",
+        "newIssueDescription": "Create a new issue based on this email",
+        "addToIssueSupertip": "Add this email to an existing issue",
+        "addToIssueDescription": "Add this email to an existing issue",
+        "relatedIssuesSupertip": "Show related Issues to this email",
+        "relatedIssuesDescription": "Show related Issues to this email",
+        "showFeed": "Show Feed",
+        "views": "Views",
+        "moduleFeed": "Jira"
     }
 }
