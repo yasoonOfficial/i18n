@@ -75,7 +75,7 @@
         "provideMailAddressMessage": "Please provide the address you use to access Jira.",
         "whereDoIFindThis": "Where do I find this?",
         "loginReminder": "Remember Login on every device",
-        "aggreementMessage": "With continue, you agree to our <a href={{link1}} target=\"_blank\">Terms of Service</a> and <a href={{link2}} target=\"_blank\">Privacy Policy</a>."
+        "aggreementMessage": "With continue, you agree to our {link1} and {link2}."
     },
     "attachmentField": {
         "noAttachmentMessage": "This mail has no attachments",
@@ -122,9 +122,9 @@
         "yasoonConnectionErrorDescription": "We couldn't connect to our backend server at *.yasoon.com. This might be caused by a restrictive firewall. You can just continue to use the addin but some features may not work as expected. If you want to have the full functionality, please make sure to add (or ask your IT to add) yasoon.com to the whitelist",
         "yasoonConnectionErrorTitle": "Cannot connect to yasoon.com",
         "jiraConnectionErrorDescription": "We couldn't connect to the Jira instance. At first, please make sure you have typed in the URL correctly.",
-        "jiraConnectionErrorRequirements": "If the URL is correct, the Jira system may not meet the <a href={{link}} target=\"_blank\">technical requirements</a>.",
-        "jiraConnectionErrorMissingServerAddon": "If you have a self hosted Jira instance, it needs to have our <a href={{link}} target=\"_blank\">Jira Server Addon</a> installed (and it needs to run on https).",
-        "jiraConnectionErrorContactSupport": "If you think this is an error, please <a href={{link}} target=\"_blank\">contact our support</a>.",
+        "jiraConnectionErrorRequirements": "If the URL is correct, the Jira system may not meet the {link}.",
+        "jiraConnectionErrorMissingServerAddon": "If you have a self hosted Jira instance, it needs to have our {link} installed (and it needs to run on https).",
+        "jiraConnectionErrorContactSupport": "If you think this is an error, please {link}.",
         "jiraConnectionErrorTitle": "Cannot connect to Jira",
         "alreadyConnectedDescription": "You are already connected to this system.",
         "alreadyConnectedTitle": "Already connected",
@@ -144,7 +144,7 @@
         "back": "Back",
         "invalidCredentialsTitle": "Invalid credentials",
         "invalidCredentialsDescriptionCloud": "Please check your credentials and try again.",
-        "invalidCredentialsDescriptionServer": "Please check your credentials and try again. <br /> <a target=\"_blank\" href={{link}}>Help on API Tokens</a>",
+        "invalidCredentialsDescriptionServer": "Please check your credentials and try again. <br /> {link}",
         "errorDuringLoginTitle": "Error during Login",
         "errorDuringLoginDescription": "An error occured during login. {{message}}. Please contact your Jira Admin and make sure Basic Auth is enabled."
     },
@@ -178,7 +178,7 @@
         "authWithToken": "Authentication via OAuth Token",
         "authWithBasicAuth": "Authentication via Basic Auth",
         "connectedWithYasoon": "Connected with Yasoon Cloud Connect",
-        "recommendedConnection": "We recommend connecting to Jira via <a href={{link1}} target=\"_blank\">TLS</a> and delegated authentication. Please use our <a href={{link2}} target=\"_blank\">Marketplace app</a> to configure a secure connection.",
+        "recommendedConnection": "We recommend connecting to Jira via {link1} and delegated authentication. Please use our {link2} to configure a secure connection.",
         "allSecureMessage": "You are all set, everything is secure!"
     },
     "breadCrumbs": {
@@ -324,5 +324,15 @@
         "showFeed": "Show Feed",
         "views": "Views",
         "moduleFeed": "Jira"
+    },
+    "link": {
+        "termsOfService":"Terms of Service",
+        "privacyPolicy":"Privacy Policy",
+        "technicalRequirements":"technical requirements",
+        "jiraServerAddon":"Jira Server Addon",
+        "contactOurSupport":"contact our support",
+        "helpOnAPITokens":"Help on API Tokens",
+        "TLS":"TLS",
+        "marketplaceApp":"Marketplace app"
     }
 }
