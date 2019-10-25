@@ -101,6 +101,9 @@
         "editInline": "editieren",
         "continue": "weiter"
     },
+    "timetracking": {
+        "fieldHelpTooltip": "Mehr über Zeiterfassung erfahren"
+    },
     "feedBackButton": {
         "subject": "Feedback zu Outlook Email for Jira",
         "htmlBody": "Hey <br/><br/>, ich mag die App, aber es gibt mindestens eine Sache, die ihr besser machen könnt: <br/>",
@@ -326,13 +329,13 @@
         "moduleFeed": "Jira"
     },
     "link": {
-        "termsOfService":"Allgemeinen Geschäftsbedingungen",
-        "privacyPolicy":"Datenschutzrichtlinien",
-        "technicalRequirements":"technischen Voraussetzungen",
-        "jiraServerAddon":"Jira Server Addon",
-        "contactOurSupport":"Support",
-        "helpOnAPITokens":"Hilfe zu API Tokens",
-        "TLS":"TLS",
-        "marketplaceApp":"Marketplace app"
+        "termsOfService": "Allgemeinen Geschäftsbedingungen",
+        "privacyPolicy": "Datenschutzrichtlinien",
+        "technicalRequirements": "technischen Voraussetzungen",
+        "jiraServerAddon": "Jira Server Addon",
+        "contactOurSupport": "Support",
+        "helpOnAPITokens": "Hilfe zu API Tokens",
+        "TLS": "TLS",
+        "marketplaceApp": "Marketplace app"
     }
 }
