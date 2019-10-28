@@ -205,7 +205,8 @@
         "issue": "Vorgang",
         "requesttype": "Anfragetyp",
         "comment": "Kommentar",
-        "attachment": "Anhänge"
+        "attachment": "Anhänge",
+		"genericPlaceholder": "Wähle {{fieldName}}"
     },
     "groupField": {
         "placeholder": "Suche eine Gruppe"
@@ -219,8 +220,12 @@
     },
     "versionSelectField": {
         "unreleasedVersion": "Nicht veröffentlicht",
-        "releasedVersion": "Veröffentlicht"
+        "releasedVersion": "Veröffentlicht",
+		"placeholder": "Wähle eine Version"
     },
+	"issueLinkField": {
+		"placeholder": "Wähle einen Link Typ"
+	},
     "tempo": {
         "accountPlaceholder": "Wähle einen Account",
         "teamPlaceholder": "Wähle ein Team",
