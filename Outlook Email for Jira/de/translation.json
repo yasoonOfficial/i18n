@@ -198,7 +198,7 @@
     },
     "jirafields": {
         "participants": "Teilnehmner",
-        "reporter": "Im Name von",
+        "reporter": "Im Namen von",
         "instance": "Jira Instanz",
         "project": "Projekt",
         "issueType": "Vorgangstyp",
@@ -216,8 +216,12 @@
     },
     "projectField": {
         "recentProjects": "Letzte Projekte",
-        "allProjects": "Alle Projekte"
+        "allProjects": "Alle Projekte",
+		"placeholder": "Wähle ein Projekt"
     },
+	"issuetypeField": {
+		"placeholder":"Wähle eine Vorgangsart"
+	},
     "versionSelectField": {
         "unreleasedVersion": "Nicht veröffentlicht",
         "releasedVersion": "Veröffentlicht",
@@ -280,7 +284,8 @@
         "relatedIssues": "Verwandte Vorgänge",
         "recentIssues": "Letzte Vorgänge",
         "allIssues": "Alle Vorgänge",
-        "searchResultFor": "Suchergebnis für"
+        "searchResultFor": "Suchergebnis für",
+		"placeholder": "Select an issue"
     },
     "epicField": {
         "suggestions": "Vorgeschlagen",

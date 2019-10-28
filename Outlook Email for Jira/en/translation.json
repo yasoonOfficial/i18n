@@ -216,8 +216,12 @@
     },
     "projectField": {
         "recentProjects": "Recent Projects",
-        "allProjects": "All projects"
+        "allProjects": "All projects",
+		"placeholder": "Select a project"
     },
+	"issuetypeField": {
+		"placeholder":"Select an issue type"
+	},
     "versionSelectField": {
         "unreleasedVersion": "Unreleased Versions",
         "releasedVersion": "Released Versions",
@@ -280,7 +284,8 @@
         "relatedIssues": "Related Issues",
         "recentIssues": "Recent Issues",
         "allIssues": "All Issues",
-        "searchResultFor": "Search result for"
+        "searchResultFor": "Search result for",
+		"placeholder": "Select an issue"
     },
     "epicField": {
         "suggestions": "Suggestions",
