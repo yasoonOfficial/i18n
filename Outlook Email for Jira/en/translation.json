@@ -53,7 +53,8 @@
         "showServiceDeksPortalFields": "Show Portal fields in Service Desk",
         "addMailInformation": "Add Mail Information to description",
         "includeAttachments": "Include Attachments",
-        "includeSubject": "Include Subject"
+        "includeSubject": "Include Subject",
+		"oldEditor": "Disable WYSIWYG Editor and use markup instead"
     },
     "createIssue": {
         "headline": "Create Issue",

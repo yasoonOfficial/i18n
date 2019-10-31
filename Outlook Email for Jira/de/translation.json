@@ -53,7 +53,8 @@
         "showServiceDeksPortalFields": "Zeige Portalfelder im Service Desk",
         "addMailInformation": "Füge Email Informationen zur Beschreibung hinzu",
         "includeAttachments": "Anhänge einbeziehen",
-        "includeSubject": "Beschreibung einbeziehen"
+        "includeSubject": "Beschreibung einbeziehen",
+		"oldEditor": "Den WYSIWYG Editor deaktivieren und stattdessen markup verwenden"
     },
     "createIssue": {
         "headline": "Vorgang erstellen",
