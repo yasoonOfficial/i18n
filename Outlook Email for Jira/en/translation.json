@@ -54,7 +54,7 @@
         "addMailInformation": "Add Mail Information to description",
         "includeAttachments": "Include Attachments",
         "includeSubject": "Include Subject",
-		"oldEditor": "Disable WYSIWYG Editor and use markup instead"
+        "oldEditor": "Disable WYSIWYG Editor and use markup instead"
     },
     "createIssue": {
         "headline": "Create Issue",
@@ -207,7 +207,7 @@
         "requesttype": "Request Type",
         "comment": "Comment",
         "attachment": "Attachments",
-		"genericPlaceholder": "Select {{fieldName}}"
+        "genericPlaceholder": "Select {{fieldName}}"
     },
     "groupField": {
         "placeholder": "Search a group"
@@ -218,19 +218,19 @@
     "projectField": {
         "recentProjects": "Recent Projects",
         "allProjects": "All projects",
-		"placeholder": "Select a project"
+        "placeholder": "Select a project"
     },
-	"issuetypeField": {
-		"placeholder":"Select an issue type"
-	},
+    "issuetypeField": {
+        "placeholder": "Select an issue type"
+    },
     "versionSelectField": {
         "unreleasedVersion": "Unreleased Versions",
         "releasedVersion": "Released Versions",
-		"placeholder": "Select a version"
+        "placeholder": "Select a version"
     },
-	"issueLinkField": {
-		"placeholder": "Select a link type"
-	},
+    "issueLinkField": {
+        "placeholder": "Select a link type"
+    },
     "tempo": {
         "accountPlaceholder": "Select an Account",
         "teamPlaceholder": "Select a Team",
@@ -286,7 +286,7 @@
         "recentIssues": "Recent Issues",
         "allIssues": "All Issues",
         "searchResultFor": "Search result for",
-		"placeholder": "Select an issue"
+        "placeholder": "Select an issue"
     },
     "epicField": {
         "suggestions": "Suggestions",
@@ -316,6 +316,10 @@
         "ssoChooseCert": "Choose client certificate",
         "disableCertCheck": "Disable SSL certificate check (not recommended)",
         "bypassAuthentication": "Assume SSO (bypass authentication)",
+        "technicalSettings": "Technical Settings",
+        "webViewRadioLabel": "Choose the preferred web view for dialogs & sidebar",
+        "webViewIE": "Internet Explorer 11",
+        "webViewEdge": "Microsoft Edge",
         "troubleshooting": "Troubleshooting",
         "verboseLogging": "Verbose logging",
         "networkTrace": "Network logging",

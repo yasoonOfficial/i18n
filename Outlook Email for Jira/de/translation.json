@@ -54,7 +54,7 @@
         "addMailInformation": "Füge Email Informationen zur Beschreibung hinzu",
         "includeAttachments": "Anhänge einbeziehen",
         "includeSubject": "Beschreibung einbeziehen",
-		"oldEditor": "Den WYSIWYG Editor deaktivieren und stattdessen markup verwenden"
+        "oldEditor": "Den WYSIWYG Editor deaktivieren und stattdessen markup verwenden"
     },
     "createIssue": {
         "headline": "Vorgang erstellen",
@@ -207,7 +207,7 @@
         "requesttype": "Anfragetyp",
         "comment": "Kommentar",
         "attachment": "Anhänge",
-		"genericPlaceholder": "Wähle {{fieldName}}"
+        "genericPlaceholder": "Wähle {{fieldName}}"
     },
     "groupField": {
         "placeholder": "Suche eine Gruppe"
@@ -218,19 +218,19 @@
     "projectField": {
         "recentProjects": "Letzte Projekte",
         "allProjects": "Alle Projekte",
-		"placeholder": "Wähle ein Projekt"
+        "placeholder": "Wähle ein Projekt"
     },
-	"issuetypeField": {
-		"placeholder":"Wähle eine Vorgangsart"
-	},
+    "issuetypeField": {
+        "placeholder": "Wähle eine Vorgangsart"
+    },
     "versionSelectField": {
         "unreleasedVersion": "Nicht veröffentlicht",
         "releasedVersion": "Veröffentlicht",
-		"placeholder": "Wähle eine Version"
+        "placeholder": "Wähle eine Version"
     },
-	"issueLinkField": {
-		"placeholder": "Wähle einen Link Typ"
-	},
+    "issueLinkField": {
+        "placeholder": "Wähle einen Link Typ"
+    },
     "tempo": {
         "accountPlaceholder": "Wähle einen Account",
         "teamPlaceholder": "Wähle ein Team",
@@ -286,7 +286,7 @@
         "recentIssues": "Letzte Vorgänge",
         "allIssues": "Alle Vorgänge",
         "searchResultFor": "Suchergebnis für",
-		"placeholder": "Select an issue"
+        "placeholder": "Select an issue"
     },
     "epicField": {
         "suggestions": "Vorgeschlagen",
@@ -316,6 +316,10 @@
         "ssoChooseCert": "Wähle Client-Zertifikat",
         "disableCertCheck": "SSL Zertifikat-check deaktivieren (nicht empfohlen)",
         "bypassAuthentication": "SSO verwenden (ohne eigene Authentifikation)",
+        "technicalSettings": "Technische Einstellungen",
+        "webViewRadioLabel": "Präferierten Browser für Dialoge & Sidebar wählen",
+        "webViewIE": "Internet Explorer 11",
+        "webViewEdge": "Microsoft Edge",
         "troubleshooting": "Fehlerbehebung",
         "verboseLogging": "Explizite Log Nachrichten",
         "networkTrace": "Netzwerk protokollieren",
