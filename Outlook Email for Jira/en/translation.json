@@ -147,8 +147,8 @@
         "createApiToken": "Create a new API Token",
         "back": "Back",
         "invalidCredentialsTitle": "Invalid credentials",
-        "invalidCredentialsDescriptionCloud": "Please check your credentials and try again.",
-        "invalidCredentialsDescriptionServer": "Please check your credentials and try again. <br /> {link}",
+        "invalidCredentialsDescriptionCloud": "Please check your credentials and try again. <br /> {link}",
+        "invalidCredentialsDescriptionServer": "Please check your credentials and try again.",
         "errorDuringLoginTitle": "Error during Login",
         "errorDuringLoginDescription": "An error occured during login. {{message}}. Please contact your Jira Admin and make sure Basic Auth is enabled."
     },
