@@ -40,6 +40,7 @@
     "settingsScreen": {
         "appSettingsTabHeading": "App Settings",
         "jiraLoginTabHeading": "Jira Login",
+        "aboutTabHeading": "About",
         "settingsHeader": "Settings",
         "back": "Back",
         "generalSettingsHeading": "General Settings",
@@ -55,6 +56,10 @@
         "includeAttachments": "Include Attachments",
         "includeSubject": "Include Subject",
         "oldEditor": "Disable WYSIWYG Editor and use markup instead"
+    },
+    "about": {
+        "licenseHeading": "Licenses",
+        "sourcesLink": "Sources"
     },
     "createIssue": {
         "headline": "Create Issue",

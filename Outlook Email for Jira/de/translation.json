@@ -38,14 +38,15 @@
         "followUpHeading": "NACHBEARBEITUNG"
     },
     "settingsScreen": {
-        "appSettingsTabHeading": "App Einstellungen",
-        "jiraLoginTabHeading": "Jirazugang",
+        "appSettingsTabHeading": "Einstellungen",
+        "jiraLoginTabHeading": "Jira Konto",
+        "aboutTabHeading": "Über",
         "settingsHeader": "Einstellungen",
         "back": "Zurück",
         "generalSettingsHeading": "Allgemeine Einstellungen",
         "language": "Sprache",
         "languageSelectPlaceholder": "Auswählen...",
-        "remoteDebug": "Bildschirm aufnehmen (für externes debugging)",
+        "remoteDebug": "Bildschirm aufnehmen (für Support)",
         "createAddIssueHeading": "Vorgangs Popup Einstellungen",
         "addAttachmentsByDefault": "Immer Anhänge anfügen",
         "addEmailAsFile": "Immer Email als Datei anhängen",
@@ -54,7 +55,11 @@
         "addMailInformation": "Füge Email Informationen zur Beschreibung hinzu",
         "includeAttachments": "Anhänge einbeziehen",
         "includeSubject": "Beschreibung einbeziehen",
-        "oldEditor": "Den WYSIWYG Editor deaktivieren und stattdessen markup verwenden"
+        "oldEditor": "Den WYSIWYG Editor deaktivieren und stattdessen Markup verwenden"
+    },
+    "about": {
+        "licenseHeading": "Lizenzen",
+        "sourcesLink": "Quellen"
     },
     "createIssue": {
         "headline": "Vorgang erstellen",
