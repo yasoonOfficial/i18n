@@ -66,7 +66,9 @@
         "servicePortalTab": "Service Portal",
         "singleTab": "All fields",
         "serviceDeskIssueTypeTooltip": "Use Issue Type",
-        "accountFieldPlaceholder": "Placeholder Account Field"
+        "accountFieldPlaceholder": "Placeholder Account Field",
+        "existingIssuesButton": "Existing issues",
+        "existingIssuesHeading": "This conversation has existing issues"
     },
     "addToIssue": {
         "headline": "Add to Issue",
@@ -282,8 +284,6 @@
         "updateJiraIssueTitle": "Updating Jira failed",
         "updateJiraIssueDescription": "Sorry - we couldn't add the comment to the issue due to",
         "uploadAttachments": "We couldn't upload one or more attachments.",
-        "headsUpTitle": "Heads up!",
-        "headsUpDescription": "There is already the issue {{issueKey}} related to this mail conversation.",
         "fetchingJiraIssueFailedFallback": "Error while fetching issue data"
     },
     "issueField": {

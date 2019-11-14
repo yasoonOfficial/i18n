@@ -66,7 +66,9 @@
         "servicePortalTab": "Service Portal",
         "singleTab": "Alle Felder",
         "serviceDeskIssueTypeTooltip": "Vorgangstyp verwenden",
-        "accountFieldPlaceholder": "Platzhalter für Accountfeld"
+        "accountFieldPlaceholder": "Platzhalter für Accountfeld",
+        "existingIssuesButton": "Existierende Vorgänge",
+        "existingIssuesHeading": "Diese Konversation hat bereits zugewiesene Vorgänge"
     },
     "addToIssue": {
         "headline": "Zu Vorgang hinzufügen",
@@ -282,8 +284,6 @@
         "updateJiraIssueTitle": "Jirafeld Aktualisierung fehlgeschlagen",
         "updateJiraIssueDescription": "Sorry - wir konnten den Kommentar nicht zum Vorgang hinzufügen, da",
         "uploadAttachments": "Ein oder mehrere Anhänge konnten nicht hochgeladen werden.",
-        "headsUpTitle": "Achtung!",
-        "headsUpDescription": "Dieser Konversation wurde bereis der Vorgang {{issueKey}} zugewiesen.",
         "fetchingJiraIssueFailedFallback": "Fehler beim laden von Vorganginformationen"
     },
     "issueField": {
