@@ -180,7 +180,9 @@
     },
     "issueCard": {
         "assignedToMe": "Dieser Vorgang ist dir zugewiesen!",
-        "youAreWatching": "Du beobachtest diesen Vorgang"
+        "youAreWatching": "Du beobachtest diesen Vorgang",
+        "slaCompletedLozenge": "Abgeschlossen",
+        "slaCompletedTooltip": "Alle SLAs sind abgeschlossen"
     },
     "securityIndicator": {
         "headline": "Sicherheitsprüfung",

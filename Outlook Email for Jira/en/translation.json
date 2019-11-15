@@ -180,7 +180,9 @@
     },
     "issueCard": {
         "assignedToMe": "This issue is assigned to you!",
-        "youAreWatching": "You are watching this issue"
+        "youAreWatching": "You are watching this issue",
+        "slaCompletedLozenge": "Completed",
+        "slaCompletedTooltip": "All SLAs have been completed"
     },
     "securityIndicator": {
         "headline": "Security Check",
