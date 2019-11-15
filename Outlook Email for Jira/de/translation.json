@@ -25,7 +25,8 @@
         "subtasksHeading": "Sub-Tasks",
         "detailsTabHeading": "Details",
         "commentsTabHeading": "Kommentare",
-        "filesTabHeading": "Dateien"
+        "filesTabHeading": "Dateien",
+        "issueSLAHeading": "SLA"
     },
     "officeActions": {
         "createReminderOption": "Erinnerung erstellen",
