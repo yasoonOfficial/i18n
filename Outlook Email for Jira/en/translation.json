@@ -360,5 +360,11 @@
         "helpOnAPITokens": "Help on API Tokens",
         "TLS": "TLS",
         "marketplaceApp": "Marketplace app"
+    },
+    "aboutTab": {
+        "tabName":"About",
+        "version":"Version",
+        "licenses":"Licenses",
+        "source":"Source"
     }
 }
