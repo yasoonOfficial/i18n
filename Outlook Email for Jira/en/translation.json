@@ -193,7 +193,7 @@
         "authWithToken": "Authentication via OAuth Token",
         "authWithBasicAuth": "Authentication via Basic Auth",
         "connectedWithYasoon": "Connected with Yasoon Cloud Connect",
-        "recommendedConnection": "We recommend connecting to Jira via {link1} and delegated authentication. Please use our {link2} to configure a secure connection.",
+        "recommendedConnection": "We recommend connecting to Jira via {link1} and OAuth authentication. Please use our {link2} to configure a secure connection.",
         "allSecureMessage": "You are all set, everything is secure!"
     },
     "breadCrumbs": {
@@ -324,6 +324,7 @@
         "ssoSelectedCertificate": "Selected Certificate: {{certificateName}}",
         "ssoChooseCert": "Choose client certificate",
         "disableCertCheck": "Disable SSL certificate check (not recommended)",
+        "usePublicToLocalhostRedirect": "Use public DNS for authentication",
         "bypassAuthentication": "Assume SSO (bypass authentication)",
         "technicalSettings": "Technical Settings",
         "webViewRadioLabel": "Choose the preferred web view for dialogs & sidebar",
