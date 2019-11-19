@@ -109,7 +109,8 @@
         "forget": "Verwerfen",
         "edit": "Editieren",
         "editInline": "editieren",
-        "continue": "weiter"
+        "continue": "weiter",
+        "notWorking": "Klappt nicht?"
     },
     "timetracking": {
         "fieldHelpTooltip": "Mehr über Zeiterfassung erfahren"

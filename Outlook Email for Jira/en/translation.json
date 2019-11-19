@@ -110,7 +110,8 @@
         "forget": "Forget",
         "edit": "Edit",
         "editInline": "edit",
-        "continue": "Continue"
+        "continue": "Continue",
+        "notWorking": "Not working?"
     },
     "timetracking": {
         "fieldHelpTooltip": "Learn more about time tracking"
