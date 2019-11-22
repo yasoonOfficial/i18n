@@ -110,7 +110,8 @@
         "edit": "Editieren",
         "editInline": "editieren",
         "continue": "weiter",
-        "notWorking": "Klappt nicht?"
+        "notWorking": "Klappt nicht?",
+        "saveButton": "Speichern"
     },
     "timetracking": {
         "fieldHelpTooltip": "Mehr über Zeiterfassung erfahren"
@@ -289,7 +290,9 @@
         "updateJiraIssueTitle": "Jirafeld Aktualisierung fehlgeschlagen",
         "updateJiraIssueDescription": "Sorry - wir konnten den Kommentar nicht zum Vorgang hinzufügen, da",
         "uploadAttachments": "Ein oder mehrere Anhänge konnten nicht hochgeladen werden.",
-        "fetchingJiraIssueFailedFallback": "Fehler beim laden von Vorganginformationen"
+        "fetchingJiraIssueFailedFallback": "Fehler beim laden von Vorganginformationen",
+        "genericError":"Sorry, die Zeiterfassung konnte nicht gespeichert werden",
+        "wrongInputFormat": "Die Zeiterfassung muss im Format: '3w 4d 12h 5m' sein"
     },
     "issueField": {
         "relatedIssues": "Verwandte Vorgänge",
@@ -363,5 +366,9 @@
         "helpOnAPITokens": "Hilfe zu API Tokens",
         "TLS": "TLS",
         "marketplaceApp": "Marketplace app"
+    },
+    "logWorkScreen": {
+        "logWorkButton": "Zeiterfassung",
+        "originalEstimateInfo": "Die ursprüngliche Schätzung für diesen Vorgang war"
     }
 }
