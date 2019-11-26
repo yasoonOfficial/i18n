@@ -17,7 +17,9 @@
         "commentInterally": "Comment internally",
         "emailHasChanged": "Selected email has changed",
         "unsavedData": "Unsaved data!",
-        "reloadRelatedIssuesMessage": "Reload related issues for current email."
+        "reloadRelatedIssuesMessage": "Reload related issues for current email.",
+        "showAllFields":"Show all fields",
+        "showLessFields":"Show less fields"
     },
     "showIssues": {
         "descriptionHeading": "Description",

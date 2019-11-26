@@ -17,7 +17,9 @@
         "commentInterally": "Intern kommentieren",
         "emailHasChanged": "Die ausgewählte Email hat sich geändert",
         "unsavedData": "Ungespeicherte Daten!",
-        "reloadRelatedIssuesMessage": "Vorgänge für aktuelle Email neu laden."
+        "reloadRelatedIssuesMessage": "Vorgänge für aktuelle Email neu laden.",
+        "showAllFields":"Zeige alle Felder",
+        "showLessFields":"Zeige weniger Felder"
     },
     "showIssues": {
         "descriptionHeading": "Beschreibung",
