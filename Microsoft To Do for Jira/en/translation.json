@@ -10,7 +10,7 @@
     },
     "simpleConfig": {
         "heading": "Simple mode it is!",
-        "introTextLine1": "This app allows you to add new tasks from any issue or configure an automatic sync.",
+        "introTextLine1": "This app allows you to add new tasks from any issue or configure an automatic sync for this project.",
         "introTextLine2": "If you are not using Microsoft To Do yet, make sure to check out the app first!",
         "switchToAdvanced": "Switch to advanced"
     }
