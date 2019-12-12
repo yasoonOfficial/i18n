@@ -52,7 +52,7 @@
         "addAttachmentsByDefault": "Select all attachments by default",
         "addEmailAsFile": "Select / upload email (.msg) by default",
         "preselectProjectIssueType": "Preselect last used project and issuetype",
-        "showServiceDeksPortalFields": "Show Portal fields in Service Desk",
+        "showServiceDeksPortalFields": "Show tab 'Portal Fields' for Jira Service Desk projects",
         "addMailInformation": "Add Mail Information to description",
         "includeAttachments": "Include Attachments",
         "includeSubject": "Include Subject",

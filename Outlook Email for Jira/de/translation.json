@@ -52,7 +52,7 @@
         "addAttachmentsByDefault": "Alle Anhänge vorselektieren",
         "addEmailAsFile": "Email (.msg) Anhang vorselektieren",
         "preselectProjectIssueType": "Zuletzt verwendetes Projekt und Vorgangstyp vorselektieren",
-        "showServiceDeksPortalFields": "Zeige Portalfelder im Service Desk",
+        "showServiceDeksPortalFields": "Den Reiter 'Portalfelder' für Jira Service Desk Projekte anzeigen",
         "addMailInformation": "Füge Email Informationen zur Beschreibung hinzu",
         "includeAttachments": "Anhänge einbeziehen",
         "includeSubject": "Beschreibung einbeziehen",
