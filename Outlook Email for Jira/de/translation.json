@@ -291,7 +291,7 @@
         "updateJiraIssueDescription": "Sorry - wir konnten den Kommentar nicht zum Vorgang hinzufügen, da",
         "uploadAttachments": "Ein oder mehrere Anhänge konnten nicht hochgeladen werden.",
         "fetchingJiraIssueFailedFallback": "Fehler beim laden von Vorganginformationen",
-        "genericError":"Sorry, die Zeiterfassung konnte nicht gespeichert werden",
+        "genericError": "Sorry, die Zeiterfassung konnte nicht gespeichert werden",
         "wrongInputFormat": "Die Zeiterfassung muss im Format: '3w 4d 12h 5m' sein"
     },
     "issueField": {
@@ -369,6 +369,7 @@
     },
     "logWorkScreen": {
         "logWorkButton": "Zeiterfassung",
-        "originalEstimateInfo": "Die ursprüngliche Schätzung für diesen Vorgang war"
+        "originalEstimateInfo": "Die ursprüngliche Schätzung für diesen Vorgang war",
+        "dateTimePickerLabel": "Startdatum"
     }
 }

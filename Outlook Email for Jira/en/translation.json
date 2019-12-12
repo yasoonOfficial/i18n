@@ -291,7 +291,7 @@
         "updateJiraIssueDescription": "Sorry - we couldn't add the comment to the issue due to",
         "uploadAttachments": "We couldn't upload one or more attachments.",
         "fetchingJiraIssueFailedFallback": "Error while fetching issue data",
-        "genericError":"Sorry, timetracking could not be saved",
+        "genericError": "Sorry, timetracking could not be saved",
         "wrongInputFormat": "Timetracking has to be in the format: '3w 4d 12h 5m' sein"
     },
     "issueField": {
@@ -369,6 +369,7 @@
     },
     "logWorkScreen": {
         "logWorkButton": "Time tracking",
-        "originalEstimateInfo": "The original estimate for this issue was"
+        "originalEstimateInfo": "The original estimate for this issue was",
+        "dateTimePickerLabel": "Startdate"
     }
 }
