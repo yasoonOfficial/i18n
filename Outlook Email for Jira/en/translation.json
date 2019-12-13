@@ -220,7 +220,8 @@
         "requesttype": "Request Type",
         "comment": "Comment",
         "attachment": "Attachments",
-        "genericPlaceholder": "Select {{fieldName}}"
+        "genericPlaceholder": "Select {{fieldName}}",
+        "typeToSearch": "Type to search..."
     },
     "groupField": {
         "placeholder": "Search a group"
