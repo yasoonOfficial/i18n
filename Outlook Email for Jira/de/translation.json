@@ -369,7 +369,7 @@
         "marketplaceApp": "Marketplace app"
     },
     "logWorkScreen": {
-        "logWorkButton": "Zeiterfassung",
+        "logWorkButton": "Zeit erfassen",
         "originalEstimateInfo": "Die ursprüngliche Schätzung für diesen Vorgang war",
         "dateTimePickerLabel": "Startdatum"
     }

@@ -369,8 +369,8 @@
         "marketplaceApp": "Marketplace app"
     },
     "logWorkScreen": {
-        "logWorkButton": "Time tracking",
+        "logWorkButton": "Log Work",
         "originalEstimateInfo": "The original estimate for this issue was",
-        "dateTimePickerLabel": "Startdate"
+        "dateTimePickerLabel": "Date started"
     }
 }
