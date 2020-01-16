@@ -81,7 +81,7 @@
         "connectToJira": "Mit Jira verbinden",
         "oAuthLoginDescription1": "Bitte auf Anmelden klicken - dies wird ein neues Fenster öffnen in welchem der Zugang zu Jira gewährt werden muss.",
         "oAuthLoginDescription2": "Diese Seite wird nach der Anmeldung automatisch aktualisiert",
-        "provideMailAddressMessage": "Bitte gib die Emailadresse für den Zugang zu Jira ein.",
+        "provideMailAddressMessage": "Bitte gib die Url für den Zugang zu Jira ein.",
         "whereDoIFindThis": "Wo finde ich diese?",
         "loginReminder": "Anmeldedaten für alle Geräte verwenden",
         "aggreementMessage": "Mit Klick auf 'Weiter', stimmen Sie unseren {link1} und {link2} zu."
