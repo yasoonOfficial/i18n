@@ -373,5 +373,13 @@
         "logWorkButton": "Zeit erfassen",
         "originalEstimateInfo": "Die ursprüngliche Schätzung für diesen Vorgang war",
         "dateTimePickerLabel": "Startdatum"
-    }
+    },
+		"mailHeader": {
+		"from": "Von",
+		"cc": "Cc",
+		"to": "An",
+		"sent": "Gesendet",
+		"subject": "Betreff",
+		"attachments": "Anhänge"
+	}
 }

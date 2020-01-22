@@ -373,5 +373,13 @@
         "logWorkButton": "Log Work",
         "originalEstimateInfo": "The original estimate for this issue was",
         "dateTimePickerLabel": "Date started"
-    }
+    },
+	"mailHeader": {
+		"from": "From",
+		"cc": "Cc",
+		"to": "To",
+		"sent": "Sent",
+		"subject": "Subject",
+		"attachments": "Attachments"
+	}
 }
