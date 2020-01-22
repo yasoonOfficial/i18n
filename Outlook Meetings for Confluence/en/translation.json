@@ -1,0 +1,9 @@
+{
+	"loadingScreen": {
+		"loading": "Loading..."
+	},
+	"addInstanceScreen": {
+		"connectToConfluence:": "Connect to Confluence",
+		"provideMailAddressMessage:": "Please provide the address you use to access Confluence."
+	}
+}
