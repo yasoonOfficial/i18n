@@ -27,7 +27,7 @@
         "loginWithMicrosoftInfo": "Um loszulegen, melde dich bitte mit deinem Microsoft Account an!",
         "loginWithMicrosoftButton": "Anmelden",
         "invalidLicenseTitle": "Lizenz abgelaufen",
-        "invalidLicenseInfo":"Du hast keine gültige Lizenz oder diese ist abgelaufen. Wenn du weiterhin unsere App benutzen willst, hole dir bitte eine gültige Lizenz!",
+        "invalidLicenseInfo": "Du hast keine gültige Lizenz oder diese ist abgelaufen. Wenn du weiterhin unsere App benutzen willst, hole dir bitte eine gültige Lizenz!",
         "createNewTaskInlineEditEditViewPlaceholder": "Neue Aufgabe erstellen",
         "createNewTaskInlineEditReadViewPlaceholder": "Neue Aufgabe hinzufügen",
         "createNewTaskInlineEditEditViewTooltip": "Liste für deine neue Aufgabe",
@@ -50,7 +50,7 @@
     "enableMicrosoftWebhooksModal": {
         "statusSelectInfo": "Wähle aus, welchen Status der Vorgang erhalten soll, wenn die zugehörige Aufgabe in der Microsoft To Do-App abgeschlossen wurde.",
         "submitButton": "Senden",
-        "cancelButton": "Abbrechen" 
+        "cancelButton": "Abbrechen"
     },
     "finalStep": {
         "errorOopsEnableSync": "Ups, es ist ein Fehler aufgetreten!",
@@ -98,7 +98,6 @@
         "productTitle": "Microsoft To Do For Jira",
         "invalidLicenseTitle": "Lizenz abgelaufen",
         "invalidLicenseInfo": "Du hast keine gültige Lizenz oder diese ist abgelaufen. Wenn du weiterhin unsere App benutzen willst, hole dir bitte eine gültige Lizenz!"
-        
     },
     "preferredResolveCriteria": {
         "autoResolved": "To Do-Aufgaben automatisch abschließen, wenn der zugehörige Vorgang erledigt oder gelöscht wird",
@@ -170,7 +169,7 @@
         "chooseStatusButton": "Ja, Status auswählen",
         "doNotChooseStatusButton": "Nein, vielleicht später"
     },
-    "taskItem" : {
+    "taskItem": {
         "inlineEditReadViewPlaceholder": "Hier klicken, um einen Wert einzugeben",
         "autoSyncedLozenge": "Auto-Synchronisiert"
     },
