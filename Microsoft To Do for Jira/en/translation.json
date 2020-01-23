@@ -180,7 +180,7 @@
         "simpleConfigName": "Simple",
         "simpleConfigDescription": "Choose this if you are new to Microsoft To Do or just want to get started without much configuration.",
         "advancedConfigName": "Advanced",
-        "advancedConfigDescription": "Choose this if you already know your way around To Do and Jira very well. This let's you configure evert single detail.",
+        "advancedConfigDescription": "Choose this if you already know your way around To Do and Jira very well. This let's you configure every single detail.",
         "startButton": "Start {{mode}}"
     }
 }

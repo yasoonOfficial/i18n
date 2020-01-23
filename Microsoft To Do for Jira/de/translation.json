@@ -1,0 +1,186 @@
+{
+    "account": {
+        "firstTimeText": "Scheinbar benutzt du die App das erste Mal. Bitte melde dich mit deinem Office 365 Account an!"
+    },
+    "activateSyncStep": {
+        "heading": "Alles bereit!"
+    },
+    "advancedConfiguration": {
+        "microsoftAccount": "Microsoft Account",
+        "switchToSimple": "Zum einfachen Modus wechseln"
+    },
+    "changeCriteriaMessage": {
+        "reEnableSyncInfo": "Damit die neuen Einstellungen übernommen werden, musst du die Synchronisierung wieder aktivieren.",
+        "deleteNoLongerMatchingTasksQuestion": "Möchtest du Aufgaben, die deinen neuen Kriterien nicht mehr entsprechen, löschen?",
+        "deleteAndSyncButton": "Löschen und Synchronisieren",
+        "keepAndSyncButton": "Behalten und Synchronisieren",
+        "cancelButton": "Abbrechen"
+    },
+    "changeFolderMessage": {
+        "newTasksMigrateInfo": "Neue Aufgaben werden in der soeben ausgewählten Liste erstellt.",
+        "oldTasksDoNotMigrateInfo": "Bitte bedenke, dass bereits erstellte Aufgaben nicht in diese Liste umziehen.",
+        "gotItButton": "Verstanden"
+    },
+    "contentPanel": {
+        "welcomeToProduct": "Willkommen bei Microsoft To Do for Jira!",
+        "firstTimeUserText": "Scheinbar benutzt du die App das erste Mal.",
+        "loginWithMicrosoftInfo": "Um loszulegen, melde dich bitte mit deinem Microsoft Account an!",
+        "loginWithMicrosoftButton": "Anmelden",
+        "invalidLicenseTitle": "Lizenz abgelaufen",
+        "invalidLicenseInfo":"Du hast keine gültige Lizenz oder diese ist abgelaufen. Wenn du weiterhin unsere App benutzen willst, hole dir bitte eine gültige Lizenz!",
+        "createNewTaskInlineEditEditViewPlaceholder": "Neue Aufgabe erstellen",
+        "createNewTaskInlineEditReadViewPlaceholder": "Neue Aufgabe hinzufügen",
+        "createNewTaskInlineEditEditViewTooltip": "Liste für deine neue Aufgabe",
+        "dropdownItemGroupProductTitle": "Microsoft To Do For Jira",
+        "dropdownItemGetStarted": "Loslegen",
+        "dropdownItemGroupOptionsTitle": "Einstellungen",
+        "dropdownItemMyTasks": "\"Meine Aufgaben\" immer anzeigen"
+    },
+    "disableMicrosoftWebhooksModal": {
+        "areYouSureYouWantToDisableWebhooksInfo": "Bist du sicher, dass du die Microsoft-Benachrichtungen blockieren möchtest? Dies würde auch das automatische Erledigen von Vorgängen deaktivieren.",
+        "disableButton": "Blockieren",
+        "cancelButton": "Abbrechen"
+    },
+    "disableSyncModal": {
+        "areYouSureYouWantToDeleteAlreadySyncedTasksInfo": "Möchtest du alle vorhandenen Aufgaben, die bereits synchronisiert wurden, löschen?",
+        "deleteButton": "Löschen",
+        "keepButton": "Behalten",
+        "cancelButton": "Abbrechen"
+    },
+    "enableMicrosoftWebhooksModal": {
+        "statusSelectInfo": "Wähle aus, welchen Status der Vorgang erhalten soll, wenn die zugehörige Aufgabe in der Microsoft To Do-App abgeschlossen wurde.",
+        "submitButton": "Senden",
+        "cancelButton": "Abbrechen" 
+    },
+    "finalStep": {
+        "errorOopsEnableSync": "Ups, es ist ein Fehler aufgetreten!",
+        "errorOopsDisableSync": "Ups, es ist ein Fehler aufgetreten!",
+        "syncReadyInfo": "Alles bereit, du kannst die Synchronisierung unten starten.",
+        "disableSyncButton": "Synchronisierung deaktivieren",
+        "enableSyncButton": "Synchronisierung der Aufgaben beginnen"
+    },
+    "formatCreateFolderLabel": {
+        "label": "Neue Aufgabenliste erstellen: {{value}}"
+    },
+    "gettingStarted": {
+        "productTitle": "Microsoft To Do For Jira",
+        "linkToWikiContent": "Mehr erfahren",
+        "tabTitle": "Loslegen",
+        "flagSuccessIconLabel": "Info",
+        "flagDescription": "Willkommen bei Microsoft To Do for Jira. Wähle einen Vorgang und melde dich mit deinem Office 365-Account an, um loszulegen!",
+        "flagTitle": "Bereit zur Nutzung!",
+        "syncTitle": "Synchronisierung mit Jira-Vorgängen",
+        "syncInfo": "Zusätzlich zum manuellen Erstellen von To Do-Aufgaben können deine Benutzer auch eine automatische Synchronisierung basierend auf bestimmten Kriterien (z.B. ihnen zugewiesene Vorgänge) aktivieren. Die Einzelheiten dazu findest du in unserer Doku!",
+        "invalidLicenseTitle": "Lizenz abgelaufen",
+        "invalidLicenseInfo": "Du hast keine gültige Lizenz oder diese ist abgelaufen. Wenn du weiterhin unsere App benutzen willst, hole dir bitte eine gültige Lizenz!"
+    },
+    "jqlInfo": {
+        "aboutToSyncAmountInfo": "Du bist dabei, {{issuesAmount}} Vorgängen mit Microsoft To Do zu synchronisieren.",
+        "syncWillStayActiveInfo": "Danach werden kontinuierlich neue und geänderte Jira-Vorgänge mit Microsoft To Do synchronisiert."
+    },
+    "lazyLoadModule": {
+        "loading": "Modul wird geladen...",
+        "loaded": "Modul geladen"
+    },
+    "link": {
+        "previewIssueText": "Vorschau des Vorgangs",
+        "activateSyncStepCreateTaskTemplate": "Alles bereit - aus jedem Vorgang kannst du nun {link}.",
+        "activateSyncStepCreateTask": "Aufgaben erstellen",
+        "activateSyncStepSyncTaskTemplate": "Wenn du eine {link} für dieses Projekt einrichten möchtest, mache unten weiter.",
+        "activateSyncStepSyncTask": "Aufgaben-Synchronisierung"
+    },
+    "logoutModal": {
+        "areYouSureYouWantToLogoutInfo": "Bist du sicher, dass du dich abmelden willst? Dies würde alle aktiven Sychronisierungen in allen Projekten deaktivieren.",
+        "logoutButton": "Abmelden",
+        "cancelButton": "Abbrechen"
+    },
+    "mainPage": {
+        "productTitle": "Microsoft To Do For Jira",
+        "invalidLicenseTitle": "Lizenz abgelaufen",
+        "invalidLicenseInfo": "Du hast keine gültige Lizenz oder diese ist abgelaufen. Wenn du weiterhin unsere App benutzen willst, hole dir bitte eine gültige Lizenz!"
+        
+    },
+    "preferredResolveCriteria": {
+        "autoResolved": "To Do-Aufgaben automatisch abschließen, wenn der zugehörige Vorgang erledigt oder gelöscht wird",
+        "autoNoMatch": "To Do-Aufgaben automatisch abschließen, wenn der zugehörige Vorgang den obigen Kriterien nicht mehr entspricht",
+        "disabled": "To Do-Aufgaben nicht automatisch abschließen"
+    },
+    "refinementBarComponent": {
+        "statusLabel": "Status",
+        "prioLabel": "Priorität",
+        "labelsLabel": "Labels",
+        "componentsLabel": "Komponenten",
+        "typeLabel": "Typ",
+        "assigneeLabel": "Zugewiesene Person",
+        "meLabel": "Ich",
+        "unassignedLabel": "Nicht zugewiesen"
+    },
+    "settings": {
+        "step1ChooseJiraIssues": "1. Jira-Vorgänge auswählen",
+        "step2ChooseToDoList": "2. To Do-Liste auswählen",
+        "step3ConfigSyncOptions": "3. Synchronisierung einstellen",
+        "step4StartStopSync": "4. Synchronisierung starten / stoppen",
+        "disableSyncButton": "Synchronisierung deaktivieren",
+        "startSyncbutton": "Aufgaben-Synchronisierung starten",
+        "savingLozenge": "Speichern..."
+    },
+    "simpleConfig": {
+        "heading": "Der einfache Modus ist ausgewählt!",
+        "introTextLine1": "Diese App erlaubt dir, aus jedem Vorgang neue To Do-Aufgaben zu erstellen oder es kann sogar eine automatische Synchronisierung für dieses Projekt eingestellt werden.",
+        "introTextLine2": "Wenn du Microsoft To Do bisher nicht benutzt, schaue dir bitte zuerst die App an!",
+        "switchToAdvanced": "Zum erweiterten Modus wechseln"
+    },
+    "step1": {
+        "startWithProduct": "Mit Microsoft To Do starten",
+        "ifNewInstallAndLoginWithMicrosoftInfo": "Wenn du neu bei Microsoft To Do bist, installiere es bitte zunächst und erstelle dir einen Account (oder benutze deinen Office 365 / Microsoft Login)",
+        "goToDownloadProductButton": "To Do holen",
+        "alreadyGotProductButton": "Ich habe To Do schon"
+    },
+    "step2": {
+        "logoutButton": "Abmelden",
+        "toContinueLoginInfo": "Um fortzufahren, musst es uns erlaubt sein, neue Aufgaben in deiner Liste zu erstellen. Logge dich unten ein, um uns dies zu erlauben.",
+        "loginButton": "Mit deinem Account anmelden"
+    },
+    "step3": {
+        "selectIssueOptionsTitle": "Kriterien auswählen (oder wechsle zum erweiterten Modus für mehr)",
+        "selectIssueOptionMyIssues": "Mir zugewiesene Vorgänge in diesem Projekt",
+        "selectIssueOptionPrio": "Vorgänge mit der höchstenm Priorität in diesem Projekt",
+        "selectIssueOptionCustom": "Benutzerdefiniert",
+        "selectIssueOptionCustomDescription": "Wechsle zur Einstellung erweiterten Modus",
+        "splitSentenceAlwaysIgnoredIssuesPart1": "Bitte beachte: Im einfachen Modus werden Jira-Vorgänge mit dem Status ",
+        "splitSentenceAlwaysIgnoredIssuesStatus": "Fertig",
+        "splitSentenceAlwaysIgnoredIssuesPart2": " immer ignoriert.",
+        "selectIssueOptionPlaceholder": "Vorgänge auswählen",
+        "chooseOrCreateToDoListPlaceholder": "To Do-Liste auswählen oder erstellen",
+        "chooseWhichIssuesInWhichToDoListTitle": "Wähle aus, welche Jira-Vorgänge du in welcher To Do-Liste sehen möchtest"
+    },
+    "step4": {
+        "syncTaskCompletionFromIssueCompletionQuestion": "Wenn der Jira-Vorgang erledigt ist, sollen wir die Aufgabe in To Do abschließen?",
+        "syncTaskCompletionFromIssueCompletionInfo": "Wenn du Ja auswählst, wird das Erledigen eines Jira-Vorganges die Aufgabe von deiner To Do-Liste abhaken.",
+        "yesButton": "Ja",
+        "laterButton": "Nein, vielleicht später",
+        "enableAutocompleteTasks": "Automatisches Abschließen aktivieren"
+    },
+    "step5": {
+        "errorOopsEnableMSSync": "Ups, es ist ein Fehler aufgetreten!",
+        "errorOopsDisableMSSync": "Ups, es ist ein Fehler aufgetreten!",
+        "syncIssueFromTaskCompletionInfo": "Ändern des Status von Jira-Vorgängen aktivieren",
+        "syncIssueCompletionFromTaskCompletionQuestion": "Wenn die Aufgabe in To Do erledigt ist, sollen wir den Status des Jira-Vorgangs ändern?",
+        "selectStatusToChangeIssueToInfo": "Wenn du Ja auswählst, musst du den Status auswählen, auf den wir den Vorgang setzen sollen, nachdem die zugehörige Aufgabe in To Do erledigt wurde.",
+        "chooseStatusButton": "Ja, Status auswählen",
+        "doNotChooseStatusButton": "Nein, vielleicht später"
+    },
+    "taskItem" : {
+        "inlineEditReadViewPlaceholder": "Hier klicken, um einen Wert einzugeben",
+        "autoSyncedLozenge": "Auto-Synchronisiert"
+    },
+    "welcome": {
+        "headline": "Hi {{name}}, willkommen bei Microsoft To Do for Jira!",
+        "introText": "Diese App erlaubt dir, alle für dich relevanten Jira-Vorgänge in deiner persönlichen To Do-App zu sehen. Um loszulegen, wähle unten einen Modus - du kannst jederzeit wechseln!",
+        "simpleConfigName": "Einfach",
+        "simpleConfigDescription": "Wenn du neu bei Microsoft To Do bist, oder einfach nur loslegen willst, ohne viel einzustellen, wähle den einfachen Modus.",
+        "advancedConfigName": "Erweitert",
+        "advancedConfigDescription": "Wenn du schon super mit To Do und Jira umgehen kannst, kannst du im erweiterten Modus jedes kleinste Detail anpassen.",
+        "startButton": "{{mode}} starten"
+    }
+}
