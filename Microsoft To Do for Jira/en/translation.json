@@ -1,25 +1,40 @@
 {
-    "welcome": {
-        "headline": "Hi {{name}}, welcome to Microsoft To Do for Jira!",
-        "introText": "This app allows you to see all your relevant Jira issues in you personal To Do app. To get started, just select an option below - you can switch any time!",
-        "simpleConfigName": "Simple",
-        "simpleConfigDescription": "Choose this if you are new to Microsoft To Do or just want to get started without much configuration.",
-        "advancedConfigName": "Advanced",
-        "advancedConfigDescription": "Choose this if you already know your way around To Do and Jira very well. This let's you configure evert single detail.",
-        "startButton": "Start {{mode}}"
-    },
-    "simpleConfig": {
-        "heading": "Simple mode it is!",
-        "introTextLine1": "This app allows you to add new tasks from any issue or configure an automatic sync for this project.",
-        "introTextLine2": "If you are not using Microsoft To Do yet, make sure to check out the app first!",
-        "switchToAdvanced": "Switch to advanced"
-    },
     "account": {
         "firstTimeText": "Looks like you are using the app for the very first time. Please login with your Office 365 Account to get started!"
     },
-    "jqlInfo": {
-        "aboutToSyncAmountInfo": "You are about to sync {{issuesAmount}} issues to Microsoft To Do.",
-        "syncWillStayActiveInfo": "Afterwards, we'll continuously sync new and updated Jira issues automatically."
+    "activateSyncStep": {
+        "heading": "All set!"
+    },
+    "advancedConfiguration": {
+        "microsoftAccount": "Microsoft Account",
+        "switchToSimple": "Switch to simple"
+    },
+    "changeCriteriaMessage": {
+        "reEnableSyncInfo": "In order to apply new settings you need to re-enable synchronization.",
+        "deleteNoLongerMatchingTasksQuestion": "Do you want to delete tasks that don't match your new criteria anymore?",
+        "deleteAndSyncButton": "Delete and sync",
+        "keepAndSyncButton": "Keep and sync",
+        "cancelButton": "Cancel"
+    },
+    "changeFolderMessage": {
+        "newTasksMigrateInfo": "New tasks will now be created in task folder that you have just selected.",
+        "oldTasksDoNotMigrateInfo": "Please keep in mind that previously created tasks will not migrate to that folder.",
+        "gotItButton": "Got it"
+    },
+    "contentPanel": {
+        "welcomeToProduct": "Welcome to Microsoft To Do for Jira!",
+        "firstTimeUserText": "Looks like you are using the app for the very first time.",
+        "loginWithMicrosoftInfo": "Please login with your Microsoft account to get started!",
+        "loginWithMicrosoftButton": "Login",
+        "invalidLicenseTitle": "License expired",
+        "invalidLicenseInfo":"You don't have a valid license or it has expired. If you'd like to continue using our app, please get valid license!",
+        "createNewTaskInlineEditEditViewPlaceholder": "Create a new task",
+        "createNewTaskInlineEditReadViewPlaceholder": "Add new task",
+        "createNewTaskInlineEditEditViewTooltip": "To Do list for your new task",
+        "dropdownItemGroupProductTitle": "Microsoft To Do For Jira",
+        "dropdownItemGetStarted": "Get Started",
+        "dropdownItemGroupOptionsTitle": "Options",
+        "dropdownItemMyTasks": "Always show \"My Tasks\""
     },
     "disableMicrosoftWebhooksModal": {
         "areYouSureYouWantToDisableWebhooksInfo": "Are you sure you want to disable Microsoft notifications? This action will disable automatic issues resolving.",
@@ -37,43 +52,15 @@
         "submitButton": "Submit",
         "cancelButton": "Cancel" 
     },
-    "logoutModal": {
-        "areYouSureYouWantToLogoutInfo": "Are you sure you want to logout? This action will disable all active synchronizations among all projects.",
-        "logoutButton": "Logout",
-        "cancelButton": "Cancel"
+    "finalStep": {
+        "errorOopsEnableSync": "Oops, error occurred!",
+        "errorOopsDisableSync": "Oops, error occurred!",
+        "syncReadyInfo": "You are all set, you can start the sync below.",
+        "disableSyncButton": "Deactivate synchronization",
+        "enableSyncButton": "Start syncing tasks"
     },
-    "changeCriteriaMessage": {
-        "reEnableSyncInfo": "In order to apply new settings you need to re-enable synchronization.",
-        "deleteNoLongerMatchingTasksQuestion": "Do you want to delete tasks that don't match your new criteria anymore?",
-        "deleteAndSyncButton": "Delete and sync",
-        "keepAndSyncButton": "Keep and sync",
-        "cancelButton": "Cancel"
-    },
-    "changeFolderMessage": {
-        "newTasksMigrateInfo": "New tasks will now be created in task folder that you have just selected.",
-        "oldTasksDoNotMigrateInfo": "Please keep in mind that previously created tasks will not migrate to that folder.",
-        "gotItButton": "Got it"
-    },
-    "settings": {
-        "step1ChooseJiraIssues": "1. Choose Jira Issues",
-        "step2ChooseToDoList": "2. Choose a To Do list",
-        "step3ConfigSyncOptions": "3. Configure Sync Options",
-        "step4StartStopSync": "4. Start / Stop the Sync",
-        "disableSyncButton": "Disable synchronization",
-        "startSyncbutton": "Start syncing tasks",
-        "savingLozenge": "Saving"
-    },
-    "taskItem" : {
-        "inlineEditReadViewPlaceholder": "Click to enter value",
-        "autoSyncedLozenge": "Autosynced"
-    },
-    "lazyLoadModule": {
-        "loading": "Loading module...",
-        "loaded": "Module loaded"
-    },
-    "advancedConfiguration": {
-        "microsoftAccount": "Microsoft Account",
-        "switchToSimple": "Switch to simple"
+    "formatCreateFolderLabel": {
+        "label": "Create new task folder: {{value}}"
     },
     "gettingStarted": {
         "productTitle": "Microsoft To Do For Jira",
@@ -87,20 +74,25 @@
         "invalidLicenseTitle": "License expired",
         "invalidLicenseInfo": "You don't have a valid license or it has expired. If you'd like to continue using our app, please get valid license!"
     },
-    "contentPanel": {
-        "welcomeToProduct": "Welcome to Microsoft To Do for Jira!",
-        "firstTimeUserText": "Looks like you are using the app for the very first time.",
-        "loginWithMicrosoftInfo": "Please login with your Microsoft account to get started!",
-        "loginWithMicrosoftButton": "Login",
-        "invalidLicenseTitle": "License expired",
-        "invalidLicenseInfo":"You don't have a valid license or it has expired. If you'd like to continue using our app, please get valid license!",
-        "createNewTaskInlineEditEditViewPlaceholder": "Create a new task",
-        "createNewTaskInlineEditReadViewPlaceholder": "Add new task",
-        "createNewTaskInlineEditEditViewTooltip": "To Do list for your new task",
-        "dropdownItemGroupProductTitle": "Microsoft To Do For Jira",
-        "dropdownItemGetStarted": "Get Started",
-        "dropdownItemGroupOptionsTitle": "Options",
-        "dropdownItemMyTasks": "Always show \"My Tasks\""
+    "jqlInfo": {
+        "aboutToSyncAmountInfo": "You are about to sync {{issuesAmount}} issues to Microsoft To Do.",
+        "syncWillStayActiveInfo": "Afterwards, we'll continuously sync new and updated Jira issues automatically."
+    },
+    "lazyLoadModule": {
+        "loading": "Loading module...",
+        "loaded": "Module loaded"
+    },
+    "link": {
+        "previewIssueText": "Preview Issue",
+        "activateSyncStepCreateTaskTemplate": "You are all set - now you can {link} from every issue.",
+        "activateSyncStepCreateTask": "create new tasks",
+        "activateSyncStepSyncTaskTemplate": "If you want to configure a {link} for this project, continue below.",
+        "activateSyncStepSyncTask": "task sync"
+    },
+    "logoutModal": {
+        "areYouSureYouWantToLogoutInfo": "Are you sure you want to logout? This action will disable all active synchronizations among all projects.",
+        "logoutButton": "Logout",
+        "cancelButton": "Cancel"
     },
     "mainPage": {
         "productTitle": "Microsoft To Do For Jira",
@@ -108,12 +100,35 @@
         "invalidLicenseInfo": "You don't have a valid license or it has expired. If you'd like to continue using our app, please get valid license!"
         
     },
-    "finalStep": {
-        "errorOopsEnableSync": "Oops, error occurred!",
-        "errorOopsDisableSync": "Oops, error occurred!",
-        "syncReadyInfo": "You are all set, you can start the sync below.",
-        "disableSyncButton": "Deactivate synchronization",
-        "enableSyncButton": "Start syncing tasks"
+    "preferredResolveCriteria": {
+        "autoResolved": "Automatically complete the task for resolved or deleted issues",
+        "autoNoMatch": "Automatically complete the task when the issue doesn't match the above criteria anymore",
+        "disabled": "Do not complete To Do tasks automatically"
+    },
+    "refinementBarComponent": {
+        "statusLabel": "Status",
+        "prioLabel": "Priority",
+        "labelsLabel": "Labels",
+        "componentsLabel": "Components",
+        "typeLabel": "Type",
+        "assigneeLabel": "Assignee",
+        "meLabel": "Me",
+        "unassignedLabel": "Unassigned"
+    },
+    "settings": {
+        "step1ChooseJiraIssues": "1. Choose Jira Issues",
+        "step2ChooseToDoList": "2. Choose a To Do list",
+        "step3ConfigSyncOptions": "3. Configure Sync Options",
+        "step4StartStopSync": "4. Start / Stop the Sync",
+        "disableSyncButton": "Disable synchronization",
+        "startSyncbutton": "Start syncing tasks",
+        "savingLozenge": "Saving"
+    },
+    "simpleConfig": {
+        "heading": "Simple mode it is!",
+        "introTextLine1": "This app allows you to add new tasks from any issue or configure an automatic sync for this project.",
+        "introTextLine2": "If you are not using Microsoft To Do yet, make sure to check out the app first!",
+        "switchToAdvanced": "Switch to advanced"
     },
     "step1": {
         "startWithProduct": "Start with Microsoft To Do",
@@ -154,5 +169,18 @@
         "selectStatusToChangeIssueToInfo": "If you select yes, you'll need to choose the status that we should transition the Jira issue to, after a task has been completed in To Do.",
         "chooseStatusButton": "Yes, choose status",
         "doNotChooseStatusButton": "No, maybe later"
+    },
+    "taskItem" : {
+        "inlineEditReadViewPlaceholder": "Click to enter value",
+        "autoSyncedLozenge": "Autosynced"
+    },
+    "welcome": {
+        "headline": "Hi {{name}}, welcome to Microsoft To Do for Jira!",
+        "introText": "This app allows you to see all your relevant Jira issues in you personal To Do app. To get started, just select an option below - you can switch any time!",
+        "simpleConfigName": "Simple",
+        "simpleConfigDescription": "Choose this if you are new to Microsoft To Do or just want to get started without much configuration.",
+        "advancedConfigName": "Advanced",
+        "advancedConfigDescription": "Choose this if you already know your way around To Do and Jira very well. This let's you configure evert single detail.",
+        "startButton": "Start {{mode}}"
     }
 }
