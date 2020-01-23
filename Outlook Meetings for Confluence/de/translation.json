@@ -1,0 +1,153 @@
+{
+	"loadingScreen": {
+		"loading": "Lädt..."
+	},
+	"addInstanceScreen": {
+		"connectToConfluence:": "Mit Confluence verbinden",
+		"provideMailAddressMessage:": "Bitte gib die Url an, die du für den Zugriff auf Confluence verwendest.",
+		"aggreementMessage": "Mit Weiter stimmen Sie unserer",
+		"termsOfService": "Nutzungsbedingungen",
+		"and": "und",
+		"privacyPolicy": "Datenschutzerklärung",
+		"whereDoIFindThis": "Wo finde ich diese?"
+	},
+	"errorMessages": {
+		"cannontConnectYasoonTitle": "Keine Verbindung zu to yasoon.com",
+		"cannontConnectYasoonDescription": "Wir konnten keine Verbindung zu unserem Backend-Server unter *.yasoon.com herstellen. Dies könnte durch eine restriktive Firewall verursacht werden. Sie können das Addin einfach weiter verwenden, aber einige Funktionen funktionieren möglicherweise nicht wie erwartet. Wenn Sie die volle Funktionalität haben möchten, fügen Sie bitte yasoon.com zur Whitelist hinzu (oder bitten deine IT-Abteilung, yasoon.com in die Liste aufzunehmen).",
+		"confluenceAppNotInstalledTitle": "Confluence App nicht gefunden",
+		"confluenceAppNotInstalledDescription": "",
+		"cannotConnectConfluenceTitle": "Cannot connect to Confluence",
+		"cannotConnectConfluenceDescription": "",
+		"notifyForServerVersionTitle": "Confluence Server",
+		"notifyForServerVersionDescription": "We currently only support Confluence Cloud instances. Get a notification when the app is available for Confluence Server",
+		"notifyButton": "Notify me",
+		"invalidCredentialsTitle": "Ungültige Anmeldedaten",
+		"invalidCredentialsDescription": "Bitte überprüfen Sie Ihre Anmeldedaten und versuchen Sie es erneut. Wenn dieses Problem weiterhin besteht, wenden Sie sich an Ihren Confluence-Admin und stellen Sie sicher, dass Basic Auth aktiviert ist.",
+		"invalidUserTitle": "Ungültiger benutzer",
+		"invalidUserDescription": "Sie können die Anwendung nicht als anonymer Benutzer verwenden.",
+		"errorDuringLoginTitle": "Ungültige Anmeldedaten",
+		"errorDuringLoginDescription": "Bitte überprüfen Sie Ihre Anmeldedaten und versuchen Sie es erneut. Wenn dieses Problem weiterhin besteht, wenden Sie sich an Ihren Confluence-Admin und stellen Sie sicher, dass Basic Auth aktiviert ist."
+	},
+	"basicLogin": {
+		"heading": "Mit Confluence verbinde",
+		"subHeading": "Bitte gib deine Anmeldedaten an.",
+		"confluenceUrl": "Confluence Url",
+		"userNameOrEmail": "Benutzername oder E-Mail-Adresse",
+		"apiToken": "API Token",
+		"password": "Passwort",
+		"createApiToken": "Erstellen Sie ein neues API-Token"
+	},
+	"createMeetingNotes": {
+		"heading": "Besprechungsseite erstellen",
+		"changeLocation": "Speicherort ändern",
+		"pageTitlePlaceholder": "Bitte gib einen Seitentitel ein",
+		"pageNameAlreadyExistsError": "Es gibt bereits eine Seite mit diesem Namen.",
+		"descriptionLabel": "Beschreibung",
+		"createAgendaPage": "Meeting Agenda Seite erstellen",
+		"createAgendaDraft": "Meeting Agenda Entwurf anlegen",
+		"templateLabel": "Vorlage",
+		"createdLozenge": "ERSTELLT",
+		"draftLozenge": "ENTWURF",
+		"deleteLozenge": "LÖSCHEN",
+		"cancelLozenge": "VERWERFEN",
+		"deleteMeetingNotesTootlip": "Klicke um die Besprechungsnotizen zu löschen.",
+		"deleteMeetingNotesDraftTootlip": "Die Meeting Agenda Seite wird erstellt, wenn Sie die Meetinganfrage senden. Klicke um den Entwurf zu löschen.",
+		"parentPageTree": "Übergeordnete Seite",
+		"space": "Bereich"
+	},
+	"editMeetingNotes": {
+		"heading": "Confluence Meeting Agenda",
+		"viewInConfluence": "Gehe zur Confluence Seite",
+		"parentPage": "Übergeordnete Seite",
+		"parentSpace": "Bereicht"
+	},
+	"initalPageSelection": {
+		"heading": "Wählen Sie den Ort für die Besprechungsnotizen aus",
+		"description": "Es ist nur noch ein kleiner Schritt bis zur Erstellung deiner ersten Confluence Meeting Notizen direkt aus deinem Outlook. Bitte wählen zuerst den Ort aus, an dem du die Besprechungsnotizen erstellen möchtest. Anmerkung: Du kannst diesen dann nachträglich ändern.",
+		"needHelp": "Brauchst du hilfe?"
+	},
+	"meetingAgenda": {
+		"heading": "Agenda",
+		"addItemPlaceholder": "Agenda-Punkt hinzufügen",
+		"adjustEndtimeButton": "Klicken zum Anpassen der Endzeit",
+		"adjustEndtimeTootltip": "Klicken zum Anpassen der Endzeit",
+		"editToAdjustEndtime": "Bearbeite die Besprechung, um die Endzeit anzupassen.",
+		"totalDuration": "Summe: "
+	},
+	"noConfluencePage": {
+		"heading": "Keine Zugehörige Seite mit Besprechungsnotizen gefunden",
+		"description": "Es wurde keine zugehörige Confluence-Seite gefunden. Wenn Sie der Organisator sind, können Sie beim Bearbeiten der Veranstaltung eine Agenda hinzufügen.",
+		"needHelp": "Brauchen Sie Hilfe?"
+	},
+	"pagePickerScreen": {
+		"heading": "Wähle die übergeordnete Seite",
+		"space": "Bereich",
+		"parentPage": "Übergeordnete Seite"
+	},
+	"pagePicker": {
+		"placeholder": "Wähle die übergeordnete Seite",
+		"noOptionsMessage": "Keine Ergebnisse",
+		"searchMessage": "Tippe um nach seiten zu suchen",
+		"homePageLabel": "Startseite",
+		"recentPagesLabel": "Zuletzt verwendet",
+		"searchResultLabel": "Suchergebnisse für "
+	},
+	"spacePicker": {
+		"placeholder": "Suche nach Bereichen",
+		"noOptionsMessage": "Keine Ergebnisse",
+		"searchMessage": "Tippe um nach bereichen zu suchen",
+		"recentSpaces'": "Zuletzt verwendet",
+		"starredSpaces": "Favoriten",
+		"searchResultLabel": "Suchergebnisse für "
+	},
+	"settingsScreen": {
+		"heading": "Einstellungen",
+		"restoreDefaults": "Standardeinstellungen wiederherstellen",
+		"confirm": "Bestätigen",
+		"cancel": "Abbrechen"
+	},
+	"welcomeScreen": {
+		"heading": "Willkommen bei Outlook Meetings for Confluence",
+		"createConfluencePage": "Erstellen eine Confluence Seite Besprechungsnotizen für dein Outlook Meeting.",
+		"planMeetingAgenda": "Planen die Agenda eines Meetings direkt in Outlook. Du kannst ganz einfach Tagesordnungspunkte, Dauer und Sprecher hinzufügen",
+		"collaborativelyAddAndChangeAgenda": "Gemeinsames hinzufügen und ändern von Gesprächspunkten mit Ihrem Team direkt in Outlook",
+		"startNow": "Starte jetzt!",
+		"aboutTheApp": "Über die app",
+		"aboutYasoon": "Über yasoon"
+	},
+	"templatesModel": {
+		"availableTemplates": "Verfügbare Vorlagen",
+		"defaultTemplates": "Standard Vorlage",
+		"recentTemplates": "Zuletzt verwendete Vorlagen"
+	},
+	"agendaItem": {
+		"addTitle": "Gebe einen Titel ein..."
+	},
+	"durationPicker": {
+		"duration": "Duration",
+		"min": "min"
+	},
+	"editor": {
+		"collapsedPlaceholder": "Klicke um die Beschreibung der Seite zu ändern."
+	},
+	"instanceSettings": {
+		"loggedInAs": "Du bist angemeldet als:",
+		"currentlyNotLoggedIn": "Du bist aktuell nicht angemeldet.",
+		"logout": "Abmelden",
+		"login": "Anmelden"
+	},
+	"errorBoundary": {
+		"heading": "Etwas ist schiefgelaufen :/",
+		"subHeading": "Entschuldige die unannehmlichkeit.",
+		"openSupportTicket": "Erstelle ein Support Ticket",
+		"reloadApplication": "Lade die App neu",
+		"persistMessage": "Falls dieses Problem erneut auftritt öffne bitte ein Support Ticket bei uns."
+	},
+	"userPicker": {
+		"placeholder": "Wähle nutzer",
+		"noOptionsMessage": "Keine Ergebnisse",
+		"searchMessage": "Tippe um nach nutzern zu suchen",
+		"resultMessage": "Ergebniss für ",
+		"presenter": "Moderator"
+	}
+}

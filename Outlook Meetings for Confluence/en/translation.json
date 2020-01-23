@@ -4,6 +4,150 @@
 	},
 	"addInstanceScreen": {
 		"connectToConfluence:": "Connect to Confluence",
-		"provideMailAddressMessage:": "Please provide the address you use to access Confluence."
+		"provideMailAddressMessage:": "Please provide the address you use to access Confluence.",
+		"aggreementMessage": "With continue, you agree to our",
+		"termsOfService": "Terms of Service",
+		"and": "and",
+		"privacyPolicy": "Privacy Policy",
+		"whereDoIFindThis": "Where do I find this?"
+	},
+	"errorMessages": {
+		"cannontConnectYasoonTitle": "Cannot connect to yasoon.com",
+		"cannontConnectYasoonDescription": "We couldn't connect to our backend server at *.yasoon.com. This might be caused by a restrictive firewall. You can just continue to use the addin but some features may not work as expected. If you want to have the full functionality, please make sure add (or ask your IT to add) yasoon.com to the whitelist",
+		"confluenceAppNotInstalledTitle": "Confluence app not found",
+		"confluenceAppNotInstalledDescription": "",
+		"cannotConnectConfluenceTitle": "Cannot connect to Confluence",
+		"cannotConnectConfluenceDescription": "",
+		"notifyForServerVersionTitle": "Confluence Server",
+		"notifyForServerVersionDescription": "We currently only support Confluence Cloud instances. Get a notification when the app is available for Confluence Server",
+		"notifyButton": "Notify me",
+		"invalidCredentialsTitle": "Invalid credentials",
+		"invalidCredentialsDescription": "Please check your credentials and try again. If this issue persists contact your Confluence Admin and make sure Basic Auth is enabled.",
+		"invalidUserTitle": "Invalid user",
+		"invalidUserDescription": "You can't use the app as an anonymous user.",
+		"errorDuringLoginTitle": "Invalid credentials",
+		"errorDuringLoginDescription": "Please check your credentials and try again. If this issue persists contact your Confluence Admin and make sure Basic Auth is enabled."
+	},
+	"basicLogin": {
+		"heading": "Connect to Confluence",
+		"subHeading": "Please provide your login credentials.",
+		"confluenceUrl": "Confluence Url",
+		"userNameOrEmail": "Username or Email address",
+		"apiToken": "API Token",
+		"password": "Password",
+		"createApiToken": "Create a new API Token"
+	},
+	"createMeetingNotes": {
+		"heading": "Create meeting page",
+		"changeLocation": "Change Location",
+		"pageTitlePlaceholder": "Please enter a page title",
+		"pageNameAlreadyExistsError": "There is already a page with this name.",
+		"descriptionLabel": "Description",
+		"createAgendaPage": "Create agenda page",
+		"createAgendaDraft": "Create agenda draft",
+		"templateLabel": "Template",
+		"createdLozenge": "CREATED",
+		"draftLozenge": "DRAFT",
+		"deleteLozenge": "DELETE",
+		"cancelLozenge": "CANCEL",
+		"deleteMeetingNotesTootlip": "Click to delete the meeting notes page.",
+		"deleteMeetingNotesDraftTootlip": "The meeting page will be created when you send the meeting request. Click to delete the draft.",
+		"parentPageTree": "Parent page tree",
+		"space": "Space"
+	},
+	"editMeetingNotes": {
+		"heading": "Confluence Meeting Agenda",
+		"viewInConfluence": "View in Confluence",
+		"parentPage": "Parent Page",
+		"parentSpace": "Space"
+	},
+	"initalPageSelection": {
+		"heading": "Select the meeting notes location",
+		"description": "You are just a little step away from creating your first Confluence Meeting notes directly from your Outlook. First, please select the location where you want to create your meeting notes. Note: You can then change this location afterwards.",
+		"needHelp": "Do you need help?"
+	},
+	"meetingAgenda": {
+		"heading": "Agenda",
+		"addItemPlaceholder": "Add agenda item",
+		"adjustEndtimeButton": "Click to adjust end time",
+		"adjustEndtimeTootltip": "Click to adjust end time",
+		"editToAdjustEndtime": "Edit the meeting to adjust the end time",
+		"totalDuration": "Total: "
+	},
+	"noConfluencePage": {
+		"heading": "No meeting notes page found",
+		"description": "Could not find a related Confluence page. If you are the organizer you can add an agenda when editing the event.",
+		"needHelp": "Need Help?"
+	},
+	"pagePickerScreen": {
+		"heading": "Select parent page",
+		"space": "Space",
+		"parentPage": "Parent Page"
+	},
+	"pagePicker": {
+		"placeholder": "Select the parent page",
+		"noOptionsMessage": "No results",
+		"searchMessage": "Type to search for pages",
+		"homePageLabel": "Home Page",
+		"recentPagesLabel": "Recent Pages",
+		"searchResultLabel": "Search Result"
+	},
+	"spacePicker": {
+		"placeholder": "Search for spaces",
+		"noOptionsMessage": "No results",
+		"searchMessage": "Type to search",
+		"recentSpaces'": "Recent Spaces",
+		"starredSpaces": "Starred Spaces",
+		"searchResultLabel": "Search Result for search term"
+	},
+	"settingsScreen": {
+		"heading": "Settings",
+		"restoreDefaults": "Restore Defaults",
+		"confirm": "Confirm",
+		"cancel": "Cancel"
+	},
+	"welcomeScreen": {
+		"heading": "Welcome to Outlook Meetings for Confluence",
+		"createConfluencePage": "Create a Confluence page for your meeting request.",
+		"planMeetingAgenda": "Plan a meeting agenda direktly in Outlook: Add agenda items, durations and speakers",
+		"collaborativelyAddAndChangeAgenda": "Collaboratively add and change talking points with your team in Outlook",
+		"startNow": "Start now!",
+		"aboutTheApp": "About the app",
+		"aboutYasoon": "About yasoon"
+	},
+	"templatesModel": {
+		"availableTemplates": "Available Templates",
+		"defaultTemplates": "Default Template",
+		"recentTemplates": "Recent Templates"
+	},
+	"agendaItem": {
+		"addTitle": "Add a title..."
+	},
+	"durationPicker": {
+		"duration": "Duration",
+		"min": "min"
+	},
+	"editor": {
+		"collapsedPlaceholder": "Click to edit the page description"
+	},
+	"instanceSettings": {
+		"loggedInAs": "You are logged in as:",
+		"currentlyNotLoggedIn": "You are currently not logged in.",
+		"logout": "Logout",
+		"login": "Login"
+	},
+	"errorBoundary": {
+		"heading": "Something went wrong :/",
+		"subHeading": "Sorry for the inconvenience.",
+		"openSupportTicket": "Open Support Ticket",
+		"reloadApplication": "Reload the application",
+		"persistMessage": "If this error persists please open a support ticket."
+	},
+	"userPicker": {
+		"placeholder": "Select User",
+		"noOptionsMessage": "No results",
+		"searchMessage": "Type to search",
+		"resultMessage": "Result for ",
+		"presenter": "Presenter"
 	}
 }
