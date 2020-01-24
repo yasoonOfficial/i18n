@@ -167,6 +167,7 @@
         "loginButton": "Anmelden"
     },
     "step3": {
+        "headline": "Wähle aus, welche Jira-Vorgänge du in welcher To Do-Liste sehen möchtest",
         "selectIssueOptionsTitle": "Kriterien auswählen (oder wechsle zum erweiterten Modus für mehr)",
         "selectIssueOptionMyIssues": "Mir zugewiesene Vorgänge in diesem Projekt",
         "selectIssueOptionPrio": "Vorgänge mit der höchsten Priorität in diesem Projekt",
@@ -177,21 +178,20 @@
         "splitSentenceAlwaysIgnoredIssuesPart2": " immer ignoriert.",
         "selectIssueOptionPlaceholder": "Vorgänge auswählen",
         "chooseOrCreateToDoListPlaceholder": "To Do-Liste auswählen oder erstellen",
-        "selectOrCreateList": "Wähle eine Liste aus oder beginne zu Tippen um eine neue zu erstellen",
-        "chooseWhichIssuesInWhichToDoListTitle": "Wähle aus, welche Jira-Vorgänge du in welcher To Do-Liste sehen möchtest"
+        "selectOrCreateList": "Wähle eine Liste aus oder beginne zu Tippen um eine neue zu erstellen"
     },
     "step4": {
-        "syncTaskCompletionFromIssueCompletionQuestion": "Wenn der Jira-Vorgang erledigt ist, sollen wir die Aufgabe in To Do abschließen?",
+        "headline": "Wenn der Jira-Vorgang erledigt ist, sollen wir die Aufgabe in To Do abschließen?",
         "syncTaskCompletionFromIssueCompletionInfo": "Wenn du Ja auswählst, wird das Erledigen eines Jira-Vorganges die Aufgabe von deiner To Do-Liste abhaken.",
         "yesButton": "Ja",
         "laterButton": "Nein, vielleicht später",
         "enableAutocompleteTasks": "Automatisches Abschließen aktivieren"
     },
     "step5": {
+        "headline": "Wenn die Aufgabe in To Do erledigt ist, sollen wir den Status des Jira-Vorgangs ändern?",
         "errorOopsEnableMSSync": "Ups, es ist ein Fehler aufgetreten!",
         "errorOopsDisableMSSync": "Ups, es ist ein Fehler aufgetreten!",
         "syncIssueFromTaskCompletionInfo": "Ändern des Status von Jira-Vorgängen aktivieren",
-        "syncIssueCompletionFromTaskCompletionQuestion": "Wenn die Aufgabe in To Do erledigt ist, sollen wir den Status des Jira-Vorgangs ändern?",
         "selectStatusToChangeIssueToInfo": "Wenn du Ja auswählst, musst du den Status auswählen, auf den wir den Vorgang setzen sollen, nachdem die zugehörige Aufgabe in To Do erledigt wurde.",
         "chooseStatusButton": "Ja, Status auswählen",
         "doNotChooseStatusButton": "Nein, vielleicht später"

@@ -167,6 +167,7 @@
         "loginButton": "Login"
     },
     "step3": {
+        "headline": "Choose which Jira issues you'd like to see in which To Do list",
         "selectIssueOptionsTitle": "Choose Criteria (or switch to advanced for more)",
         "selectIssueOptionMyIssues": "Issues assigned to me in this project",
         "selectIssueOptionPrio": "Issues with the highest priority in this project",
@@ -177,21 +178,20 @@
         "splitSentenceAlwaysIgnoredIssuesPart2": " are always ignored.",
         "selectIssueOptionPlaceholder": "Choose issues",
         "chooseOrCreateToDoListPlaceholder": "Choose or create a To Do list",
-        "selectOrCreateList": "Select a list or start typing to create a new one",
-        "chooseWhichIssuesInWhichToDoListTitle": "Choose which Jira issues you'd like to see in which To Do list"
+        "selectOrCreateList": "Select a list or start typing to create a new one"
     },
     "step4": {
+        "headline": "When the Jira issue is done, should we complete the task in To Do?",
         "syncTaskCompletionFromIssueCompletionInfo": "If you select yes, resolving a Jira issue will check off the item from your To Do list.",
         "yesButton": "Yes",
         "laterButton": "No, maybe later",
-        "syncTaskCompletionFromIssueCompletionQuestion": "When the Jira issue is done, should we complete the task in To Do?",
         "enableAutocompleteTasks": "Enable autocomplete tasks"
     },
     "step5": {
+        "headline": "When the task in To Do is completed, should we change the status of the Jira issue?",
         "errorOopsEnableMSSync": "Oops, error occurred!",
         "errorOopsDisableMSSync": "Oops, error occurred!",
         "syncIssueFromTaskCompletionInfo": "Enable changing status of jira issues",
-        "syncIssueCompletionFromTaskCompletionQuestion": "When the task in To Do is completed, should we change the status of the Jira issue?",
         "selectStatusToChangeIssueToInfo": "If you select yes, you'll need to choose the status that we should transition the Jira issue to, after a task has been completed in To Do.",
         "chooseStatusButton": "Yes, choose status",
         "doNotChooseStatusButton": "No, maybe later"
