@@ -1,9 +1,21 @@
 {
     "account": {
+        "loginButton": "Login",
+        "logoutButton": "Logout",
         "firstTimeText": "Looks like you are using the app for the very first time. Please login with your Office 365 Account to get started!"
     },
     "activateSyncStep": {
-        "heading": "All set!"
+        "headline": "All set!"
+    },
+    "additionalOptions": {
+        "errorOopsDueDateSync": "Oops, error occurred!",
+        "errorOopsEnableSync": "Oops, error occurred!",
+        "errorOopsDisableSync": "Oops, error occurred!",
+        "syncDueDatesQuestion": "Should the Jira issue due date be synced to the To Do task?",
+        "syncDueDatesLabel": "Sync due dates",
+        "preferredTaskResolveCriteriaQuestion": "When the Jira issue is completed, should we check off the task in To Do?",
+        "microsoftNotificationsQuestion": "When a task is completed in To Do, transition the issue?",
+        "microsoftNotificationsLabel": "Enable transitions"
     },
     "advancedConfiguration": {
         "microsoftAccount": "Microsoft Account",
@@ -34,7 +46,8 @@
         "dropdownItemGroupProductTitle": "Microsoft To Do For Jira",
         "dropdownItemGetStarted": "Get Started",
         "dropdownItemGroupOptionsTitle": "Options",
-        "dropdownItemMyTasks": "Always show \"My Tasks\""
+        "dropdownItemMyTasks": "Always show \"My Tasks\"",
+        "selectFolderPlaceholder": "Select..."
     },
     "disableMicrosoftWebhooksModal": {
         "areYouSureYouWantToDisableWebhooksInfo": "Are you sure you want to disable Microsoft notifications? This action will disable automatic issues resolving.",
@@ -49,6 +62,7 @@
     },
     "enableMicrosoftWebhooksModal": {
         "statusSelectInfo": "Select status where you want to move issue when corresponding task gets completed in the Microsoft To Do app.",
+        "statusSelectPlaceholder": "Choose a status",
         "submitButton": "Submit",
         "cancelButton": "Cancel"
     },
@@ -74,13 +88,16 @@
         "invalidLicenseTitle": "License expired",
         "invalidLicenseInfo": "You don't have a valid license or it has expired. If you'd like to continue using our app, please get valid license!"
     },
-    "jqlInfo": {
-        "aboutToSyncAmountInfo": "You are about to sync {{issuesAmount}} issues to Microsoft To Do.",
-        "syncWillStayActiveInfo": "Afterwards, we'll continuously sync new and updated Jira issues automatically."
+    "issueFilters": {
+        "errorOopsUpdateSync": "Oops, error occurred!",
+        "onlyCurrentProjektInfo": "Issue Criteria (only matches issues in current project)"
     },
-    "lazyLoadModule": {
-        "loading": "Loading module...",
-        "loaded": "Module loaded"
+    "jqlInfo": {
+        "aboutToSyncNultipleInfo": "You are about to sync {{issuesAmount}} issues to Microsoft To Do.",
+        "aboutToSyncSingleInfo": "You are about to sync 1 issue to Microsoft To Do.",
+        "syncWillStayActiveInfo": "Afterwards, we'll continuously sync new and updated Jira issues automatically.",
+        "aboutToSyncZeroInfo": "There are currently no issues matching your criteria.",
+        "syncWillStayActiveAfterZeroInfo": "If you start the sync, new and updated Jira issues matching your criteria will continuously be synced."
     },
     "link": {
         "previewIssueText": "Preview Issue",
@@ -115,30 +132,39 @@
         "unassignedLabel": "Unassigned"
     },
     "settings": {
+        "headline": "Sync Settings",
+        "subHeadline": "The following settings allow you to configure a sync for Jira issues of the current project.",
         "step1ChooseJiraIssues": "1. Choose Jira Issues",
         "step2ChooseToDoList": "2. Choose a To Do list",
         "step3ConfigSyncOptions": "3. Configure Sync Options",
         "step4StartStopSync": "4. Start / Stop the Sync",
         "disableSyncButton": "Disable synchronization",
-        "startSyncbutton": "Start syncing tasks",
+        "startSyncButton": "Start syncing tasks",
         "savingLozenge": "Saving"
     },
     "simpleConfig": {
-        "heading": "Simple mode it is!",
+        "headline": "Simple mode it is!",
         "introTextLine1": "This app allows you to add new tasks from any issue or configure an automatic sync for this project.",
         "introTextLine2": "If you are not using Microsoft To Do yet, make sure to check out the app first!",
         "switchToAdvanced": "Switch to advanced"
     },
+    "spotlightWrapper": {
+        "headline": "Set it up",
+        "filterDescription": "Please select filters for those issues that you'd like to synchronize to your To Do list.",
+        "selectListDescription": "Select or create the To Do list where your Jira issues should appear.",
+        "gotItButton":"Got it"
+    },
     "step1": {
-        "startWithProduct": "Start with Microsoft To Do",
+        "headline": "Start with Microsoft To Do",
         "ifNewInstallAndLoginWithMicrosoftInfo": "In case you are new to Microsoft To Do, please install it first and create an account (or use your existing Office 365 / Microsoft Login)",
         "goToDownloadProductButton": "Get To Do",
         "alreadyGotProductButton": "I've already got it"
     },
     "step2": {
+        "headline": "Login with your account",
         "logoutButton": "Logout",
         "toContinueLoginInfo": "To continue, we need to be able to create new tasks in your list. Log in below to allow us this access.",
-        "loginButton": "Login with your account"
+        "loginButton": "Login"
     },
     "step3": {
         "selectIssueOptionsTitle": "Choose Criteria (or switch to advanced for more)",
@@ -151,6 +177,7 @@
         "splitSentenceAlwaysIgnoredIssuesPart2": " are always ignored.",
         "selectIssueOptionPlaceholder": "Choose issues",
         "chooseOrCreateToDoListPlaceholder": "Choose or create a To Do list",
+        "selectOrCreateList": "Select a list or start typing to create a new one",
         "chooseWhichIssuesInWhichToDoListTitle": "Choose which Jira issues you'd like to see in which To Do list"
     },
     "step4": {
@@ -169,6 +196,10 @@
         "chooseStatusButton": "Yes, choose status",
         "doNotChooseStatusButton": "No, maybe later"
     },
+    "taskFolder": {
+        "selectList": "Target To Do list",
+        "selectPlaceholder": "Select..."
+    },
     "taskItem": {
         "inlineEditReadViewPlaceholder": "Click to enter value",
         "autoSyncedLozenge": "Autosynced"
@@ -182,4 +213,5 @@
         "advancedConfigDescription": "Choose this if you already know your way around To Do and Jira very well. This let's you configure every single detail.",
         "startButton": "Start {{mode}}"
     }
+
 }
