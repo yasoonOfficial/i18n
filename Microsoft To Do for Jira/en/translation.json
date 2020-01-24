@@ -132,6 +132,8 @@
         "unassignedLabel": "Unassigned"
     },
     "settings": {
+        "errorOopsEnableSync": "Oops, error occurred!",
+        "errorOopsDisableSync": "Oops, error occurred!",
         "headline": "Sync Settings",
         "subHeadline": "The following settings allow you to configure a sync for Jira issues of the current project.",
         "step1ChooseJiraIssues": "1. Choose Jira Issues",
@@ -205,6 +207,7 @@
         "autoSyncedLozenge": "Autosynced"
     },
     "welcome": {
+        "errorOopsCreateSettings": "Oops, error occurred!",
         "headline": "Hi {{name}}, welcome to Microsoft To Do for Jira!",
         "introText": "This app allows you to see all your relevant Jira issues in you personal To Do app. To get started, just select an option below - you can switch any time!",
         "simpleConfigName": "Simple",

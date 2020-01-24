@@ -132,6 +132,8 @@
         "unassignedLabel": "Nicht zugewiesen"
     },
     "settings": {
+        "errorOopsEnableSync": "Ups, es ist ein Fehler aufgetreten!",
+        "errorOopsDisableSync": "Ups, es ist ein Fehler aufgetreten!",
         "headline": "Synchroniserungseinstellungen",
         "subHeadline": "Die folgenden Einstellungen erlauben dir, eine Synchronisierung für Jira-Vorgänge des aktuellen Projekts einzurichten.",
         "step1ChooseJiraIssues": "1. Jira-Vorgänge auswählen",
@@ -205,6 +207,7 @@
         "autoSyncedLozenge": "Auto-Synchronisiert"
     },
     "welcome": {
+        "errorOopsCreateSettings": "Ups, es ist ein Fehler aufgetreten!",
         "headline": "Hi {{name}}, willkommen bei Microsoft To Do for Jira!",
         "introText": "Diese App erlaubt dir, alle für dich relevanten Jira-Vorgänge in deiner persönlichen To Do-App zu sehen. Um loszulegen, wähle unten einen Modus - du kannst jederzeit wechseln!",
         "simpleConfigName": "Einfach",
