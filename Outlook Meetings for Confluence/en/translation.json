@@ -3,13 +3,17 @@
 		"loading": "Loading..."
 	},
 	"addInstanceScreen": {
-		"connectToConfluence:": "Connect to Confluence",
-		"provideMailAddressMessage:": "Please provide the address you use to access Confluence.",
+		"heading": "Connect to Confluence",
+		"subHeading": "Please provide the address you use to access Confluence.",
+		"confluenceUrlLabel": "Confluence Url",
+		"confluenceUrlPlaceholder": "e.g. https://acme.atlassian.net",
 		"aggreementMessage": "With continue, you agree to our",
 		"termsOfService": "Terms of Service",
-		"and": "and",
+		"and": " and ",
 		"privacyPolicy": "Privacy Policy",
-		"whereDoIFindThis": "Where do I find this?"
+		"whereDoIFindThis": "Where do I find this?",
+		"continue": "Continue",
+		"login": "Login"
 	},
 	"errorMessages": {
 		"cannontConnectYasoonTitle": "Cannot connect to yasoon.com",
@@ -131,7 +135,7 @@
 		"collapsedPlaceholder": "Click to edit the page description"
 	},
 	"instanceSettings": {
-		"loggedInAs": "You are logged in as:",
+		"": "You are logged in as",
 		"currentlyNotLoggedIn": "You are currently not logged in.",
 		"logout": "Logout",
 		"login": "Login"
@@ -149,5 +153,42 @@
 		"searchMessage": "Type to search",
 		"resultMessage": "Result for ",
 		"presenter": "Presenter"
+	},
+	"templates": {
+		"loadingMessage": "Loading Templates",
+		"availableTemplates": "Available Templates",
+		"selectTemplate": "Select an Template"
+	},
+	"templateTable": {
+		"preconfiguredTemplates": "Preconfigured Templates",
+		"noCustomTemplates": "No custom templates selected. Select the first template in the picker underneath",
+		"addTemplate": "Add Template"
+	},
+	"adminScreen": {
+		"heading": "Outlook Meetings for Confluence",
+		"outlookAddinTitle": "Outlook Addin",
+		"windows": "Windows",
+		"mac": "Mac",
+		"outlookAddinDescription": "The corresponding Outlook add-in can be downloaded from the Microsoft AppSource store, just click on the following link. If you need help deploying the add-in in your company, we are happy to help.",
+		"getOfficeApp": "Get it from AppSource",
+		"templateTitle": "Templates",
+		"templatesDescription": "In addition to the included page template, you can also create new templates for your meeting notes or edit your existing ones. Note: To ensure that the app works correctly the template must contain the provided macro 'Meeting Agenda Macro', {{attendees}} and {{date}}.",
+		"helpTitle": "Help",
+		"helpDescription": "If you need further help or have any questions, you can find more information in our documentation. For suggestions or bugs in our app, please create a support ticket.",
+		"goToDocumentation": "Go to documentation",
+		"openSupportTicket": "Open a support ticket",
+		"welcomeMessage": "Welcome to Outlook Meetings for Confluence.",
+		"readyToUse": "Ready to use",
+		"errorMessage": "Something went wrong",
+		"troubleshootIssues": "Troubleshoot issues",
+	},
+	"meetingAgendaMacro": {
+		"title": "Title",
+		"addTitle": "Add Title...",
+		"description": "Description",
+		"addDescription": "Add Description...",
+		"addAgendaItem": "Add a agenda item...",
+		"noItemsMessage": "This meeting notes page has no items. You can add items by editing the macro. If you need futher help ",
+		"documentationLink": " have a look at our documentation"
 	}
 }
