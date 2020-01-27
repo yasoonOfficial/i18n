@@ -50,7 +50,7 @@
         "selectFolderPlaceholder": "Auswählen..."
     },
     "disableMicrosoftWebhooksModal": {
-        "areYouSureYouWantToDisableWebhooksInfo": "Bist du sicher, dass du die Microsoft-Benachrichtungen blockieren möchtest? Dies würde auch das automatische Erledigen von Vorgängen deaktivieren.",
+        "areYouSureYouWantToDisableWebhooksInfo": "Bist du sicher, dass du die Microsoft-Benachrichtigungen blockieren möchtest? Dies würde auch das automatische Erledigen von Vorgängen deaktivieren.",
         "disableButton": "Blockieren",
         "cancelButton": "Abbrechen"
     },
@@ -174,7 +174,7 @@
         "selectIssueOptionMyIssues": "Mir zugewiesene Vorgänge in diesem Projekt",
         "selectIssueOptionPrio": "Vorgänge mit der höchsten Priorität in diesem Projekt",
         "selectIssueOptionCustom": "Benutzerdefiniert",
-        "selectIssueOptionCustomDescription": "Wechsle zur Einstellung erweiterten Modus",
+        "selectIssueOptionCustomDescription": "Wechsle zur Einstellung in den erweiterten Modus",
         "splitSentenceAlwaysIgnoredIssuesPart1": "Bitte beachte: Im einfachen Modus werden Jira-Vorgänge mit dem Status ",
         "splitSentenceAlwaysIgnoredIssuesStatus": "Fertig",
         "splitSentenceAlwaysIgnoredIssuesPart2": " immer ignoriert.",
