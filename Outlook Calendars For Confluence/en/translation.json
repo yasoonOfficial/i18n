@@ -186,7 +186,6 @@
         "errorWhileSavingLozonge": "Error while saving",
         "errorWhileSavingFlagTitle": "Error while saving settings"
     },
-    "atlassianConnect":{
-        "calendarConfiguration":"timur stinkt!"
-    }
+    "atlassianConnect.calendarConfiguration": "Configure Calendars"
+    
 }
