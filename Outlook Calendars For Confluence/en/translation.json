@@ -62,7 +62,8 @@
         "yasoonConnect": "yasoon Connect",
         "O365RegionReference": "here",
         "EWSReadme": "here",
-        "ewsMailSupport": "contact"
+        "ewsMailSupport": "contact",
+        "openSupportTicket": "open a support ticket"
     },
     "jiraAdminTab": {
         "connectToJiraInstanceHeading": "Connect to a Jira instance",
@@ -186,6 +187,99 @@
         "errorWhileSavingLozonge": "Error while saving",
         "errorWhileSavingFlagTitle": "Error while saving settings"
     },
-    "atlassianConnect.calendarConfiguration": "Configure Calendars"
-    
+    "atlassianConnect.calendarConfiguration": "Configure Calendars",
+    "enableLoggingModal": {
+        "heading": "Enable Support Logging",
+        "acceptButtonLabel": "Accept",
+        "declineButtonLabel": "Decline",
+        "dataIsSentDescription": "If support logging is enabled, anonymised data will be sent to our server in case of an error while using our app.",
+        "dataHelpsDevelopersAndSupportDescription": "This data is monitored by our developers and allows us to identify issues that may occur while the use of Outlook Calendars for Confluence. You may then be contacted by our support team. This makes it possible to constantly improve our app.",
+        "dataIsDeletedAfter30DaysDescription": "Regardless of this, all data will be automatically deleted after 30 days.",
+        "openSupportTicketDescriptionWithLink": "If you have any issues using our app you can also, {{link}}."
+    },
+    "calendarContextMenu": {
+        "resolveJiraLoginProblemLabel": "Resolve login problem",
+        "resolveOfficeLoginProblemLabel": "Resolve login problem",
+        "addToOutlookLabel": "Add to Outlook",
+        "editJiraCalendarLabel": "Edit",
+        "removeCalendarLabel": "Remove"
+    },
+    "colorMenu": {
+        "chooseColorLabel": "Choose Color"
+    },
+    "iconMenu": {
+        "chooseIconLabel": "Choose Icon"
+    },
+    "calendarUtil": {
+        "noCategorySpecifiedErrorText": "No Category specified"
+    },
+    "jiraUtil": {
+        "typeLabel": "Type",
+        "prioLabel": "Priority",
+        "resolvedLabel": "Resolved",
+        "assigneeLabel": "Assignee",
+        "statusLabel": "Status",
+        "dueDateLabel": "Due date",
+        "reporterLabel": "Reporter"
+    },
+    "officeUtil": {
+        "mainCalendarName": "Main Calendar"
+    },
+    "customContentSettingProvider": {
+        "noUpdatePermissionErrorMessageTitle": "No permission to update on this page!",
+        "noUpdatePermissionErrorMessageText": "Ask the space admin for permissions",
+        "noCreatePermissionErrorMessageTitle": "No permission to create on this page!",
+        "noCreatePermissionErrorMessageText": "Ask the space admin for permissions",
+        "noDeletePermissionErrorMessageTitle": "No permission to delete on this page!",
+        "noDeletePermissionErrorMessageText": "Ask the space admin for permissions"
+    },
+    "serverSpacePropertySettingProvider": {
+        "noUpdatePermissionErrorMessageTitle": "No permission to update on this page!",
+        "noUpdatePermissionErrorMessageText": "Ask the space admin for permissions",
+        "noCreatePermissionErrorMessageTitle": "No permission to create on this page!",
+        "noCreatePermissionErrorMessageText": "Ask the space admin for permissions"
+    },
+    "cloudSpacePropertySettingProvider": {
+        "noUpdatePermissionErrorMessageTitle": "No permission to update on this page!",
+        "noUpdatePermissionErrorMessageText": "Ask the space admin for permissions",
+        "noCreatePermissionErrorMessageTitle": "No permission to create on this page!",
+        "noCreatePermissionErrorMessageText": "Ask the space admin for permissions"
+    },
+    "jiraController": {
+        "fetchProjects401ErrorTitle": "Jira call failed (unauthorized)",
+        "fetchProjects401ErrorText": "Try to log out and login again",
+        "getFilters404ErrorTitle": "Filter call failed",
+        "getFilters404ErrorText": "Ask your admin to install the newest version of the connect plugin",
+        "getFilters401ErrorTitle": "Jira call failed (unauthorized)",
+        "getFilters401ErrorText": "Try to log out and login again",
+        "getFilterJql401ErrorTitle": "Jira call failed (unauthorized)",
+        "getFilterJql401ErrorText": "Try to log out and login again",
+        "fetchFilterById401ErrorTitle": "Jira call failed (unauthorized)",
+        "fetchFilterById401ErrorText": "Try to log out and login again",
+        "getEvents401ErrorTitle": "Jira call failed (unauthorized)",
+        "getEvents401ErrorText": "Try to log out and login again",
+        "notLoggedInErrorMessage": "You are not logged in!"
+    },
+    "calendarModel": {
+        "fetchEventsNotLoggedInErrorMessage": "You are not logged in!"
+    },
+    "jiraIssueTransitionModel": {
+        "doTransitionSuccessNotificationTitle": "Updated status",
+        "doTransitionSuccessNotificationText": "Reload calendar to refetch data",
+        "doTransitionErrorNotificationTitle": "Sorry, that did not work",
+        "doTransitionErrorNotificationText": "Couldn't make transition to status: {name}"
+    },
+    "officeCalendarModel": {
+        "deletingEventErrorText": "Error deleting event",
+        "addedCalendarSuccessTitle": "Successfully added calendar to Outlook",
+        "addedCalendarSuccessText": "It might take a few minutes to show up!",
+        "addedCalendarErrorTitle": "Error adding calendar to outlook",
+        "fetchEventErrorText": "Error while fetching event",
+        "createCalendarErrorText": "Error while creating calendar",
+        "createGroupErrorText": "Error while creating a group",
+        "fetchCategoriesErrorText": "Error while fetching categories",
+        "createEventSuccessTitle": "Event successfully created",
+        "createEventSuccessText": "The event was created in your main calendar, which is not open.",
+        "createEventErrorTitle": "Error copying event"
+    }
 }
