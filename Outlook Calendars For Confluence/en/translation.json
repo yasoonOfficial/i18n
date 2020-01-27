@@ -206,7 +206,25 @@
     },
     "colorMenu": {
         "chooseColorLabel": "Choose Color"
+    
+    "officeCreateCalendar": {
+        "heading": "Create new Outlook Calendar",
+        "createButton": "Create",
+        "cancelButton": "Cancel",
+        "noSharedMailboxesTooltip": "No shared mailbox has been set in the settings",
+        "personalCalendarHeading": "Personal Calendar",
+        "personalCalendarPlaceholder": "Please enter a calendar name",
+        "personalCalendarNote": "Note: This Calendar will be created in your own mailbox",
+        "sharedMailboxesHeading": "Shared Mailboxes",
+        "sharedMailboxesPlaceholder": "Please enter a name",
+        "sharedMailboxesLabel": "Calendar name",
+        "addToOutlookLabel": "Add calendar to Outlook",
+        "o365GroupsHeading": "Outlook Groups",
+        "o365GroupNamePlaceholder": "Please Outlook-Group enter a name",
+        "o365GroupDescriptionPlaceholder": "Please enter a description",
+        "o365GroupDescriptionLabel": "Outlook-Group name"
     },
+
     "iconMenu": {
         "chooseIconLabel": "Choose Icon"
     },
@@ -238,6 +256,37 @@
         "noUpdatePermissionErrorMessageText": "Ask the space admin for permissions",
         "noCreatePermissionErrorMessageTitle": "No permission to create on this page!",
         "noCreatePermissionErrorMessageText": "Ask the space admin for permissions"
+    "officeCreateEvent": {
+        "basicTabLabel": "Basic",
+        "detailsTabLabel": "Details",
+        "attendeesTabLabel": "Attendees",
+        "recurrenceTabLabel": "Recurrence",
+        "plusTabLabel": "+",
+        "updateButton": "Update",
+        "saveButton": "Save",
+        "cancelButton": "Cancel",
+        "titleLabel": "Subject",
+        "titlePlaceholder": "Please enter an event title",
+        "locationLabel": "Location",
+        "locationPlaceholder": "Please enter an event location",
+        "categoryLabel": "Category",
+        "startLabel": "Start",
+        "allDayLabel": "All Day",
+        "endLabel": "End",
+        "detailedDescriptionLabel": "Detailed Description",
+        "attendeesLabel": "Attendees",
+        "reminderLabel": "Reminder",
+        "showAsLabel": "Show as",
+        "recurrenceLabel": "Recurrence",
+        "addRecurrenceButton": "Add Recurrence",
+        "eventTime": "Event Time",
+        "attendeesFromOpenCalendarsTooltip": "Add attendees from currently opened calendars",
+        "moreDetailsButton": "More Details",
+        "discardButton": "Discard"
+    },
+
+    "officeCategoryPicker": {
+        "placeholder": "Search for categories..."
     },
     "cloudSpacePropertySettingProvider": {
         "noUpdatePermissionErrorMessageTitle": "No permission to update on this page!",
@@ -262,6 +311,29 @@
     },
     "calendarModel": {
         "fetchEventsNotLoggedInErrorMessage": "You are not logged in!"
+
+    "officeCancelMeetingScreen": {
+        "heading": "Heads up!",
+        "sendButton": "Send",
+        "cancelButton": "Cancel",
+        "cancelSeriesDescription": "Cancel all events in this series and notify guests.",
+        "cancelEventDescription": "Cancel this event and notify guests",
+        "cancellationMessagePlaceholder": "Add Message (Optional)"
+    },
+
+    "officeDeleteScreen": {
+        "heading": "Heads up!",
+        "deleteButton": "Delete",
+        "cancelButton": "Cancel",
+        "deleteSeriesDescription": "Do you really want to delete all events in this series?",
+        "deleteEventDescription": "Do you really want to delete this event?"
+    },
+
+    "officeEditMeetingScreen": {
+        "heading": "Meeting time has changed",
+        "sendButton": "Send",
+        "cancelButton": "Cancel",
+        "description": "This update will notify attendees."
     },
     "jiraIssueTransitionModel": {
         "doTransitionSuccessNotificationTitle": "Updated status",
@@ -281,5 +353,23 @@
         "createEventSuccessTitle": "Event successfully created",
         "createEventSuccessText": "The event was created in your main calendar, which is not open.",
         "createEventErrorTitle": "Error copying event"
+
+    "officeEventHover": {
+        "openInOutlookButton": "Open in Outlook",
+        "editButton": "Edit",
+        "editOccurenceDropdownItem": "This Event",
+        "editSeriesDropdownItem": "All Events in the series",
+        "copyToOwnCalendarButton": "Copy to own calendar",
+        "copyToOwnCalendarOccurenceDropdownItem": "This Event",
+        "copyToOwnCalendarSeriesDropdownItem": "All Events in the series",
+        "deleteButton": "Delete",
+        "deleteOccurenceDropdownItem": "This Event",
+        "deleteSeriesDropdownItem": "All Events in the series",
+        "descriptionLabel": "Description"
+    },
+
+
+    "officeCalendarPicker": {
+        "noOptionsMessage": "We found no calendar you have access to - sorry!"
     }
 }
