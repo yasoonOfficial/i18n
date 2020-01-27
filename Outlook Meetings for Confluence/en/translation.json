@@ -122,7 +122,8 @@
 	"templatesModel": {
 		"availableTemplates": "Available Templates",
 		"defaultTemplates": "Default Template",
-		"recentTemplates": "Recent Templates"
+		"recentTemplates": "Recent Templates",
+		"noOptionsMessage": "No templates available"
 	},
 	"agendaItem": {
 		"addTitle": "Add a title..."
@@ -180,7 +181,7 @@
 		"welcomeMessage": "Welcome to Outlook Meetings for Confluence.",
 		"readyToUse": "Ready to use",
 		"errorMessage": "Something went wrong",
-		"troubleshootIssues": "Troubleshoot issues",
+		"troubleshootIssues": "Troubleshoot issues"
 	},
 	"meetingAgendaMacro": {
 		"title": "Title",
@@ -190,5 +191,13 @@
 		"addAgendaItem": "Add a agenda item...",
 		"noItemsMessage": "This meeting notes page has no items. You can add items by editing the macro. If you need futher help ",
 		"documentationLink": " have a look at our documentation"
+	},
+	"license": {
+		"expiredMessage": "Your license has expired"
+	},
+	"templatePlaceholder": {
+		"description": "This is a placeholder you don't need to configure it.",
+		"heading": "You are all set.",
+		"helpText": "Need help?"
 	}
 }

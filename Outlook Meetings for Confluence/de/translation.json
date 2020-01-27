@@ -7,9 +7,9 @@
 		"subHeading": "Bitte gib die Url an, die du für den Zugriff auf Confluence verwendest.",
 		"confluenceUrlLabel": "Confluence Url",
 		"confluenceUrlPlaceholder": "z.B. https://acme.atlassian.net",
-		"aggreementMessage": "Mit Weiter stimmen Sie unserer",
+		"aggreementMessage": "Mit Weiter stimmst du unseren",
 		"termsOfService": "Nutzungsbedingungen",
-		"and": " und ",
+		"and": " und der ",
 		"privacyPolicy": "Datenschutzerklärung",
 		"whereDoIFindThis": "Wo finde ich diese?",
 		"continue": "Weiter",
@@ -17,20 +17,20 @@
 	},
 	"errorMessages": {
 		"cannontConnectYasoonTitle": "Keine Verbindung zu to yasoon.com",
-		"cannontConnectYasoonDescription": "Wir konnten keine Verbindung zu unserem Backend-Server unter *.yasoon.com herstellen. Dies könnte durch eine restriktive Firewall verursacht werden. Sie können das Addin einfach weiter verwenden, aber einige Funktionen funktionieren möglicherweise nicht wie erwartet. Wenn Sie die volle Funktionalität haben möchten, fügen Sie bitte yasoon.com zur Whitelist hinzu (oder bitten deine IT-Abteilung, yasoon.com in die Liste aufzunehmen).",
+		"cannontConnectYasoonDescription": "Wir konnten keine Verbindung zu unserem Backend-Server unter *.yasoon.com herstellen. Dies könnte durch eine restriktive Firewall verursacht werden. Du kannst das Addin einfach weiter verwenden, aber einige Funktionen funktionieren möglicherweise nicht wie erwartet. Wenn du die volle Funktionalität haben möchtest, füge bitte yasoon.com zur Whitelist hinzu (oder bitte deine IT-Abteilung, yasoon.com in die Liste aufzunehmen).",
 		"confluenceAppNotInstalledTitle": "Confluence App nicht gefunden",
 		"confluenceAppNotInstalledDescription": "",
 		"cannotConnectConfluenceTitle": "Cannot connect to Confluence",
 		"cannotConnectConfluenceDescription": "",
 		"notifyForServerVersionTitle": "Confluence Server",
-		"notifyForServerVersionDescription": "We currently only support Confluence Cloud instances. Get a notification when the app is available for Confluence Server",
+		"notifyForServerVersionDescription": "Wir unterstützen derzeit nur Confluence-Cloud-Instanzen. Benachrichtige mich, wenn die App für Confluence Server verfügbar ist.",
 		"notifyButton": "Notify me",
 		"invalidCredentialsTitle": "Ungültige Anmeldedaten",
-		"invalidCredentialsDescription": "Bitte überprüfen Sie Ihre Anmeldedaten und versuchen Sie es erneut. Wenn dieses Problem weiterhin besteht, wenden Sie sich an Ihren Confluence-Admin und stellen Sie sicher, dass Basic Auth aktiviert ist.",
+		"invalidCredentialsDescription": "Bitte überprüfen deine Anmeldedaten und versuche es erneut. Wenn dieses Problem weiterhin besteht, wende dich an deinen Confluence-Admin und stelle sicher, dass Basic Auth aktiviert ist.",
 		"invalidUserTitle": "Ungültiger benutzer",
-		"invalidUserDescription": "Sie können die Anwendung nicht als anonymer Benutzer verwenden.",
+		"invalidUserDescription": "Die Anwendung kann nicht nicht mit anonymen Benutzern verwendet werden.",
 		"errorDuringLoginTitle": "Ungültige Anmeldedaten",
-		"errorDuringLoginDescription": "Bitte überprüfen Sie Ihre Anmeldedaten und versuchen Sie es erneut. Wenn dieses Problem weiterhin besteht, wenden Sie sich an Ihren Confluence-Admin und stellen Sie sicher, dass Basic Auth aktiviert ist."
+		"errorDuringLoginDescription": "Bitte überprüfe deine Anmeldedaten und versuche es erneut. Wenn dieses Problem weiterhin besteht, wende dich an deinen Confluence-Admin und stelle sicher, dass Basic Auth aktiviert ist."
 	},
 	"basicLogin": {
 		"heading": "Mit Confluence verbinde",
@@ -39,7 +39,7 @@
 		"userNameOrEmail": "Benutzername oder E-Mail-Adresse",
 		"apiToken": "API Token",
 		"password": "Passwort",
-		"createApiToken": "Erstellen Sie ein neues API-Token"
+		"createApiToken": "Erstelle einen neues API-Token"
 	},
 	"createMeetingNotes": {
 		"heading": "Besprechungsseite erstellen",
@@ -55,7 +55,7 @@
 		"deleteLozenge": "LÖSCHEN",
 		"cancelLozenge": "VERWERFEN",
 		"deleteMeetingNotesTootlip": "Klicke um die Besprechungsnotizen zu löschen.",
-		"deleteMeetingNotesDraftTootlip": "Die Meeting Agenda Seite wird erstellt, wenn Sie die Meetinganfrage senden. Klicke um den Entwurf zu löschen.",
+		"deleteMeetingNotesDraftTootlip": "Die Meeting Agenda Seite wird erstellt, wenn die Meetinganfrage versendet wird. Klicke um den Entwurf zu löschen.",
 		"parentPageTree": "Übergeordnete Seite",
 		"space": "Bereich"
 	},
@@ -66,7 +66,7 @@
 		"parentSpace": "Bereicht"
 	},
 	"initalPageSelection": {
-		"heading": "Wählen Sie den Ort für die Besprechungsnotizen aus",
+		"heading": "Wähle den Ort für die Besprechungsnotizen aus",
 		"description": "Es ist nur noch ein kleiner Schritt bis zur Erstellung deiner ersten Confluence Meeting Notizen direkt aus deinem Outlook. Bitte wählen zuerst den Ort aus, an dem du die Besprechungsnotizen erstellen möchtest. Anmerkung: Du kannst diesen dann nachträglich ändern.",
 		"needHelp": "Brauchst du hilfe?"
 	},
@@ -80,8 +80,8 @@
 	},
 	"noConfluencePage": {
 		"heading": "Keine Zugehörige Seite mit Besprechungsnotizen gefunden",
-		"description": "Es wurde keine zugehörige Confluence-Seite gefunden. Wenn Sie der Organisator sind, können Sie beim Bearbeiten der Veranstaltung eine Agenda hinzufügen.",
-		"needHelp": "Brauchen Sie Hilfe?"
+		"description": "Es wurde keine zugehörige Confluence-Seite gefunden. Wenn du der Organisator bist, kannst du im Bearbeitungmodus der Meetings eine Agenda hinzufügen.",
+		"needHelp": "Brauchst du Hilfe?"
 	},
 	"pagePickerScreen": {
 		"heading": "Wähle die übergeordnete Seite",
@@ -155,40 +155,49 @@
 		"presenter": "Moderator"
 	},
 	"templates": {
-		"loadingMessage": "Loading Templates",
-		"availableTemplates": "Available Templates",
-		"selectTemplate": "Select an Template"
+		"loadingMessage": "Lade Vorlagen",
+		"availableTemplates": "Verfügbare Vorlagen",
+		"selectTemplate": "Wähle eine Vorlage",
+		"noOptionsMessage": "Keine Vorlagen verfügbar"
 	},
 	"templateTable": {
-		"preconfiguredTemplates": "Preconfigured Templates",
-		"noCustomTemplates": "No custom templates selected. Select the first template in the picker underneath",
-		"addTemplate": "Add Template"
+		"preconfiguredTemplates": "Vorkonfigurierte Vorlagen",
+		"noCustomTemplates": "Keine benutzerdefinierten Vorlagen ausgewählt. Wähle die erste Vorlage in der Auswahlliste unten aus.",
+		"addTemplate": "Vorlage hinzufügen"
 	},
 	"adminScreen": {
 		"heading": "Outlook Meetings for Confluence",
 		"outlookAddinTitle": "Outlook Addin",
 		"windows": "Windows",
 		"mac": "Mac",
-		"outlookAddinDescription": "The corresponding Outlook add-in can be downloaded from the Microsoft AppSource store, just click on the following link. If you need help deploying the add-in in your company, we are happy to help.",
-		"getOfficeApp": "Get it from AppSource",
-		"templateTitle": "Templates",
-		"templatesDescription": "In addition to the included page template, you can also create new templates for your meeting notes or edit your existing ones. Note: To ensure that the app works correctly the template must contain the provided macro 'Meeting Agenda Macro', {{attendees}} and {{date}}.",
-		"helpTitle": "Help",
-		"helpDescription": "If you need further help or have any questions, you can find more information in our documentation. For suggestions or bugs in our app, please create a support ticket.",
-		"goToDocumentation": "Go to documentation",
-		"openSupportTicket": "Open a support ticket",
-		"welcomeMessage": "Welcome to Outlook Meetings for Confluence.",
-		"readyToUse": "Ready to use",
-		"errorMessage": "Something went wrong",
-		"troubleshootIssues": "Troubleshoot issues"
+		"outlookAddinDescription": "Das entsprechende Outlook-Add-In kann im Microsoft AppSource-Store heruntergeladen werden, klicke einfach auf den folgenden Link. Wenn du Hilfe bei der Einführung des Add-Ins in deinem Unternehmen benötigst, helfen wir dir gerne weiter.",
+		"getOfficeApp": "Von AppSource beziehen",
+		"templateTitle": "Vorlagen",
+		"templatesDescription": "Zusätzlich zu der mitgelieferten Seitenvorlage können auch neue Vorlagen für Besprechungsnotizen erstellt werden oder vorhandenen bearbeitet werden. Hinweis: Damit die App korrekt funktioniert, muss die Vorlage das mitgelieferte Makro 'Meeting Agenda Makro', {{Attendees}} und {{{Date}}} enthalten.",
+		"helpTitle": "Hilfe",
+		"helpDescription": "Wenn du weitere Hilfe benötigst oder Fragen hast, findest du weitere Informationen in unserer Dokumentation. Für Feedback oder Bugs in unserer App erstelle bitte ein Support-Ticket.",
+		"goToDocumentation": "Zur Dokumentation",
+		"openSupportTicket": "Support-Ticket erstellen.",
+		"welcomeMessage": "Willkommen bei Outlook Meetings for Confluence.",
+		"readyToUse": "Einsatzbereit.",
+		"errorMessage": "Etwas ist schief gelaufen",
+		"troubleshootIssues": "Fehlersuche und -behebung"
 	},
 	"meetingAgendaMacro": {
-		"title": "Title",
-		"addTitle": "Add Title...",
-		"description": "Description",
-		"addDescription": "Add Description...",
-		"addAgendaItem": "Add a agenda item...",
-		"noItemsMessage": "This meeting notes page has no items. You can add items by editing the macro. If you need futher help ",
-		"documentationLink": " have a look at our documentation"
+		"title": "Titel",
+		"addTitle": "Titel hinzufügen...",
+		"description": "Beschreibung",
+		"addDescription": "Beschreibung hinzufügen...",
+		"addAgendaItem": "Agenda Eintrag hinzufügen",
+		"noItemsMessage": "Diese Seite der Besprechungsnotizen enthält keine Einträge. Du kannst Elemente hinzufügen, indem du das Makro bearbeitest.",
+		"documentationLink": " schaue in unserer Dokumentation nach."
+	},
+	"license": {
+		"expiredMessage": "Ihre Lizenz ist abgelaufen"
+	},
+	"templatePlaceholder": {
+		"description": "Dies ist ein Platzhalter, du brauchst diesen nncht konfigurieren",
+		"heading": "Du bist fertig",
+		"helpText": "Du brauchst hilfe?"
 	}
 }
