@@ -632,5 +632,35 @@
     },
     "officeSharedMailboxesTab": {
         "openSharedMailboxesDescription": "Open Outlook Groups within your company."
+    },
+    "yasoonDateTimePicker": {
+        "placeholder": "Select a date..."
+    },
+    "welcomeTour": {
+        "gettingStartedHeading": "Getting Started",
+        "addCalendarsHeading": "Adding Calendars",
+        "createAndEditHeading": "Create & Edit Events",
+        "welcomeHeading": "Welcome to Outlook Calendars for Confluence. You can use the calendar in the following ways.",
+        "youAreHere": "You are here!",
+        "personalCalendar": "The personal calendar is the place for all Outlook calendars that are relevant to you. Only you can access this calendar view.",
+        "spaceCalendar": "Space calendars are accessible for everyone with access to the space. It's the perfect place to view all calendars relevant to the project.",
+        "macroCalendar": "Use the calendar macro to embed Outlook calendars in any Confluence page to schedule meetings or share dates with your team.",
+        "openCalendars": "You can easily open personal or shared Outlook calendars. In addition, you can overlay Jira or Trello due dates.<br /> Give your team the best possible overview to plan and track a project.",
+        "createEvents": "You can create personal or shared Outlook events, as well as edit existing events.<br /> Easily schedule events even in large teams.",
+        "previousButton": "Previous",
+        "nextButton": "Next",
+        "startButton": "Start"
+    },
+    "userSettings": {
+        "iconTooltip": "Profile and user settings",
+        "helpLabel": "Help",
+        "suggestionsLabel": "Suggestions",
+        "welcomeTourLabel": "Show Welcome-Dialog",
+        "enableLogging": "Support logging enabled",
+        "settingsTitle": "Settings",
+        "timezoneTitle": "Timezone",
+        "helpTitle": "Help",
+        "logoutTitle": "Logout",
+        "logout": "Logout"
     }
 }
