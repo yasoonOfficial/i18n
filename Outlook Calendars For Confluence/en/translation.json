@@ -222,7 +222,8 @@
         "o365GroupsHeading": "Outlook Groups",
         "o365GroupNamePlaceholder": "Please Outlook-Group enter a name",
         "o365GroupDescriptionPlaceholder": "Please enter a description",
-        "o365GroupDescriptionLabel": "Outlook-Group name"
+        "o365GroupDescriptionLabel": "Outlook-Group name",
+        "calendarNameLabel": "Calendar Name"
     },
     "jiraBoardPicker": {
         "board": "Board",
@@ -497,12 +498,7 @@
         "deleteSeriesDropdownItem": "All Events in the series",
         "descriptionLabel": "Description"
     },
-    "officeCalendarPicker": {
-        "noOptionsMessage": "We found no calendar you have access to - sorry!"
-    }
-
-
-    , "officeCreateEventScreenModel": {
+    "officeCreateEventScreenModel": {
         "createEventSuccessTitle": "Event successfully created",
         "createEventSuccessText": "The event was created in your main calendar, which is not active.",
         "createEventErrorMessage": "An error has occured!"
@@ -544,7 +540,80 @@
         "": "September",
         "": "October",
         "": "November",
-        "": "December",
+        "": "December"
+    },
+    "officeCalendarPicker": {
+        "noOptionsMessage": "We found no calendar you have access to - sorry!",
+        "allreadyOpenedDescription": "Already opened calendars are not shown in this list"
+    },
+    "officeAttendeePicker": {
+        "noOptionsMessage": "No results",
+        "typeToSearchPlaceholder": "Type to search...",
+        "manualEntry": "(manual entry)",
+        "searchPlaceHolder": "Search..."
+    },
+    "officeEventCalendarPicker": {
+        "outlookCalendarsLabel": "Outlook Calendars",
+        "outlookGroupsLabel": "Outlook Groups",
+        "outlookCalendarHeading": "Outlook Calendar"
+    },
+    "officeGroupPicker": {
+        "noOptionsMessage": "No results",
+        "typeToSearchPlaceholder": "Type to search...",
+        "manualEntry": "(manual entry)",
+        "searchPlaceholder": "Search for groups"
+    },
+    "recurrencePicker": {
+        "patternLabel": "Recurrence pattern",
+        "occurences": "occurence(s)",
+        "startsOnText": "Starts on",
+        "endsText": "Ends",
+        "daysText": "day(s)",
+        "everyDayLabel": "Every",
+        "everyWeekdayLabel": "Every Weekday",
+        "reccurEveryText": "Reccur every",
+        "weeksText": "week(s)",
+        "onText": "on",
+        "ofEveryText": "of every",
+        "monthText": "month",
+        "yearsText": "year(s)",
+        "everyText": "every",
+        "ofText": "of"
+    },
+    "officeSharedMailboxPicker": {
+        "searchPlaceholder": "Search..."
+    },
+    "officeUserPicker": {
+        "noOptionsMessage": "No results",
+        "typeToSearchPlaceholder": "Type to search...",
+        "manualEntry": "(manual entry)",
+        "searchPlaceholder": "Search for users"
+    },
+    "officeUpdateSeriesScreen": {
+        "occurenceButton": "Occurence",
+        "cantChangeDayTooltip": "You can't change the day of a series-event",
+        "seriesButton": "Series",
+        "cancelButton": "Cancel",
+        "updateSeriesOrOccurrenceText": "Would you like to update the occurrence or the series?",
+        "seriesUpdateNoteText": "(If you update the series your changes on occurrences will be canceled and those events will match the series again!)"
+    },
+    "officeOpenCalendarScreen": {
+        "addressBookTabLabel": "From Address Book",
+        "preconfiguredMailboxesTabLabel": "From Address Book",
+        "outlookGroupsTabLabel": "Outlook Groups",
+        "openCalendarHeading": "Open Calendar",
+        "openButton": "Open",
+        "cancelButton": "Cancel",
+        "noMailboxConfiguredTooltip": "No shared mailbox is configured."
+    },
+    "officePersonTab": {
+        "openCalendarsDescription": "Open your own or calendars or those of your co-workers.",
+        "searchPlaceholder": "Search for persons..."
+    },
+    "officeGroupsTab": {
+        "openGroupsDescription": "Open Outlook Groups within your company."
+    },
+    "officeSharedMailboxesTab": {
+        "openSharedMailboxesDescription": "Open Outlook Groups within your company."
     }
-
 }
