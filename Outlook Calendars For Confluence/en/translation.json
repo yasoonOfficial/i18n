@@ -206,7 +206,7 @@
     },
     "colorMenu": {
         "chooseColorLabel": "Choose Color"
-    
+    },
     "officeCreateCalendar": {
         "heading": "Create new Outlook Calendar",
         "createButton": "Create",
@@ -388,6 +388,7 @@
         "noUpdatePermissionErrorMessageText": "Ask the space admin for permissions",
         "noCreatePermissionErrorMessageTitle": "No permission to create on this page!",
         "noCreatePermissionErrorMessageText": "Ask the space admin for permissions"
+    },
     "officeCreateEvent": {
         "basicTabLabel": "Basic",
         "detailsTabLabel": "Details",
@@ -416,7 +417,6 @@
         "moreDetailsButton": "More Details",
         "discardButton": "Discard"
     },
-
     "officeCategoryPicker": {
         "placeholder": "Search for categories..."
     },
@@ -443,7 +443,7 @@
     },
     "calendarModel": {
         "fetchEventsNotLoggedInErrorMessage": "You are not logged in!"
-
+    },
     "officeCancelMeetingScreen": {
         "heading": "Heads up!",
         "sendButton": "Send",
@@ -452,7 +452,6 @@
         "cancelEventDescription": "Cancel this event and notify guests",
         "cancellationMessagePlaceholder": "Add Message (Optional)"
     },
-
     "officeDeleteScreen": {
         "heading": "Heads up!",
         "deleteButton": "Delete",
@@ -460,7 +459,6 @@
         "deleteSeriesDescription": "Do you really want to delete all events in this series?",
         "deleteEventDescription": "Do you really want to delete this event?"
     },
-
     "officeEditMeetingScreen": {
         "heading": "Meeting time has changed",
         "sendButton": "Send",
@@ -485,7 +483,7 @@
         "createEventSuccessTitle": "Event successfully created",
         "createEventSuccessText": "The event was created in your main calendar, which is not open.",
         "createEventErrorTitle": "Error copying event"
-
+    },
     "officeEventHover": {
         "openInOutlookButton": "Open in Outlook",
         "editButton": "Edit",
@@ -499,8 +497,6 @@
         "deleteSeriesDropdownItem": "All Events in the series",
         "descriptionLabel": "Description"
     },
-
-
     "officeCalendarPicker": {
         "noOptionsMessage": "We found no calendar you have access to - sorry!"
     }
