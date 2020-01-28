@@ -268,93 +268,93 @@
         "openInJiraButtonLabel": "Open in Jira",
         "copyIconLabel": "Copy",
         "copyToJiraButtonLabel": "Copy to own calendar",
-        "projectLabel":"Project:",
+        "projectLabel": "Project:",
         "jiraIconLabel": "Project Type",
         "startDateLabel": "Start Date:",
-        "endDateLabel":"End Date:",
-        "goalLabel":"Goal:",
-        "none":"None",
-        "descriptionLabel":"Description:"
+        "endDateLabel": "End Date:",
+        "goalLabel": "Goal:",
+        "none": "None",
+        "descriptionLabel": "Description:"
     },
     "jiraDetailFields": {
-        "couldNotRenderFieldError":"Error: Could not render the field",
-        "demoIssueNewFeature":"New Feature",
-        "demoIssueStatus":"IN PROGRESS",
-        "demoIssuePriority":"Major",
-        "demoIssueFullName":"Full Name",
-        "demoIssueNameOfSubtask":"Name of subtask",
-        "demoIssueFilenameLabel":"Filename",
-        "demoIssueFilenameValue":"Data to be displayed",
-        "demoIssueFilenameName":"Data to be displayed",
-        "demoIssueCommentBody":"Comment data",
-        "demoIssueDefaultValue":"Data to be displayed",
-        "issueTypeLabel":"Type:",
-        "priorityLabel":"Type:",
-        "timeRemaining":" {time} remaining",
-        "timeDifferenceIconLabel":"Show time difference",
-        "displayNameFallback":"Name is private",
-        "showAllSubtasksTrigger" :"Show all +({count})",
-        "showAllJiraItemsTrigger" :"Show all +({count})",
-        "showAllCommentsTrigger" :"Show all +({count})",
-        "showAllAttachmentsTrigger" :"Show all +({count})",
-        "jiraIssueUrlLink":"{link}",
-        "openLinkButtonLabel":"Open Link",
-        "defaultFieldFallbackValue":"Data can't be displayed",
-        "attachmentIconLabel":"Attachment",
-        "dataCantBeDisplayedError":"Data can't be displayed"
+        "couldNotRenderFieldError": "Error: Could not render the field",
+        "demoIssueNewFeature": "New Feature",
+        "demoIssueStatus": "IN PROGRESS",
+        "demoIssuePriority": "Major",
+        "demoIssueFullName": "Full Name",
+        "demoIssueNameOfSubtask": "Name of subtask",
+        "demoIssueFilenameLabel": "Filename",
+        "demoIssueFilenameValue": "Data to be displayed",
+        "demoIssueFilenameName": "Data to be displayed",
+        "demoIssueCommentBody": "Comment data",
+        "demoIssueDefaultValue": "Data to be displayed",
+        "issueTypeLabel": "Type:",
+        "priorityLabel": "Type:",
+        "timeRemaining": " {time} remaining",
+        "timeDifferenceIconLabel": "Show time difference",
+        "displayNameFallback": "Name is private",
+        "showAllSubtasksTrigger": "Show all +({count})",
+        "showAllJiraItemsTrigger": "Show all +({count})",
+        "showAllCommentsTrigger": "Show all +({count})",
+        "showAllAttachmentsTrigger": "Show all +({count})",
+        "jiraIssueUrlLink": "{link}",
+        "openLinkButtonLabel": "Open Link",
+        "defaultFieldFallbackValue": "Data can't be displayed",
+        "attachmentIconLabel": "Attachment",
+        "dataCantBeDisplayedError": "Data can't be displayed"
     },
     "jiraIssueFieldStatus": {
-        "statusLabel":"Status:",
-        "transitionIconLabel":"open Transition",
-        "transitionDropdownHeading":"transition issue to:",
-        "deleteIconLabel":"Delete"
+        "statusLabel": "Status:",
+        "transitionIconLabel": "open Transition",
+        "transitionDropdownHeading": "transition issue to:",
+        "deleteIconLabel": "Delete"
     },
     "jiraIssueSelector": {
-        "selectByTabHeading":"Select By",
-        "displayOptionsTabHeading":"Display Options"
+        "selectByTabHeading": "Select By",
+        "displayOptionsTabHeading": "Display Options"
     },
     "jiraLoginModal": {
-        "contentHeading":"Sorry for bothering you.",
-        "contentDescription":"The calendar you try to open contains Jira calendars. If you can see these information, please login with your Jira account!",
-        "loginToJiraButtonLabel":"Login to Jira",
-        "skipJiraLogin":"Skip"
+        "contentHeading": "Sorry for bothering you.",
+        "contentDescription": "The calendar you try to open contains Jira calendars. If you can see these information, please login with your Jira account!",
+        "loginToJiraButtonLabel": "Login to Jira",
+        "skipJiraLogin": "Skip"
     },
     "jiraProjectPicker": {
         "projectLabel": "Project",
-        "projectPickerPlaceholder":"Please select a project"
+        "projectPickerPlaceholder": "Please select a project"
     },
     "jiraReleasePicker": {
-        "startDateOptionLabel":"Start Date",
-        "releaseDateOptionLabel":"Release Date",
-        "releasesOfName":"Releases of"
+        "startDateOptionLabel": "Start Date",
+        "releaseDateOptionLabel": "Release Date",
+        "releasesOfName": "Releases of"
     },
     "jiraSavedFilters": {
-        "savedFiltersLabel":"Saved Filters",
-        "selectAFilterPlaceholder":"Please select a Filter"
+        "savedFiltersLabel": "Saved Filters",
+        "selectAFilterPlaceholder": "Please select a Filter"
     },
     "jiraSelectByContainer": {
         "noQueryEntered": "No Query entered",
-        "projectOptionLabel":"Project",
-        "savedFiltersOptionLabel":"Saved filters",
-        "jqlOptionLaabel":"JQL",
-        "jqlTextareaPlaceholder":"Please insert JQL query here",
-        "jqlIsValidatingMessage":"Checking JQL status",
-        "jqlIsInvalidMessage":"JQL not valid!",
-        "jiraJQLHelpLink":"...more",
-        "jqlIsValidMessage":"JQL is valid",
-        "projectsName":"Issues of {name}"
+        "projectOptionLabel": "Project",
+        "savedFiltersOptionLabel": "Saved filters",
+        "jqlOptionLaabel": "JQL",
+        "jqlTextareaPlaceholder": "Please insert JQL query here",
+        "jqlIsValidatingMessage": "Checking JQL status",
+        "jqlIsInvalidMessage": "JQL not valid!",
+        "jiraJQLHelpLink": "...more",
+        "jqlIsValidMessage": "JQL is valid",
+        "projectsName": "Issues of {name}"
     },
     "jiraSelectDateRange": {
-        "deleteIconLabel":"Delete Icon",
-        "dateRangeFromPlaceholder":"Range from:",
-        "singleDatePlaceholder":"Please add a date",
-        "dateRangeToPlaceholder":"To date",
-        "createDateRangeButtonLabel":"Create date range"
+        "deleteIconLabel": "Delete Icon",
+        "dateRangeFromPlaceholder": "Range from:",
+        "singleDatePlaceholder": "Please add a date",
+        "dateRangeToPlaceholder": "To date",
+        "createDateRangeButtonLabel": "Create date range"
     },
     "jiraSprintSelector": {
-        "completedDateOptionLabel":"Completed Date",
-        "endDateOptionLabel":"End Date",
-        "startDateOptionLabel":"Completed Date",
+        "completedDateOptionLabel": "Completed Date",
+        "endDateOptionLabel": "End Date",
+        "startDateOptionLabel": "Completed Date",
         "sprintName": "Sprints of {sprintName}"
     },
     "iconMenu": {
@@ -500,4 +500,51 @@
     "officeCalendarPicker": {
         "noOptionsMessage": "We found no calendar you have access to - sorry!"
     }
+
+
+    , "officeCreateEventScreenModel": {
+        "createEventSuccessTitle": "Event successfully created",
+        "createEventSuccessText": "The event was created in your main calendar, which is not active.",
+        "createEventErrorMessage": "An error has occured!"
+    },
+    "officeOpenCalendarScreenModel": {
+        "mapGroupToCalendarAlreadyOpenErrorMessage": "It seems like you've already opened the group calendar",
+        "checkForMailboxAlreadyOpenErrorMessage": "It seems like you've already opened the group calendar",
+        "noSuchUserErrorMessage": "No such user",
+        "noCalendarsErrorMessage": "Oops: we could not find any calendars!"
+    },
+    "officeUpdateEventModelData": {
+        "deltaUpdateEventErrorMessage": "Error updating event",
+        "updateEventDatesErrorMessage": "Error updating event"
+    },
+    "constants": {
+        "busy": "Busy",
+        "tentative": "Tentative",
+        "oof": "Out Of Office",
+        "workingElsewhere": "Working Elsewhere",
+        "free": "Free",
+        "monday": "Monday",
+        "tuesday": "Tuesday",
+        "wednesday": "Wednesday",
+        "thursday": "Thursday",
+        "friday": "Friday",
+        "saturday": "Saturday",
+        "first": "First",
+        "second": "Second",
+        "third": "Third",
+        "fourth": "Fourth",
+        "": "January",
+        "": "February",
+        "": "March",
+        "": "April",
+        "": "May",
+        "": "June",
+        "": "July",
+        "": "August",
+        "": "September",
+        "": "October",
+        "": "November",
+        "": "December",
+    }
+
 }
