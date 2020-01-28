@@ -623,6 +623,106 @@
         "cancelButton": "Cancel",
         "noMailboxConfiguredTooltip": "No shared mailbox is configured."
     },
+    "addCalendarButton": {
+        "loginTooltip": "Click here to log in with Outlook",
+        "openOrCreateCalendarTooltip": "Open and create a calendar",
+        "addIconLabel": "Add",
+        "addCalendarButtonLabel": "Add Calendar",
+        "noJiraUrlConfiguredFlagTitle": "No Jira url is configured yet.",
+        "noJiraUrlConfiguredFlagDescription": "Please instruct your administrator to enter a Jira url in the settings!",
+        "openOutlookCalendarOptionLabel": "Open Outlook Calendar",
+        "openOutlookCalendarOptionDescription": "Search and open a personal or shared calendar",
+        "createOutlookCalendarOptionLabel": "Create Outlook Calendar",
+        "createOutlookCalendarOptionDescription": "Create a new personal or shared calendar",
+        "openJiraCalendarOptionLabel": "Add Jira Calendar",
+        "openJiraCalendarOptionDescription": "Add a dynamic calendar with Jira issues"
+    },
+    "calendarSettingsDropdown": {
+        "openSidebarSettingsTooltip": "Open sidebar settings",
+        "settingIconLabel": "Setting",
+        "restoreDefaultsButtonLabel": "Restore defaults",
+        "discardDefaultsButtonLabel": "Discard",
+        "closeDefaultsButtonLabel": "Close",
+        "saveDefaultsButtonLabel": "Save"
+    },
+    "calendarSettingsScreen": {
+        "calendarUnitMinutesLabel": "Minutes",
+        "calendarUnitHoursLabel ": "Hours",
+        "calendarUnitDaysLabel ": "Days ",
+        "calendarUnitWeeksLabel ": "Weeks",
+        "calendarUnitMonthsLabel ": "Months",
+        "calendarSettingsTabHeading": "Calendar Settings",
+        "advancedTabHeading": "Advanced",
+        "macroSeetingsTabHeading": "Macro settings",
+        "schedulerTabHeading": "Scheduler",
+        "calendarTypeHeading": "Calendar Type",
+        "selectSchedulerGroupingTime": "Select Scheduler Grouping Time",
+        "selectCalendarGroupingTimePlaceholder": "Please select the scheduler grouping time",
+        "setSchedulerDayRangeLabel": "Set Scheduler Day Range",
+        "calendarModeLabel": "Calendar Mode",
+        "calendarHeightLabel": "Calendar Height (Pixel)",
+        "calendarStartOnFixedDate": "Should Calendar start on Fixed Date",
+        "defaultDateLabel": "Default date",
+        "pickADateLabel": "PickADate",
+        "pickADatePlaceholder": "Please select the day, the calendar should start",
+        "setTimezoneForCalendarLabel": "Set fixed Timezone for Calendar",
+        "changeTimeZoneToggleLabel": "Change Calendar TimeZone",
+        "setCalendarToReadOnlyLabel": "Set Calendar to Read Only",
+        "setCalendarToReadOnlyToggleLabel": "Set Calendar to Read Only",
+        "hideCalendarLabels": "Hide Calendar Labels",
+        "toggleCalendarLabels": "Toggle Calendar Labels",
+        "showCalendarListLabel": "Show Calendar List",
+        "toggleCalendarList": "Toggle Calendar List",
+        "showWeekendsLabel": "Show Weekends",
+        "showWeekendsToggleLabel": "Show Weekends",
+        "groupCalendarsInAgendaViewLabel": "Group Resources in Agenda View",
+        "groupCalendarsInAgendaViewToggleLabel": "Group Resources in Agenda View",
+        "allowEventsToOverlap": "Allow Events to Overlap",
+        "showEventsOverlappingToggleLabel": "Show events overlapping",
+        "calendarTimeRangeLabel": "Calendar time range",
+        "businessTimesLabel": "Business times",
+        "selectSchedulerGroupingLabel": "Select Scheduler Grouping Time",
+        "selectScheudlerGroupingPlaceholder": "Please select the scheduler grouping time"
+    },
+    "calendarToggle": {
+        "moreIconLabel": "More Icon"
+    },
+    "calendarToolbar": {
+        "refreshTooltip": "Refresh",
+        "refreshIconLabel": "refresh",
+        "previousTimeUnitTooltip": "Previous {unit}",
+        "leftIconLabel": "left",
+        "gotToTimeUnitTooltip": "Go to this {unit}",
+        "todayButtonLabel": "Today",
+        "nextTimeUnitTooltip": "Next {unit}",
+        "rightIconLabel": "right",
+        "dayTooltip": "Day",
+        "dayShortTooltip": "D",
+        "weekTooltip": "Week",
+        "weekShortTooltip": "W",
+        "monthTooltip": "Month",
+        "monthShortTooltip": "M"
+    },
+    "calendarView": {
+        "calendarsColumnLabel": "Calendars",
+        "categoryColumnLabel": "Category"
+    },
+    "calendarViewModeDropdown": {
+        "selectCalendarModeTooltip": "Select a calendar mode",
+        "selectCalendarModeIconLabel": "Calendar Mode",
+        "calenndarViewModeRadioTitle": "Calendar View Mode",
+        "dayOptionLabel": "Day",
+        "weekOptionLabel": "Week",
+        "monthOptionLabel": "Month"
+    },
+    "calendarViewTypeDropdown": {
+        "selectACalendarTypeTooltip": "Select a calendar type",
+        "calendarTypeIconLabel": "Calendar Type",
+        "calenndarViewTypeRadioTitle": "Calendar View Type",
+        "agendaOptionLabel": "Agenda",
+        "listOptionLabel": "List",
+        "schedulerOptionLabel": "Scheduler"
+    },
     "officePersonTab": {
         "openCalendarsDescription": "Open your own or calendars or those of your co-workers.",
         "searchPlaceholder": "Search for persons..."
@@ -662,5 +762,54 @@
         "helpTitle": "Help",
         "logoutTitle": "Logout",
         "logout": "Logout"
+    },
+    "compactCalendar": {
+        "pickADateTooltip": "Pick a date directly",
+        "goToDateIconLabel": "goToDate"
+    },
+    "createDetailedButton": {
+        "createDetailedOfficeEventTooltip": "Create a new Office event",
+        "addEventIconLabel": "add icon"
+    },
+    "errorBoundary": {
+        "somethingWentWrongHeading": "Something went wrong :(",
+        "somethingWentWrongSubHeading": "Sorry for the inconvenience.",
+        "persistDescription": "If this error persists please open a support ticket.",
+        "reloadApllicationButtonLabel": "Reload the application",
+        "openSupportTicketButtonLabel": "Open Support Ticket",
+        "enableLoggingButtonlabel": "Enable Logging"
+    },
+    "officeLoginModal": {
+        "loginToConfluenceDescription": "Please login to Confluence first!",
+        "officeLoginDescription": "You’re using Outlook Calendars for Confluence for the first time. Please login with your {loginType}",
+        "loginHeading": "Login",
+        "hiThere": "Hi there,",
+        "useOwnAccountDescription": "Note: Please use your own account for logging in, you will be able to open any other calendar of your organization afterwards.",
+        "passwordFieldLabel": "Password",
+        "loginWithO365ButtonLabel": "Login with Offce 365",
+        "loginButtonLabel": "Login",
+        "skipButtonLabel": "Skip",
+        "userNameLabel": "User Name",
+        "emailAddressLabel": "Email Address"
+    },
+    "macroEditor": {
+        "calendarListHeading": "Calendar List",
+        "calendarDisplaySettingsHeading": "Calendar Display Settings"
+    },
+    "notificationContainer": {
+        "dismissContentLabel": "Dismiss"
+    },
+    "oldnotificationContainer": {
+        "dismissContentLabel": "Dismiss"
+    },
+    "timeZoneModal": {
+        "timeZoneHeading": "Timezone",
+        "pleaseSelectTimezone":"Please select the timezone.",
+        "timeZoneNote":"Note: You will be able to change the timezone afterwards!",
+        "applyButtonLabel":"Apply"
+    },
+    "timeZonePicker": {
+        "timeZoneLabel":"Timezone"
     }
+
 }
