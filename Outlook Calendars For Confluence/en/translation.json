@@ -362,7 +362,10 @@
         "chooseIconLabel": "Choose Icon"
     },
     "calendarUtil": {
-        "noCategorySpecifiedErrorText": "No Category specified"
+        "noCategorySpecifiedErrorText": "No Category specified",
+        "agenda":"Agenda",
+        "list":"List",
+        "scheduler":"Scheduler"
     },
     "jiraUtil": {
         "typeLabel": "Type",
@@ -561,7 +564,7 @@
     },
     "officeCalendarPicker": {
         "noOptionsMessage": "We found no calendar you have access to - sorry!",
-        "allreadyOpenedDescription": "Already opened calendars are not shown in this list"
+        "alreadyOpenedDescription": "Already opened calendars are not shown in this list"
     },
     "officeAttendeePicker": {
         "noOptionsMessage": "No results",
