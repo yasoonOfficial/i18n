@@ -93,9 +93,10 @@
         "onlyCurrentProjektInfo": "Vorgangskriterien (findet nur Vorgänge im aktuellen Projekt)"
     },
     "jqlInfo": {
-        "aboutToSyncInfo": "Du bist dabei, 1 Vorgang mit Microsoft To Do zu synchronisieren.",
         "aboutToSyncInfo_plural": "Du bist dabei, {{count}} Vorgänge mit Microsoft To Do zu synchronisieren.",
+        "aboutToSyncInfo": "Du bist dabei, 1 Vorgang mit Microsoft To Do zu synchronisieren.",
         "syncWillStayActiveInfo": "Danach werden kontinuierlich neue und geänderte Jira-Vorgänge mit Microsoft To Do synchronisiert.",
+        "aboutToSyncInfo_0": "Es gibt momentan keine Vorgänge, die deinen Kriterien entsprechen.",
         "syncWillStayActiveAfterZeroInfo": "Wenn du die Synchronisierung startest, werden kontinuierlich neue und geänderte Jira-Vorgänge entsprechend deiner Kriterien mit Microsoft To Do synchronisiert."
     },
     "link": {
