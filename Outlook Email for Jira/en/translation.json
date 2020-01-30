@@ -85,7 +85,9 @@
         "oAuthLoginDescription1": "Please click on 'Login' to continue - this will open a new window where you have to approve the access to Jira.",
         "oAuthLoginDescription2": "This page will refresh automatically and continue when you are done.",
         "loginWithJiraHosting": "Login with Jira {{hosting}}",
-        "provideMailAddressMessage": "Please provide the address you use to access Jira.",
+        "exampleUrlPlaceholder":"e.g. https://acme.atlassian.net",
+        "provideUrlMessage": "Please provide the address you use to access Jira.",
+        "useInSharedMailboxTooltip": "Do not use this in a shared mailbox",
         "whereDoIFindThis": "Where do I find this?",
         "loginReminder": "Remember Login on every device",
         "aggreementMessage": "With continue, you agree to our {link1} and {link2}."
@@ -110,6 +112,7 @@
         "fileUploadButtonPreText": "Drop files to attach, or",
         "logout": "Logout",
         "login": "Login",
+        "tryAgain": "Try again",
         "forget": "Forget",
         "edit": "Edit",
         "editInline": "edit",
@@ -363,7 +366,7 @@
         "moduleFeed": "Jira"
     },
     "link": {
-        "termsOfService": "Terms of Service",
+        "termsOfService": "ToS",
         "privacyPolicy": "Privacy Policy",
         "technicalRequirements": "technical requirements",
         "jiraServerAddon": "Jira Server Addon",
