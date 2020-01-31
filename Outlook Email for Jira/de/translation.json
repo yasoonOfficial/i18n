@@ -145,7 +145,7 @@
         "jiraConnectionErrorDescription": "Wir konnten uns leider nicht zur Jirainstanz verbinden. Stelle sicher, dass die URL korrekt eingegeben wurde.",
         "jiraConnectionErrorRequirements": "Wenn die URL stimmt, erfüllt das Jirasystem eventuell nicht die {link}.",
         "jiraConnectionErrorMissingServerAddon": "Wenn die Jira Instanz selbst gehosted wird, muss unser {link} installiert sein und unter https erreichbar sein.",
-        "jiraConnectionErrorContactSupport": "Wenn du der Meinung bist, dass es sich um einen Fehler handelt, bitte wenden Sie sich an unseren {link}.",
+        "jiraConnectionErrorContactSupport": "Wenn du der Meinung bist, dass es sich um einen Fehler handelt, wenden Sie sich bitte an unseren {link}.",
         "jiraConnectionErrorTitle": "Keine Verbindung zu Jira",
         "alreadyConnectedDescription": "Du bist bereits mit diesem System verbunden.",
         "alreadyConnectedTitle": "Bereits verbunden",
