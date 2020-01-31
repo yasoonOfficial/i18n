@@ -18,7 +18,7 @@
         "personalCalendarVisibleTrue": "Yes",
         "personalCalendarVisibleFalse": "No",
         "allowAnonymousAccessHeading": "Allow Anonymous Access",
-        "anonymousUserDescription1": "When you choose to allow anonymous access, unauthorized users will have the option to view calendars without the need to log in. This can be useful, if you want to allow read-only and or public access to certain calendars. Unauthorized users will still have the option to log in to increase access rights, e.g. to be able to modify events.",
+        "anonymousUserDescription1": "If you choose to allow anonymous access, unauthorized users will have the option to view calendars without the need to log in. This can be useful, if you want to allow read-only and/or public access to certain calendars. Unauthorized users will still have the option to log in to increase access rights, e.g. to be able to modify events.",
         "anonymousUserDescription2": "To allow access, please provide credentials for a service account that should be used for anonymous users. Please make sure this user has very restricted access in Exchange (ideally only read-only, to certain calendars)!",
         "enableAnonymousAccess": "Enable Anonymous Access",
         "anonymousAccessTabHeading": "Anonymous Access (Beta)",
@@ -41,7 +41,7 @@
         "chooseEnvironmentDescription": "Please choose which environment you are using.",
         "environmentLabel": "Environment",
         "proxyHeading": "Proxy",
-        "configureExchangeDescription": "Please choose which Exchange proxy you want to use.If you are unsure or want to understand why this is necessary, please check the {link}.",
+        "configureExchangeDescription": "Please choose which Exchange proxy you want to use. If you are unsure or want to understand why this is necessary, please check this {link}.",
         "exchangeProxyRadioLabel": "Exchange Proxy",
         "detectAutomaticallyLabel": "Detect automatically",
         "testLoginLabel": "Test Login",
@@ -67,12 +67,12 @@
     },
     "jiraAdminTab": {
         "connectToJiraInstanceHeading": "Connect to a Jira instance",
-        "connectToJiraInstanceDescription": "You can connect the Outlook Calendars for Confluence with Jira, to show issue, sprint & release dates. Please enter the URL of the Jira that you want to connect.",
+        "connectToJiraInstanceDescription": "You can connect Outlook Calendars for Confluence with Jira, to show dates for issues, sprints and releases. Please enter the URL of the Jira instance that you want to connect to.",
         "jiraUrlLabel": "Please enter the URL of your Jira instance including http:// or https://",
         "jiraUrlPlaceholder": "Jira Url including http:// or https://",
         "proxyJiraThroughConfluenceDescription": "Always proxy requests to Jira through Confluence",
         "proxyJiraThroughConfluenceLabel": "Toggle forced Confluence Proxy",
-        "jiraHosting": "How to Setup a {{hosting}} instance",
+        "jiraHosting": "How to setup a {{hosting}} instance",
         "createApplicationLinkDescription": "Please create a new application link (in Jira Admin --> Applications --> Application Link) with the following data.",
         "createApplicaiontLinkDokuLink": "More detailed information how to create the application link can be found here: {link}",
         "urlExample": "URL:",
@@ -112,9 +112,9 @@
         "environmentLabel": "Environment",
         "credentialsLabel": "Credentials",
         "resultsLabel": "Results",
-        "welcomeDescription": "Welcome to Outlook Calendars for Confluence! To get started, please use this short guide to detect your correct connection settings.       In case you want to configure everything manually, just cancel the guide at any time!",
-        "selectEnvironmentDescription": "Please first select your environment.",
-        "office365": "Office365",
+        "welcomeDescription": "Welcome to Outlook Calendars for Confluence! To get started, please use this short guide to detect your correct connection settings. In case you want to configure everything manually, just cancel the guide at any time!",
+        "selectEnvironmentDescription": "Please select your environment first.",
+        "office365": "Office 365",
         "exchangeServer": "Exchange Server",
         "notSure": "Not Sure?",
         "enterEmailAndPassword": "Please enter your email address, domain username (if available) and password. The process may take up to 2 minutes to complete ☕!",
@@ -187,13 +187,18 @@
         "errorWhileSavingLozonge": "Error while saving",
         "errorWhileSavingFlagTitle": "Error while saving settings"
     },
+    "atlassianConnect.personalCalendar": "Personal Calendar",
+    "atlassianConnect.spaceCalendar": "Space Calendar",
     "atlassianConnect.calendarConfiguration": "Configure Calendars",
+    "atlassianConnect.configureOutlookCalendars": "Configure Outlook Calendars",
+    "atlassianConnect.outlookCalendar": "Outlook Calendar",
+    "atlassianConnect.pageCalendarSettings": "Page Calendar Settings",
     "enableLoggingModal": {
         "heading": "Enable Support Logging",
         "acceptButtonLabel": "Accept",
         "declineButtonLabel": "Decline",
-        "dataIsSentDescription": "If support logging is enabled, anonymised data will be sent to our server in case of an error while using our app.",
-        "dataHelpsDevelopersAndSupportDescription": "This data is monitored by our developers and allows us to identify issues that may occur while the use of Outlook Calendars for Confluence. You may then be contacted by our support team. This makes it possible to constantly improve our app.",
+        "dataIsSentDescription": "If support logging is enabled, anonymized data will be sent to our server in case of an error while using our app.",
+        "dataHelpsDevelopersAndSupportDescription": "This data is monitored by our developers and allows us to identify issues that may occur during the use of Outlook Calendars for Confluence. You may then be contacted by our support team. This makes it possible to constantly improve our app.",
         "dataIsDeletedAfter30DaysDescription": "Regardless of this, all data will be automatically deleted after 30 days.",
         "openSupportTicketDescriptionWithLink": "If you have any issues using our app you can also, {link}."
     },
@@ -220,7 +225,7 @@
         "sharedMailboxesLabel": "Calendar name",
         "addToOutlookLabel": "Add calendar to Outlook",
         "o365GroupsHeading": "Outlook Groups",
-        "o365GroupNamePlaceholder": "Please Outlook-Group enter a name",
+        "o365GroupNamePlaceholder": "Please enter the name of an Outlook-Group",
         "o365GroupDescriptionPlaceholder": "Please enter a description",
         "o365GroupDescriptionLabel": "Outlook-Group name",
         "calendarNameLabel": "Calendar Name"
@@ -291,7 +296,7 @@
         "demoIssueDefaultValue": "Data to be displayed",
         "issueTypeLabel": "Type:",
         "priorityLabel": "Type:",
-        "timeRemaining": " {time} remaining",
+        "timeRemaining": " {{time}} remaining",
         "timeDifferenceIconLabel": "Show time difference",
         "displayNameFallback": "Name is private",
         "showAllSubtasksTrigger": "Show all +({{count}})",
@@ -306,7 +311,7 @@
     },
     "jiraIssueFieldStatus": {
         "statusLabel": "Status:",
-        "transitionIconLabel": "open Transition",
+        "transitionIconLabel": "open transition",
         "transitionDropdownHeading": "transition issue to:",
         "deleteIconLabel": "Delete"
     },
@@ -316,7 +321,7 @@
     },
     "jiraLoginModal": {
         "contentHeading": "Sorry for bothering you.",
-        "contentDescription": "The calendar you try to open contains Jira calendars. If you can see these information, please login with your Jira account!",
+        "contentDescription": "The calendar you try to open contains Jira calendars. If you want to see those, please login with your Jira account!",
         "loginToJiraButtonLabel": "Login to Jira",
         "skipJiraLogin": "Skip"
     },
@@ -331,7 +336,7 @@
     },
     "jiraSavedFilters": {
         "savedFiltersLabel": "Saved Filters",
-        "selectAFilterPlaceholder": "Please select a Filter"
+        "selectAFilterPlaceholder": "Please select a filter"
     },
     "jiraSelectByContainer": {
         "noQueryEntered": "No Query entered",
@@ -353,19 +358,19 @@
         "createDateRangeButtonLabel": "Create date range"
     },
     "jiraSprintSelector": {
-        "completedDateOptionLabel": "Completed Date",
-        "endDateOptionLabel": "End Date",
-        "startDateOptionLabel": "Completed Date",
+        "completedDateOptionLabel": "Completed date",
+        "endDateOptionLabel": "End date",
+        "startDateOptionLabel": "Completed date",
         "sprintName": "Sprints of {{sprintName}}"
     },
     "iconMenu": {
-        "chooseIconLabel": "Choose Icon"
+        "chooseIconLabel": "Choose icon"
     },
     "calendarUtil": {
         "noCategorySpecifiedErrorText": "No Category specified",
-        "agenda":"Agenda",
-        "list":"List",
-        "scheduler":"Scheduler"
+        "agenda": "Agenda",
+        "list": "List",
+        "scheduler": "Scheduler"
     },
     "jiraUtil": {
         "typeLabel": "Type",
@@ -382,7 +387,7 @@
     "customContentSettingProvider": {
         "noUpdatePermissionErrorMessageTitle": "No permission to update on this page!",
         "noUpdatePermissionErrorMessageText": "Ask the space admin for permissions",
-        "noCreatePermissionErrorMessageTitle": "No permission to create on this page!",
+        "noCreatePermissionErrorMessageTitle": "No permission to create items on this page!",
         "noCreatePermissionErrorMessageText": "Ask the space admin for permissions",
         "noDeletePermissionErrorMessageTitle": "No permission to delete on this page!",
         "noDeletePermissionErrorMessageText": "Ask the space admin for permissions"
@@ -427,7 +432,7 @@
     "cloudSpacePropertySettingProvider": {
         "noUpdatePermissionErrorMessageTitle": "No permission to update on this page!",
         "noUpdatePermissionErrorMessageText": "Ask the space admin for permissions",
-        "noCreatePermissionErrorMessageTitle": "No permission to create on this page!",
+        "noCreatePermissionErrorMessageTitle": "No permission to create items on this page!",
         "noCreatePermissionErrorMessageText": "Ask the space admin for permissions"
     },
     "jiraController": {
@@ -454,7 +459,7 @@
         "cancelButton": "Cancel",
         "cancelSeriesDescription": "Cancel all events in this series and notify guests.",
         "cancelEventDescription": "Cancel this event and notify guests",
-        "cancellationMessagePlaceholder": "Add Message (Optional)"
+        "cancellationMessagePlaceholder": "Add Message (optional)"
     },
     "officeDeleteScreen": {
         "heading": "Heads up!",
@@ -485,7 +490,7 @@
         "createGroupErrorText": "Error while creating a group",
         "fetchCategoriesErrorText": "Error while fetching categories",
         "createEventSuccessTitle": "Event successfully created",
-        "createEventSuccessText": "The event was created in your main calendar, which is not open.",
+        "createEventSuccessText": "The event was created in your main calendar, which is not active.",
         "createEventErrorTitle": "Error copying event"
     },
     "officeEventHover": {
@@ -520,7 +525,7 @@
         "busy": "Busy",
         "tentative": "Tentative",
         "oof": "Out Of Office",
-        "workingElsewhere": "Working Elsewhere",
+        "workingElsewhere": "Working elsewhere",
         "free": "Free",
         "monday": "Monday",
         "tuesday": "Tuesday",
@@ -528,6 +533,7 @@
         "thursday": "Thursday",
         "friday": "Friday",
         "saturday": "Saturday",
+        "sunday": "Sunday",
         "first": "First",
         "second": "Second",
         "third": "Third",
@@ -727,7 +733,7 @@
         "schedulerOptionLabel": "Scheduler"
     },
     "officePersonTab": {
-        "openCalendarsDescription": "Open your own or calendars or those of your co-workers.",
+        "openCalendarsDescription": "Open your own calendars or those of your co-workers.",
         "searchPlaceholder": "Search for persons..."
     },
     "officeGroupsTab": {
@@ -748,8 +754,8 @@
         "personalCalendar": "The personal calendar is the place for all Outlook calendars that are relevant to you. Only you can access this calendar view.",
         "spaceCalendar": "Space calendars are accessible for everyone with access to the space. It's the perfect place to view all calendars relevant to the project.",
         "macroCalendar": "Use the calendar macro to embed Outlook calendars in any Confluence page to schedule meetings or share dates with your team.",
-        "openCalendars": "You can easily open personal or shared Outlook calendars. In addition, you can overlay Jira or Trello due dates.<br /> Give your team the best possible overview to plan and track a project.",
-        "createEvents": "You can create personal or shared Outlook events, as well as edit existing events.<br /> Easily schedule events even in large teams.",
+        "openCalendars": "You can easily open personal or shared Outlook calendars. In addition, you can overlay Jira or Trello due dates. Give your team the best possible overview to plan and track a project.",
+        "createEvents": "You can create personal or shared Outlook events, as well as edit existing events. Easily schedule events even in large teams.",
         "previousButton": "Previous",
         "nextButton": "Next",
         "startButton": "Start"
@@ -768,7 +774,7 @@
     },
     "compactCalendar": {
         "pickADateTooltip": "Pick a date directly",
-        "goToDateIconLabel": "goToDate"
+        "goToDateIconLabel": "go to date"
     },
     "createDetailedButton": {
         "createDetailedOfficeEventTooltip": "Create a new Office event",
@@ -787,9 +793,9 @@
         "officeLoginDescription": "You’re using Outlook Calendars for Confluence for the first time. Please login with your {{loginType}}",
         "loginHeading": "Login",
         "hiThere": "Hi there,",
-        "useOwnAccountDescription": "Note: Please use your own account for logging in, you will be able to open any other calendar of your organization afterwards.",
+        "useOwnAccountDescription": "Note: Please use your own account for logging in. You will be able to open any other calendar from your organization afterwards.",
         "passwordFieldLabel": "Password",
-        "loginWithO365ButtonLabel": "Login with Offce 365",
+        "loginWithO365ButtonLabel": "Login with Office 365",
         "loginButtonLabel": "Login",
         "skipButtonLabel": "Skip",
         "userNameLabel": "User Name",
@@ -807,12 +813,11 @@
     },
     "timeZoneModal": {
         "timeZoneHeading": "Timezone",
-        "pleaseSelectTimezone":"Please select the timezone.",
-        "timeZoneNote":"Note: You will be able to change the timezone afterwards!",
-        "applyButtonLabel":"Apply"
+        "pleaseSelectTimezone": "Please select a timezone.",
+        "timeZoneNote": "Note: You will be able to change the timezone afterwards!",
+        "applyButtonLabel": "Apply"
     },
     "timeZonePicker": {
-        "timeZoneLabel":"Timezone"
+        "timeZoneLabel": "Timezone"
     }
-
 }
