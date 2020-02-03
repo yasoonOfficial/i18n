@@ -63,7 +63,9 @@
         "O365RegionReference": "here",
         "EWSReadme": "here",
         "ewsMailSupport": "contact",
-        "openSupportTicket": "open a support ticket"
+        "openSupportTicket": "open a support ticket",
+        "whatsThis": "What's this?",
+        "getInTouch": "get in touch"
     },
     "jiraAdminTab": {
         "connectToJiraInstanceHeading": "Connect to a Jira instance",
@@ -87,9 +89,7 @@
         "licenseExpiredBannerTitle": "Your license has expired",
         "personalCalendarHeading": "Personal Calendar",
         "spaceCalendarHeading": "Space Calendar",
-        "goToDocumentationLink": "Go to documentation",
-        "whatsThis": "What's this?",
-        "getInTouch": "get in touch"
+        "goToDocumentationLink": "Go to documentation"
     },
     "anonynousAccessModal": {
         "heading": "Anonymous Access Credentials",
@@ -173,7 +173,7 @@
         "proxySettingsHeading": "Proxy Settings",
         "modalFooterPrimary": "Save",
         "modalFooterSecondary": "Cancel",
-        "selHostDescription": "It is possible to self-host the required Exchange Web Services (EWS) proxy. More information can be found {link1}. Please make sure to {link2} us, if you'd like to do so!",
+        "selfHostDescription": "It is possible to self-host the required Exchange Web Services (EWS) proxy. More information can be found {link1}. Please make sure to {link2} us, if you'd like to do so!",
         "ewsProxyAddessLabel": "EWS Proxy Address",
         "ewsProxySecretLabel": "EWS Proxy Secret"
     },
@@ -260,9 +260,9 @@
         "releasesOptionLabel": "Releases"
     },
     "jiraDaterangeContainer": {
-        "showLabel": "Show",
+        "showLabel": "Select date fields or date ranges",
         "showCustomFieldsLabel": "Show custom fields",
-        "addDateDescription": "Add date"
+        "addDateDescription": "Add another"
     },
     "jiraDisplayOptions": {
         "selectFieldsPlaceholder": "Please select the fields you want to display",
@@ -341,7 +341,7 @@
     "jiraSelectByContainer": {
         "noQueryEntered": "No Query entered",
         "projectOptionLabel": "Project",
-        "savedFiltersOptionLabel": "Saved filters",
+        "savedFiltersOptionLabel": "Saved Filters",
         "jqlOptionLaabel": "JQL",
         "jqlTextareaPlaceholder": "Please insert JQL query here",
         "jqlIsValidatingMessage": "Checking JQL status",
@@ -358,9 +358,9 @@
         "createDateRangeButtonLabel": "Create date range"
     },
     "jiraSprintSelector": {
-        "completedDateOptionLabel": "Completed date",
-        "endDateOptionLabel": "End date",
-        "startDateOptionLabel": "Completed date",
+        "completedDateOptionLabel": "Completed Date",
+        "endDateOptionLabel": "End Date",
+        "startDateOptionLabel": "Start Date",
         "sprintName": "Sprints of {{sprintName}}"
     },
     "iconMenu": {
@@ -370,7 +370,12 @@
         "noCategorySpecifiedErrorText": "No Category specified",
         "agenda": "Agenda",
         "list": "List",
-        "scheduler": "Scheduler"
+        "scheduler": "Scheduler",
+        "rollingDays": "Rolling days",
+        "day": "Day",
+        "week": "Week",
+        "month": "Month",
+        "year": "Year"
     },
     "jiraUtil": {
         "typeLabel": "Type",
