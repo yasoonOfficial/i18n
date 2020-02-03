@@ -83,8 +83,6 @@
         "yasoonConnectAddonLink": "Bitte installiere unser {link} addon auf deinem Jira-System um die Verbindung mit Confluence zu erlauben.",
         "saveSettingErrorFlagTitle": "Während des Speicherns ist ein Fehler aufgetreten"
     },
-
-    
     "index": {
         "licenseExpiredBannerTitle": "Your license has expired",
         "personalCalendarHeading": "Personal Calendar",
@@ -209,7 +207,8 @@
         "resolveOfficeLoginProblemLabel": "Resolve login problem",
         "addToOutlookLabel": "Add to Outlook",
         "editJiraCalendarLabel": "Edit",
-        "removeCalendarLabel": "Remove"
+        "removeCalendarLabel": "Remove",
+        "chooseIconLabel": "Symbol wählen"
     },
     "colorMenu": {
         "chooseColorLabel": "Choose Color"
@@ -227,9 +226,10 @@
         "sharedMailboxesLabel": "Calendar name",
         "addToOutlookLabel": "Add calendar to Outlook",
         "o365GroupsHeading": "Outlook Groups",
+        "o365GroupsLabel": "Outlook Gruppen",
         "o365GroupNamePlaceholder": "Please enter the name of an Outlook-Group",
         "o365GroupDescriptionPlaceholder": "Please enter a description",
-        "o365GroupDescriptionLabel": "Outlook-Group name",
+        "o365GroupDescriptionLabel": "Outlook Gruppen Beschreibung",
         "calendarNameLabel": "Calendar Name"
     },
     "jiraBoardPicker": {
@@ -365,353 +365,350 @@
         "startDateOptionLabel": "Completed date",
         "sprintName": "Sprints of {{sprintName}}"
     },
-    "iconMenu": {
-        "chooseIconLabel": "Choose icon"
-    },
     "calendarUtil": {
-        "noCategorySpecifiedErrorText": "No Category specified",
+        "noCategorySpecifiedErrorText": "Keine Kategorie angegeben",
         "agenda": "Agenda",
-        "list": "List",
-        "scheduler": "Scheduler"
+        "list": "Liste",
+        "scheduler": "Planer"
     },
     "jiraUtil": {
-        "typeLabel": "Type",
-        "prioLabel": "Priority",
-        "resolvedLabel": "Resolved",
-        "assigneeLabel": "Assignee",
+        "typeLabel": "Vorgangstyp",
+        "prioLabel": "Priorität",
+        "resolvedLabel": "Erledigt",
+        "assigneeLabel": "Bearbeiter",
         "statusLabel": "Status",
-        "dueDateLabel": "Due date",
-        "reporterLabel": "Reporter"
+        "dueDateLabel": "Fälligkeitsdatum",
+        "reporterLabel": "Bearbeiter"
     },
     "officeUtil": {
-        "mainCalendarName": "Main Calendar"
+        "mainCalendarName": "Hauptkalender"
     },
     "customContentSettingProvider": {
-        "noUpdatePermissionErrorMessageTitle": "No permission to update on this page!",
-        "noUpdatePermissionErrorMessageText": "Ask the space admin for permissions",
-        "noCreatePermissionErrorMessageTitle": "No permission to create items on this page!",
-        "noCreatePermissionErrorMessageText": "Ask the space admin for permissions",
-        "noDeletePermissionErrorMessageTitle": "No permission to delete on this page!",
-        "noDeletePermissionErrorMessageText": "Ask the space admin for permissions"
+        "noUpdatePermissionErrorMessageTitle": "Keine Berechtigung, diese Seite zu aktualisieren!",
+        "noUpdatePermissionErrorMessageText": "Frage deinen (Bereichs-) Administrator nach den Berechtigungen.",
+        "noCreatePermissionErrorMessageTitle": "Keine Erlaubnis auf dieser Seite Ereignisse zu erstellen!",
+        "noCreatePermissionErrorMessageText": "Frage deinen (Bereichs-) Administrator nach den Berechtigungen.",
+        "noDeletePermissionErrorMessageTitle": "Keine Berechtigung zum Löschen von Ereignissenauf dieser Seite!",
+        "noDeletePermissionErrorMessageText": "Frage deinen (Bereichs-) Administrator nach den Berechtigungen."
     },
     "serverSpacePropertySettingProvider": {
-        "noUpdatePermissionErrorMessageTitle": "No permission to update on this page!",
-        "noUpdatePermissionErrorMessageText": "Ask the space admin for permissions",
-        "noCreatePermissionErrorMessageTitle": "No permission to create on this page!",
-        "noCreatePermissionErrorMessageText": "Ask the space admin for permissions"
+        "noUpdatePermissionErrorMessageTitle": "Keine Berechtigung, diese Seite zu aktualisieren!",
+        "noUpdatePermissionErrorMessageText": "Frage deinen (Bereichs-) Administrator nach den Berechtigungen.",
+        "noCreatePermissionErrorMessageTitle": "Keine Erlaubnis auf dieser Seite Ereignisse zu erstellen!",
+        "noCreatePermissionErrorMessageText": "Frage deinen (Bereichs-) Administrator nach den Berechtigungen."
     },
     "officeCreateEvent": {
-        "basicTabLabel": "Basic",
+        "basicTabLabel": "Allgemeines",
         "detailsTabLabel": "Details",
-        "attendeesTabLabel": "Attendees",
-        "recurrenceTabLabel": "Recurrence",
+        "attendeesTabLabel": "Teilnehmer",
+        "recurrenceTabLabel": "Wiederholung",
         "plusTabLabel": "+",
-        "updateButton": "Update",
-        "saveButton": "Save",
-        "cancelButton": "Cancel",
-        "titleLabel": "Subject",
-        "titlePlaceholder": "Please enter an event title",
-        "locationLabel": "Location",
-        "locationPlaceholder": "Please enter an event location",
-        "categoryLabel": "Category",
+        "updateButton": "Aktualisieren",
+        "saveButton": "Speichern",
+        "cancelButton": "Abbrechen",
+        "titleLabel": "Titel",
+        "titlePlaceholder": "Title hinzufügen",
+        "locationLabel": "Ort",
+        "locationPlaceholder": "Ort hinzufügen",
+        "categoryLabel": "Kategorie",
         "startLabel": "Start",
-        "allDayLabel": "All Day",
-        "endLabel": "End",
-        "detailedDescriptionLabel": "Detailed Description",
-        "attendeesLabel": "Attendees",
-        "reminderLabel": "Reminder",
-        "showAsLabel": "Show as",
-        "recurrenceLabel": "Recurrence",
-        "addRecurrenceButton": "Add Recurrence",
-        "eventTime": "Event Time",
-        "attendeesFromOpenCalendarsTooltip": "Add attendees from currently opened calendars",
-        "moreDetailsButton": "More Details",
-        "discardButton": "Discard"
+        "allDayLabel": "Ganztägig",
+        "endLabel": "Ende",
+        "detailedDescriptionLabel": "Beschreibung",
+        "attendeesLabel": "Teilnehmer",
+        "reminderLabel": "Erinnerung",
+        "showAsLabel": "Anzeigen als",
+        "recurrenceLabel": "Wiederholung",
+        "addRecurrenceButton": "Wiederholen",
+        "eventTime": "Zeit",
+        "attendeesFromOpenCalendarsTooltip": "Teilnehmer aus aktuell geöffneten Kalendern hinzufügen",
+        "moreDetailsButton": "Weitere Optionen",
+        "discardButton": "Verwerfen"
     },
     "officeCategoryPicker": {
-        "placeholder": "Search for categories..."
+        "placeholder": "Kategorien hinzufügen"
     },
     "cloudSpacePropertySettingProvider": {
-        "noUpdatePermissionErrorMessageTitle": "No permission to update on this page!",
-        "noUpdatePermissionErrorMessageText": "Ask the space admin for permissions",
-        "noCreatePermissionErrorMessageTitle": "No permission to create items on this page!",
-        "noCreatePermissionErrorMessageText": "Ask the space admin for permissions"
+        "noUpdatePermissionErrorMessageTitle": "Keine Berechtigung, diese Seite zu aktualisieren!",
+        "noUpdatePermissionErrorMessageText": "Frage deinen (Bereichs-) Administrator nach den Berechtigungen.",
+        "noCreatePermissionErrorMessageTitle": "Keine Berechtigung um Ereignisse zu erstellen oder zu bearbeiten.",
+        "noCreatePermissionErrorMessageText": "Frage deinen (Bereichs-) Administrator nach den Berechtigungen."
     },
     "jiraController": {
-        "fetchProjects401ErrorTitle": "Jira call failed (unauthorized)",
-        "fetchProjects401ErrorText": "Try to log out and login again",
-        "getFilters404ErrorTitle": "Filter call failed",
-        "getFilters404ErrorText": "Ask your admin to install the newest version of the connect plugin",
-        "getFilters401ErrorTitle": "Jira call failed (unauthorized)",
-        "getFilters401ErrorText": "Try to log out and login again",
-        "getFilterJql401ErrorTitle": "Jira call failed (unauthorized)",
-        "getFilterJql401ErrorText": "Try to log out and login again",
-        "fetchFilterById401ErrorTitle": "Jira call failed (unauthorized)",
-        "fetchFilterById401ErrorText": "Try to log out and login again",
-        "getEvents401ErrorTitle": "Jira call failed (unauthorized)",
-        "getEvents401ErrorText": "Try to log out and login again",
-        "notLoggedInErrorMessage": "You are not logged in!"
+        "fetchProjects401ErrorTitle": "Fehler bei Jira-Aufruf (nicht autorisiert)",
+        "fetchProjects401ErrorText": "Versuche dich abzumelden und wieder anzumelden",
+        "getFilters404ErrorTitle": "Fehler beim abrufen der Filter",
+        "getFilters404ErrorText": "Bitte deinen Administrator darum die neueste Version des Connect-Plugins zu installieren.",
+        "getFilters401ErrorTitle": "Fehler bei Jira-Aufruf (nicht autorisiert)",
+        "getFilters401ErrorText": "Versuche dich abzumelden und wieder anzumelden",
+        "getFilterJql401ErrorTitle": "Fehler bei Jira-Aufruf (nicht autorisiert)",
+        "getFilterJql401ErrorText": "Versuche dich abzumelden und wieder anzumelden",
+        "fetchFilterById401ErrorTitle": "Fehler bei Jira-Aufruf (nicht autorisiert)",
+        "fetchFilterById401ErrorText": "Versuche dich abzumelden und wieder anzumelden",
+        "getEvents401ErrorTitle": "Fehler bei Jira-Aufruf (nicht autorisiert)",
+        "getEvents401ErrorText": "Versuche dich abzumelden und wieder anzumelden",
+        "notLoggedInErrorMessage": "Du bist nicht angemeldet"
     },
     "calendarModel": {
-        "fetchEventsNotLoggedInErrorMessage": "You are not logged in!"
+        "fetchEventsNotLoggedInErrorMessage": "Du bist nicht angemeldet"
     },
     "officeCancelMeetingScreen": {
-        "heading": "Heads up!",
-        "sendButton": "Send",
-        "cancelButton": "Cancel",
-        "cancelSeriesDescription": "Cancel all events in this series and notify guests.",
-        "cancelEventDescription": "Cancel this event and notify guests",
-        "cancellationMessagePlaceholder": "Add Message (optional)"
+        "heading": "Vorsicht!",
+        "sendButton": "Senden",
+        "cancelButton": "Verwerfen",
+        "cancelSeriesDescription": "Sage alle Ereignisse in dieser Serie ab und benachrichtige Teilnehmer.",
+        "cancelEventDescription": "Alle Ereignisse absagen und Teilnehmer informieren",
+        "cancellationMessagePlaceholder": "Nachricht hinzufügen (optional)"
     },
     "officeDeleteScreen": {
-        "heading": "Heads up!",
-        "deleteButton": "Delete",
-        "cancelButton": "Cancel",
-        "deleteSeriesDescription": "Do you really want to delete all events in this series?",
-        "deleteEventDescription": "Do you really want to delete this event?"
+        "heading": "Vorsicht!",
+        "deleteButton": "Löschen",
+        "cancelButton": "Verwerfen",
+        "deleteSeriesDescription": "Willst du wirklich alle Ereignisse in dieser Serie löschen?",
+        "deleteEventDescription": "Willst du dieses Ereignis wirklich löschen?"
     },
     "officeEditMeetingScreen": {
-        "heading": "Meeting time has changed",
-        "sendButton": "Send",
-        "cancelButton": "Cancel",
-        "description": "This update will notify attendees."
+        "heading": "Die Uhrzeit hat sich geändert",
+        "sendButton": "Senden",
+        "cancelButton": "Verwerfen",
+        "description": "Die Teilnehmer werden über diese Änderung informiert."
     },
     "jiraIssueTransitionModel": {
-        "doTransitionSuccessNotificationTitle": "Updated status",
-        "doTransitionSuccessNotificationText": "Reload calendar to refetch data",
-        "doTransitionErrorNotificationTitle": "Sorry, that did not work",
-        "doTransitionErrorNotificationText": "Couldn't make transition to status: {{name}}"
+        "doTransitionSuccessNotificationTitle": "Status aktuallisiert",
+        "doTransitionSuccessNotificationText": "Kalender neu laden, um neue Daten abzurufen",
+        "doTransitionErrorNotificationTitle": "Tut uns leid, das hat nicht funktioniert.",
+        "doTransitionErrorNotificationText": "Der Wechsel zum Status {{name}} hat nicht funktioniert"
     },
     "officeCalendarModel": {
-        "deletingEventErrorText": "Error deleting event",
-        "addedCalendarSuccessTitle": "Successfully added calendar to Outlook",
-        "addedCalendarSuccessText": "It might take a few minutes to show up!",
-        "addedCalendarErrorTitle": "Error adding calendar to outlook",
-        "fetchEventErrorText": "Error while fetching event",
-        "createCalendarErrorText": "Error while creating calendar",
-        "createGroupErrorText": "Error while creating a group",
-        "fetchCategoriesErrorText": "Error while fetching categories",
-        "createEventSuccessTitle": "Event successfully created",
-        "createEventSuccessText": "The event was created in your main calendar, which is not active.",
-        "createEventErrorTitle": "Error copying event"
+        "deletingEventErrorText": "Fehler beim Löschen eines Ereignisses",
+        "addedCalendarSuccessTitle": "Der Kalender wurde erfolgreich zu deinem Outlook hinzugefügt-",
+        "addedCalendarSuccessText": "Es kann ein paar Minuten dauern, bis dieser angezeigt wird!",
+        "addedCalendarErrorTitle": "Fehler beim Hinzufügen des Kalenders zu Outlook.",
+        "fetchEventErrorText": "Fehler beim Abrufen des Ereignisses",
+        "createCalendarErrorText": "Fehler beim Erstellen des Kalenders",
+        "createGroupErrorText": "Fehler beim Erstellen der Gruppe",
+        "fetchCategoriesErrorText": "Fehler beim Abrufen der Kategorien",
+        "createEventSuccessTitle": "Ereignis erfolgreich angelegt.",
+        "createEventSuccessText": "Die Ereignis wurde in Ihrem Hauptkalender erstellt, der nicht aktiv ist.",
+        "createEventErrorTitle": "Fehler beim Kopieren des Ereignisses"
     },
     "officeEventHover": {
-        "openInOutlookButton": "Open in Outlook",
-        "editButton": "Edit",
-        "editOccurenceDropdownItem": "This Event",
-        "editSeriesDropdownItem": "All Events in the series",
-        "copyToOwnCalendarButton": "Copy to own calendar",
-        "copyToOwnCalendarOccurenceDropdownItem": "This Event",
-        "copyToOwnCalendarSeriesDropdownItem": "All Events in the series",
-        "deleteButton": "Delete",
-        "deleteOccurenceDropdownItem": "This Event",
-        "deleteSeriesDropdownItem": "All Events in the series",
-        "descriptionLabel": "Description"
+        "openInOutlookButton": "In Outlook öffnen",
+        "editButton": "Bearbeiten",
+        "editOccurenceDropdownItem": "Dieses Ereignis",
+        "editSeriesDropdownItem": "Alle Ereignisse in der Serie",
+        "copyToOwnCalendarButton": "In eigenen Kalender kopieren",
+        "copyToOwnCalendarOccurenceDropdownItem": "Dieses Ereignis",
+        "copyToOwnCalendarSeriesDropdownItem": "Alle Ereignisse in der Serie",
+        "deleteButton": "Löschen",
+        "deleteOccurenceDropdownItem": "Dieses Ereignis",
+        "deleteSeriesDropdownItem": "Alle Ereignisse in der Serie",
+        "descriptionLabel": "Beschreibung"
     },
     "officeCreateEventScreenModel": {
-        "createEventSuccessTitle": "Event successfully created",
-        "createEventSuccessText": "The event was created in your main calendar, which is not active.",
-        "createEventErrorMessage": "An error has occured!"
+        "createEventSuccessTitle": "Ereignis erfolgreich angelegt.",
+        "createEventSuccessText": "Die Ereignis wurde in Ihrem Hauptkalender erstellt, der nicht aktiv ist.",
+        "createEventErrorMessage": "Es ist ein Fehler aufgetreten!"
     },
     "officeOpenCalendarScreenModel": {
-        "mapGroupToCalendarAlreadyOpenErrorMessage": "It seems like you've already opened the group calendar",
-        "checkForMailboxAlreadyOpenErrorMessage": "It seems like you've already opened the group calendar",
-        "noSuchUserErrorMessage": "No such user",
-        "noCalendarsErrorMessage": "Oops: we could not find any calendars!"
+        "mapGroupToCalendarAlreadyOpenErrorMessage": "Es scheint, als hättest du den Gruppenkalender bereits geöffnet.",
+        "checkForMailboxAlreadyOpenErrorMessage": "Es scheint, als hättest du den Kalender bereits geöffnet.",
+        "noSuchUserErrorMessage": "Kein Benutzer gefunden",
+        "noCalendarsErrorMessage": "Hoppla: wir konnten keine Kalender finden!"
     },
     "officeUpdateEventModelData": {
-        "deltaUpdateEventErrorMessage": "Error updating event",
-        "updateEventDatesErrorMessage": "Error updating event"
+        "deltaUpdateEventErrorMessage": "Fehler bei der Aktualisierung des Ereignisses",
+        "updateEventDatesErrorMessage": "Fehler bei der Aktualisierung des Ereignisses"
     },
     "constants": {
-        "busy": "Busy",
-        "tentative": "Tentative",
-        "oof": "Out Of Office",
-        "workingElsewhere": "Working elsewhere",
-        "free": "Free",
-        "monday": "Monday",
-        "tuesday": "Tuesday",
-        "wednesday": "Wednesday",
-        "thursday": "Thursday",
-        "friday": "Friday",
-        "saturday": "Saturday",
-        "sunday": "Sunday",
-        "first": "First",
-        "second": "Second",
-        "third": "Third",
-        "fourth": "Fourth",
-        "january": "January",
-        "february": "February",
-        "march": "March",
+        "busy": "Beschäftigt",
+        "tentative": "Mit Vorbehalt",
+        "oof": "Abwesend",
+        "workingElsewhere": "An anderem Ort tätig",
+        "free": "Frei",
+        "monday": "Montag",
+        "tuesday": "Dienstag",
+        "wednesday": "Mittwoch",
+        "thursday": "Donnerstag",
+        "friday": "Freitag",
+        "saturday": "Samstag",
+        "sunday": "Sonntag",
+        "first": "Erster",
+        "second": "Zweiter",
+        "third": "Dritter",
+        "fourth": "Vierter",
+        "january": "Januar",
+        "february": "Februar",
+        "march": "März",
         "april": "April",
-        "may": "May",
-        "june": "June",
-        "july": "July",
+        "may": "Mai",
+        "june": "Juni",
+        "july": "Juli",
         "august": "August",
         "september": "September",
-        "october": "October",
+        "october": "Oktober",
         "november": "November",
-        "december": "December",
-        "noReminder": "No reminder",
+        "december": "Dezember",
+        "noReminder": "Nie",
         "5min": "5 min",
         "10min": "10 min",
         "15min": "15 min",
         "30min": "30 min",
         "45min": "45 min",
-        "1h": "1 hour",
-        "2h": "2 hours",
-        "4h": "4 hours",
-        "noEnd": "Never",
-        "numbered": "After",
-        "endDate": "On",
-        "never": "Never",
-        "daily": "Daily",
-        "weekly": "Weekly",
-        "monthly": "Monthly",
-        "yearly": "Yearly"
+        "1h": "1 stunde",
+        "2h": "2 stunden",
+        "4h": "4 stunden",
+        "noEnd": "Nie",
+        "numbered": "Nach",
+        "endDate": "Am",
+        "never": "Nie",
+        "daily": "Täglich",
+        "weekly": "Wöchentlich",
+        "monthly": "Monatlich",
+        "yearly": "Jährlich"
     },
     "officeCalendarPicker": {
-        "noOptionsMessage": "We found no calendar you have access to - sorry!",
-        "alreadyOpenedDescription": "Already opened calendars are not shown in this list"
+        "noOptionsMessage": "Wir haben keinen Kalender gefunden, auf den du Zugriff hast - sorry!",
+        "alreadyOpenedDescription": "Bereits geöffnete Kalender werden in dieser Liste nicht angezeigt."
     },
     "officeAttendeePicker": {
-        "noOptionsMessage": "No results",
-        "typeToSearchPlaceholder": "Type to search...",
-        "manualEntry": "(manual entry)",
-        "searchPlaceHolder": "Search..."
+        "noOptionsMessage": "Keine Ergebnisse",
+        "typeToSearchPlaceholder": "Zum Suchen tippen...",
+        "manualEntry": "(manuelle Eingabe)",
+        "searchPlaceHolder": "Teilnehmer hinzufügen"
     },
     "officeEventCalendarPicker": {
-        "outlookCalendarsLabel": "Outlook Calendars",
-        "outlookGroupsLabel": "Outlook Groups",
-        "outlookCalendarHeading": "Outlook Calendar"
+        "outlookCalendarsLabel": "Outlook Kalender",
+        "outlookGroupsLabel": "Outlook Gruppen",
+        "outlookCalendarHeading": "Outlook Kalender"
     },
     "officeGroupPicker": {
-        "noOptionsMessage": "No results",
-        "typeToSearchPlaceholder": "Type to search...",
-        "manualEntry": "(manual entry)",
-        "searchPlaceholder": "Search for groups"
+        "noOptionsMessage": "Keine Ergebnisse",
+        "typeToSearchPlaceholder": "Zum Suchen tippen...",
+        "manualEntry": "(manuelle Eingabe)",
+        "searchPlaceholder": "Suche nach Gruppen"
     },
     "recurrencePicker": {
-        "patternLabel": "Recurrence pattern",
-        "occurences": "occurence(s)",
-        "startsOnText": "Starts on",
-        "endsText": "Ends",
-        "daysText": "day(s)",
-        "everyDayLabel": "Every",
-        "everyWeekdayLabel": "Every Weekday",
-        "reccurEveryText": "Reccur every",
-        "weeksText": "week(s)",
-        "onText": "on",
-        "ofEveryText": "of every",
-        "monthText": "month",
-        "yearsText": "year(s)",
-        "everyText": "every",
-        "ofText": "of"
+        "patternLabel": "Wiederholung",
+        "occurences": "vorkommen",
+        "startsOnText": "Beginnt am ",
+        "endsText": "Endet",
+        "daysText": "tag",
+        "everyDayLabel": "Jeder",
+        "everyWeekdayLabel": "Jeder Wochentag",
+        "reccurEveryText": "Wiederhole alle",
+        "weeksText": "wochen",
+        "onText": "am",
+        "ofEveryText": "alle",
+        "monthText": "monate",
+        "yearsText": "jahre",
+        "everyText": "alle",
+        "ofText": "alle"
     },
     "officeSharedMailboxPicker": {
-        "searchPlaceholder": "Search..."
+        "searchPlaceholder": "Suche nach Shared Mailboxen..."
     },
     "officeUserPicker": {
-        "noOptionsMessage": "No results",
-        "typeToSearchPlaceholder": "Type to search...",
-        "manualEntry": "(manual entry)",
-        "searchPlaceholder": "Search for users"
+        "noOptionsMessage": "Keine Ergebnisse",
+        "typeToSearchPlaceholder": "Zum Suchen tippen...",
+        "manualEntry": "(manuelle Eingabe)",
+        "searchPlaceholder": "Suche nach Personen..."
     },
     "officeUpdateSeriesScreen": {
-        "occurenceButton": "Occurence",
-        "cantChangeDayTooltip": "You can't change the day of a series-event",
-        "seriesButton": "Series",
-        "cancelButton": "Cancel",
-        "updateSeriesOrOccurrenceText": "Would you like to update the occurrence or the series?",
-        "seriesUpdateNoteText": "(If you update the series your changes on occurrences will be canceled and those events will match the series again!)"
+        "occurenceButton": "Vorkommen",
+        "cantChangeDayTooltip": "Man kann den Tag eines Serien-Events nicht ändern.",
+        "seriesButton": "Serie",
+        "cancelButton": "Abbrechen",
+        "updateSeriesOrOccurrenceText": "Möchtest du das Vorkommen oder die Serie aktualisieren?",
+        "seriesUpdateNoteText": "(Wenn du die Serie aktualisierst, werden die Änderungen an einzelnen Ereignissen rückgängig gemacht, und diese entsprechen wieder der Serie!)"
     },
     "officeOpenCalendarScreen": {
-        "addressBookTabLabel": "From Address Book",
-        "preconfiguredMailboxesTabLabel": "From Address Book",
-        "outlookGroupsTabLabel": "Outlook Groups",
-        "openCalendarHeading": "Open Calendar",
-        "openButton": "Open",
-        "cancelButton": "Cancel",
-        "noMailboxConfiguredTooltip": "No shared mailbox is configured."
+        "addressBookTabLabel": "Aus dem Adressbuch",
+        "preconfiguredMailboxesTabLabel": "Shared Mailboxen",
+        "outlookGroupsTabLabel": "Outlook Gruppen",
+        "openCalendarHeading": "Kalender öffnen",
+        "openButton": "Öffnen",
+        "cancelButton": "Abbrechen",
+        "noMailboxConfiguredTooltip": "Es ist keine Shared Mailbox konfiguriert."
     },
     "addCalendarButton": {
-        "loginTooltip": "Click here to log in with Outlook",
-        "openOrCreateCalendarTooltip": "Open and create a calendar",
-        "addIconLabel": "Add",
-        "addCalendarButtonLabel": "Add Calendar",
-        "noJiraUrlConfiguredFlagTitle": "No Jira url is configured yet.",
-        "noJiraUrlConfiguredFlagDescription": "Please instruct your administrator to enter a Jira url in the settings!",
-        "openOutlookCalendarOptionLabel": "Open Outlook Calendar",
-        "openOutlookCalendarOptionDescription": "Search and open a personal or shared calendar",
-        "createOutlookCalendarOptionLabel": "Create Outlook Calendar",
-        "createOutlookCalendarOptionDescription": "Create a new personal or shared calendar",
-        "openJiraCalendarOptionLabel": "Add Jira Calendar",
-        "openJiraCalendarOptionDescription": "Add a dynamic calendar with Jira issues"
+        "loginTooltip": "Hier klicken, um dich mit Outlook anzumelden",
+        "openOrCreateCalendarTooltip": "Öffnen und erstelle einen Kalender",
+        "addIconLabel": "hinzufügen",
+        "addCalendarButtonLabel": "Kalender hinzufügen",
+        "noJiraUrlConfiguredFlagTitle": "Es ist noch keine Jira-URL konfiguriert.",
+        "noJiraUrlConfiguredFlagDescription": "Wenden dich an deinen Administrator, und bitte ihn darum die Jira-URL in den Einstellungen einzugeben!",
+        "openOutlookCalendarOptionLabel": "Outlook-Kalender öffnen",
+        "openOutlookCalendarOptionDescription": "Suche und öffne persönliche oder geteilte Kalender",
+        "createOutlookCalendarOptionLabel": "Outlook-Kalender erstellen",
+        "createOutlookCalendarOptionDescription": "Erstelle neue persönliche oder geteilte Kalender",
+        "openJiraCalendarOptionLabel": "Jira-Kalender hinzufügen",
+        "openJiraCalendarOptionDescription": "Dynamischen Kalender mit Jira-Tickets hinzufügen"
     },
     "calendarSettingsDropdown": {
-        "openSidebarSettingsTooltip": "Open sidebar settings",
-        "settingIconLabel": "Setting",
-        "restoreDefaultsButtonLabel": "Restore defaults",
-        "discardDefaultsButtonLabel": "Discard",
-        "closeDefaultsButtonLabel": "Close",
-        "saveDefaultsButtonLabel": "Save"
+        "openSidebarSettingsTooltip": "Einstellungen öffnen",
+        "settingIconLabel": "Einstellung",
+        "restoreDefaultsButtonLabel": "Zurücksetzen",
+        "discardDefaultsButtonLabel": "Abbrechen",
+        "closeDefaultsButtonLabel": "Schließen",
+        "saveDefaultsButtonLabel": "Speichern"
     },
     "calendarSettingsScreen": {
-        "calendarUnitMinutesLabel": "Minutes",
-        "calendarUnitHoursLabel ": "Hours",
-        "calendarUnitDaysLabel ": "Days ",
-        "calendarUnitWeeksLabel ": "Weeks",
-        "calendarUnitMonthsLabel ": "Months",
-        "calendarSettingsTabHeading": "Calendar Settings",
-        "advancedTabHeading": "Advanced",
-        "macroSeetingsTabHeading": "Macro settings",
-        "schedulerTabHeading": "Scheduler",
-        "calendarTypeHeading": "Calendar Type",
-        "selectSchedulerGroupingTime": "Select Scheduler Grouping Time",
-        "selectCalendarGroupingTimePlaceholder": "Please select the scheduler grouping time",
-        "setSchedulerDayRangeLabel": "Set Scheduler Day Range",
-        "calendarModeLabel": "Calendar Mode",
-        "calendarHeightLabel": "Calendar Height (Pixel)",
+        "calendarUnitMinutesLabel": "Minuten",
+        "calendarUnitHoursLabel ": "Stunden",
+        "calendarUnitDaysLabel ": "Tage ",
+        "calendarUnitWeeksLabel ": "Wochen",
+        "calendarUnitMonthsLabel ": "Monate",
+        "calendarSettingsTabHeading": "Kalender-Einstellungen",
+        "advancedTabHeading": "Erweitert",
+        "macroSeetingsTabHeading": "Makro-Einstellungen",
+        "schedulerTabHeading": "Planungsansicht",
+        "calendarTypeHeading": "Kalendertyp",
+        "selectSchedulerGroupingTime": "Zeitplaner-Gruppierungszeit auswählen",
+        "selectCalendarGroupingTimePlaceholder": "Bitte wähle die Scheduler-Gruppierungszeit",
+        "setSchedulerDayRangeLabel": "Zeitplaner-Tagesbereich festlegen",
+        "calendarModeLabel": "Kalendermodus",
+        "calendarHeightLabel": "Kalender höhe (in pixel)",
         "calendarStartOnFixedDate": "Should Calendar start on Fixed Date",
-        "defaultDateLabel": "Default date",
-        "pickADateLabel": "Pick a date",
-        "pickADatePlaceholder": "Please select the day, the calendar should start",
-        "setTimezoneForCalendarLabel": "Set fixed Timezone for Calendar",
-        "changeTimeZoneToggleLabel": "Change Calendar TimeZone",
-        "setCalendarToReadOnlyLabel": "Set Calendar to Read Only",
-        "setCalendarToReadOnlyToggleLabel": "Set Calendar to Read Only",
-        "hideCalendarLabels": "Hide Calendar Labels",
-        "toggleCalendarLabels": "Toggle Calendar Labels",
-        "showCalendarListLabel": "Show Calendar List",
-        "toggleCalendarList": "Toggle Calendar List",
-        "showWeekendsLabel": "Show Weekends",
-        "showWeekendsToggleLabel": "Show Weekends",
-        "groupCalendarsInAgendaViewLabel": "Group Resources in Agenda View",
-        "groupCalendarsInAgendaViewToggleLabel": "Group Resources in Agenda View",
-        "allowEventsToOverlap": "Allow Events to Overlap",
-        "showEventsOverlappingToggleLabel": "Show events overlapping",
-        "calendarTimeRangeLabel": "Calendar time range",
-        "businessTimesLabel": "Business times",
-        "selectSchedulerGroupingLabel": "Select Scheduler Grouping Time",
-        "selectScheudlerGroupingPlaceholder": "Please select the scheduler grouping time"
+        "defaultDateLabel": "Standarddatum",
+        "pickADateLabel": "Wähle ein Datum aus",
+        "pickADatePlaceholder": "Bitte wähle den Tag, an dem der Kalender beginnen soll",
+        "setTimezoneForCalendarLabel": "Feste Zeitzone für Kalender einstellen",
+        "changeTimeZoneToggleLabel": "Zeitzone des Kalenders auswählen",
+        "setCalendarToReadOnlyLabel": "Kalender auf schreibgeschützt setzen",
+        "setCalendarToReadOnlyToggleLabel": "Kalender auf schreibgeschützt setzen",
+        "hideCalendarLabels": "Kalendernamen ausblenden",
+        "toggleCalendarLabels": "Kalendernamen umschalten",
+        "showCalendarListLabel": "Kalenderliste anzeigen",
+        "toggleCalendarList": "Kalenderliste umschalten",
+        "showWeekendsLabel": "Wochenenden anzeigen",
+        "showWeekendsToggleLabel": "Wochenenden anzeigen",
+        "groupCalendarsInAgendaViewLabel": "Kalender in der Agenda Ansicht gruppieren",
+        "groupCalendarsInAgendaViewToggleLabel": "Kalender in der Agenda Ansicht gruppieren",
+        "allowEventsToOverlap": "Überlappung von Teminen zulassen",
+        "showEventsOverlappingToggleLabel": "Termine überlappend anzeigen",
+        "calendarTimeRangeLabel": "Zeitbereich des Kalenders",
+        "businessTimesLabel": "Arbeitszeiten",
+        "selectSchedulerGroupingLabel": "Zeitplaner-Gruppierungszeit auswählen",
+        "selectScheudlerGroupingPlaceholder": "Bitte wähle die Scheduler-Gruppierungszeit"
     },
     "calendarToggle": {
-        "moreIconLabel": "More Icon"
+        "moreIconLabel": "Weitere Icon"
     },
     "calendarToolbar": {
-        "refreshTooltip": "Refresh",
-        "refreshIconLabel": "refresh",
-        "previousTimeUnitTooltip": "Previous {{unit}}",
-        "leftIconLabel": "left",
-        "gotToTimeUnitTooltip": "Go to this {{unit}}",
-        "todayButtonLabel": "Today",
-        "nextTimeUnitTooltip": "Next {{unit}}",
-        "rightIconLabel": "right",
-        "dayTooltip": "Day",
-        "dayShortTooltip": "D",
-        "weekTooltip": "Week",
+        "refreshTooltip": "Aktualisieren",
+        "refreshIconLabel": "aktualisieren",
+        "previousTimeUnitTooltip": "Vorherige {{unit}}",
+        "leftIconLabel": "links",
+        "gotToTimeUnitTooltip": "Zu diesem {{unit}} springen",
+        "todayButtonLabel": "Heute",
+        "nextTimeUnitTooltip": "Nächste {{unit}}",
+        "rightIconLabel": "rechts",
+        "dayTooltip": "Tag",
+        "dayShortTooltip": "T",
+        "weekTooltip": "Woche",
         "weekShortTooltip": "W",
-        "monthTooltip": "Month",
+        "monthTooltip": "Monat",
         "monthShortTooltip": "M"
     },
     "calendarView": {
@@ -719,107 +716,107 @@
         "categoryColumnLabel": "Category"
     },
     "calendarViewModeDropdown": {
-        "selectCalendarModeTooltip": "Select a calendar mode",
-        "selectCalendarModeIconLabel": "Calendar Mode",
-        "calenndarViewModeRadioTitle": "Calendar View Mode",
-        "dayOptionLabel": "Day",
-        "weekOptionLabel": "Week",
-        "monthOptionLabel": "Month"
+        "selectCalendarModeTooltip": "Wähle einen Kalendermodus",
+        "selectCalendarModeIconLabel": "Kalendermodus",
+        "calenndarViewModeRadioTitle": "Kalender-Ansichtsmodus",
+        "dayOptionLabel": "Tag",
+        "weekOptionLabel": "Woche",
+        "monthOptionLabel": "Monat"
     },
     "calendarViewTypeDropdown": {
-        "selectACalendarTypeTooltip": "Select a calendar type",
-        "calendarTypeIconLabel": "Calendar Type",
-        "calenndarViewTypeRadioTitle": "Calendar View Type",
+        "selectACalendarTypeTooltip": "Wähle die Kalender Ansicht aus",
+        "calendarTypeIconLabel": "Kalendertyp",
+        "calenndarViewTypeRadioTitle": "Kalender-Ansicht",
         "agendaOptionLabel": "Agenda",
-        "listOptionLabel": "List",
-        "schedulerOptionLabel": "Scheduler"
+        "listOptionLabel": "Liste",
+        "schedulerOptionLabel": "Planung"
     },
     "officePersonTab": {
-        "openCalendarsDescription": "Open your own calendars or those of your co-workers.",
-        "searchPlaceholder": "Search for persons..."
+        "openCalendarsDescription": "Eigene Kalender oder die deiner Kollegen öffnen.",
+        "searchPlaceholder": "Suche nach Personen..."
     },
     "officeGroupsTab": {
-        "openGroupsDescription": "Open Outlook Groups within your company."
+        "openGroupsDescription": "Öffne Outlook-Gruppen aus deinem Unternehmen."
     },
     "officeSharedMailboxesTab": {
-        "openSharedMailboxesDescription": "Open Outlook Groups within your company."
+        "openSharedMailboxesDescription": "Öffne Shared Mailboxes aus deinem Unternehmen."
     },
     "yasoonDateTimePicker": {
-        "placeholder": "Select a date..."
+        "placeholder": "Datum auswählen..."
     },
     "welcomeTour": {
-        "gettingStartedHeading": "Getting Started",
-        "addCalendarsHeading": "Adding Calendars",
-        "createAndEditHeading": "Create & Edit Events",
-        "welcomeHeading": "Welcome to Outlook Calendars for Confluence. You can use the calendar in the following ways.",
-        "youAreHere": "You are here!",
-        "personalCalendar": "The personal calendar is the place for all Outlook calendars that are relevant to you. Only you can access this calendar view.",
-        "spaceCalendar": "Space calendars are accessible for everyone with access to the space. It's the perfect place to view all calendars relevant to the project.",
-        "macroCalendar": "Use the calendar macro to embed Outlook calendars in any Confluence page to schedule meetings or share dates with your team.",
-        "openCalendars": "You can easily open personal or shared Outlook calendars. In addition, you can overlay Jira or Trello due dates. Give your team the best possible overview to plan and track a project.",
-        "createEvents": "You can create personal or shared Outlook events, as well as edit existing events. Easily schedule events even in large teams.",
-        "previousButton": "Previous",
-        "nextButton": "Next",
+        "gettingStartedHeading": "Erste Schritte",
+        "addCalendarsHeading": "Kalender hinzufügen",
+        "createAndEditHeading": "Termine anlegen und bearbeiten",
+        "welcomeHeading": "Willkommen bei Outlook Calendars for Confluence. Du kannst den Kalender auf folgende Weise verwenden.",
+        "youAreHere": "Du bist hier!",
+        "personalCalendar": "Der persönliche Kalender ist der Ort für alle Outlook-Kalender, die für dich wichtig sind. Nur du kannst auf diese Kalenderansicht zugreifen.",
+        "spaceCalendar": "Der Bereichskalender ist für jeden Bereich anders. Es ist der perfekte Ort, um alle für das Projekt relevanten Kalender anzuzeigen.",
+        "macroCalendar": "Verwende das Kalendermakro zum Einbetten von Outlook-Kalendern auf jeder beliebigen Confluence-Seite.",
+        "openCalendars": "Du kannst ganz einfach persönliche oder gemeinsam genutzte Outlook-Kalender öffnen. Zusätzlich können Jira- oder Trello-Daten überlagert werden. Gib deinem Team den bestmöglichen Überblick jedes Projekt zu planen und durchzuführen.",
+        "createEvents": "Es können persönliche oder gemeinsame Outlook-Termine erstellt und bestehende Termine bearbeitet werden. So kannst du selbst in großen Teams problemlos Termine planen.",
+        "previousButton": "Zurück",
+        "nextButton": "Weiter",
         "startButton": "Start"
     },
     "userSettings": {
-        "iconTooltip": "Profile and user settings",
-        "helpLabel": "Help",
-        "suggestionsLabel": "Suggestions",
-        "welcomeTourLabel": "Show Welcome-Dialog",
-        "enableLogging": "Support logging enabled",
-        "settingsTitle": "Settings",
-        "timezoneTitle": "Timezone",
-        "helpTitle": "Help",
-        "logoutTitle": "Logout",
-        "logout": "Logout"
+        "iconTooltip": "Profil und Benutzereinstellungen",
+        "helpLabel": "Hilfe",
+        "suggestionsLabel": "Verbesserungsvorschläge",
+        "welcomeTourLabel": "Erste Schritte",
+        "enableLogging": "Support logging aktiviert",
+        "settingsTitle": "Einstellungen",
+        "timezoneTitle": "Zeitzone",
+        "helpTitle": "Dokumentation",
+        "logoutTitle": "Abmelden",
+        "logout": "Abmelden"
     },
     "compactCalendar": {
-        "pickADateTooltip": "Pick a date directly",
-        "goToDateIconLabel": "go to date"
+        "pickADateTooltip": "Datum wählen",
+        "goToDateIconLabel": "zum Datum gehen"
     },
     "createDetailedButton": {
-        "createDetailedOfficeEventTooltip": "Create a new Office event",
-        "addEventIconLabel": "add icon"
+        "createDetailedOfficeEventTooltip": "Neuen Termin erstellen",
+        "addEventIconLabel": "plus icon"
     },
     "errorBoundary": {
-        "somethingWentWrongHeading": "Something went wrong :(",
-        "somethingWentWrongSubHeading": "Sorry for the inconvenience.",
-        "persistDescription": "If this error persists please open a support ticket.",
-        "reloadApllicationButtonLabel": "Reload the application",
-        "openSupportTicketButtonLabel": "Open Support Ticket",
-        "enableLoggingButtonlabel": "Enable Logging"
+        "somethingWentWrongHeading": "Etwas ging schief :(",
+        "somethingWentWrongSubHeading": "Entschuldige die Unannehmlichkeit.",
+        "persistDescription": "Wenn dieser Fehler weiterhin besteht, dann erstellen bitte ein Support-Ticket.",
+        "reloadApllicationButtonLabel": "Anwendung neu starten",
+        "openSupportTicketButtonLabel": "Support-Ticket öffnen",
+        "enableLoggingButtonlabel": "Logging aktivieren"
     },
     "officeLoginModal": {
-        "loginToConfluenceDescription": "Please login to Confluence first!",
-        "officeLoginDescription": "You’re using Outlook Calendars for Confluence for the first time. Please login with your {{loginType}}",
-        "loginHeading": "Login",
-        "hiThere": "Hi there,",
-        "useOwnAccountDescription": "Note: Please use your own account for logging in. You will be able to open any other calendar from your organization afterwards.",
-        "passwordFieldLabel": "Password",
-        "loginWithO365ButtonLabel": "Login with Office 365",
-        "loginButtonLabel": "Login",
-        "skipButtonLabel": "Skip",
-        "userNameLabel": "User Name",
-        "emailAddressLabel": "Email Address"
+        "loginToConfluenceDescription": "Bitte melde dich zuerst bei Confluence an!",
+        "officeLoginDescription": "Du verwendest Outlook Calendars for Confluence zum ersten Mal. Bitte melde dich mit deinem {{loginType}} an.",
+        "loginHeading": "Anmelden",
+        "hiThere": "Hallo,",
+        "useOwnAccountDescription": "Hinweis: Bitte benutze dein eigenes Konto zum Einloggen. Anschließend kannst du jeden anderen Kalender deiner Organisation öffnen.",
+        "passwordFieldLabel": "Passwort",
+        "loginWithO365ButtonLabel": "Anmelden mit Office 365",
+        "loginButtonLabel": "Anmelden",
+        "skipButtonLabel": "Überspringen",
+        "userNameLabel": "Benutzername",
+        "emailAddressLabel": "Email-Adresse"
     },
     "macroEditor": {
-        "calendarListHeading": "Calendar List",
-        "calendarDisplaySettingsHeading": "Calendar Display Settings"
+        "calendarListHeading": "Kalender Liste",
+        "calendarDisplaySettingsHeading": "Einstellungen der Kalenderansicht"
     },
     "notificationContainer": {
-        "dismissContentLabel": "Dismiss"
+        "dismissContentLabel": "Schließen"
     },
     "oldnotificationContainer": {
-        "dismissContentLabel": "Dismiss"
+        "dismissContentLabel": "Schließen"
     },
     "timeZoneModal": {
-        "timeZoneHeading": "Timezone",
-        "pleaseSelectTimezone": "Please select a timezone.",
-        "timeZoneNote": "Note: You will be able to change the timezone afterwards!",
-        "applyButtonLabel": "Apply"
+        "timeZoneHeading": "Zeitzone",
+        "pleaseSelectTimezone": "Bitte wählen eine Zeitzone aus.",
+        "timeZoneNote": "Hinweis: Anschließend kannst du die Zeitzone ändern!",
+        "applyButtonLabel": "Anwenden"
     },
     "timeZonePicker": {
-        "timeZoneLabel": "Timezone"
+        "timeZoneLabel": "Zeitzone"
     }
 }
