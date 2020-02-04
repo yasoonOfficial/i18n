@@ -5,7 +5,8 @@
         "firstTimeText": "Scheinbar benutzt du die App das erste Mal. Bitte melde dich mit deinem Office 365 Account an!"
     },
     "activateSyncStep": {
-        "headline": "Alles bereit!"
+        "headline": "Alles bereit!",
+        "configureSync": "Aufgabensynchronisierung konfigurieren"
     },
     "additionalOptions": {
         "errorOopsDueDateSync": "Ups, es ist ein Fehler aufgetreten!",
