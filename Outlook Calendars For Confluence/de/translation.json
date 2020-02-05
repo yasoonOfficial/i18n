@@ -179,13 +179,13 @@
     },
     "spaceAdminScreen": {
         "settingsSaved": "Einstellungen gespeichert",
-        "spaceCalendarisVisibleOption": "Sichtbart",
+        "spaceCalendarisVisibleOption": "Sichtbar",
         "spaceCalendarisNotVisibleOption": "Versteckt",
         "selectSpaceVisibilityHeader": "Wähle die Sichtbarkeit der Bereichskalender",
         "savingSettingsLozenge": "Speichere Einstellungen",
         "settingsSavedLozenge": "Einstellungen gespeichert",
         "errorWhileSavingLozonge": "Fehler beim Speichern",
-        "errorWhileSavingFlagTitle": "Beim speichern der Einstellungen ist ein Fehler aufgetreten"
+        "errorWhileSavingFlagTitle": "Beim Speichern der Einstellungen ist ein Fehler aufgetreten"
     },
     "enableLoggingModal": {
         "heading": "Support Logging aktivieren",
