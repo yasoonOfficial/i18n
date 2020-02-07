@@ -43,7 +43,7 @@
 	},
 	"createMeetingNotes": {
 		"heading": "Besprechungsseite erstellen",
-		"changeLocation": "Speicherort ändern",
+		"changeLocation": "(Speicherort ändern)",
 		"pageTitlePlaceholder": "Bitte gib einen Seitentitel ein",
 		"pageNameAlreadyExistsError": "Es gibt bereits eine Seite mit diesem Namen.",
 		"descriptionLabel": "Beschreibung",
@@ -86,7 +86,8 @@
 	"pagePickerScreen": {
 		"heading": "Wähle die übergeordnete Seite",
 		"space": "Bereich",
-		"parentPage": "Übergeordnete Seite"
+		"parentPage": "Übergeordnete Seite",
+		"applyButton": "Anwenden"
 	},
 	"pagePicker": {
 		"placeholder": "Wähle die übergeordnete Seite",

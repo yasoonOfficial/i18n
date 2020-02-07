@@ -43,7 +43,7 @@
 	},
 	"createMeetingNotes": {
 		"heading": "Create meeting page",
-		"changeLocation": "Change Location",
+		"changeLocation": "(Change Location)",
 		"pageTitlePlaceholder": "Please enter a page title",
 		"pageNameAlreadyExistsError": "There is already a page with this name.",
 		"descriptionLabel": "Description",
@@ -86,7 +86,8 @@
 	"pagePickerScreen": {
 		"heading": "Select parent page",
 		"space": "Space",
-		"parentPage": "Parent Page"
+		"parentPage": "Parent Page",
+		"applyButton": "Apply"
 	},
 	"pagePicker": {
 		"placeholder": "Select the parent page",
