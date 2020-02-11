@@ -289,6 +289,7 @@
         "internalErrorDescription": "Sorry - we could not parse your input. This is most likely a bug on our side and it would be great if you report it. No issue has been created",
         "createIssueTitle": "Issue could not be created",
         "unknownError": "Unknown error",
+        "instanceNotFound": "One of the Jira instances could not be reached",
         "incompleteIssueTitle": "Issue {{issueKey}} has been created",
         "incompleteIssueDescription": "The issue was created but it might be incomplete. Please close this window and check the issue manually",
         "selectIssueTitle": "Select Issue",

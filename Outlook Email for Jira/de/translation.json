@@ -134,7 +134,7 @@
     "instanceSettings": {
         "loginMessage": "Du bist angemeldet als:",
         "loginExpired": "Anmeldedaten abgelaufen",
-        "logoutLogin": "Abmelden & anmelden",
+        "logoutLogin": "Ab- & anmelden",
         "notLoggedInMessage": "Du bist derzeit nicht angemeldet.",
         "instancePickerPlaceholder": "Wähle eine Instanz aus",
         "loginErrorDescription": "Beim anmelden kam es zu einem Fehler:",
@@ -289,6 +289,7 @@
         "internalErrorDescription": "Sorry - wir konnten die Eingabe nicht verarbeiten. Hierbei handelt es sich höchstwahrscheinlich um einen Fehler auf unserer Seite und es wäre super, wenn du uns das mitteilst. Der Vorgang wurde nicht erstellt",
         "createIssueTitle": "Vorgang konnte nicht erstellt werden",
         "unknownError": "Unbekannter Fehler",
+        "instanceNotFound": "Eine der Jirainstanzen konnte nicht erreicht werden",
         "incompleteIssueTitle": "Vorgang {{issueKey}} wurde erstellt",
         "incompleteIssueDescription": "Der Vorang wurde erstellt, ist aber möglicherweise unvollständig. Bitte schließe dieses Fenster und prüfe den Vorang manuell",
         "selectIssueTitle": "Vorgang auswählen",
