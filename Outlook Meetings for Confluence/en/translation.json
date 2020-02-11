@@ -13,7 +13,8 @@
 		"privacyPolicy": "Privacy Policy",
 		"whereDoIFindThis": "Where do I find this?",
 		"continue": "Continue",
-		"login": "Login"
+		"login": "Login",
+		"tryAgain": "Try Again"
 	},
 	"errorMessages": {
 		"cannontConnectYasoonTitle": "Cannot connect to yasoon.com",
@@ -39,7 +40,9 @@
 		"userNameOrEmail": "Username or Email address",
 		"apiToken": "API Token",
 		"password": "Password",
-		"createApiToken": "Create a new API Token"
+		"createApiToken": "Create a new API Token",
+		"loginButton": "Login",
+		"backButton": "Back"
 	},
 	"createMeetingNotes": {
 		"heading": "Create meeting page",

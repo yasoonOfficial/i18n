@@ -8,12 +8,13 @@
 		"confluenceUrlLabel": "Confluence Url",
 		"confluenceUrlPlaceholder": "z.B. https://acme.atlassian.net",
 		"aggreementMessage": "Mit Weiter stimmst du unseren",
-		"termsOfService": "Nutzungsbedingungen",
+		"termsOfService": "AGBs",
 		"and": " und der ",
 		"privacyPolicy": "Datenschutzerklärung",
 		"whereDoIFindThis": "Wo finde ich diese?",
 		"continue": "Weiter",
-		"login": "Anmelden"
+		"login": "Anmelden",
+		"tryAgain": "Erneut Versuchen"
 	},
 	"errorMessages": {
 		"cannontConnectYasoonTitle": "Keine Verbindung zu to yasoon.com",
@@ -39,7 +40,9 @@
 		"userNameOrEmail": "Benutzername oder E-Mail-Adresse",
 		"apiToken": "API Token",
 		"password": "Passwort",
-		"createApiToken": "Erstelle einen neues API-Token"
+		"createApiToken": "Erstelle einen neuen API-Token",
+		"loginButton": "Anmelden",
+		"backButton": "Zurück"
 	},
 	"createMeetingNotes": {
 		"heading": "Besprechungsseite erstellen",
