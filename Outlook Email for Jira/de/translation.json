@@ -59,6 +59,7 @@
         "addMailInformation": "Füge Email Informationen zur Beschreibung hinzu",
         "includeAttachments": "Anhänge einbeziehen",
         "includeSubject": "Beschreibung einbeziehen",
+        "createIssueSuccessScreenEnabled": "Nach dem Erstellen eines Vorgangs Dialog anzeigen",
         "oldEditor": "Den WYSIWYG Editor deaktivieren und stattdessen Markup verwenden"
     },
     "about": {
@@ -104,6 +105,8 @@
         "watchIssueOption": "Beobachtung beginnen"
     },
     "actions": {
+        "gotItButton": "Verstanden",
+        "closeButton": "Schließen",
         "createButton": "Erstellen",
         "cancelButton": "Abbrechen",
         "submit": "Absenden",
@@ -388,5 +391,11 @@
 		"sent": "Gesendet",
 		"subject": "Betreff",
 		"attachments": "Anhänge"
-	}
+	},
+    "createIssueSuccessScreen": {
+        "heading": "Der Vorgang wurde erfolgreich erstellt",
+        "description": "TBD",
+        "viewIssueInJiraButton": "Diesen Vorgang in Jira anzeigen",
+        "disableSettingButton": "In Zukunft nicht mehr anzeigen (Kann in den Einstellungen wieder aktiviert werden)"
+    }
 }

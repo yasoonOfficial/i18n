@@ -59,6 +59,7 @@
         "addMailInformation": "Add Mail Information to description",
         "includeAttachments": "Include Attachments",
         "includeSubject": "Include Subject",
+        "createIssueSuccessScreenEnabled": "Show dialogue after creating an issue",
         "oldEditor": "Disable WYSIWYG Editor and use markup instead"
     },
     "about": {
@@ -105,6 +106,8 @@
         "watchIssueOption": "Watch"
     },
     "actions": {
+        "gotItButton": "Got it",
+        "closeButton": "Close",
         "createButton": "Create",
         "cancelButton": "Cancel",
         "submit": "Submit",
@@ -388,5 +391,11 @@
 		"sent": "Sent",
 		"subject": "Subject",
 		"attachments": "Attachments"
-	}
+    },
+    "createIssueSuccessScreen": {
+        "heading": "Issue successfully created",
+        "description": "TBD",
+        "viewIssueInJiraButton": "View this issue in Jira",
+        "disableSettingButton": "Do not show this in the future (Can be re-enabled in settings)"
+    }
 }
