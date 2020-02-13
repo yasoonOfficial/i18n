@@ -394,8 +394,9 @@
     },
     "createIssueSuccessScreen": {
         "heading": "Issue successfully created",
-        "description": "TBD",
+        "description": "The issue {link} has successfully been created. You can now view this issue in Jira if you like. This window will close automatically. If you don't want to see this dialogue after every successful creation, you can disable this in the settings or by clicking the button below",
         "viewIssueInJiraButton": "View this issue in Jira",
         "disableSettingButton": "Do not show this in the future (Can be re-enabled in settings)"
     }
+
 }

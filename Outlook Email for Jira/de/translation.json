@@ -394,8 +394,9 @@
 	},
     "createIssueSuccessScreen": {
         "heading": "Der Vorgang wurde erfolgreich erstellt",
-        "description": "TBD",
+        "description": "Der Vorgang {link} wurde erfolgreich erstellt. Wenn du möchtest, kannst du dir diesen nun in Jira ansehen. Dieses Fenster schließt sich automatisch. Wenn du diesen Dialog nach dem Erstellen eines Vorgangs nicht mehr sehen willst, kannst du dies in den Einstellungen deaktivieren oder den Button unten verwenden",
         "viewIssueInJiraButton": "Diesen Vorgang in Jira anzeigen",
         "disableSettingButton": "In Zukunft nicht mehr anzeigen (Kann in den Einstellungen wieder aktiviert werden)"
     }
+
 }
