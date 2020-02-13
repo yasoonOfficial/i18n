@@ -161,6 +161,7 @@
         "headline": "Connect to Jira",
         "subHeadline": "Please provide your login credentials.",
         "jiraUrl": "Jira Url",
+        "mail": "Email address",
         "usernameOrMail": "Username or Email address",
         "apiToken": "API Token",
         "password": "Password",

@@ -161,6 +161,7 @@
         "headline": "Verbinde zu Jira",
         "subHeadline": "Bitte gib deine Zugangsdaten ein.",
         "jiraUrl": "Jira Url",
+        "mail": "Emailadresse",
         "usernameOrMail": "Benutzername oder Emailadresse",
         "apiToken": "API Token",
         "password": "Passwort",
