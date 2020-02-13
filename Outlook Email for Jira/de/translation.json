@@ -59,7 +59,7 @@
         "addMailInformation": "Füge Email Informationen zur Beschreibung hinzu",
         "includeAttachments": "Anhänge einbeziehen",
         "includeSubject": "Beschreibung einbeziehen",
-        "createIssueSuccessScreenEnabled": "Nach dem Erstellen eines Vorgangs Dialog anzeigen",
+        "createIssueSuccessScreenEnabled": "Nach dem Erstellen eines Vorgangs Erfolgsdialog anzeigen",
         "oldEditor": "Den WYSIWYG Editor deaktivieren und stattdessen Markup verwenden"
     },
     "about": {
@@ -85,6 +85,7 @@
         "connectToJira": "Mit Jira verbinden",
         "oAuthLoginDescription1": "Bitte auf Anmelden klicken - dies wird ein neues Fenster öffnen in welchem der Zugang zu Jira gewährt werden muss.",
         "oAuthLoginDescription2": "Diese Seite wird nach der Anmeldung automatisch aktualisiert",
+        "provideMailAddressMessage": "Bitte gib die Emailadresse für den Zugang zu Jira ein.",
         "exampleUrlPlaceholder": "z.B. https://acme.atlassian.net",
         "provideUrlMessage": "Bitte gib die Url für den Zugang zu Jira ein.",
         "useInSharedMailboxTooltip": "Bitte nicht in einer 'Shared Mailbox' verwenden",
@@ -398,9 +399,9 @@
     },
     "createIssueSuccessScreen": {
         "heading": "Der Vorgang wurde erfolgreich erstellt",
-        "description": "Der Vorgang {link} wurde erfolgreich erstellt. Wenn du möchtest, kannst du dir diesen nun in Jira ansehen. Dieses Fenster schließt sich automatisch. Wenn du diesen Dialog nach dem Erstellen eines Vorgangs nicht mehr sehen willst, kannst du dies in den Einstellungen deaktivieren oder den Button unten verwenden",
-        "viewIssueInJiraButton": "Diesen Vorgang in Jira anzeigen",
-        "disableSettingButton": "In Zukunft nicht mehr anzeigen (Kann in den Einstellungen wieder aktiviert werden)"
+        "description": "Der Vorgang {link} wurde erfolgreich erstellt. Wenn du möchtest, kannst du dir diesen nun in Jira ansehen.",
+        "viewIssueInJiraButton": "Vorgang in Jira anzeigen",
+        "disableSettingButton": "In Zukunft nicht mehr anzeigen"
     },
     "selectableFileCard": {
         "invalidFileName": "Unzulässiger Dateiname"
