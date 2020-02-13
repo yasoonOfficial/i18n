@@ -18,8 +18,8 @@
         "emailHasChanged": "Selected email has changed",
         "unsavedData": "Unsaved data!",
         "reloadRelatedIssuesMessage": "Reload related issues for current email.",
-        "showAllFields":"Show all fields",
-        "showLessFields":"Show less fields"
+        "showAllFields": "Show all fields",
+        "showLessFields": "Show less fields"
     },
     "showIssues": {
         "descriptionHeading": "Description",
@@ -86,7 +86,7 @@
         "oAuthLoginDescription1": "Please click on 'Login' to continue - this will open a new window where you have to approve the access to Jira.",
         "oAuthLoginDescription2": "This page will refresh automatically and continue when you are done.",
         "loginWithJiraHosting": "Login with Jira {{hosting}}",
-        "exampleUrlPlaceholder":"e.g. https://acme.atlassian.net",
+        "exampleUrlPlaceholder": "e.g. https://acme.atlassian.net",
         "provideUrlMessage": "Please provide the address you use to access Jira.",
         "useInSharedMailboxTooltip": "Do not use this in a shared mailbox",
         "whereDoIFindThis": "Where do I find this?",
@@ -181,7 +181,7 @@
         "loading": "Loading..."
     },
     "welcomeScreen": {
-        "aboutUsLinks":"{link1} - {link2}",
+        "aboutUsLinks": "{link1} - {link2}",
         "headline": "Jira meets Outlook",
         "createJiraIssues": "Create new Jira issues from emails & quickly take over text and attachments.",
         "viewJiraIssues": "View Jira issues that are related to the current email conversation.",
@@ -385,19 +385,21 @@
         "originalEstimateInfo": "The original estimate for this issue was",
         "dateTimePickerLabel": "Date started"
     },
-	"mailHeader": {
-		"from": "From",
-		"cc": "Cc",
-		"to": "To",
-		"sent": "Sent",
-		"subject": "Subject",
-		"attachments": "Attachments"
+    "mailHeader": {
+        "from": "From",
+        "cc": "Cc",
+        "to": "To",
+        "sent": "Sent",
+        "subject": "Subject",
+        "attachments": "Attachments"
     },
     "createIssueSuccessScreen": {
         "heading": "Issue successfully created",
         "description": "The issue {link} has successfully been created. You can now view this issue in Jira if you like. This window will close automatically. If you don't want to see this dialogue after every successful creation, you can disable this in the settings or by clicking the button below",
         "viewIssueInJiraButton": "View this issue in Jira",
         "disableSettingButton": "Do not show this in the future (Can be re-enabled in settings)"
+    },
+    "selectableFileCard": {
+        "invalidFileName": "Invalid filename"
     }
-
 }
