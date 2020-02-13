@@ -404,5 +404,12 @@
     },
     "selectableFileCard": {
         "invalidFileName": "Invalid filename"
+    },
+    "senderFilter": {
+        "title": "Show issues with {{emailaddress}}",
+        "reporter": "as reporter",
+        "assignee": "as assignee",
+        "textFields": "in textfields"
     }
+
 }

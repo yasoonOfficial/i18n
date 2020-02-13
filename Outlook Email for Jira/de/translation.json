@@ -404,5 +404,11 @@
     },
     "selectableFileCard": {
         "invalidFileName": "Unzulässiger Dateiname"
+    },
+    "senderFilter": {
+        "title": "Zeige Vorgänge mit {{emailaddress}}",
+        "reporter": "als Autor",
+        "assignee": "als Bearbeiter",
+        "textFields": "in Textfeldern"
     }
 }
