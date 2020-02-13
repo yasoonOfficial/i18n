@@ -383,7 +383,14 @@
     "logWorkScreen": {
         "logWorkButton": "Log Work",
         "originalEstimateInfo": "The original estimate for this issue was",
+<<<<<<< Updated upstream
         "dateTimePickerLabel": "Date started"
+=======
+        "dateTimePickerLabel": "Date started",
+        "adjustAutomaticallyRadioButton": "Adjust automatically",
+        "leaveAsIsRadioButton": "Leave as is",
+        "adjustmanuallyRadioButton": "Adjust manually"
+>>>>>>> Stashed changes
     },
     "mailHeader": {
         "from": "From",
@@ -392,6 +399,7 @@
         "sent": "Sent",
         "subject": "Subject",
         "attachments": "Attachments"
+<<<<<<< Updated upstream
     },
     "createIssueSuccessScreen": {
         "heading": "Issue successfully created",
@@ -401,5 +409,7 @@
     },
     "selectableFileCard": {
         "invalidFileName": "Invalid filename"
+=======
+>>>>>>> Stashed changes
     }
 }
