@@ -383,14 +383,10 @@
     "logWorkScreen": {
         "logWorkButton": "Zeit erfassen",
         "originalEstimateInfo": "Die ursprüngliche Schätzung für diesen Vorgang war",
-<<<<<<< Updated upstream
-        "dateTimePickerLabel": "Startdatum"
-=======
         "dateTimePickerLabel": "Startdatum",
         "adjustAutomaticallyRadioButton": "automatisch anpassen",
         "leaveAsIsRadioButton": "beibehalten",
         "adjustmanuallyRadioButton": "manuell anpassen"
->>>>>>> Stashed changes
     },
     "mailHeader": {
         "from": "Von",
@@ -399,7 +395,6 @@
         "sent": "Gesendet",
         "subject": "Betreff",
         "attachments": "Anhänge"
-<<<<<<< Updated upstream
     },
     "createIssueSuccessScreen": {
         "heading": "Der Vorgang wurde erfolgreich erstellt",
@@ -409,7 +404,5 @@
     },
     "selectableFileCard": {
         "invalidFileName": "Unzulässiger Dateiname"
-=======
->>>>>>> Stashed changes
     }
 }
