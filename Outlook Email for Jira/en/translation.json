@@ -408,8 +408,9 @@
     },
     "senderFilter": {
         "title": "Show issues with {{emailaddress}}",
+        "triggerLabel": "Filter sender issues",
         "reporter": "as reporter",
         "assignee": "as assignee",
-        "textFields": "in textfields"
+        "textFields": "in text"
     }
 }

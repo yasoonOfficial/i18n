@@ -1,7 +1,7 @@
 {
     "relatedIssues": {
         "headline": "Verwandte Vorgänge",
-        "senderTab": "Sender",
+        "senderTab": "Absender",
         "conversationTab": "Konversation",
         "emptyConversationHeading": "Keine Vorgänge gefunden",
         "emptyConversationDescription": "Diese Email oder Konversation ist kein Vorgang zugewiesen",
@@ -408,8 +408,9 @@
     },
     "senderFilter": {
         "title": "Zeige Vorgänge mit {{emailaddress}}",
+        "triggerLabel": "Vorgänge filtern",
         "reporter": "als Autor",
         "assignee": "als Bearbeiter",
-        "textFields": "in Textfeldern"
+        "textFields": "im Text"
     }
 }
