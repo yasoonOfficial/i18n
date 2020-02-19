@@ -617,6 +617,8 @@
         "yearsText": "year(s)",
         "everyText": "every",
         "ofText": "of",
+        "absoluteMonthlyLabel": "Day",
+        "relativeMonthlyLabel": "The",
         "onTheLabel": "On the",
         "onLabel": "On"
     },

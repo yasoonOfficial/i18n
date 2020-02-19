@@ -136,7 +136,7 @@
         "retryButtonLabel": "Erneut versuchen",
         "cancelButtonLabel": "Abbrechen",
         "nextIconLabel": "Weiter",
-        "letsGoLabel": "Auf gehts",
+        "letsGoLabel": "Los",
         "applyLabel": "Anwenden",
         "nextLabel": "Weiter",
         "cancelLabel": "Abbrechen",
@@ -145,7 +145,7 @@
         "ewsUrl": "EWS Url:",
         "authenticationScheme": "Authentifizierungsschema:",
         "EWSConnectionVia": "EWS Verbindung über:",
-        "loginViaDomainUser": "Anmelden über Domain Nutzer:",
+        "loginViaDomainUser": "Anmelden mit Domainname:",
         "usernameIsRequired": "Ja",
         "usernameIsNotRequired": "Nein"
     },
@@ -609,6 +609,9 @@
         "monthText": "monate",
         "yearsText": "jahre",
         "everyText": "alle",
+        "ofText": "im",
+        "absoluteMonthlyLabel": "Der",
+        "relativeMonthlyLabel": "Am",
         "ofText": "alle",
         "onTheLabel": "Am",
         "onLabel": "Jeder"
