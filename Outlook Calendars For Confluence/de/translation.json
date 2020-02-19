@@ -84,7 +84,7 @@
         "certificateExample": "Öffentlicher Schlüssel:",
         "yasoonConnectAddonLink": "Bitte installiere unser {link} addon auf deinem Jira-System um die Verbindung mit Confluence zu erlauben.",
         "saveSettingErrorFlagTitle": "Während des Speicherns ist ein Fehler aufgetreten"
-    },   
+    },
     "index": {
         "licenseExpiredBannerTitle": "Deine Lizenz ist abgelaufen",
         "personalCalendarHeading": "Persönlicher Kalender",
@@ -564,7 +564,14 @@
         "daily": "Täglich",
         "weekly": "Wöchentlich",
         "monthly": "Monatlich",
-        "yearly": "Jährlich"
+        "yearly": "Jährlich",
+        "mondayShort": "Mo",
+        "tuesdayShort": "Di",
+        "wednesdayShort": "Mi",
+        "thursdayShort": "Do",
+        "fridayShort": "Fr",
+        "saturdayShort": "Sa",
+        "sundayShort": "So"
     },
     "officeCalendarPicker": {
         "noOptionsMessage": "Wir haben keinen Kalender gefunden, auf den du Zugriff hast - sorry!",
@@ -602,7 +609,9 @@
         "monthText": "monate",
         "yearsText": "jahre",
         "everyText": "alle",
-        "ofText": "alle"
+        "ofText": "alle",
+        "onTheLabel": "Am",
+        "onLabel": "Jeder"
     },
     "officeSharedMailboxPicker": {
         "searchPlaceholder": "Suche nach Shared Mailboxen..."

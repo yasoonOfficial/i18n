@@ -571,7 +571,14 @@
         "daily": "Daily",
         "weekly": "Weekly",
         "monthly": "Monthly",
-        "yearly": "Yearly"
+        "yearly": "Yearly",
+        "mondayShort": "Mon",
+        "tuesdayShort": "Tue",
+        "wednesdayShort": "Wed",
+        "thursdayShort": "Thu",
+        "fridayShort": "Fri",
+        "saturdayShort": "Sat",
+        "sundayShort": "Sun"
     },
     "officeCalendarPicker": {
         "noOptionsMessage": "We found no calendar you have access to - sorry!",
@@ -609,7 +616,9 @@
         "monthText": "month",
         "yearsText": "year(s)",
         "everyText": "every",
-        "ofText": "of"
+        "ofText": "of",
+        "onTheLabel": "On the",
+        "onLabel": "On"
     },
     "officeSharedMailboxPicker": {
         "searchPlaceholder": "Search..."
