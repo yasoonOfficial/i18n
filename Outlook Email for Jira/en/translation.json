@@ -19,7 +19,9 @@
         "unsavedData": "Unsaved data!",
         "reloadRelatedIssuesMessage": "Reload related issues for current email.",
         "showAllFields": "Show all fields",
-        "showLessFields": "Show less fields"
+        "showLessFields": "Show less fields",
+        "moreSenderIssuesButton": "More Issues",
+        "allSenderIssuesLoaded": "No More Issues"
     },
     "showIssues": {
         "descriptionHeading": "Description",
@@ -413,4 +415,5 @@
         "assignee": "as assignee",
         "textFields": "in text"
     }
+
 }

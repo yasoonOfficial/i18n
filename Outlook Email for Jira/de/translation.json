@@ -19,7 +19,9 @@
         "unsavedData": "Ungespeicherte Daten!",
         "reloadRelatedIssuesMessage": "Vorgänge für aktuelle Email neu laden.",
         "showAllFields": "Zeige alle Felder",
-        "showLessFields": "Zeige weniger Felder"
+        "showLessFields": "Zeige weniger Felder",
+        "moreSenderIssuesButton": "Mehr Vorgänge",
+        "allSenderIssuesLoaded": "Keine Weiteren Vorgänge"
     },
     "showIssues": {
         "descriptionHeading": "Beschreibung",
@@ -413,4 +415,5 @@
         "assignee": "als Bearbeiter",
         "textFields": "im Text"
     }
+
 }
