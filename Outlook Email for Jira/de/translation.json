@@ -21,7 +21,7 @@
         "showAllFields": "Zeige alle Felder",
         "showLessFields": "Zeige weniger Felder",
         "moreSenderIssuesButton": "Mehr Vorgänge",
-        "allSenderIssuesLoaded": "Keine Weiteren Vorgänge"
+        "isSenderIssueLimitReached": "Aktualisieren"
     },
     "showIssues": {
         "descriptionHeading": "Beschreibung",

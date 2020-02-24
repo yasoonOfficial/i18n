@@ -21,7 +21,7 @@
         "showAllFields": "Show all fields",
         "showLessFields": "Show less fields",
         "moreSenderIssuesButton": "More Issues",
-        "allSenderIssuesLoaded": "No More Issues"
+        "isSenderIssueLimitReached": "Refresh"
     },
     "showIssues": {
         "descriptionHeading": "Description",
