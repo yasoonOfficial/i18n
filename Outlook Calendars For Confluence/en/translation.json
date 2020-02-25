@@ -641,7 +641,7 @@
     },
     "officeOpenCalendarScreen": {
         "addressBookTabLabel": "From Address Book",
-        "preconfiguredMailboxesTabLabel": "From Address Book",
+        "preconfiguredMailboxesTabLabel": "Preconfigured Mailboxes",
         "outlookGroupsTabLabel": "Outlook Groups",
         "openCalendarHeading": "Open Calendar",
         "openButton": "Open",
