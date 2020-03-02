@@ -284,6 +284,8 @@
     "errorMessages": {
         "noConnectToJiraTitle": "Could not connect to Jira",
         "noConnectToJiraDescription": "It looks like your login has expired. Please login again in the Settings menu.",
+        "xDomainTimeoutTitle": "Waiting for server response",
+        "xDomainTimeoutDescription": "Your Jira Server needs a long time to respond. If this occurs frequently, contact your Jira admin.",
         "noSDSupportTitle": "Servicedesk not supported",
         "noSDSupportDescription": "You need at least Jira Servicedesk 3.3.0. You have",
         "uploadFilesError": "Couldn't upload files!",
