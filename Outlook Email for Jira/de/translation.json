@@ -20,8 +20,7 @@
         "reloadRelatedIssuesMessage": "Vorgänge für aktuelle Email neu laden.",
         "showAllFields": "Zeige alle Felder",
         "showLessFields": "Zeige weniger Felder",
-        "moreSenderIssuesButton": "Mehr Vorgänge",
-        "isSenderIssueLimitReached": "Aktualisieren"
+        "moreSenderIssuesButton": "Mehr Vorgänge"
     },
     "showIssues": {
         "descriptionHeading": "Beschreibung",
