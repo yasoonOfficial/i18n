@@ -228,7 +228,7 @@
         "getALicense": "Hol dir eine Lizenz"
     },
     "jirafields": {
-        "participants": "Teilnehmner",
+        "participants": "Teilnehmer",
         "reporter": "Im Namen von",
         "instance": "Jira Instanz",
         "project": "Projekt",
@@ -419,6 +419,9 @@
         "reporter": "als Autor",
         "assignee": "als Bearbeiter",
         "textFields": "im Text"
+    },
+    "organizationsField": {
+        "unassignedPlaceholder": "Wähle Organisationen"
     }
 
 }
