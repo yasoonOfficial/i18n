@@ -75,7 +75,11 @@
         "serviceDeskIssueTypeTooltip": "Vorgangstyp verwenden",
         "accountFieldPlaceholder": "Platzhalter für Accountfeld",
         "existingIssuesButton": "Existierende Vorgänge",
-        "existingIssuesHeading": "Diese Konversation hat bereits zugewiesene Vorgänge"
+        "existingIssuesHeading": "Diese Konversation hat bereits zugewiesene Vorgänge",
+        "serviceDeskAddParticipantsTooltip": "Teilnehmer hinzufügen",
+        "serviceDeskAddFromCc": "Aus CC",
+        "serviceDeskAddFromRecipients": "Aus Empfängern",
+        "serviceDeskAddFromBoth": "Aus Beiden"
     },
     "addToIssue": {
         "headline": "Zu Vorgang hinzufügen",

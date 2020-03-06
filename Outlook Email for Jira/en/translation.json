@@ -75,7 +75,11 @@
         "serviceDeskIssueTypeTooltip": "Use Issue Type",
         "accountFieldPlaceholder": "Placeholder Account Field",
         "existingIssuesButton": "Existing issues",
-        "existingIssuesHeading": "This conversation has existing issues"
+        "existingIssuesHeading": "This conversation has existing issues",
+        "serviceDeskAddParticipantsTooltip": "Add Participants",
+        "serviceDeskAddFromCc": "From CC",
+        "serviceDeskAddFromRecipients": "From Recipients",
+        "serviceDeskAddFromBoth": "From Both"
     },
     "addToIssue": {
         "headline": "Add to Issue",
