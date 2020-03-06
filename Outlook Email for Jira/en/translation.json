@@ -418,6 +418,9 @@
         "reporter": "as reporter",
         "assignee": "as assignee",
         "textFields": "in text"
+    },
+    "organizationsField": {
+        "unassignedPlaceholder": "Choose organizations"
     }
 
 }
