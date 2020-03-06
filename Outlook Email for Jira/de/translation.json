@@ -23,7 +23,6 @@
         "moreSenderIssuesButton": "Mehr Vorgänge"
     },
     "showIssues": {
-        "descriptionHeading": "Beschreibung",
         "noDescriptionMessage": "Keine Beschreibung vorhanden",
         "issueLinksHeading": "Vorgangsverweise",
         "subtasksHeading": "Sub-Tasks",
