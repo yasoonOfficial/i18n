@@ -421,6 +421,13 @@
     },
     "organizationsField": {
         "unassignedPlaceholder": "Choose organizations"
+    },
+    "datetimepicker": {
+        "datePlaceholder": "Choose date",
+        "timePlaceholder": "Choose time"
+    },
+    "datepicker": {
+        "datePlaceholder": "Choose date"
     }
 
 }
