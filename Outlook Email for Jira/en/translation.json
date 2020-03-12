@@ -78,7 +78,8 @@
         "serviceDeskAddParticipantsTooltip": "Add Participants",
         "serviceDeskAddFromCc": "From CC",
         "serviceDeskAddFromRecipients": "From Recipients",
-        "serviceDeskAddFromBoth": "From Both"
+        "serviceDeskAddFromBoth": "From Both",
+        "serviceDeskAddInfoBox": "Only Users With A Jira Account Will Be Added"
     },
     "addToIssue": {
         "headline": "Add to Issue",

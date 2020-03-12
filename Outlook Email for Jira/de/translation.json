@@ -78,7 +78,8 @@
         "serviceDeskAddParticipantsTooltip": "Teilnehmer hinzufügen",
         "serviceDeskAddFromCc": "Aus CC",
         "serviceDeskAddFromRecipients": "Aus Empfängern",
-        "serviceDeskAddFromBoth": "Aus Beiden"
+        "serviceDeskAddFromBoth": "Aus Beiden",
+        "serviceDeskAddInfoBox": "Nur Benutzer mit Jira-Konto werden hinzugefügt"
     },
     "addToIssue": {
         "headline": "Zu Vorgang hinzufügen",
