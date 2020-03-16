@@ -23,6 +23,7 @@
         "moreSenderIssuesButton": "More Issues"
     },
     "showIssues": {
+        "descriptionHeading": "Description",
         "noDescriptionMessage": "No description",
         "issueLinksHeading": "Issue links",
         "subtasksHeading": "Subtasks",
