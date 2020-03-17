@@ -180,7 +180,7 @@
         "createApiToken": "Erstelle einen neuen API Token",
         "back": "Zurück",
         "invalidCredentialsTitle": "Ungültige Zugangsdaten",
-        "invalidCredentialsDescriptionCloud": "Bitte prüfe deine Zugangsdaten und versuche es erneut. <br /> {link}",
+        "invalidCredentialsDescriptionCloud": "Bitte prüfe deine Zugangsdaten und versuche es erneut. {link}",
         "invalidCredentialsDescriptionServer": "Bitte prüfe deine Zugangsdaten und versuche es erneut.",
         "errorDuringLoginTitle": "Fehler beim Anmelden",
         "errorDuringLoginDescription": "Es kam zu einem Fehler bei der Anmeldung. {{message}}. Bitte wende dich an deinen Jira-Admin und stelle sicher, dass Basic Auth aktiviert ist."
