@@ -81,11 +81,11 @@
         "noLoginDescription": "You need to be logged into this instance to create issues.",
         "loginExpiredHeader": "Login expired",
         "loginExpiredDescription": "Your login has expired. In order to continue log out and back in.",
-        "serviceDeskAddParticipantsTooltip": "Add Participants",
+        "serviceDeskAddParticipantsTooltip": "Add participants",
         "serviceDeskAddFromCc": "From CC",
-        "serviceDeskAddFromRecipients": "From Recipients",
-        "serviceDeskAddFromBoth": "From Both",
-        "serviceDeskAddInfoBox": "Only Users With A Jira Account Will Be Added"
+        "serviceDeskAddFromRecipients": "From recipients",
+        "serviceDeskAddFromBoth": "From both",
+        "serviceDeskAddInfoBox": "Only users with a Jira account will be added"
     },
     "addToIssue": {
         "headline": "Add to Issue",
