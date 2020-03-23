@@ -231,7 +231,11 @@
         "getLicense": "Get a license",
         "status": "Trial Status",
         "runsOut": "Your trial runs out {{date}}",
-        "getALicense": "Get a license"
+        "getALicense": "Get a license",
+        "requestApp": "Send Request",
+        "messageLabel": "Message to Admin",
+        "defaultMessage": "I would like to request this application.",
+        "sendMessage": "Send"
     },
     "jirafields": {
         "participants": "Participants",

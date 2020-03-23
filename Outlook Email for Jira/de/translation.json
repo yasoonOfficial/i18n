@@ -231,7 +231,11 @@
         "getLicense": "Hol dir eine Lizenz",
         "status": "Status des Testzeitraums",
         "runsOut": "Dein Testzeitraum läuft aus {{date}}",
-        "getALicense": "Hol dir eine Lizenz"
+        "getALicense": "Hol dir eine Lizenz",
+        "requestApp": "Anfrage Senden",
+        "messageLabel": "Nachricht an Administrator",
+        "defaultMessage": "Ich würde gerne diese App benutzen.",
+        "sendMessage": "Senden"
     },
     "jirafields": {
         "participants": "Teilnehmer",
