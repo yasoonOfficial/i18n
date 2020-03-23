@@ -185,7 +185,15 @@
 		"welcomeMessage": "Willkommen bei Outlook Meetings for Confluence.",
 		"readyToUse": "Einsatzbereit.",
 		"errorMessage": "Etwas ist schief gelaufen",
-		"troubleshootIssues": "Fehlersuche und -behebung"
+		"troubleshootIssues": "Fehlersuche und -behebung",
+		"publicBaseUrl": "Öffentliche Base Url",
+		"externalServerUID": "Externe Server ID",
+		"connectivityTitle": "Connectivity",
+		"confirmModalText": "Wenn sie die Public Base Url ändern müssen sich alle Benutzer erneut anmelden...",
+		"confirmModalHeading": "Achtung Admin 👋",
+		"connectPublicUrlButton": "Verbinden",
+		"applyButton": "Anwenden",
+		"cancelButton": "Abbrechen"
 	},
 	"meetingAgendaMacro": {
 		"title": "Titel",
