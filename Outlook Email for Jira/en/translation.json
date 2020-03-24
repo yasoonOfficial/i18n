@@ -70,6 +70,7 @@
     },
     "createIssue": {
         "headline": "Create Issue",
+        "imageRemovedPlaceholder": "Image removed",
         "servicePortalTab": "Service Portal",
         "singleTab": "All fields",
         "serviceDeskIssueTypeTooltip": "Use Issue Type",
@@ -89,6 +90,7 @@
     },
     "addToIssue": {
         "headline": "Add to Issue",
+        "imageRemovedPlaceholder": "Image removed",
         "shareWithCustomerButton": "Share with customer",
         "commentInterallyButton": "Comment internally"
     },

@@ -70,6 +70,7 @@
     },
     "createIssue": {
         "headline": "Vorgang erstellen",
+        "imageRemovedPlaceholder": "Bild wurde entfernt",
         "servicePortalTab": "Service Portal",
         "singleTab": "Alle Felder",
         "serviceDeskIssueTypeTooltip": "Vorgangstyp verwenden",
@@ -89,6 +90,7 @@
     },
     "addToIssue": {
         "headline": "Zu Vorgang hinzufügen",
+        "imageRemovedPlaceholder": "Bild wurde entfernt",
         "shareWithCustomerButton": "Kunden antworten",
         "commentInterallyButton": "Internen Hinweis hinzufügen"
     },
