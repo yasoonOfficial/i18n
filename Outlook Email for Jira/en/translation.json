@@ -320,7 +320,7 @@
         "selectIssueDescription": "Please select an issue you want to comment. You can either search by key and title or filter by project",
         "noContentTitle": "No Content",
         "noContentDescription": "Please enter a comment or select at least one attachment for upload.",
-        "updateJiraIssueTitle": "Updating Jira failed",
+        "updateJiraIssueTitle": "Issue update failed",
         "updateJiraIssueDescription": "Sorry - we couldn't add the comment to the issue due to",
         "uploadAttachments": "We couldn't upload one or more attachments.",
         "fetchingJiraIssueFailedFallback": "Error while fetching issue data",
@@ -442,5 +442,4 @@
     "datepicker": {
         "datePlaceholder": "Choose date"
     }
-
 }

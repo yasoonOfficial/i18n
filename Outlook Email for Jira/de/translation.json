@@ -320,7 +320,7 @@
         "selectIssueDescription": "Wähle einen Vorgang, den du kommentieren möchtest. Du kannst entweder per Titel oder Schlüssel suchen oder auf Projekte filtern",
         "noContentTitle": "Kein Inhalt",
         "noContentDescription": "Bitte füge ein Kommentar ein oder wähle mindestens eine Datei zum hochladen aus.",
-        "updateJiraIssueTitle": "Jirafeld Aktualisierung fehlgeschlagen",
+        "updateJiraIssueTitle": "Aktualisierung fehlgeschlagen",
         "updateJiraIssueDescription": "Sorry - wir konnten den Kommentar nicht zum Vorgang hinzufügen, da",
         "uploadAttachments": "Ein oder mehrere Anhänge konnten nicht hochgeladen werden.",
         "fetchingJiraIssueFailedFallback": "Fehler beim laden von Vorganginformationen",
@@ -442,5 +442,4 @@
     "datepicker": {
         "datePlaceholder": "Wähle ein Datum"
     }
-
 }
