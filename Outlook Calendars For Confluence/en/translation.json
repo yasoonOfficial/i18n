@@ -453,7 +453,8 @@
         "fetchFilterById401ErrorText": "Try to log out and login again",
         "getEvents401ErrorTitle": "Jira call failed (unauthorized)",
         "getEvents401ErrorText": "Try to log out and login again",
-        "notLoggedInErrorMessage": "You are not logged in!"
+        "notLoggedInErrorMessage": "You are not logged in!",
+        "tryLogin": "Try login"
     },
     "calendarModel": {
         "fetchEventsNotLoggedInErrorMessage": "You are not logged in!"

@@ -446,7 +446,8 @@
         "fetchFilterById401ErrorText": "Versuche dich abzumelden und wieder anzumelden",
         "getEvents401ErrorTitle": "Fehler bei Jira-Aufruf (nicht autorisiert)",
         "getEvents401ErrorText": "Versuche dich abzumelden und wieder anzumelden",
-        "notLoggedInErrorMessage": "Du bist nicht angemeldet"
+        "notLoggedInErrorMessage": "Du bist nicht angemeldet",
+        "tryLogin": "Anmelden"
     },
     "calendarModel": {
         "fetchEventsNotLoggedInErrorMessage": "Du bist nicht angemeldet"
@@ -609,7 +610,6 @@
         "monthText": "monate",
         "yearsText": "jahre",
         "everyText": "alle",
-        "ofText": "im",
         "absoluteMonthlyLabel": "Der",
         "relativeMonthlyLabel": "Am",
         "ofText": "alle",
