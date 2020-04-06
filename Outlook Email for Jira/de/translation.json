@@ -332,6 +332,7 @@
         "recentIssues": "Letzte Vorgänge",
         "allIssues": "Alle Vorgänge",
         "searchResultFor": "Suchergebnis für",
+        "goToRefinementBar": "Erweiterte Suche",
         "placeholder": "Select an issue"
     },
     "epicField": {
