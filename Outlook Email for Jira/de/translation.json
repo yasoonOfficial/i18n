@@ -449,7 +449,8 @@
         "noResultsHeadline": "Keine Ergebnisse",
         "noResultsDescription": "Für die ausgewählten Filter konnten keine Vorgänge gefunden werden",
         "cancelButton": "Abbrechen",
-        "addIssuesButton": "Ausgewählte Vorgänge hinzufügen"
+        "addIssuesButton": "Ausgewählte Vorgänge hinzufügen",
+        "addIssueButton": "Ausgewählten Vorgang hinzufügen"
     },
     "refinementBarLabels": {
         "status": "Status",

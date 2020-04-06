@@ -449,7 +449,8 @@
         "noResultsHeadline": "No results",
         "noResultsDescription": "For the chosen filters no issues could be found",
         "cancelButton": "Cancel",
-        "addIssuesButton": "Add selected issues"
+        "addIssuesButton": "Add selected issues",
+        "addIssueButton": "Add selected issue"
     },
     "refinementBarLabels": {
         "status": "Status",
