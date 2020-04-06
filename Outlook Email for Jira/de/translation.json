@@ -441,5 +441,22 @@
     },
     "datepicker": {
         "datePlaceholder": "Wähle ein Datum"
+    },
+    "refinementBarScreen": {
+        "headline": "Vorgänge hinzufügen",
+        "noResultsHeadline": "Keine Ergebnisse",
+        "noResultsDescription": "Für die ausgewählten Filter konnten keine Vorgänge gefunden werden",
+        "cancelButton": "Abbrechen",
+        "addIssuesButton": "Ausgewählte Vorgänge hinzufügen"
+    },
+    "refinementBarLabels": {
+        "status": "Status",
+        "search": "Suche",
+        "priority": "Priorität",
+        "assignee": "Zugewiesene Person",
+        "reporter": "Autor",
+        "project": "Projekt",
+        "type": "Vorgangstyp"
     }
+
 }

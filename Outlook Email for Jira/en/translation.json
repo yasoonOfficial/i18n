@@ -441,5 +441,22 @@
     },
     "datepicker": {
         "datePlaceholder": "Choose date"
+    },
+    "refinementBarScreen": {
+        "headline": "Choose issues to add",
+        "noResultsHeadline": "No results",
+        "noResultsDescription": "For the chosen filters no issues could be found",
+        "cancelButton": "Cancel",
+        "addIssuesButton": "Add selected issues"
+    },
+    "refinementBarLabels": {
+        "status": "Status",
+        "search": "Search",
+        "priority": "Priority",
+        "assignee": "Assignee",
+        "reporter": "Reporter",
+        "project": "Project",
+        "type": "Issue type"
     }
+
 }
