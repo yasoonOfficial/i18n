@@ -86,7 +86,8 @@
         "serviceDeskAddFromCc": "From CC",
         "serviceDeskAddFromRecipients": "From recipients",
         "serviceDeskAddFromBoth": "From both",
-        "serviceDeskAddInfoBox": "Only users with a Jira account will be added"
+        "serviceDeskAddInfoBox": "Only users with a Jira account will be added",
+        "noParticipantsFound": "No Jira users found in email recipients"
     },
     "addToIssue": {
         "headline": "Add to Issue",

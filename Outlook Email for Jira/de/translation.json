@@ -86,7 +86,8 @@
         "serviceDeskAddFromCc": "Aus CC",
         "serviceDeskAddFromRecipients": "Aus Empfängern",
         "serviceDeskAddFromBoth": "Aus Beiden",
-        "serviceDeskAddInfoBox": "Nur Benutzer mit Jira-Konto werden hinzugefügt"
+        "serviceDeskAddInfoBox": "Nur Benutzer mit Jira-Konto werden hinzugefügt",
+        "noParticipantsFound": "Keine Jira-Nutzer in E-Mailempfängern gefunden"
     },
     "addToIssue": {
         "headline": "Zu Vorgang hinzufügen",
