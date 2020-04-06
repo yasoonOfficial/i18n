@@ -333,6 +333,7 @@
         "recentIssues": "Recent Issues",
         "allIssues": "All Issues",
         "searchResultFor": "Search result for",
+        "goToRefinementBar": "Advanced Search",
         "placeholder": "Select an issue"
     },
     "epicField": {
@@ -442,5 +443,22 @@
     },
     "datepicker": {
         "datePlaceholder": "Choose date"
+    },
+    "refinementBarScreen": {
+        "headline": "Choose issues to add",
+        "noResultsHeadline": "No results",
+        "noResultsDescription": "For the chosen filters no issues could be found",
+        "cancelButton": "Cancel",
+        "addIssuesButton": "Add selected issues"
+    },
+    "refinementBarLabels": {
+        "status": "Status",
+        "search": "Search",
+        "priority": "Priority",
+        "assignee": "Assignee",
+        "reporter": "Reporter",
+        "project": "Project",
+        "type": "Issue type"
     }
+
 }
