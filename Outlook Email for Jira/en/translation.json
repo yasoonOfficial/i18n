@@ -445,7 +445,8 @@
         "datePlaceholder": "Choose date"
     },
     "refinementBarScreen": {
-        "headline": "Choose issues to add",
+        "singleHeadline": "Choose an issue to add",
+        "multiHeadline": "Choose one or more issues to add",
         "noResultsHeadline": "No results",
         "noResultsDescription": "For the chosen filters no issues could be found",
         "cancelButton": "Cancel",

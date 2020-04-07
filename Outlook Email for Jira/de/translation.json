@@ -445,7 +445,8 @@
         "datePlaceholder": "Wähle ein Datum"
     },
     "refinementBarScreen": {
-        "headline": "Vorgänge hinzufügen",
+        "singleHeadline": "Füge einen Vorgang hinzu",
+        "multiHeadline": "Füge einen oder mehrere Vorgänge hinzu",
         "noResultsHeadline": "Keine Ergebnisse",
         "noResultsDescription": "Für die ausgewählten Filter konnten keine Vorgänge gefunden werden",
         "cancelButton": "Abbrechen",
