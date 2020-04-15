@@ -333,7 +333,7 @@
         "recentIssues": "Letzte Vorgänge",
         "allIssues": "Alle Vorgänge",
         "searchResultFor": "Suchergebnis für",
-        "goToRefinementBar": "Erweiterte Suche",
+        "goToIssueChooser": "Erweiterte Suche",
         "placeholder": "Select an issue"
     },
     "epicField": {
@@ -444,7 +444,7 @@
     "datepicker": {
         "datePlaceholder": "Wähle ein Datum"
     },
-    "refinementBarScreen": {
+    "issueChooserScreen": {
         "singleHeadline": "Füge einen Vorgang hinzu",
         "multiHeadline": "Füge einen oder mehrere Vorgänge hinzu",
         "noResultsHeadline": "Keine Ergebnisse",

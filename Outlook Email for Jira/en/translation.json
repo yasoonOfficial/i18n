@@ -333,7 +333,7 @@
         "recentIssues": "Recent Issues",
         "allIssues": "All Issues",
         "searchResultFor": "Search result for",
-        "goToRefinementBar": "Advanced Search",
+        "goToIssueChooser": "Advanced Search",
         "placeholder": "Select an issue"
     },
     "epicField": {
@@ -444,7 +444,7 @@
     "datepicker": {
         "datePlaceholder": "Choose date"
     },
-    "refinementBarScreen": {
+    "issueChooserScreen": {
         "singleHeadline": "Choose an issue to add",
         "multiHeadline": "Choose one or more issues to add",
         "noResultsHeadline": "No results",
