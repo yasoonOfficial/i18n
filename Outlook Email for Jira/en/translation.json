@@ -20,7 +20,10 @@
         "reloadRelatedIssuesMessage": "Reload related issues for current email.",
         "showAllFields": "Show all fields",
         "showLessFields": "Show less fields",
-        "moreSenderIssuesButton": "More Issues"
+        "moreSenderIssuesButton": "More Issues",
+        "emptyFeedHeading": "No issues found",
+        "emptyFeedDescription": "There are no issues in your feed",
+        "refreshFeed": "Refresh feed"
     },
     "showIssues": {
         "descriptionHeading": "Description",
