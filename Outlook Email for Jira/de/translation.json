@@ -64,7 +64,8 @@
         "includeAttachments": "Anhänge einbeziehen",
         "includeSubject": "Beschreibung einbeziehen",
         "createIssueSuccessScreenEnabled": "Nach dem Erstellen eines Vorgangs Erfolgsdialog anzeigen",
-        "oldEditor": "Den WYSIWYG Editor deaktivieren und stattdessen Markup verwenden"
+        "oldEditor": "Den WYSIWYG Editor deaktivieren und stattdessen Markup verwenden",
+        "autoRefreshFeed": "Feed automatisch aktualisieren"
     },
     "about": {
         "licenseHeading": "Lizenzen",

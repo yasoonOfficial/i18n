@@ -64,7 +64,8 @@
         "includeAttachments": "Include Attachments",
         "includeSubject": "Include Subject",
         "createIssueSuccessScreenEnabled": "Show success screen after creating an issue",
-        "oldEditor": "Disable WYSIWYG Editor and use markup instead"
+        "oldEditor": "Disable WYSIWYG Editor and use markup instead",
+        "autoRefreshFeed": "Refresh feed automatically"
     },
     "about": {
         "licenseHeading": "Licenses",
