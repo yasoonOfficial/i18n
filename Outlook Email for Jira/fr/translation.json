@@ -79,8 +79,8 @@
         "singleTab": "All fields",
         "serviceDeskIssueTypeTooltip": "Use Issue Type",
         "accountFieldPlaceholder": "Placeholder Account Field",
-        "existingIssuesButton": "Existing issues",
-        "existingIssuesHeading": "This conversation has existing issues",
+        "existingIssuesButton": "Tickets existants",
+        "existingIssuesHeading": "Cette conversation posséde déjá des tickets",
         "goToInstancesList": "Show instance overview",
         "noLoginHeader": "You are not logged in",
         "noLoginDescription": "You need to be logged into this instance to create issues.",
@@ -119,7 +119,7 @@
     },
     "jiraActions": {
         "openInJiraOption": "Open in Jira",
-        "assignToMeOption": "Assign to me",
+        "assignToMeOption": "Me l'assigner",
         "watchIssueOptionLabel": "Watch",
         "unwatchIssueOption": "Unwatch",
         "watchIssueOption": "Watch"
@@ -127,8 +127,8 @@
     "actions": {
         "gotItButton": "Got it",
         "closeButton": "Close",
-        "createButton": "Create",
-        "cancelButton": "Cancel",
+        "createButton": "Créer",
+        "cancelButton": "Annuler",
         "submit": "Submit",
         "fileUploadButton": " Browse.",
         "fileUploadButtonPreText": "Drop files to attach, or",
@@ -248,9 +248,9 @@
         "participants": "Participants",
         "reporter": "On Behalf of",
         "instance": "Jira Instance",
-        "project": "Project",
-        "issueType": "Issue Type",
-        "issue": "Issue",
+        "project": "Projet",
+        "issueType": "Type de ticket",
+        "issue": "Ticket",
         "requesttype": "Request Type",
         "comment": "Comment",
         "attachment": "Attachments",
@@ -261,23 +261,23 @@
         "placeholder": "Search a group"
     },
     "labelField": {
-        "placeholder": "Add a label"
+        "placeholder": "Ajoutez une étiquette"
     },
     "projectField": {
-        "recentProjects": "Recent Projects",
-        "allProjects": "All projects",
-        "placeholder": "Select a project"
+        "recentProjects": "Projets récents",
+        "allProjects": "Tous les projets",
+        "placeholder": "Sélectionnez un projet"
     },
     "issuetypeField": {
-        "placeholder": "Select an issue type"
+        "placeholder": "Sélectionnez un type de ticket"
     },
     "versionSelectField": {
         "unreleasedVersion": "Unreleased Versions",
         "releasedVersion": "Released Versions",
-        "placeholder": "Select a version"
+        "placeholder": "Sélectionner une version"
     },
     "issueLinkField": {
-        "placeholder": "Select a link type"
+        "placeholder": "Sélectionnez un type d'association"
     },
     "tempo": {
         "accountPlaceholder": "Select an Account",
@@ -292,9 +292,9 @@
         "transitionTo": "transition issue to:"
     },
     "userField": {
-        "assignToMe": "Assign to me",
-        "defaultUserName": "Automatic",
-        "unassignedUserName": "Unassigned",
+        "assignToMe": "Me l'assigner",
+        "defaultUserName": "Automatique",
+        "unassignedUserName": "Non assigné",
         "relatedUsers": "Related Users",
         "recentUsers": "Recent Users",
         "searchResultFor": "Search result for"
@@ -338,7 +338,7 @@
         "allIssues": "All Issues",
         "searchResultFor": "Search result for",
         "goToIssueChooser": "Advanced Search",
-        "placeholder": "Select an issue"
+        "placeholder": "Sélectionnez un ticket"
     },
     "epicField": {
         "suggestions": "Suggestions",
@@ -463,8 +463,8 @@
         "priority": "Priority",
         "assignee": "Assignee",
         "reporter": "Reporter",
-        "project": "Project",
-        "type": "Issue type"
+        "project": "Projet",
+        "type": "Type"
     }
 
 }
