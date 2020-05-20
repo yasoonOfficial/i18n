@@ -15,6 +15,10 @@
 		"login": "Login",
 		"tryAgain": "Try Again"
 	},
+	"link":{
+		"atlassianMarketplace":"Atlassian Marketplace",
+		"contactSupport": "contact our support"
+	},
 	"errorMessages": {
 		"cannontConnectYasoonTitle": "Cannot connect to yasoon.com",
 		"cannontConnectYasoonDescription": "We couldn't connect to our backend server at *.yasoon.com. This might be caused by a restrictive firewall. You can just continue to use the addin but some features may not work as expected. If you want to have the full functionality, please make sure add (or ask your IT to add) yasoon.com to the whitelist",
@@ -30,8 +34,10 @@
 		"invalidUserTitle": "Invalid user",
 		"invalidUserDescription": "You can't use the app as an anonymous user.",
 		"errorDuringLoginTitle": "Invalid credentials",
-		"errorDuringLoginDescription": "Please check your credentials and try again. If this issue persists contact your Confluence Admin and make sure Basic Auth is enabled."
-	},
+		"errorDuringLoginDescription": "Please check your credentials and try again. If this issue persists contact your Confluence Admin and make sure Basic Auth is enabled.",
+		"missingConfluenceApp":"We couldn't find the corosponding app on your Confluence instance. You can download the app in the {link}.",
+		"noConfluenceCloudInstance":"We couldn't find a Confluence Cloud instance with this url. At first, please make sure you have typed in the URL correctly. If you think this is an error, please {link}."
+},
 	"basicLogin": {
 		"heading": "Connect to Confluence",
 		"subHeading": "Please provide your login credentials.",
