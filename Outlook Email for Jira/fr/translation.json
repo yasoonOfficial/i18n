@@ -46,26 +46,26 @@
         "followUpHeading": "FOLLOW UP"
     },
     "settingsScreen": {
-        "appSettingsTabHeading": "App Settings",
-        "jiraLoginTabHeading": "Jira Login",
-        "aboutTabHeading": "About",
-        "settingsHeader": "Settings",
+        "appSettingsTabHeading": "Paramètres",
+        "jiraLoginTabHeading": "Compte Jira",
+        "aboutTabHeading": "Á propos",
+        "settingsHeader": "Paramètres",
         "back": "Back",
-        "generalSettingsHeading": "General Settings",
-        "language": "Language",
+        "generalSettingsHeading": "Paramètres généraux",
+        "language": "Langue",
         "languageSelectPlaceholder": "Select...",
-        "remoteDebug": "Record screen (for remote debug purposes)",
-        "createAddIssueHeading": "Issue Dialog Settings",
-        "addAttachmentsByDefault": "Select all attachments by default",
-        "addEmailAsFile": "Select / upload email (.msg) by default",
-        "preselectProjectIssueType": "Preselect last used project and issuetype",
+        "remoteDebug": "Capture d'écran (pour aide á distance en cas de problème)",
+        "createAddIssueHeading": "Réglages pour fenêtre des tickets",
+        "addAttachmentsByDefault": "Sélectionner toutes les piéces-jointes par défaut",
+        "addEmailAsFile": "Sélectionner / télécharger l'email (.msg) par défaut",
+        "preselectProjectIssueType": "Pré-sélectionner le dernier projet et type de ticket utilisés",
         "showServiceDeksPortalFields": "Show tab 'Portal Fields' for Jira Service Desk projects",
         "addMailInformation": "Add Mail Information to description",
-        "includeAttachments": "Include Attachments",
-        "includeSubject": "Include Subject",
-        "createIssueSuccessScreenEnabled": "Show success screen after creating an issue",
-        "oldEditor": "Disable WYSIWYG Editor and use markup instead",
-        "autoRefreshFeed": "Refresh feed automatically"
+        "includeAttachments": "Inclure les pièces-jointes",
+        "includeSubject": "Inclure la description",
+        "createIssueSuccessScreenEnabled": "Afficher une fenêtre de confirmation aprés la création d'un ticket",
+        "oldEditor": "Désactiver l'éditeur WYSIWYG et utiliser plutôt des balises",
+        "autoRefreshFeed": "Actualiser la source automatiquement"
     },
     "about": {
         "licenseHeading": "Licenses",
@@ -114,8 +114,8 @@
     },
     "attachmentField": {
         "noAttachmentMessage": "This mail has no attachments",
-        "selectAllButton": "All",
-        "deselectAllButton": "None"
+        "selectAllButton": "Tous",
+        "deselectAllButton": "Aucun"
     },
     "jiraActions": {
         "openInJiraOption": "Open in Jira",
@@ -130,14 +130,14 @@
         "createButton": "Créer",
         "cancelButton": "Annuler",
         "submit": "Submit",
-        "fileUploadButton": " Browse.",
-        "fileUploadButtonPreText": "Drop files to attach, or",
-        "logout": "Logout",
-        "login": "Login",
+        "fileUploadButton": " les parcourir.",
+        "fileUploadButtonPreText": "Glissez-déposez des fichiers pour les joindre, ou",
+        "logout": "Se déconnecter",
+        "login": "Se connecter",
         "tryAgain": "Try again",
         "forget": "Remove",
-        "edit": "Edit",
-        "editInline": "edit",
+        "edit": "modifier",
+        "editInline": "modifier",
         "continue": "Continue",
         "notWorking": "Not working?",
         "saveButton": "Save"
@@ -155,7 +155,7 @@
         "reportInstruction": "Please report what type of field it is"
     },
     "instanceSettings": {
-        "loginMessage": "You are logged in as:",
+        "loginMessage": "Vous êtes connecté en tant que:",
         "loginExpired": "Login expired",
         "logoutLogin": "Logout & Login",
         "notLoggedInMessage": "You are currently not logged in.",
@@ -193,8 +193,8 @@
         "errorDuringLoginDescription": "An error occured during login. {{message}}. Please contact your Jira Admin and make sure Basic Auth is enabled."
     },
     "editorScreen": {
-        "headline": "Edit Description",
-        "saveChanges": "Save Changes"
+        "headline": "Modifier description",
+        "saveChanges": "Valider les changements"
     },
     "initialLoadingScreen": {
         "loading": "Loading..."
@@ -210,7 +210,7 @@
         "aboutUs": "About Us"
     },
     "instanceList": {
-        "addAnotherSystem": "Add another System"
+        "addAnotherSystem": "Ajouter un autre système"
     },
     "issueCard": {
         "assignedToMe": "This issue is assigned to you!",
@@ -274,7 +274,7 @@
     "versionSelectField": {
         "unreleasedVersion": "Unreleased Versions",
         "releasedVersion": "Released Versions",
-        "placeholder": "Sélectionner une version"
+        "placeholder": "Sélectionnez une version"
     },
     "issueLinkField": {
         "placeholder": "Sélectionnez un type d'association"
