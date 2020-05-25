@@ -1,15 +1,15 @@
 {
     "relatedIssues": {
         "headline": "Ticket associé",
-        "senderTab": "Sender",
+        "senderTab": "Expéditeur",
         "conversationTab": "Conversation",
-        "emptyConversationHeading": "No issues found",
-        "emptyConversationDescription": "There is no issue assigned to the current mail or conversation",
-        "createIssueButton": "Create new Issue",
-        "addIssueButton": "Assign existing issue",
+        "emptyConversationHeading": "Créer un nouveau ticket",
+        "emptyConversationDescription": "Aucun ticket n'est assigné au mail ou á la conversation",
+        "createIssueButton": "Créer un nouveau ticket",
+        "addIssueButton": "Associer á un ticket existant",
         "emptySenderDescription": "We could not find issues for the current sender based on the email address",
         "emptySenderHeading": "No issues found",
-        "attachments": "Attachments",
+        "attachments": "Pièces-jointes",
         "noAttachments": "No attachments yet! 💾",
         "addCommentPlaceholder": "What do you want to say?",
         "writeCommentMotivation": "Be the first to write a comment! 😊",
@@ -56,11 +56,11 @@
         "languageSelectPlaceholder": "Select...",
         "remoteDebug": "Capture d'écran (pour aide á distance en cas de problème)",
         "createAddIssueHeading": "Réglages pour fenêtre des tickets",
-        "addAttachmentsByDefault": "Sélectionner toutes les piéces-jointes par défaut",
-        "addEmailAsFile": "Sélectionner / télécharger l'email (.msg) par défaut",
+        "addAttachmentsByDefault": "Sélectionner toutes les piéces-jointes",
+        "addEmailAsFile": "Sélectionner / télécharger l'email (.msg)",
         "preselectProjectIssueType": "Pré-sélectionner le dernier projet et type de ticket utilisés",
         "showServiceDeksPortalFields": "Show tab 'Portal Fields' for Jira Service Desk projects",
-        "addMailInformation": "Add Mail Information to description",
+        "addMailInformation": "Ajouter le mail á la description",
         "includeAttachments": "Inclure les pièces-jointes",
         "includeSubject": "Inclure la description",
         "createIssueSuccessScreenEnabled": "Afficher une fenêtre de confirmation aprés la création d'un ticket",
@@ -73,10 +73,10 @@
         "version": "Version"
     },
     "createIssue": {
-        "headline": "Créer un ticket",
+        "headline": "Créer un nouveau ticket",
         "imageRemovedPlaceholder": "Image removed",
-        "servicePortalTab": "Service Portal",
-        "singleTab": "All fields",
+        "servicePortalTab": "Portail service",
+        "singleTab": "Tous les champs",
         "serviceDeskIssueTypeTooltip": "Use Issue Type",
         "accountFieldPlaceholder": "Placeholder Account Field",
         "existingIssuesButton": "Tickets existants",
@@ -94,10 +94,10 @@
         "noParticipantsFound": "No Jira users found in email recipients"
     },
     "addToIssue": {
-        "headline": "Associer un ticket",
+        "headline": "Associer á un ticket",
         "imageRemovedPlaceholder": "Image removed",
-        "shareWithCustomerButton": "Share with customer",
-        "commentInterallyButton": "Comment internally"
+        "shareWithCustomerButton": "Partager avec le client",
+        "commentInterallyButton": "Commenter en interne"
     },
     "addInstance": {
         "connectToJira": "Connect to Jira",
@@ -129,13 +129,13 @@
         "closeButton": "Close",
         "createButton": "Créer",
         "cancelButton": "Annuler",
-        "submit": "Submit",
-        "fileUploadButton": " les parcourir.",
+        "submit": "Valider",
+        "fileUploadButton": "parcourir.",
         "fileUploadButtonPreText": "Glissez-déposez des fichiers pour les joindre, ou",
         "logout": "Se déconnecter",
         "login": "Se connecter",
         "tryAgain": "Try again",
-        "forget": "Remove",
+        "forget": "Supprimer",
         "edit": "modifier",
         "editInline": "modifier",
         "continue": "Continue",
@@ -151,8 +151,8 @@
         "button": "Send us feedback"
     },
     "fieldErrorBoundary": {
-        "errorMessage": "Sorry, we couldn't render this field correctly and it will not be send to Jira.",
-        "reportInstruction": "Please report what type of field it is"
+        "errorMessage": "Désolé, nous n'avons pas pu afficher ce champs correctement. Il ne sera pas envoyé á Jira.",
+        "reportInstruction": "Veuillez indiquer le type de champs"
     },
     "instanceSettings": {
         "loginMessage": "Vous êtes connecté en tant que:",
@@ -213,20 +213,20 @@
         "addAnotherSystem": "Ajouter un autre système"
     },
     "issueCard": {
-        "assignedToMe": "This issue is assigned to you!",
+        "assignedToMe": "Ce ticket vous est assigné!",
         "youAreWatching": "You are watching this issue",
         "slaCompletedLozenge": "Completed",
         "slaCompletedTooltip": "All SLAs have been completed"
     },
     "securityIndicator": {
-        "headline": "Security Check",
-        "connectedViaTLS": "Connected via TLS",
+        "headline": "Contrôle de sécurité",
+        "connectedViaTLS": "Connecté via TLS",
         "connectedViaHttp": "Connected via plaintext HTTP",
-        "authWithToken": "Authentication via OAuth Token",
+        "authWithToken": "Authentification via OAuth Token",
         "authWithBasicAuth": "Authentication via Basic Auth",
         "connectedWithYasoon": "Connected with Yasoon Cloud Connect",
         "recommendedConnection": "We recommend connecting to Jira via {link1} and OAuth authentication. Please use our {link2} to configure a secure connection.",
-        "allSecureMessage": "You are all set, everything is secure!"
+        "allSecureMessage": "Vous êtes parés, tout est sécurisé!"
     },
     "breadCrumbs": {
         "back": "Back",
@@ -246,15 +246,15 @@
     },
     "jirafields": {
         "participants": "Participants",
-        "reporter": "On Behalf of",
+        "reporter": "Pour le compte de",
         "instance": "Jira Instance",
         "project": "Projet",
         "issueType": "Type de ticket",
         "issue": "Ticket",
-        "requesttype": "Request Type",
-        "comment": "Comment",
-        "attachment": "Attachments",
-        "genericPlaceholder": "Select {{fieldName}}",
+        "requesttype": "Type de requête",
+        "comment": "Commentaire",
+        "attachment": "Pièces-jointes",
+        "genericPlaceholder": "Sélectionner {{fieldName}}",
         "typeToSearch": "Type to search..."
     },
     "groupField": {
@@ -328,7 +328,7 @@
         "updateJiraIssueTitle": "Issue update failed",
         "updateJiraIssueDescription": "Sorry - we couldn't add the comment to the issue due to",
         "uploadAttachments": "We couldn't upload one or more attachments.",
-        "fetchingJiraIssueFailedFallback": "Error while fetching issue data",
+        "fetchingJiraIssueFailedFallback": "Une erreur est apparue pendant le chargement des données",
         "genericError": "Sorry, timetracking could not be saved",
         "wrongInputFormat": "Timetracking has to be in the format: '3w 4d 12h 5m' sein"
     },
@@ -420,7 +420,7 @@
         "to": "To",
         "sent": "Sent",
         "subject": "Subject",
-        "attachments": "Attachments"
+        "attachments": "Pièces-jointes"
     },
     "createIssueSuccessScreen": {
         "heading": "Issue successfully created",
@@ -439,30 +439,30 @@
         "textFields": "in text"
     },
     "organizationsField": {
-        "unassignedPlaceholder": "Choose organizations"
+        "unassignedPlaceholder": "Choisir un organisme"
     },
     "datetimepicker": {
-        "datePlaceholder": "Choose date",
+        "datePlaceholder": "Choisir une date",
         "timePlaceholder": "Choose time"
     },
     "datepicker": {
-        "datePlaceholder": "Choose date"
+        "datePlaceholder": "Choisir une date"
     },
     "issueChooserScreen": {
-        "singleHeadline": "Choose an issue to add",
+        "singleHeadline": "Choisir un ticket á ajouter",
         "multiHeadline": "Choose one or more issues to add",
         "noResultsHeadline": "No results",
         "noResultsDescription": "For the chosen filters no issues could be found",
-        "cancelButton": "Cancel",
-        "addIssuesButton": "Add selected issues",
-        "addIssueButton": "Add selected issue"
+        "cancelButton": "Annuler",
+        "addIssuesButton": "Ajouter les tickets sélectionnés",
+        "addIssueButton": "Ajouter le ticket sélectionné"
     },
     "refinementBarLabels": {
-        "status": "Status",
-        "search": "Search",
-        "priority": "Priority",
-        "assignee": "Assignee",
-        "reporter": "Reporter",
+        "status": "Statut",
+        "search": "Rechercher",
+        "priority": "Priorité",
+        "assignee": "Responsable",
+        "reporter": "Rapporteur",
         "project": "Projet",
         "type": "Type"
     }
