@@ -21,11 +21,9 @@
 	},
 	"errorMessages": {
 		"cannontConnectYasoonTitle": "Cannot connect to yasoon.com",
-		"cannontConnectYasoonDescription": "We couldn't connect to our backend server at *.yasoon.com. This might be caused by a restrictive firewall. You can just continue to use the addin but some features may not work as expected. If you want to have the full functionality, please make sure add (or ask your IT to add) yasoon.com to the whitelist",
+		"cannontConnectYasoonDescription": "We couldn't connect to our backend server at *.yasoon.com. This might be caused by a restrictive firewall. Please make sure to add (or ask your IT to add) yasoon.com to the whitelist",
 		"confluenceAppNotInstalledTitle": "Confluence app not found",
-		"confluenceAppNotInstalledDescription": "",
 		"cannotConnectConfluenceTitle": "Cannot connect to Confluence",
-		"cannotConnectConfluenceDescription": "",
 		"notifyForServerVersionTitle": "Confluence Server",
 		"notifyForServerVersionDescription": "We currently only support Confluence Cloud instances. Get a notification when the app is available for Confluence Server",
 		"notifyButton": "Notify me",
@@ -36,7 +34,11 @@
 		"errorDuringLoginTitle": "Invalid credentials",
 		"errorDuringLoginDescription": "Please check your credentials and try again. If this issue persists contact your Confluence Admin and make sure Basic Auth is enabled.",
 		"missingConfluenceApp":"We couldn't find the corosponding app on your Confluence instance. You can download the app in the {link}.",
-		"noConfluenceCloudInstance":"We couldn't find a Confluence Cloud instance with this url. At first, please make sure you have typed in the URL correctly. If you think this is an error, please {link}."
+		"cloudAppNotInstalled": "We coudln't find our app with the given Confluence url. Please check, if the app is installed",
+		"serverAppNotConfigured": "Your Confluence Administrator hasn't configured our app yet. To continue please contact your Confluence administrator!",
+		"serverAppNotConfiguredTitle": "The Confluence App hasn't been configured",
+		"serverNotPublicOrBadBaseUrl": "Our backend-server was not able to reach your Confluence system. Either there is a typo in the url, or the confluence System is not public reachable",
+		"serverNotPublicOrBadBaseUrlTitle": "Confluence system not reachable"
 },
 	"basicLogin": {
 		"heading": "Connect to Confluence",

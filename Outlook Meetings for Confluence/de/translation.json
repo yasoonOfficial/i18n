@@ -7,7 +7,7 @@
 		"subHeading": "Bitte gib die Url an, die du für den Zugriff auf Confluence verwendest.",
 		"confluenceUrlLabel": "Confluence Url",
 		"confluenceUrlPlaceholder": "z.B. https://acme.atlassian.net",
-        "aggreementMessage": "Mit Klick auf 'Weiter', stimmen Sie unseren {link1} und der {link2} zu.",
+		"aggreementMessage": "Mit Klick auf 'Weiter', stimmen Sie unseren {link1} und der {link2} zu.",
 		"termsOfService": "AGBs",
 		"privacyPolicy": "Datenschutzerklärung",
 		"whereDoIFindThis": "Wo finde ich diese?",
@@ -15,17 +15,14 @@
 		"login": "Anmelden",
 		"tryAgain": "Erneut Versuchen"
 	},
-	"link":{
-		"atlassianMarketplace":"Atlassian Marketplace",
-		"contactSupport": "kontaktiere unseren Support"
+	"link": {
+		"atlassianMarketplace": "Atlassian Marketplace"
 	},
 	"errorMessages": {
-		"cannontConnectYasoonTitle": "Keine Verbindung zu to yasoon.com",
-		"cannontConnectYasoonDescription": "Wir konnten keine Verbindung zu unserem Backend-Server unter *.yasoon.com herstellen. Dies könnte durch eine restriktive Firewall verursacht werden. Du kannst das Addin einfach weiter verwenden, aber einige Funktionen funktionieren möglicherweise nicht wie erwartet. Wenn du die volle Funktionalität haben möchtest, füge bitte yasoon.com zur Whitelist hinzu (oder bitte deine IT-Abteilung, yasoon.com in die Liste aufzunehmen).",
-		"confluenceAppNotInstalledTitle": "Confluence App nicht gefunden",
-		"confluenceAppNotInstalledDescription": "",
-		"cannotConnectConfluenceTitle": "Cannot connect to Confluence",
-		"cannotConnectConfluenceDescription": "",
+		"cannontConnectYasoonTitle": "Keine Verbindung zu yasoon.com möglich",
+		"cannontConnectYasoonDescription": "Wir konnten keine Verbindung zu unserem Backend-Server unter *.yasoon.com herstellen. Dies könnte durch eine restriktive Firewall verursacht werden. Bitte füge yasoon.com zur Whitelist hinzu (oder bitte deine IT-Abteilung, yasoon.com in die Liste aufzunehmen).",
+		"serverAppNotInstalledTitle": "Confluence App nicht gefunden",
+		"cannotConnectConfluenceTitle": "Keine Verbindung zu Conlfuence möglich",
 		"notifyForServerVersionTitle": "Confluence Server",
 		"notifyForServerVersionDescription": "Wir unterstützen derzeit nur Confluence-Cloud-Instanzen. Benachrichtige mich, wenn die App für Confluence Server verfügbar ist.",
 		"notifyButton": "Notify me",
@@ -35,8 +32,12 @@
 		"invalidUserDescription": "Die Anwendung kann nicht nicht mit anonymen Benutzern verwendet werden.",
 		"errorDuringLoginTitle": "Ungültige Anmeldedaten",
 		"errorDuringLoginDescription": "Bitte überprüfe deine Anmeldedaten und versuche es erneut. Wenn dieses Problem weiterhin besteht, wende dich an deinen Confluence-Admin und stelle sicher, dass Basic Auth aktiviert ist.",
-		"missingConfluenceApp":"Leider konnten wir unsere App nicht auf dem Confluence System finden. Du kannst die App aber über den {link} installieren.",
-		"noConfluenceCloudInstance":"Wir konnten mit der angegebenen url keine Confluence Cloud Instanz finden. Bitte überprüfe ob du die richtige Url eingegeben hast. Wenn du denkst, dass es sich um einen Fehler handelt, bitte {link}."
+		"serverAppNotInstalled": "Leider konnten wir unsere App nicht auf dem Confluence System finden. Du kannst die App aber über den {link} installieren.",
+		"cloudAppNotInstalled": "Wir konnten unsere App leider nicht auf dem angegebenen Confluence Cloud System finden. Bitte überprüfe ob unsere App installiert ist",
+		"serverAppNotConfigured": "Der Confluence Administrator hat die App noch nicht konfiguriert. Um fortzufahren, kontaktieren Sie bitte ihren Confluence Administrator!",
+		"serverAppNotConfiguredTitle": "Die Confluence App wurde noch nicht konfiguriert",
+		"serverNotPublicOrBadBaseUrl": "Unser Backend-Server konnte das Confluence System nicht erreichen. Entweder hat sich ein Tippfehler in die Url eingeschlichen, oder es handelt sich um ein Confluence Server System, das aus dem Internet nicht erreichbar ist",
+		"serverNotPublicOrBadBaseUrlTitle": "Confluence System nicht erreichbar"
 	},
 	"basicLogin": {
 		"heading": "Mit Confluence verbinde",
