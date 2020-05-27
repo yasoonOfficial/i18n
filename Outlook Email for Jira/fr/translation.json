@@ -4,62 +4,62 @@
         "senderTab": "Expéditeur",
         "conversationTab": "Conversation",
         "emptyConversationHeading": "Créer un nouveau ticket",
-        "emptyConversationDescription": "Aucun ticket n'est assigné au mail ou á la conversation",
+        "emptyConversationDescription": "Aucuns tickets n'est associé au mail ou á la conversation",
         "createIssueButton": "Créer un nouveau ticket",
         "addIssueButton": "Associer á un ticket existant",
-        "emptySenderDescription": "We could not find issues for the current sender based on the email address",
-        "emptySenderHeading": "No issues found",
+        "emptySenderDescription": "Nous n'avons pas trouvé de ticket pour l'expéditeur d'aprés l'adresse mail indiqué",
+        "emptySenderHeading": "Aucuns tickets trouvés",
         "attachments": "Pièces-jointes",
-        "noAttachments": "No attachments yet! 💾",
-        "addCommentPlaceholder": "What do you want to say?",
-        "writeCommentMotivation": "Be the first to write a comment! 😊",
-        "shareWithCustomer": " Share w/ customer",
-        "commentInterally": "Comment internally",
-        "emailHasChanged": "Selected email has changed",
-        "unsavedData": "Unsaved data!",
-        "reloadRelatedIssuesMessage": "Reload related issues for current email.",
-        "showAllFields": "Show all fields",
-        "showLessFields": "Show less fields",
-        "moreSenderIssuesButton": "More Issues",
-        "emptyFeedHeading": "No issues found",
-        "emptyFeedDescription": "There are no issues in your feed",
-        "refreshFeed": "Refresh feed"
+        "noAttachments": "Aucune piéce-jointe pour l'instant! 💾",
+        "addCommentPlaceholder": "Ajouter un commentaire",
+        "writeCommentMotivation": "Soit le premier á commenter! 😊",
+        "shareWithCustomer": "Commentaire visible par le client",
+        "commentInterally": "Commenter en interne",
+        "emailHasChanged": "L'email sélectionné a été modifié",
+        "unsavedData": "Données non sauvegardées!",
+        "reloadRelatedIssuesMessage": " Recharger les tickets pour le mail.",
+        "showAllFields": "Afficher tous les champs",
+        "showLessFields": "Afficher moins de champs",
+        "moreSenderIssuesButton": "Plus de tickets",
+        "emptyFeedHeading": "Aucuns tickets trouvés",
+        "emptyFeedDescription": "Il n'y a aucuns tickets dans votre fil",
+        "refreshFeed": "Actualiser votre fil"
     },
     "showIssues": {
         "descriptionHeading": "Description",
-        "noDescriptionMessage": "No description",
-        "issueLinksHeading": "Issue links",
-        "subtasksHeading": "Subtasks",
-        "detailsTabHeading": "Details",
-        "commentsTabHeading": "Comments",
-        "filesTabHeading": "Files",
+        "noDescriptionMessage": "Pas de description",
+        "issueLinksHeading": "Liens des tickets",
+        "subtasksHeading": "Sous-tâches",
+        "detailsTabHeading": "Détails",
+        "commentsTabHeading": "Commentaires",
+        "filesTabHeading": "Fichier",
         "issueSLAHeading": "SLA"
     },
     "officeActions": {
-        "createReminderOption": "Create reminder",
-        "shareEmailOption": "Share by email",
-        "emailAssigneeOption": "Email assignee",
-        "emailReporterOption": "Email reporter"
+        "createReminderOption": "Ajouter un rappel",
+        "shareEmailOption": "Transmettre par email",
+        "emailAssigneeOption": "Responsable",
+        "emailReporterOption": "Rapporteur"
     },
     "issueActionDropdown": {
-        "toolsHeading": "TOOLS",
-        "followUpHeading": "FOLLOW UP"
+        "toolsHeading": "CONFIGURATIONS",
+        "followUpHeading": "SUIVI"
     },
     "settingsScreen": {
         "appSettingsTabHeading": "Paramètres",
         "jiraLoginTabHeading": "Compte Jira",
         "aboutTabHeading": "Á propos",
         "settingsHeader": "Paramètres",
-        "back": "Back",
+        "back": "Retour",
         "generalSettingsHeading": "Paramètres généraux",
         "language": "Langue",
-        "languageSelectPlaceholder": "Select...",
+        "languageSelectPlaceholder": "Sélectionner...",
         "remoteDebug": "Capture d'écran (pour aide á distance en cas de problème)",
         "createAddIssueHeading": "Réglages pour fenêtre des tickets",
         "addAttachmentsByDefault": "Sélectionner toutes les piéces-jointes",
         "addEmailAsFile": "Sélectionner / télécharger l'email (.msg)",
         "preselectProjectIssueType": "Pré-sélectionner le dernier projet et type de ticket utilisés",
-        "showServiceDeksPortalFields": "Show tab 'Portal Fields' for Jira Service Desk projects",
+        "showServiceDeksPortalFields": "Afficher l'onglet 'Portal Field' pour le Centre de Services Jira",
         "addMailInformation": "Ajouter le mail á la description",
         "includeAttachments": "Inclure les pièces-jointes",
         "includeSubject": "Inclure la description",
@@ -68,34 +68,34 @@
         "autoRefreshFeed": "Actualiser la source automatiquement"
     },
     "about": {
-        "licenseHeading": "Licenses",
+        "licenseHeading": "Licences",
         "sourcesLink": "Sources",
         "version": "Version"
     },
     "createIssue": {
         "headline": "Créer un nouveau ticket",
-        "imageRemovedPlaceholder": "Image removed",
-        "servicePortalTab": "Portail service",
+        "imageRemovedPlaceholder": "Image",
+        "servicePortalTab": "Portail de service",
         "singleTab": "Tous les champs",
-        "serviceDeskIssueTypeTooltip": "Use Issue Type",
+        "serviceDeskIssueTypeTooltip": "Utiliser le type de ticket",
         "accountFieldPlaceholder": "Placeholder Account Field",
         "existingIssuesButton": "Tickets existants",
         "existingIssuesHeading": "Cette conversation posséde déjá des tickets",
         "goToInstancesList": "Show instance overview",
-        "noLoginHeader": "You are not logged in",
+        "noLoginHeader": "Tu n'es pas connecté",
         "noLoginDescription": "You need to be logged into this instance to create issues.",
-        "loginExpiredHeader": "Login expired",
-        "loginExpiredDescription": "Your login has expired. In order to continue log out and back in.",
-        "serviceDeskAddParticipantsTooltip": "Add participants",
+        "loginExpiredHeader": "Session expirée",
+        "loginExpiredDescription": "Ta session a expiré. In order to continue log out and back in.",
+        "serviceDeskAddParticipantsTooltip": "Ajouter des participants",
         "serviceDeskAddFromCc": "From CC",
         "serviceDeskAddFromRecipients": "From recipients",
         "serviceDeskAddFromBoth": "From both",
-        "serviceDeskAddInfoBox": "Only users with a Jira account will be added",
-        "noParticipantsFound": "No Jira users found in email recipients"
+        "serviceDeskAddInfoBox": "Uniquement utilisateurs avec compte Jira seront ajoutés",
+        "noParticipantsFound": "Aucun utilisateur Jira trouvé dans le destinataire du mail"
     },
     "addToIssue": {
         "headline": "Associer á un ticket",
-        "imageRemovedPlaceholder": "Image removed",
+        "imageRemovedPlaceholder": "Image supprimée",
         "shareWithCustomerButton": "Partager avec le client",
         "commentInterallyButton": "Commenter en interne"
     },
@@ -113,16 +113,16 @@
         "aggreementMessage": "With continue, you agree to our {link1} and {link2}."
     },
     "attachmentField": {
-        "noAttachmentMessage": "This mail has no attachments",
+        "noAttachmentMessage": "Cet email n'a pas de pièce-jointe",
         "selectAllButton": "Tous",
         "deselectAllButton": "Aucun"
     },
     "jiraActions": {
-        "openInJiraOption": "Open in Jira",
+        "openInJiraOption": "Ouvrir dans Jira",
         "assignToMeOption": "Me l'assigner",
-        "watchIssueOptionLabel": "Watch",
-        "unwatchIssueOption": "Unwatch",
-        "watchIssueOption": "Watch"
+        "watchIssueOptionLabel": "Démarrer l'observation",
+        "unwatchIssueOption": "Arrêter l'observation",
+        "watchIssueOption": "Démarrer l'observation"
     },
     "actions": {
         "gotItButton": "Got it",
@@ -138,9 +138,9 @@
         "forget": "Supprimer",
         "edit": "modifier",
         "editInline": "modifier",
-        "continue": "Continue",
+        "continue": "Continuer",
         "notWorking": "Not working?",
-        "saveButton": "Save"
+        "saveButton": "Valider les changements"
     },
     "timetracking": {
         "fieldHelpTooltip": "Learn more about time tracking"
@@ -221,11 +221,11 @@
     "securityIndicator": {
         "headline": "Contrôle de sécurité",
         "connectedViaTLS": "Connecté via TLS",
-        "connectedViaHttp": "Connected via plaintext HTTP",
+        "connectedViaHttp": "Connecté via plaintext HTTP",
         "authWithToken": "Authentification via OAuth Token",
-        "authWithBasicAuth": "Authentication via Basic Auth",
-        "connectedWithYasoon": "Connected with Yasoon Cloud Connect",
-        "recommendedConnection": "We recommend connecting to Jira via {link1} and OAuth authentication. Please use our {link2} to configure a secure connection.",
+        "authWithBasicAuth": "Authentification via Basic Auth",
+        "connectedWithYasoon": "Connecté avec Yasoon Cloud Connect",
+        "recommendedConnection": "Nous recommendons de se connecter á Jira via {link1} et OAuth authentication. Veuillez utiliser notre {link2} pour configurer une connexion sécurisée.",
         "allSecureMessage": "Vous êtes parés, tout est sécurisé!"
     },
     "breadCrumbs": {
@@ -233,16 +233,16 @@
         "relatedIssues": "Related Issues"
     },
     "trial": {
-        "errorHeadline": "Join us!",
-        "trialExpiredMessage": "Your trial has expired. You liked the hassle-free way of working with Jira?",
-        "getLicense": "Get a license",
-        "status": "Trial Status",
-        "runsOut": "Your trial runs out {{date}}",
-        "getALicense": "Get a license",
-        "requestApp": "Send Request",
+        "errorHeadline": "Rejoignez-nous!",
+        "trialExpiredMessage": "Votre période d'essaie est terminé. You liked the hassle-free way of working with Jira?",
+        "getLicense": "Obtenir une licence",
+        "status": "Statut de la période d'essaie",
+        "runsOut": "Votre session d'essaie expire {{date}}",
+        "getALicense": "Obtenir une licence",
+        "requestApp": "Envoyer une demande",
         "messageLabel": "Message to Admin",
         "defaultMessage": "I would like to request this application.",
-        "sendMessage": "Send"
+        "sendMessage": "Envoyer"
     },
     "jirafields": {
         "participants": "Participants",
@@ -407,12 +407,12 @@
         "marketplaceApp": "Marketplace app"
     },
     "logWorkScreen": {
-        "logWorkButton": "Log Work",
+        "logWorkButton": "Suivi temporel",
         "originalEstimateInfo": "The original estimate for this issue was",
         "dateTimePickerLabel": "Date started",
-        "adjustAutomaticallyRadioButton": "Adjust automatically",
-        "leaveAsIsRadioButton": "Leave as is",
-        "adjustmanuallyRadioButton": "Adjust manually"
+        "adjustAutomaticallyRadioButton": "Mettre á jour automatiquement",
+        "leaveAsIsRadioButton": "Ne pas mettre á jour",
+        "adjustmanuallyRadioButton": "Mettre á jour manuellement"
     },
     "mailHeader": {
         "from": "From",
@@ -432,11 +432,11 @@
         "invalidFileName": "Invalid filename"
     },
     "senderFilter": {
-        "title": "Show issues with {{emailaddress}}",
-        "triggerLabel": "Filter sender issues",
-        "reporter": "as reporter",
-        "assignee": "as assignee",
-        "textFields": "in text"
+        "title": "Afficher les tickets avec {{emailaddress}}",
+        "triggerLabel": "Filtrer",
+        "reporter": "par rapporteur",
+        "assignee": "par responsable",
+        "textFields": "selon le texte"
     },
     "organizationsField": {
         "unassignedPlaceholder": "Choisir un organisme"
