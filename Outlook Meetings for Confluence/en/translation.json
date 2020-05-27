@@ -15,6 +15,13 @@
 		"login": "Login",
 		"tryAgain": "Try Again"
 	},
+	"loginScreen":{
+		"heading": "Connect to Confluence",
+		"subHeading": "Please choose your Confluence, or let us detect it for you!",
+		"confluenceCloud": "Confluence Cloud",
+		"confluenceServerOrDC": "Confluence Server or Data Center",
+		"notSureButtonLabel": "Not sure"
+	},
 	"link":{
 		"atlassianMarketplace":"Atlassian Marketplace",
 		"contactSupport": "contact our support"
