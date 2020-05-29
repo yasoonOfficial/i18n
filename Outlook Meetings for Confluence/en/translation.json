@@ -98,7 +98,8 @@
 	"noConfluencePage": {
 		"heading": "No meeting notes page found",
 		"description": "Could not find a related Confluence page. If you are the organizer you can add an agenda when editing the event.",
-		"needHelp": "Need Help?"
+		"needHelp": "Need Help?",
+		"createButton": "Create Agenda"
 	},
 	"pagePickerScreen": {
 		"heading": "Select parent page",
