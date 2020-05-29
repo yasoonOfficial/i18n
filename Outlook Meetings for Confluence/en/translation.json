@@ -7,7 +7,7 @@
 		"subHeading": "Please provide the address you use to access Confluence.",
 		"confluenceUrlLabel": "Confluence Url",
 		"confluenceUrlPlaceholder": "e.g. https://acme.atlassian.net",
-        "aggreementMessage": "With continue, you agree to our {link1} and {link2}.",
+		"aggreementMessage": "With continue, you agree to our {link1} and {link2}.",
 		"termsOfService": "Terms of Service",
 		"privacyPolicy": "Privacy Policy",
 		"whereDoIFindThis": "Where do I find this?",
@@ -15,15 +15,15 @@
 		"login": "Login",
 		"tryAgain": "Try Again"
 	},
-	"loginScreen":{
+	"loginScreen": {
 		"heading": "Connect to Confluence",
 		"subHeading": "Please choose your Confluence, or let us detect it for you!",
 		"confluenceCloud": "Confluence Cloud",
 		"confluenceServerOrDC": "Confluence Server or Data Center",
 		"notSureButtonLabel": "Not sure"
 	},
-	"link":{
-		"atlassianMarketplace":"Atlassian Marketplace",
+	"link": {
+		"atlassianMarketplace": "Atlassian Marketplace",
 		"contactSupport": "contact our support"
 	},
 	"errorMessages": {
@@ -40,13 +40,13 @@
 		"invalidUserDescription": "You can't use the app as an anonymous user.",
 		"errorDuringLoginTitle": "Invalid credentials",
 		"errorDuringLoginDescription": "Please check your credentials and try again. If this issue persists contact your Confluence Admin and make sure Basic Auth is enabled.",
-		"missingConfluenceApp":"We couldn't find the corosponding app on your Confluence instance. You can download the app in the {link}.",
+		"missingConfluenceApp": "We couldn't find the corosponding app on your Confluence instance. You can download the app in the {link}.",
 		"cloudAppNotInstalled": "We coudln't find our app with the given Confluence url. Please check, if the app is installed",
 		"serverAppNotConfigured": "Your Confluence Administrator hasn't configured our app yet. To continue please contact your Confluence administrator!",
 		"serverAppNotConfiguredTitle": "The Confluence App hasn't been configured",
 		"serverNotPublicOrBadBaseUrl": "Our backend-server was not able to reach your Confluence system. Either there is a typo in the url, or the confluence System is not public reachable",
 		"serverNotPublicOrBadBaseUrlTitle": "Confluence system not reachable"
-},
+	},
 	"basicLogin": {
 		"heading": "Connect to Confluence",
 		"subHeading": "Please provide your login credentials.",
@@ -127,7 +127,9 @@
 		"heading": "Settings",
 		"restoreDefaults": "Restore Defaults",
 		"confirm": "Confirm",
-		"cancel": "Cancel"
+		"cancel": "Cancel",
+		"seetingTabLabel": "Settings",
+		"registrationsTabLabel": "Jira Login"
 	},
 	"welcomeScreen": {
 		"heading": "Welcome to Outlook Meetings for Confluence",

@@ -15,7 +15,7 @@
 		"login": "Anmelden",
 		"tryAgain": "Erneut Versuchen"
 	},
-	"loginScreen":{
+	"loginScreen": {
 		"heading": "Mit Confluence verbinden",
 		"subHeading": "Bitte wählen dein Confluence System, oder lass uns es für dich ermitteln!",
 		"confluenceCloud": "Confluence Cloud",
@@ -126,7 +126,9 @@
 		"heading": "Einstellungen",
 		"restoreDefaults": "Standardeinstellungen wiederherstellen",
 		"confirm": "Bestätigen",
-		"cancel": "Abbrechen"
+		"cancel": "Abbrechen",
+		"seetingTabLabel": "Einstellungen",
+		"registrationsTabLabel": "Jira Konto"
 	},
 	"welcomeScreen": {
 		"heading": "Willkommen bei Outlook Meetings for Confluence",
