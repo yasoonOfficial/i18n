@@ -97,7 +97,8 @@
 	"noConfluencePage": {
 		"heading": "Keine Zugehörige Seite mit Besprechungsnotizen gefunden",
 		"description": "Es wurde keine zugehörige Confluence-Seite gefunden. Wenn du der Organisator bist, kannst du im Bearbeitungmodus der Meetings eine Agenda hinzufügen.",
-		"needHelp": "Brauchst du Hilfe?"
+		"needHelp": "Brauchst du Hilfe?",
+		"createButton": "Seite Erstellen"
 	},
 	"pagePickerScreen": {
 		"heading": "Wähle die übergeordnete Seite",
