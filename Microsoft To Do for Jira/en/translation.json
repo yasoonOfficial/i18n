@@ -40,7 +40,7 @@
         "loginWithMicrosoftInfo": "Please login with your Microsoft account to get started!",
         "loginWithMicrosoftButton": "Login",
         "invalidLicenseTitle": "License expired",
-        "invalidLicenseInfo": "You don't have a valid license or it has expired. If you'd like to continue using our app, please get valid license!",
+        "invalidLicenseInfo": "You don't have a valid license, or it has expired. If you'd like to continue using our app, please get valid license!",
         "createNewTaskInlineEditEditViewPlaceholder": "Create a new task",
         "createNewTaskInlineEditReadViewPlaceholder": "Add new task",
         "createNewTaskInlineEditEditViewTooltip": "To Do list for your new task",
@@ -87,7 +87,7 @@
         "syncTitle": "Jira Issue Synchronization",
         "syncInfo": "Besides adding To Do tasks manually, your users can also configure an automatic synchronization, based on certain criteria (e.g. issues assigned to them). For details, please refer to our documentation!",
         "invalidLicenseTitle": "License expired",
-        "invalidLicenseInfo": "You don't have a valid license or it has expired. If you'd like to continue using our app, please get valid license!"
+        "invalidLicenseInfo": "You don't have a valid license, or it has expired. If you'd like to continue using our app, please get valid license!"
     },
     "issueFilters": {
         "errorOopsUpdateSync": "Oops, error occurred!",
@@ -115,7 +115,7 @@
     "mainPage": {
         "productTitle": "Microsoft To Do For Jira",
         "invalidLicenseTitle": "License expired",
-        "invalidLicenseInfo": "You don't have a valid license or it has expired. If you'd like to continue using our app, please get valid license!"
+        "invalidLicenseInfo": "You don't have a valid license, or it has expired. If you'd like to continue using our app, please get valid license!"
     },
     "preferredResolveCriteria": {
         "autoResolved": "Automatically complete the task for resolved or deleted issues",
@@ -194,7 +194,7 @@
         "headline": "When the task in To Do is completed, should we change the status of the Jira issue?",
         "errorOopsEnableMSSync": "Oops, error occurred!",
         "errorOopsDisableMSSync": "Oops, error occurred!",
-        "syncIssueFromTaskCompletionInfo": "Enable changing status of jira issues",
+        "syncIssueFromTaskCompletionInfo": "Enable changing status of Jira issues",
         "selectStatusToChangeIssueToInfo": "If you select yes, you'll need to choose the status that we should transition the Jira issue to, after a task has been completed in To Do.",
         "chooseStatusButton": "Yes, choose status",
         "doNotChooseStatusButton": "No, maybe later"
@@ -205,7 +205,7 @@
     },
     "taskItem": {
         "inlineEditReadViewPlaceholder": "Click to enter value",
-        "autoSyncedLozenge": "Autosynced"
+        "autoSyncedLozenge": "Auto synced"
     },
     "welcome": {
         "errorOopsCreateSettings": "Oops, error occurred!",
@@ -214,7 +214,7 @@
         "simpleConfigName": "Simple",
         "simpleConfigDescription": "Choose this if you are new to Microsoft To Do or just want to get started without much configuration.",
         "advancedConfigName": "Advanced",
-        "advancedConfigDescription": "Choose this if you already know your way around To Do and Jira very well. This let's you configure every single detail.",
+        "advancedConfigDescription": "Choose this if you already know your way around To Do and Jira very well. This lets you configure every single detail.",
         "startButton": "Start {{mode}}"
     }
 

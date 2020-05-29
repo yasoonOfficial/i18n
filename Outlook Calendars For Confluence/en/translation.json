@@ -18,7 +18,7 @@
         "personalCalendarVisibleTrue": "Yes",
         "personalCalendarVisibleFalse": "No",
         "allowAnonymousAccessHeading": "Allow Anonymous Access",
-        "anonymousUserDescription1": "If you choose to allow anonymous access, unauthorized users will have the option to view calendars without the need to log in. This can be useful, if you want to allow read-only and/or public access to certain calendars. Unauthorized users will still have the option to log in to increase access rights, e.g. to be able to modify events.",
+        "anonymousUserDescription1": "If you choose to allow anonymous access, unauthorized users will have the option to view calendars without the need to log in. This can be useful if you want to allow read-only and/or public access to certain calendars. Unauthorized users will still have the option to log in to increase access rights, e.g. to be able to modify events.",
         "anonymousUserDescription2": "To allow access, please provide credentials for a service account that should be used for anonymous users. Please make sure this user has very restricted access in Exchange (ideally only read-only, to certain calendars)!",
         "enableAnonymousAccess": "Enable Anonymous Access",
         "anonymousAccessTabHeading": "Anonymous Access (Beta)",
@@ -71,7 +71,7 @@
         "connectToJiraInstanceHeading": "Connect to a Jira instance",
         "connectToJiraInstanceDescription": "You can connect Outlook Calendars for Confluence with Jira, to show dates for issues, sprints and releases. Please enter the URL of the Jira instance that you want to connect to.",
         "jiraUrlLabel": "Please enter the URL of your Jira instance including http:// or https://",
-        "jiraUrlPlaceholder": "Jira Url including http:// or https://",
+        "jiraUrlPlaceholder": "Jira URL including http:// or https://",
         "proxyJiraThroughConfluenceDescription": "Always proxy requests to Jira through Confluence",
         "proxyJiraThroughConfluenceLabel": "Toggle forced Confluence Proxy",
         "jiraHosting": "How to setup a {{hosting}} instance",
@@ -96,7 +96,7 @@
         "primaryButtonName": "Activate",
         "secondaryButtonName": "Cancel",
         "provideCredentialsDescription": "Please provide the credentials that should be used for unauthorized users:",
-        "userName": "User Name",
+        "userName": "Username",
         "emailAddress": "Email Address",
         "userNameIsRequired": "E.g. mycorp\\confluenceanon",
         "userNameIsNotRequired": "E.g. confluenceanon@mycorp.com",
@@ -124,7 +124,7 @@
         "domainUsernameLabel": "Domain Username",
         "passwordLabel": "Password",
         "successIconLabel": "Info",
-        "successFlagTitle": "Sucessfully Detected Configuration",
+        "successFlagTitle": "Successfully Detected Configuration",
         "notWorking": "Not working? Please contact us!",
         "errorIconLabel": "Info",
         "determineErrorFlagDescription": "We couldn't determine your configuration...",
@@ -515,7 +515,7 @@
     "officeCreateEventScreenModel": {
         "createEventSuccessTitle": "Event successfully created",
         "createEventSuccessText": "The event was created in your main calendar, which is not active.",
-        "createEventErrorMessage": "An error has occured!"
+        "createEventErrorMessage": "An error has occurred!"
     },
     "officeOpenCalendarScreenModel": {
         "mapGroupToCalendarAlreadyOpenErrorMessage": "It seems like you've already opened the group calendar",
@@ -530,7 +530,7 @@
     "constants": {
         "busy": "Busy",
         "tentative": "Tentative",
-        "oof": "Out Of Office",
+        "oof": "Out of Office",
         "workingElsewhere": "Working elsewhere",
         "free": "Free",
         "monday": "Monday",
@@ -604,13 +604,13 @@
     },
     "recurrencePicker": {
         "patternLabel": "Recurrence pattern",
-        "occurences": "occurence(s)",
+        "occurences": "occurrence(s)",
         "startsOnText": "Starts on",
         "endsText": "Ends",
         "daysText": "day(s)",
         "everyDayLabel": "Every",
         "everyWeekdayLabel": "Every Weekday",
-        "reccurEveryText": "Reccur every",
+        "reccurEveryText": "Reoccur every",
         "weeksText": "week(s)",
         "onText": "on",
         "ofEveryText": "of every",
@@ -633,7 +633,7 @@
         "searchPlaceholder": "Search for users"
     },
     "officeUpdateSeriesScreen": {
-        "occurenceButton": "Occurence",
+        "occurenceButton": "Occurrence",
         "cantChangeDayTooltip": "You can't change the day of a series-event",
         "seriesButton": "Series",
         "cancelButton": "Cancel",
@@ -654,8 +654,8 @@
         "openOrCreateCalendarTooltip": "Open and create a calendar",
         "addIconLabel": "Add",
         "addCalendarButtonLabel": "Add Calendar",
-        "noJiraUrlConfiguredFlagTitle": "No Jira url is configured yet.",
-        "noJiraUrlConfiguredFlagDescription": "Please instruct your administrator to enter a Jira url in the settings!",
+        "noJiraUrlConfiguredFlagTitle": "No Jira URL is configured yet.",
+        "noJiraUrlConfiguredFlagDescription": "Please instruct your administrator to enter a Jira URL in the settings!",
         "openOutlookCalendarOptionLabel": "Open Outlook Calendar",
         "openOutlookCalendarOptionDescription": "Search and open a personal or shared calendar",
         "createOutlookCalendarOptionLabel": "Create Outlook Calendar",
@@ -691,8 +691,8 @@
         "defaultDateLabel": "Default date",
         "pickADateLabel": "Pick a date",
         "pickADatePlaceholder": "Please select the day, the calendar should start",
-        "setTimezoneForCalendarLabel": "Set fixed Timezone for Calendar",
-        "changeTimeZoneToggleLabel": "Change Calendar TimeZone",
+        "setTimezoneForCalendarLabel": "Set fixed time zone for Calendar",
+        "changeTimeZoneToggleLabel": "Change Calendar time zone",
         "setCalendarToReadOnlyLabel": "Set Calendar to Read Only",
         "setCalendarToReadOnlyToggleLabel": "Set Calendar to Read Only",
         "hideCalendarLabels": "Hide Calendar Labels",
@@ -784,7 +784,7 @@
         "welcomeTourLabel": "Show Welcome-Dialog",
         "enableLogging": "Support logging enabled",
         "settingsTitle": "Settings",
-        "timezoneTitle": "Timezone",
+        "timezoneTitle": "Time zone",
         "helpTitle": "Help",
         "logoutTitle": "Logout",
         "logout": "Logout"
@@ -815,7 +815,7 @@
         "loginWithO365ButtonLabel": "Login with Office 365",
         "loginButtonLabel": "Login",
         "skipButtonLabel": "Skip",
-        "userNameLabel": "User Name",
+        "userNameLabel": "Username",
         "emailAddressLabel": "Email Address"
     },
     "macroEditor": {
@@ -829,12 +829,12 @@
         "dismissContentLabel": "Dismiss"
     },
     "timeZoneModal": {
-        "timeZoneHeading": "Timezone",
-        "pleaseSelectTimezone": "Please select a timezone.",
-        "timeZoneNote": "Note: You will be able to change the timezone afterwards!",
+        "timeZoneHeading": "time zone",
+        "pleaseSelectTimezone": "Please select a time zone.",
+        "timeZoneNote": "Note: You will be able to change the time zone afterwards!",
         "applyButtonLabel": "Apply"
     },
     "timeZonePicker": {
-        "timeZoneLabel": "Timezone"
+        "timeZoneLabel": "time zone"
     }
 }

@@ -85,7 +85,7 @@
         "noLoginHeader": "You are not logged in",
         "noLoginDescription": "You need to be logged into this instance to create issues.",
         "loginExpiredHeader": "Login expired",
-        "loginExpiredDescription": "Your login has expired. In order to continue log out and back in.",
+        "loginExpiredDescription": "Your login has expired. To continue log out and back in.",
         "serviceDeskAddParticipantsTooltip": "Add participants",
         "serviceDeskAddFromCc": "From CC",
         "serviceDeskAddFromRecipients": "From recipients",
@@ -151,7 +151,7 @@
         "button": "Send us feedback"
     },
     "fieldErrorBoundary": {
-        "errorMessage": "Sorry, we couldn't render this field correctly and it will not be send to Jira.",
+        "errorMessage": "Sorry, we couldn't render this field correctly and it will not be sent to Jira.",
         "reportInstruction": "Please report what type of field it is"
     },
     "instanceSettings": {
@@ -162,11 +162,11 @@
         "instancePickerPlaceholder": "Select an instance",
         "loginErrorDescription": "There has been an error during the login:",
         "loginErrorTitle": "Error with Jira Login",
-        "yasoonConnectionErrorDescription": "We couldn't connect to our backend server at *.yasoon.com. This might be caused by a restrictive firewall. You can just continue to use the addin but some features may not work as expected. If you want to have the full functionality, please make sure to add (or ask your IT to add) yasoon.com to the whitelist",
+        "yasoonConnectionErrorDescription": "We couldn't connect to our backend server at *.yasoon.com. This might be caused by a restrictive firewall. You can just continue to use the add-in but some features may not work as expected. If you want to have the full functionality, please make sure to add (or ask your IT to add) yasoon.com to the whitelist",
         "yasoonConnectionErrorTitle": "Cannot connect to yasoon.com",
         "jiraConnectionErrorDescription": "We couldn't connect to the Jira instance. At first, please make sure you have typed in the URL correctly.",
         "jiraConnectionErrorRequirements": "If the URL is correct, the Jira system may not meet the {link}.",
-        "jiraConnectionErrorMissingServerAddon": "If you have a self hosted Jira instance, it needs to have our {link} installed (and it needs to run on https).",
+        "jiraConnectionErrorMissingServerAddon": "If you have a self-hosted Jira instance, it needs to have our {link} installed (and it needs to run on https).",
         "jiraConnectionErrorContactSupport": "If you think this is an error, please {link}.",
         "jiraConnectionErrorTitle": "Cannot connect to Jira",
         "alreadyConnectedDescription": "You are already connected to this system.",
@@ -179,7 +179,7 @@
     "basicLogin": {
         "headline": "Connect to Jira",
         "subHeadline": "Please provide your login credentials.",
-        "jiraUrl": "Jira Url",
+        "jiraUrl": "Jira URL",
         "mail": "Email address",
         "usernameOrMail": "Username or Email address",
         "apiToken": "API Token",
@@ -190,7 +190,7 @@
         "invalidCredentialsDescriptionCloud": "Please check your credentials and try again. {link}",
         "invalidCredentialsDescriptionServer": "Please check your credentials and try again.",
         "errorDuringLoginTitle": "Error during Login",
-        "errorDuringLoginDescription": "An error occured during login. {{message}}. Please contact your Jira Admin and make sure Basic Auth is enabled."
+        "errorDuringLoginDescription": "An error occurred during login. {{message}}. Please contact your Jira Admin and make sure Basic Auth is enabled."
     },
     "editorScreen": {
         "headline": "Edit Description",
@@ -204,7 +204,7 @@
         "headline": "Jira meets Outlook",
         "createJiraIssues": "Create new Jira issues from emails & quickly take over text and attachments.",
         "viewJiraIssues": "View Jira issues that are related to the current email conversation.",
-        "supportedEnvironments": "Works everywhere  – Windows, Mac, iOS, Android & Web.",
+        "supportedEnvironments": "Works everywhere – Windows, Mac, iOS, Android & Web.",
         "startNow": "Start now!",
         "pricingInfo": "Pricing Info",
         "aboutUs": "About Us"
@@ -307,11 +307,11 @@
         "noConnectToJiraDescription": "It looks like your login has expired. Please login again in the Settings menu.",
         "xDomainTimeoutTitle": "Waiting for server response",
         "xDomainTimeoutDescription": "Your Jira Server needs a long time to respond. If this occurs frequently, contact your Jira admin.",
-        "noSDSupportTitle": "Servicedesk not supported",
-        "noSDSupportDescription": "You need at least Jira Servicedesk 3.3.0. You have",
+        "noSDSupportTitle": "Service Desk not supported",
+        "noSDSupportDescription": "You need at least Jira Service Desk 3.3.0. You have",
         "uploadFilesError": "Couldn't upload files!",
         "errorOnLoginTitle": "Error on Login",
-        "errorOnLoginDescription": "Sorry - we cannot read your own Jira user. Most likely this is an temporary error and you can try it again.",
+        "errorOnLoginDescription": "Sorry - we cannot read your own Jira user. Most likely this is a temporary error and you can try it again.",
         "openEmailFormTitle": "Could not open Email form",
         "openEmailFormDescription": "We could not open the email message form.",
         "internalErrorTitle": "Internal error",
@@ -329,8 +329,8 @@
         "updateJiraIssueDescription": "Sorry - we couldn't add the comment to the issue due to",
         "uploadAttachments": "We couldn't upload one or more attachments.",
         "fetchingJiraIssueFailedFallback": "Error while fetching issue data",
-        "genericError": "Sorry, timetracking could not be saved",
-        "wrongInputFormat": "Timetracking has to be in the format: '3w 4d 12h 5m' sein"
+        "genericError": "Sorry, time tracking could not be saved",
+        "wrongInputFormat": "Time tracking has to be in the format: '3w 4d 12h 5m' sein"
     },
     "issueField": {
         "relatedIssues": "Related Issues",
