@@ -13,7 +13,10 @@
 		"whereDoIFindThis": "Wo finde ich diese?",
 		"continue": "Weiter",
 		"login": "Anmelden",
-		"tryAgain": "Erneut Versuchen"
+		"tryAgain": "Erneut Versuchen",
+		"loginOAuth1aDescription": "Du kannst dich nun anmelden",
+		"loginOAuth1aHeading": "Ready",
+		"cardLoginButton": "Los"
 	},
 	"loginScreen": {
 		"heading": "Mit Confluence verbinden",

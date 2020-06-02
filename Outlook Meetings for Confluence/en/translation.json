@@ -13,7 +13,10 @@
 		"whereDoIFindThis": "Where do I find this?",
 		"continue": "Continue",
 		"login": "Login",
-		"tryAgain": "Try Again"
+		"tryAgain": "Try Again",
+		"loginOAuth1aDescription": "Ready to Login",
+		"loginOAuth1aHeading": "Ready",
+		"cardLoginButton": "Go"
 	},
 	"loginScreen": {
 		"heading": "Connect to Confluence",
