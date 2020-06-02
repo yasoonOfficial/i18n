@@ -128,7 +128,8 @@
 		"confirm": "Bestätigen",
 		"cancel": "Abbrechen",
 		"seetingTabLabel": "Einstellungen",
-		"registrationsTabLabel": "Jira Konto"
+		"registrationsTabLabel": "Confluence Konto",
+		"enableLogRocket": "Support logging aktiv"
 	},
 	"welcomeScreen": {
 		"heading": "Willkommen bei Outlook Meetings for Confluence",
