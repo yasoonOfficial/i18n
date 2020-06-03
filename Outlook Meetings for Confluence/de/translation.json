@@ -209,11 +209,15 @@
 		"publicBaseUrl": "Öffentliche Base Url",
 		"externalServerUID": "Externe Server ID",
 		"connectivityTitle": "Connectivity",
-		"confirmModalText": "Wenn sie die Public Base Url ändern müssen sich alle Benutzer erneut anmelden...",
-		"confirmModalHeading": "Achtung Admin 👋",
+		"confirmModalText": "Wenn Sie die Public Base Url ändern, werden alle Benutzer aus der Instanz ausgeloggt.",
+		"confirmModalHeading": "Achtung 👋",
 		"connectPublicUrlButton": "Verbinden",
 		"applyButton": "Anwenden",
-		"cancelButton": "Abbrechen"
+		"cancelButton": "Abbrechen",
+		"loadingFlagButton": "Dauert es zu lange?",
+		"loadingHeader": "Wir ermitteln gerade, ob die App ordnungsgemäß funktioniert.",
+		"loadingMessage": "Lehn dich zurück und lass uns die Arbeit machen, oder hol dir einen Kaffee ☕️",
+		"publicUrlTooltip": "Dies ist die öffentlich erreichbare URL Ihrer Confluence Server-Instanz."
 	},
 	"meetingAgendaMacro": {
 		"title": "Titel",

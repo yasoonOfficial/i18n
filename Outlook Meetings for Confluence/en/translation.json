@@ -198,7 +198,7 @@
 		"outlookAddinDescription": "The corresponding Outlook add-in can be downloaded from the Microsoft AppSource store, just click on the following link. If you need help deploying the add-in in your company, we are happy to help.",
 		"getOfficeApp": "Get it from AppSource",
 		"templateTitle": "Templates",
-		"templatesDescription": "In addition to the included page template, you can also create new templates for your meeting notes or edit your existing ones. Note: To ensure that the app works correctly the template must contain the provided macro 'Meeting Agenda Macro', {{attendees}} and {{date}}.",
+		"templatesDescription": "In addition to the default page template, you can also create new templates for your meeting notes or edit your existing ones. Note: To ensure that the app works correctly the template must contain the provided macro 'Meeting Agenda Macro', {{attendees}} and {{date}}.",
 		"helpTitle": "Help",
 		"helpDescription": "If you need further help or have any questions, you can find more information in our documentation. For suggestions or bugs in our app, please create a support ticket.",
 		"goToDocumentation": "Go to documentation",
@@ -210,11 +210,15 @@
 		"publicBaseUrl": "Public Base Url",
 		"externalServerUID": "External Server ID",
 		"connectivityTitle": "Connectivity",
-		"confirmModalText": "When changing the Public Base Url all users will be logged out...",
-		"confirmModalHeading": "Heads up admin 👋",
+		"confirmModalText": "When changing the Public Base Url, all users are logged out of the instance.",
+		"confirmModalHeading": "Heads up 👋",
 		"connectPublicUrlButton": "Connect",
 		"applyButton": "Apply",
-		"cancelButton": "Cancel"
+		"cancelButton": "Cancel",
+		"loadingFlagButton": "Taking to long?",
+		"loadingHeader": "Checking if the app is functioning properly",
+		"loadingMessage": "Sit back and let us do the work, or get yourself a coffee ☕️",
+		"publicUrlTooltip": "This is the public reachable url of you Confluence Server instance"
 	},
 	"meetingAgendaMacro": {
 		"title": "Title",
