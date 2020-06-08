@@ -83,7 +83,8 @@
 		"heading": "Confluence Meeting Agenda",
 		"viewInConfluence": "View in Confluence",
 		"parentPage": "Parent Page",
-		"parentSpace": "Space"
+		"parentSpace": "Space",
+		"savedLozenge": "Saved"
 	},
 	"initalPageSelection": {
 		"heading": "Select the meeting notes location",

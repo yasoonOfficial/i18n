@@ -82,7 +82,8 @@
 		"heading": "Confluence Meeting Agenda",
 		"viewInConfluence": "Gehe zur Confluence Seite",
 		"parentPage": "Übergeordnete Seite",
-		"parentSpace": "Bereicht"
+		"parentSpace": "Bereicht",
+		"savedLozenge": "Gespeichert"
 	},
 	"initalPageSelection": {
 		"heading": "Wähle den Ort für die Besprechungsnotizen aus",
@@ -127,7 +128,7 @@
 	},
 	"settingsScreen": {
 		"heading": "Einstellungen",
-		"restoreDefaults": "Standardeinstellungen wiederherstellen",
+		"restoreDefaults": "Einstellungen zurücksetzen",
 		"confirm": "Bestätigen",
 		"cancel": "Abbrechen",
 		"seetingTabLabel": "Einstellungen",
