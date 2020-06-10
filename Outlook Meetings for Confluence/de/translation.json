@@ -87,13 +87,13 @@
 	},
 	"initalPageSelection": {
 		"heading": "Wähle den Ort für die Besprechungsnotizen aus",
-		"description": "Es ist nur noch ein kleiner Schritt bis zur Erstellung deiner ersten Confluence Meeting Notizen direkt aus deinem Outlook. Bitte wählen zuerst den Ort aus, an dem du die Besprechungsnotizen erstellen möchtest. Anmerkung: Du kannst diesen dann nachträglich ändern.",
+		"description": "Es ist nur noch ein kleiner Schritt bis zur deiner ersten Confluence Meeting Seite, direkt aus deinem Outlook. Bitte wählen zuerst den Ort aus, an dem du die Besprechungsnotizen erstellen möchtest. Du kannst diesen später nachträglich ändern.",
 		"needHelp": "Brauchst du hilfe?"
 	},
 	"meetingAgenda": {
 		"heading": "Agenda",
 		"addItemPlaceholder": "Agenda-Punkt hinzufügen",
-		"adjustEndtimeButton": "Klicken zum Anpassen der Endzeit",
+		"adjustEndtimeButton": "Endzeit anpassen",
 		"adjustEndtimeTootltip": "Klicken zum Anpassen der Endzeit",
 		"editToAdjustEndtime": "Bearbeite die Besprechung, um die Endzeit anzupassen.",
 		"totalDuration": "Summe: "
@@ -111,7 +111,7 @@
 		"applyButton": "Anwenden"
 	},
 	"pagePicker": {
-		"placeholder": "Wähle die übergeordnete Seite",
+		"placeholder": "Suche nach Seiten",
 		"noOptionsMessage": "Keine Ergebnisse",
 		"searchMessage": "Tippe um nach seiten zu suchen",
 		"homePageLabel": "Startseite",
