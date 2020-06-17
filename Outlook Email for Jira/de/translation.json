@@ -149,6 +149,16 @@
         "htmlBody": "Hey <br/><br/>, ich mag die App, aber es gibt mindestens eine Sache, die ihr besser machen könnt: <br/>",
         "button": "Feedback absenden"
     },
+    "errorReportButton": {
+        "subject": "Meldung eines Fehlers in Outlook Email for Jira",
+        "htmlBody": "Hey <br/><br/>, ich mag die App, aber bei mir tritt dieser Fehler auf: <br/>",
+        "button": "Fehlerbericht senden"
+    },
+    "globalErrorBoundary": {
+        "title": "Sorry, wir konnten die App nicht richtig laden.",
+        "descriptionLine1": "An einer kritischen Stelle ist ein Fehler aufgetreten. Wenn das öfter passiert, kannst du versuchen, dich von allen Instanzen abzumelden und diese zu entfernen um Outlook Email for Jira zurückzusetzen.",
+        "descriptionLine2": "Wenn auch das nicht helfen sollte, sende uns bitte den Fehlerbericht, damit wir dir so gut wie möglich helfen können."
+    },
     "fieldErrorBoundary": {
         "errorMessage": "Sorry, wir konnten das Feld nicht richtig anzeigen. Es wird nicht an Jira gesendet!",
         "reportInstruction": "Bitte melde uns, um welches Feld es sich handelt"

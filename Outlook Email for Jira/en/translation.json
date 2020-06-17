@@ -150,6 +150,16 @@
         "htmlBody": "Hey guys, <br /><br/> I like the app, but there is at least one thing you have to improve:<br/>",
         "button": "Send us feedback"
     },
+    "errorReportButton": {
+        "subject": "Reporting a bug in Outlook Email for Jira",
+        "htmlBody": "Hey <br/><br/>, I like the app, but this error pops up for me: <br/>",
+        "button": "Send error report"
+    },
+    "globalErrorBoundary": {
+        "title": "Sorry, we couldn't display the app properly.",
+        "descriptionLine1": "Something critical went wrong, you need to reopen this dialogue. If this happens frequently, you can try logging out and removing all instances to reset Outlook Email for Jira.",
+        "descriptionLine2": "If this doesn't solve your issue, we'll be happy to help you solve it if you send us the error details below."
+    },
     "fieldErrorBoundary": {
         "errorMessage": "Sorry, we couldn't render this field correctly and it will not be sent to Jira.",
         "reportInstruction": "Please report what type of field it is"
