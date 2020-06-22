@@ -345,7 +345,8 @@
         "allIssues": "Alle Vorgänge",
         "searchResultFor": "Suchergebnis für",
         "goToIssueChooser": "Erweiterte Suche",
-        "placeholder": "Select an issue"
+        "noOptionsMessage": "Keine Vorgänge gefunden - Du kannst es auch mit einer Wildcard * probieren",
+        "placeholder": "Wähle einen Vorgang"
     },
     "epicField": {
         "suggestions": "Vorgeschlagen",

@@ -345,6 +345,7 @@
         "allIssues": "All Issues",
         "searchResultFor": "Search result for",
         "goToIssueChooser": "Advanced Search",
+        "noOptionsMessage": "No issues found - try searching with a wildcard *",
         "placeholder": "Select an issue"
     },
     "epicField": {
