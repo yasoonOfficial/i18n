@@ -146,7 +146,7 @@
     },
     "feedBackButton": {
         "subject": "Feedback zu Outlook Email for Jira",
-        "htmlBody": "Hey <br/><br/>, ich mag die App, aber es gibt mindestens eine Sache, die ihr besser machen könnt: <br/>",
+        "htmlBody": "Hey, <br/><br/> ich mag die App, aber es gibt mindestens eine Sache, die ihr besser machen könnt: <br/>",
         "button": "Feedback absenden"
     },
     "globalErrorBoundary": {
