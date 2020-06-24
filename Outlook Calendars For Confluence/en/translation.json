@@ -187,12 +187,6 @@
         "errorWhileSavingLozonge": "Error while saving",
         "errorWhileSavingFlagTitle": "Error while saving settings"
     },
-    "atlassianConnect.personalCalendar": "Personal Calendar",
-    "atlassianConnect.spaceCalendar": "Space Calendar",
-    "atlassianConnect.calendarConfiguration": "Configure Calendars",
-    "atlassianConnect.configureOutlookCalendars": "Configure Outlook Calendars",
-    "atlassianConnect.outlookCalendar": "Outlook Calendar",
-    "atlassianConnect.pageCalendarSettings": "Page Calendar Settings",
     "enableLoggingModal": {
         "heading": "Enable Support Logging",
         "acceptButtonLabel": "Accept",
@@ -225,6 +219,7 @@
         "sharedMailboxesLabel": "Calendar name",
         "addToOutlookLabel": "Add calendar to Outlook",
         "o365GroupsHeading": "Outlook Groups",
+        "o365GroupsLabel": "Outlook Groups",
         "o365GroupNamePlaceholder": "Please enter the name of an Outlook-Group",
         "o365GroupDescriptionPlaceholder": "Please enter a description",
         "o365GroupDescriptionLabel": "Outlook-Group name",

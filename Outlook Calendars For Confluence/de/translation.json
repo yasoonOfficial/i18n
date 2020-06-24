@@ -201,8 +201,7 @@
         "resolveOfficeLoginProblemLabel": "Login-Problem beheben",
         "addToOutlookLabel": "Zu Outlook hinzufügen",
         "editJiraCalendarLabel": "Bearbeiten",
-        "removeCalendarLabel": "Löschen",
-        "chooseIconLabel": "Symbol wählen"
+        "removeCalendarLabel": "Löschen"
     },
     "colorMenu": {
         "chooseColorLabel": "Wähle eine Farbe"
@@ -358,6 +357,9 @@
         "endDateOptionLabel": "Enddatum",
         "startDateOptionLabel": "Startdatum",
         "sprintName": "Sprints von {{sprintName}}"
+    },
+    "iconMenu": {
+        "chooseIconLabel": "Symbol wählen"
     },
     "calendarUtil": {
         "noCategorySpecifiedErrorText": "Keine Kategorie angegeben",
@@ -600,15 +602,15 @@
         "occurences": "vorkommen",
         "startsOnText": "Beginnt am ",
         "endsText": "Endet",
-        "daysText": "tag",
+        "daysText": "Tag(e)",
         "everyDayLabel": "Jeder",
         "everyWeekdayLabel": "Jeder Wochentag",
         "reccurEveryText": "Wiederhole alle",
-        "weeksText": "Wochen",
+        "weeksText": "Woche(n)",
         "onText": "am",
         "ofEveryText": "alle",
-        "monthText": "Monate",
-        "yearsText": "Jahre",
+        "monthText": "Monat(e)",
+        "yearsText": "Jahr(e)",
         "everyText": "alle",
         "absoluteMonthlyLabel": "Der",
         "relativeMonthlyLabel": "Am",
