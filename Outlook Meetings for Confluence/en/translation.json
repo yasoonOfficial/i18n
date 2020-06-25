@@ -5,7 +5,7 @@
 	"addInstanceScreen": {
 		"heading": "Connect to Confluence",
 		"subHeading": "Please provide the address you use to access Confluence.",
-		"confluenceUrlLabel": "Confluence Url",
+		"confluenceUrlLabel": "Confluence Url (with http:// or https://)",
 		"confluenceUrlPlaceholder": "e.g. https://acme.atlassian.net",
 		"aggreementMessage": "With continue, you agree to our {link1} and {link2}.",
 		"termsOfService": "Terms of Service",

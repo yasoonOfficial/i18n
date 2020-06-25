@@ -5,7 +5,7 @@
 	"addInstanceScreen": {
 		"heading": "Mit Confluence verbinden",
 		"subHeading": "Bitte gib die Url an, die du für den Zugriff auf Confluence verwendest.",
-		"confluenceUrlLabel": "Confluence Url",
+		"confluenceUrlLabel": "Confluence Url (mit http:// oder https://)",
 		"confluenceUrlPlaceholder": "z.B. https://acme.atlassian.net",
 		"aggreementMessage": "Mit Klick auf 'Weiter', stimmen Sie unseren {link1} und der {link2} zu.",
 		"termsOfService": "AGBs",
