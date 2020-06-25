@@ -48,7 +48,8 @@
 		"serverAppNotConfigured": "Your Confluence Administrator hasn't configured our app yet. To continue please contact your Confluence administrator!",
 		"serverAppNotConfiguredTitle": "The Confluence App hasn't been configured",
 		"serverNotPublicOrBadBaseUrl": "Our backend-server was not able to reach your Confluence system. Either there is a typo in the url, or the confluence System is not public reachable",
-		"serverNotPublicOrBadBaseUrlTitle": "Confluence system not reachable"
+		"serverNotPublicOrBadBaseUrlTitle": "Confluence system not reachable",
+		"couldNotCreateInstance": "Unfortunately we could not create the instance automatically. Please enter the publicly available Confluence Url on the right."
 	},
 	"basicLogin": {
 		"heading": "Connect to Confluence",
