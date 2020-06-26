@@ -48,7 +48,11 @@
 		"serverAppNotConfiguredTitle": "Die Confluence App wurde noch nicht konfiguriert",
 		"serverNotPublicOrBadBaseUrl": "Unser Backend-Server konnte das Confluence System nicht erreichen. Entweder hat sich ein Tippfehler in die Url eingeschlichen, oder es handelt sich um ein Confluence Server System, das aus dem Internet nicht erreichbar ist",
 		"serverNotPublicOrBadBaseUrlTitle": "Confluence System nicht erreichbar",
-		"couldNotCreateInstance": "Wir konnten die Instanz leider nicht automatisch anlegen. Bitte trage rechts die öffentlich erreichbare Confluence Url ein."
+		"couldNotCreateInstance": "Wir konnten die Instanz leider nicht automatisch anlegen. Bitte trage rechts die öffentlich erreichbare Confluence Url ein.",
+		"webhookCloudFailedTitle":"Ein Fehler ist aufgetreten",
+		"webhookCloudFailedDescription":"Die Seite konnte nicht angelegt werden",
+		"webhookServerFailedTitle":"Ein Fehler ist aufgetreten",
+		"webhookServerFailedDescription":"Die Seite konnte nicht angelegt werden"
 	},
 	"basicLogin": {
 		"heading": "Mit Confluence verbinde",
