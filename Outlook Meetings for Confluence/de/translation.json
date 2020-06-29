@@ -8,8 +8,6 @@
 		"confluenceUrlLabel": "Confluence Url (mit http:// oder https://)",
 		"confluenceUrlPlaceholder": "z.B. https://acme.atlassian.net",
 		"aggreementMessage": "Mit Klick auf 'Weiter', stimmen Sie unseren {link1} und der {link2} zu.",
-		"termsOfService": "AGBs",
-		"privacyPolicy": "Datenschutzerklärung",
 		"whereDoIFindThis": "Wo finde ich diese?",
 		"continue": "Weiter",
 		"login": "Anmelden",
@@ -26,7 +24,9 @@
 		"notSureButtonLabel": "Nicht sicher"
 	},
 	"link": {
-		"atlassianMarketplace": "Atlassian Marketplace"
+		"atlassianMarketplace": "Atlassian Marketplace",
+		"termsOfService": "AGBs",
+		"privacyPolicy": "Datenschutzerklärung"
 	},
 	"errorMessages": {
 		"cannontConnectYasoonTitle": "Keine Verbindung zu yasoon.com möglich",

@@ -8,8 +8,6 @@
 		"confluenceUrlLabel": "Confluence Url (with http:// or https://)",
 		"confluenceUrlPlaceholder": "e.g. https://acme.atlassian.net",
 		"aggreementMessage": "With continue, you agree to our {link1} and {link2}.",
-		"termsOfService": "Terms of Service",
-		"privacyPolicy": "Privacy Policy",
 		"whereDoIFindThis": "Where do I find this?",
 		"continue": "Continue",
 		"login": "Login",
@@ -27,12 +25,13 @@
 	},
 	"link": {
 		"atlassianMarketplace": "Atlassian Marketplace",
-		"contactSupport": "contact our support"
+		"termsOfService": "Terms of Service",
+		"privacyPolicy": "Privacy Policy"
 	},
 	"errorMessages": {
 		"cannontConnectYasoonTitle": "Cannot connect to yasoon.com",
 		"cannontConnectYasoonDescription": "We couldn't connect to our backend server at *.yasoon.com. This might be caused by a restrictive firewall. Please make sure to add (or ask your IT to add) yasoon.com to the whitelist",
-		"confluenceAppNotInstalledTitle": "Confluence app not found",
+		"serverAppNotInstalledTitle": "Confluence App not found",
 		"cannotConnectConfluenceTitle": "Cannot connect to Confluence",
 		"notifyForServerVersionTitle": "Confluence Server",
 		"notifyForServerVersionDescription": "We currently only support Confluence Cloud instances. Get a notification when the app is available for Confluence Server",
@@ -43,17 +42,17 @@
 		"invalidUserDescription": "You can't use the app as an anonymous user.",
 		"errorDuringLoginTitle": "Invalid credentials",
 		"errorDuringLoginDescription": "Please check your credentials and try again. If this issue persists contact your Confluence Admin and make sure Basic Auth is enabled.",
-		"missingConfluenceApp": "We couldn't find the corosponding app on your Confluence instance. You can download the app in the {link}.",
+		"serverAppNotInstalled": "Sorry, we coudln't find our app on the Confluence System. You can get the app over at the {link}",
 		"cloudAppNotInstalled": "We coudln't find our app with the given Confluence url. Please check, if the app is installed",
 		"serverAppNotConfigured": "Your Confluence Administrator hasn't configured our app yet. To continue please contact your Confluence administrator!",
 		"serverAppNotConfiguredTitle": "The Confluence App hasn't been configured",
 		"serverNotPublicOrBadBaseUrl": "Our backend-server was not able to reach your Confluence system. Either there is a typo in the url, or the confluence System is not public reachable",
 		"serverNotPublicOrBadBaseUrlTitle": "Confluence system not reachable",
 		"couldNotCreateInstance": "Unfortunately we could not create the instance automatically. Please enter the publicly available Confluence Url on the right.",
-		"webhookCloudFailedTitle":"An error occurred",
-		"webhookCloudFailedDescription":"The page couldn't be created",
-		"webhookServerFailedTitle":"An error occurred",
-		"webhookServerFailedDescription":"The page couldn't be created"
+		"webhookCloudFailedTitle": "An error occurred",
+		"webhookCloudFailedDescription": "The page couldn't be created",
+		"webhookServerFailedTitle": "An error occurred",
+		"webhookServerFailedDescription": "The page couldn't be created"
 	},
 	"basicLogin": {
 		"heading": "Connect to Confluence",
@@ -153,8 +152,7 @@
 	"templatesModel": {
 		"availableTemplates": "Available Templates",
 		"defaultTemplates": "Default Template",
-		"recentTemplates": "Recent Templates",
-		"noOptionsMessage": "No templates available"
+		"recentTemplates": "Recent Templates"
 	},
 	"agendaItem": {
 		"addTitle": "Add a title..."
@@ -167,7 +165,7 @@
 		"collapsedPlaceholder": "Click to edit the page description"
 	},
 	"instanceSettings": {
-		"": "You are logged in as",
+		"loggedInAs": "You are logged in as",
 		"currentlyNotLoggedIn": "You are currently not logged in.",
 		"logout": "Logout",
 		"login": "Login"
@@ -189,7 +187,8 @@
 	"templates": {
 		"loadingMessage": "Loading Templates",
 		"availableTemplates": "Available Templates",
-		"selectTemplate": "Select an Template"
+		"selectTemplate": "Select an Template",
+		"noOptionsMessage": "No templates available"
 	},
 	"templateTable": {
 		"preconfiguredTemplates": "Preconfigured Templates",
