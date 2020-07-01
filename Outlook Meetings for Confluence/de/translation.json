@@ -39,7 +39,7 @@
 		"invalidCredentialsTitle": "Ungültige Anmeldedaten",
 		"invalidCredentialsDescription": "Bitte überprüfen deine Anmeldedaten und versuche es erneut. Wenn dieses Problem weiterhin besteht, wende dich an deinen Confluence-Admin und stelle sicher, dass Basic Auth aktiviert ist.",
 		"invalidUserTitle": "Ungültiger benutzer",
-		"invalidUserDescription": "Die Anwendung kann nicht nicht mit anonymen Benutzern verwendet werden.",
+		"invalidUserDescription": "Die Anwendung kann nicht nicht mit anonymen Benutzern verwendet werden",
 		"errorDuringLoginTitle": "Ungültige Anmeldedaten",
 		"errorDuringLoginDescription": "Bitte überprüfe deine Anmeldedaten und versuche es erneut. Wenn dieses Problem weiterhin besteht, wende dich an deinen Confluence-Admin und stelle sicher, dass Basic Auth aktiviert ist.",
 		"serverAppNotInstalled": "Leider konnten wir unsere App nicht auf dem Confluence System finden. Du kannst die App aber über den {link} installieren.",
