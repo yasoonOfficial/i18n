@@ -52,7 +52,9 @@
 		"webhookCloudFailedTitle": "An error occurred",
 		"webhookCloudFailedDescription": "The page couldn't be created",
 		"webhookServerFailedTitle": "An error occurred",
-		"webhookServerFailedDescription": "The page couldn't be created"
+		"webhookServerFailedDescription": "The page couldn't be created",
+		"dialogVanishedTitle":"Popup closed",
+		"dialogVanishedDescription":"Please execute the login in the opened popup."
 	},
 	"basicLogin": {
 		"heading": "Connect to Confluence",
