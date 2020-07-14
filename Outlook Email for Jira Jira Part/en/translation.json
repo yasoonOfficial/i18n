@@ -1,0 +1,40 @@
+{
+    "settingsScreen": {
+        "appSettingsTabHeading": "App Settings",
+        "jiraLoginTabHeading": "Jira Login",
+        "aboutTabHeading": "About",
+        "settingsHeader": "Settings",
+        "back": "Back",
+        "generalSettingsHeading": "General Settings",
+        "language": "Language",
+        "languageSelectPlaceholder": "Select...",
+        "remoteDebug": "Record screen (for remote debug purposes)",
+        "createAddIssueHeading": "Issue Dialog Settings",
+        "addAttachmentsByDefault": "Select all attachments by default",
+        "addEmailAsFile": "Select / upload email (.msg) by default",
+        "preselectProjectIssueType": "Preselect last used project and issuetype",
+        "showServiceDeksPortalFields": "Show tab 'Portal Fields' for Jira Service Desk projects",
+        "addMailInformation": "Add Mail Information to description",
+        "includeAttachments": "Include Attachments",
+        "includeSubject": "Include Subject",
+        "createIssueSuccessScreenEnabled": "Show success screen after creating an issue",
+        "oldEditor": "Disable WYSIWYG Editor and use markup instead",
+        "autoRefreshFeed": "Refresh feed automatically"
+    },
+    "technicalSettingsTab": {
+        "privacyHeading": "Privacy Settings",
+        "remoteDebug": "Allow Recording of the screen for debug purposes",
+        "bugReporting": "Allow Sending of bug reports",
+        "performanceHeading": "Performance Settings",
+        "autoRefreshFeed": "Allow automatically refreshing feed"
+    },
+    "actions": {
+        "save": "Save",
+        "cancel": "Cancel",
+        "resetToDefault": "Reset to default"
+    },
+    "emptyState": {
+        "noAdminEmptyState": "You need admin permissions to view this page"
+    }
+
+}

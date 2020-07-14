@@ -1,0 +1,39 @@
+{
+    "settingsScreen": {
+        "appSettingsTabHeading": "Einstellungen",
+        "jiraLoginTabHeading": "Jira Konto",
+        "aboutTabHeading": "Über",
+        "settingsHeader": "Einstellungen",
+        "back": "Zurück",
+        "generalSettingsHeading": "Allgemeine Einstellungen",
+        "language": "Sprache",
+        "languageSelectPlaceholder": "Auswählen...",
+        "remoteDebug": "Bildschirm aufnehmen (für Support)",
+        "createAddIssueHeading": "Vorgangs Popup Einstellungen",
+        "addAttachmentsByDefault": "Alle Anhänge vorselektieren",
+        "addEmailAsFile": "Email (.msg) Anhang vorselektieren",
+        "preselectProjectIssueType": "Zuletzt verwendetes Projekt und Vorgangstyp vorselektieren",
+        "showServiceDeksPortalFields": "Den Reiter 'Portalfelder' für Jira Service Desk Projekte anzeigen",
+        "addMailInformation": "Füge Email Informationen zur Beschreibung hinzu",
+        "includeAttachments": "Anhänge einbeziehen",
+        "includeSubject": "Beschreibung einbeziehen",
+        "createIssueSuccessScreenEnabled": "Nach dem Erstellen eines Vorgangs Erfolgsdialog anzeigen",
+        "oldEditor": "Den WYSIWYG Editor deaktivieren und stattdessen Markup verwenden",
+        "autoRefreshFeed": "Feed automatisch aktualisieren"
+    },
+    "technicalSettingsTab": {
+        "privacyHeading": "Privatsphäreeinstellungen",
+        "remoteDebug": "Das Aufnehmen des Bildschirms für Remote-Debugging erlauben",
+        "bugReporting": "Das Senden von Fehlerberichten erlauben",
+        "performanceHeading": "Leistungseinstellungen",
+        "autoRefreshFeed": "Das automatische Erneuern des Feeds erlauben"
+    },
+    "actions": {
+        "save": "Speichern",
+        "cancel": "Abbrechen",
+        "resetToDefault": "Auf Werkseinstellungen zurücksetzen"
+    },
+    "emptyState": {
+        "noAdminEmptyState": "Du brauchst Adminberechtigungen, um diese Seite sehen zu können"
+    }
+}
