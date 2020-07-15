@@ -424,6 +424,7 @@
         "eventTime": "Zeit",
         "attendeesFromOpenCalendarsTooltip": "Teilnehmer aus aktuell geöffneten Kalendern hinzufügen",
         "moreDetailsButton": "Weitere Optionen",
+        "createOnlineMeeting": "Teams Besprechung",
         "discardButton": "Verwerfen"
     },
     "officeCategoryPicker": {

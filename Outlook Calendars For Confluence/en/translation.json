@@ -424,6 +424,7 @@
         "eventTime": "Event Time",
         "attendeesFromOpenCalendarsTooltip": "Add attendees from currently opened calendars",
         "moreDetailsButton": "More Details",
+        "createOnlineMeeting": "Teams meeting",
         "discardButton": "Discard"
     },
     "officeCategoryPicker": {
