@@ -32,7 +32,7 @@
 		"cannontConnectYasoonTitle": "Keine Verbindung zu yasoon.com möglich",
 		"cannontConnectYasoonDescription": "Wir konnten keine Verbindung zu unserem Backend-Server unter *.yasoon.com herstellen. Dies könnte durch eine restriktive Firewall verursacht werden. Bitte füge yasoon.com zur Whitelist hinzu (oder bitte deine IT-Abteilung, yasoon.com in die Liste aufzunehmen).",
 		"serverAppNotInstalledTitle": "Confluence App nicht gefunden",
-		"cannotConnectConfluenceTitle": "Keine Verbindung zu Conlfuence möglich",
+		"cannotConnectConfluenceTitle": "Keine Verbindung zu Confluence möglich",
 		"notifyForServerVersionTitle": "Confluence Server",
 		"notifyForServerVersionDescription": "Wir unterstützen derzeit nur Confluence-Cloud-Instanzen. Benachrichtige mich, wenn die App für Confluence Server verfügbar ist.",
 		"notifyButton": "Notify me",
