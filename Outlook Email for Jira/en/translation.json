@@ -55,6 +55,7 @@
         "language": "Language",
         "languageSelectPlaceholder": "Select...",
         "remoteDebug": "Record screen (for remote debug purposes)",
+        "remoteDebugDeactivated": "Record screen (for remote debug purposes) (disabled by your Jira admin)",
         "createAddIssueHeading": "Issue Dialog Settings",
         "addAttachmentsByDefault": "Select all attachments by default",
         "addEmailAsFile": "Select / upload email (.msg) by default",

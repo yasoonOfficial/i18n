@@ -55,6 +55,7 @@
         "language": "Sprache",
         "languageSelectPlaceholder": "Auswählen...",
         "remoteDebug": "Bildschirm aufnehmen (für Support)",
+        "remoteDebugDeactivated": "Bildschirm aufnehmen (für Support) (vom Jira-Admin gesperrt)",
         "createAddIssueHeading": "Vorgangs Popup Einstellungen",
         "addAttachmentsByDefault": "Alle Anhänge vorselektieren",
         "addEmailAsFile": "Email (.msg) Anhang vorselektieren",
