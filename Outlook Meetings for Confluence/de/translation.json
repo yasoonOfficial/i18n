@@ -205,7 +205,7 @@
 		"outlookAddinDescription": "Das entsprechende Outlook-Add-In kann im Microsoft AppSource-Store heruntergeladen werden, klicke einfach auf den folgenden Link. Wenn du Hilfe bei der Einführung des Add-Ins in deinem Unternehmen benötigst, helfen wir dir gerne weiter.",
 		"getOfficeApp": "Von AppSource beziehen",
 		"templateTitle": "Vorlagen",
-		"templatesDescription": "Zusätzlich zu der mitgelieferten Seitenvorlage können auch neue Vorlagen für Besprechungsnotizen erstellt werden oder vorhandenen bearbeitet werden. Hinweis: Damit die App korrekt funktioniert, muss die Vorlage das mitgelieferte Makro 'Meeting Agenda Makro', {{Attendees}} und {{{Date}}} enthalten.",
+		"templatesDescription": "Zusätzlich zu der mitgelieferten Seitenvorlage können auch neue Vorlagen für Besprechungsnotizen erstellt werden oder vorhandenen bearbeitet werden. Hinweis: Damit die App korrekt funktioniert, muss die Vorlage das mitgelieferte Makro 'Meeting Agenda Makro', {{attendees}} und {{{date}}} enthalten.",
 		"helpTitle": "Hilfe",
 		"helpDescription": "Wenn du weitere Hilfe benötigst oder Fragen hast, findest du weitere Informationen in unserer Dokumentation. Für Feedback oder Bugs in unserer App erstelle bitte ein Support-Ticket.",
 		"goToDocumentation": "Zur Dokumentation",
