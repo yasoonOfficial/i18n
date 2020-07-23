@@ -7,7 +7,7 @@
 		"subHeading": "Bitte gib die Url an, die du für den Zugriff auf Confluence verwendest.",
 		"confluenceUrlLabel": "Confluence Url (mit http:// oder https://)",
 		"confluenceUrlPlaceholder": "z.B. https://acme.atlassian.net",
-		"aggreementMessage": "Mit Klick auf 'Weiter', stimmen Sie unseren {link1} und der {link2} zu.",
+		"aggreementMessage": "Mit 'Weiter', stimmst du unseren {link1} und der {link2} zu.",
 		"whereDoIFindThis": "Wo finde ich diese?",
 		"continue": "Weiter",
 		"login": "Anmelden",
@@ -44,7 +44,7 @@
 		"errorDuringLoginDescription": "Bitte überprüfe deine Anmeldedaten und versuche es erneut. Wenn dieses Problem weiterhin besteht, wende dich an deinen Confluence-Admin und stelle sicher, dass Basic Auth aktiviert ist.",
 		"serverAppNotInstalled": "Leider konnten wir unsere App nicht auf dem Confluence System finden. Du kannst die App aber über den {link} installieren.",
 		"cloudAppNotInstalled": "Wir konnten unsere App leider nicht auf dem angegebenen Confluence Cloud System finden. Bitte überprüfe ob unsere App installiert ist",
-		"serverAppNotConfigured": "Der Confluence Administrator hat die App noch nicht konfiguriert. Um fortzufahren, kontaktieren Sie bitte ihren Confluence Administrator!",
+		"serverAppNotConfigured": "Der Confluence Administrator hat die App noch nicht konfiguriert. Um fortzufahren, kontaktiere bitte deinen Administrator!",
 		"serverAppNotConfiguredTitle": "Die Confluence App wurde noch nicht konfiguriert",
 		"serverNotPublicOrBadBaseUrl": "Unser Backend-Server konnte das Confluence System nicht erreichen. Entweder hat sich ein Tippfehler in die Url eingeschlichen, oder es handelt sich um ein Confluence Server System, das aus dem Internet nicht erreichbar ist",
 		"serverNotPublicOrBadBaseUrlTitle": "Confluence System nicht erreichbar",
@@ -94,8 +94,8 @@
 	},
 	"initalPageSelection": {
 		"heading": "Wähle den Ort für die Besprechungsnotizen aus",
-		"description": "Es ist nur noch ein kleiner Schritt bis zur deiner ersten Confluence Meeting Seite, direkt aus deinem Outlook. Bitte wählen zuerst den Ort aus, an dem du die Besprechungsnotizen erstellen möchtest. Du kannst diesen später nachträglich ändern.",
-		"needHelp": "Brauchst du hilfe?"
+		"description": "Es ist nur noch ein kleiner Schritt bis zur deiner ersten Confluence Meeting Seite, direkt aus deinem Outlook. Bitte wählen zuerst den Ort aus, an dem du die Besprechungsnotizen erstellen möchtest. Du kannst diesen nachträglich ändern.",
+		"needHelp": "Brauchst du Hilfe?"
 	},
 	"meetingAgenda": {
 		"heading": "Agenda",
@@ -106,8 +106,8 @@
 		"totalDuration": "Summe: "
 	},
 	"noConfluencePage": {
-		"heading": "Keine Zugehörige Seite mit Besprechungsnotizen gefunden",
-		"description": "Es wurde keine zugehörige Confluence-Seite gefunden. Wenn du der Organisator bist, kannst du im Bearbeitungmodus der Meetings eine Agenda hinzufügen.",
+		"heading": "Keine zugehörige Seite mit Besprechungsnotizen gefunden",
+		"description": "Es wurde keine zugehörige Confluence Seite gefunden. Wenn du der Organisator bist, kannst du im Bearbeitungmodus der Meetings eine Agenda hinzufügen.",
 		"needHelp": "Brauchst du Hilfe?",
 		"createButton": "Seite Erstellen"
 	},
@@ -144,9 +144,9 @@
 	},
 	"welcomeScreen": {
 		"heading": "Willkommen bei Outlook Meetings for Confluence",
-		"createConfluencePage": "Erstellen eine Confluence Seite Besprechungsnotizen für dein Outlook Meeting.",
-		"planMeetingAgenda": "Planen die Agenda eines Meetings direkt in Outlook. Du kannst ganz einfach Tagesordnungspunkte, Dauer und Sprecher hinzufügen",
-		"collaborativelyAddAndChangeAgenda": "Gemeinsames hinzufügen und ändern von Gesprächspunkten mit Ihrem Team direkt in Outlook",
+		"createConfluencePage": "Erstelle eine Confluence Seite mit Besprechungsnotizen für dein Outlook Meeting.",
+		"planMeetingAgenda": "Plane die Agenda eines Meetings direkt in Outlook. Du kannst ganz einfach Tagesordnungspunkte, Dauer und Sprecher hinzufügen.",
+		"collaborativelyAddAndChangeAgenda": "Gemeinsames editieren von Gesprächspunkten mit deinem Team direkt in Outlook.",
 		"startNow": "Starte jetzt!",
 		"aboutTheApp": "Über die app",
 		"aboutYasoon": "Über yasoon"
@@ -217,7 +217,7 @@
 		"publicBaseUrl": "Öffentliche Base Url",
 		"externalServerUID": "Externe Server ID",
 		"connectivityTitle": "Connectivity",
-		"confirmModalText": "Wenn Sie die Public Base Url ändern, werden alle Benutzer aus der Instanz ausgeloggt.",
+		"confirmModalText": "Wenn du die Public Base Url ändern, werden alle Benutzer aus der Instanz ausgeloggt.",
 		"confirmModalHeading": "Achtung 👋",
 		"connectPublicUrlButton": "Verbinden",
 		"applyButton": "Anwenden",
@@ -225,7 +225,7 @@
 		"loadingFlagButton": "Dauert es zu lange?",
 		"loadingHeader": "Wir ermitteln gerade, ob die App ordnungsgemäß funktioniert.",
 		"loadingMessage": "Lehn dich zurück und lass uns die Arbeit machen, oder hol dir einen Kaffee ☕️",
-		"publicUrlTooltip": "Dies ist die öffentlich erreichbare URL Ihrer Confluence Server-Instanz."
+		"publicUrlTooltip": "Dies ist die öffentlich erreichbare URL deiner Confluence Server-Instanz."
 	},
 	"meetingAgendaMacro": {
 		"title": "Titel",
@@ -237,7 +237,7 @@
 		"documentationLink": " schaue in unserer Dokumentation nach."
 	},
 	"license": {
-		"expiredMessage": "Ihre Lizenz ist abgelaufen"
+		"expiredMessage": "Deine Lizenz ist abgelaufen"
 	},
 	"templatePlaceholder": {
 		"description": "Dies ist ein Platzhalter, du brauchst diesen nicht konfigurieren",
