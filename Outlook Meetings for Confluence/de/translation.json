@@ -243,5 +243,15 @@
 		"description": "Dies ist ein Platzhalter, du brauchst diesen nicht konfigurieren",
 		"heading": "Du bist fertig",
 		"helpText": "Du brauchst hilfe?"
+	},
+	"instanceChooser": {
+		"heading": "Confluence System",
+		"subHeading": "Bitte wähle das Confluence System aus gegen das wir dich verbinden sollen.",
+		"selectPlaceholder": "Conflence System auswählen",
+		"applyButtonLabel": "Weiter",
+		"helpButton": "Hilfe",
+		"helpPlaceholder": "Mein System wird nicht angezeigt",
+		"instanceHelpLabel": "Hilfe",
+		"instanceOptionsLabel": "Instanzen"
 	}
 }

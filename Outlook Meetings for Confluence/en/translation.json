@@ -243,5 +243,15 @@
 		"description": "This is a placeholder you don't need to configure it.",
 		"heading": "You are all set.",
 		"helpText": "Need help?"
+	},
+	"instanceChooser": {
+		"heading": "Confluence Instance",
+		"subHeading": "Please select the Confluence Instance you would like to connect to.",
+		"selectPlaceholder": "Select Confluence Instance",
+		"applyButtonLabel": "Apply",
+		"helpButton": "Need help",
+		"helpPlaceholder": "My instance is not displayed",
+		"instanceHelpLabel": "Help",
+		"instanceOptionsLabel": "Instances"
 	}
 }
