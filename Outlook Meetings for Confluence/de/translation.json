@@ -247,11 +247,9 @@
 	"instanceChooser": {
 		"heading": "Confluence System",
 		"subHeading": "Bitte wähle das Confluence System aus gegen das wir dich verbinden sollen.",
-		"selectPlaceholder": "Conflence System auswählen",
-		"applyButtonLabel": "Weiter",
-		"helpButton": "Hilfe",
-		"helpPlaceholder": "Mein System wird nicht angezeigt",
-		"instanceHelpLabel": "Hilfe",
-		"instanceOptionsLabel": "Instanzen"
+		"instanceLabel": "Conflence System auswählen",
+		"addInstanceButton": "Weitere hinzufügen",
+		"disabledTooltip": "Bitte installiere die entsprechende Confluence app",
+		"activeTooltip": "Zum Verbinden klicken"
 	}
 }

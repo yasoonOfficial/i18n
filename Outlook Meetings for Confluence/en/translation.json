@@ -247,11 +247,9 @@
 	"instanceChooser": {
 		"heading": "Confluence Instance",
 		"subHeading": "Please select the Confluence Instance you would like to connect to.",
-		"selectPlaceholder": "Select Confluence Instance",
-		"applyButtonLabel": "Apply",
-		"helpButton": "Need help",
-		"helpPlaceholder": "My instance is not displayed",
-		"instanceHelpLabel": "Help",
-		"instanceOptionsLabel": "Instances"
+		"instanceLabel": "Select Confluence Instance",
+		"addInstanceButton": "Add another",
+		"disabledTooltip": "Please install the corresponding Confluence app first.",
+		"activeTooltip": "Click to connect"
 	}
 }

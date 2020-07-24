@@ -766,7 +766,7 @@
         "youAreHere": "Du bist hier!",
         "personalCalendar": "Der persönliche Kalender ist der Ort für alle Outlook-Kalender, die für dich wichtig sind. Nur du kannst auf diese Kalenderansicht zugreifen.",
         "spaceCalendar": "Der Bereichskalender ist für jeden Bereich anders. Es ist der perfekte Ort, um alle für das Projekt relevanten Kalender anzuzeigen.",
-        "macroCalendar": "Verwende das Kalendermakro zum Einbetten von Outlook-Kalendern auf jeder beliebigen Confluence-Seite.",
+        "macroCalendar": "Verwende das Kalendermakro zum Einbetten von Outlook-Kalendern auf jeder beliebigen Confluence Seite.",
         "openCalendars": "Du kannst ganz einfach persönliche oder gemeinsam genutzte Outlook-Kalender öffnen. Zusätzlich können Jira- oder Trello-Daten überlagert werden. Gib deinem Team den bestmöglichen Überblick jedes Projekt zu planen und durchzuführen.",
         "createEvents": "Es können persönliche oder gemeinsame Outlook-Termine erstellt und bestehende Termine bearbeitet werden. So kannst du selbst in großen Teams problemlos Termine planen.",
         "previousButton": "Zurück",
