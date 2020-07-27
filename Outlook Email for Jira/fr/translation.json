@@ -4,11 +4,11 @@
         "senderTab": "Expéditeur",
         "conversationTab": "Conversation",
         "emptyConversationHeading": "Créer un nouveau ticket",
-        "emptyConversationDescription": "Aucun ticket n'est associé au mail ou á la conversation",
+        "emptyConversationDescription": "Aucun ticket n'est associé au mail ou à la conversation",
         "createIssueButton": "Créer un nouveau ticket",
-        "addIssueButton": "Associer á un ticket",
+        "addIssueButton": "Associer à un ticket",
         "emptySenderDescription": "Nous n'avons pas trouvé de ticket pour l'expéditeur d'après l'adresse mail indiquée",
-        "emptySenderHeading": "Aucuns tickets trouvés",
+        "emptySenderHeading": "Aucun tickets trouvés",
         "attachments": "Pièces-jointes",
         "noAttachments": "Aucune pièce-jointe pour l'instant! 💾",
         "addCommentPlaceholder": "Ajouter un commentaire",
@@ -21,8 +21,8 @@
         "showAllFields": "Afficher tous les champs",
         "showLessFields": "Afficher moins de champs",
         "moreSenderIssuesButton": "Plus de tickets",
-        "emptyFeedHeading": "Aucuns tickets trouvés",
-        "emptyFeedDescription": "Il n'y a aucuns tickets dans votre fil",
+        "emptyFeedHeading": "Aucun tickets trouvés",
+        "emptyFeedDescription": "Il n'y a aucun tickets dans votre fil",
         "refreshFeed": "Actualiser votre fil"
     },
     "showIssues": {
@@ -78,7 +78,7 @@
         "servicePortalTab": "Portail de services",
         "singleTab": "Tous les champs",
         "serviceDeskIssueTypeTooltip": "Utiliser le type de ticket",
-        "accountFieldPlaceholder": "Marqueur pour le champs compte",
+        "accountFieldPlaceholder": "Marqueur pour le champ compte",
         "existingIssuesButton": "Tickets existants",
         "existingIssuesHeading": "Cette conversation possède déjà des tickets",
         "goToInstancesList": "Afficher aperçu des instances",
@@ -94,7 +94,7 @@
         "noParticipantsFound": "Aucun utilisateur Jira trouvé dans le destinataire du mail"
     },
     "addToIssue": {
-        "headline": "Associer á un ticket",
+        "headline": "Associer à un ticket",
         "imageRemovedPlaceholder": "Image supprimée",
         "shareWithCustomerButton": "Partager avec le client",
         "commentInterallyButton": "Commenter en interne"
@@ -451,8 +451,8 @@
     "issueChooserScreen": {
         "singleHeadline": "Choisis un ticket á ajouter",
         "multiHeadline": "Choisis un ou plusieurs tickets á ajouter",
-        "noResultsHeadline": "Aucuns résultats",
-        "noResultsDescription": "Aucuns tickets trouvés d'après le filtre sélectionné",
+        "noResultsHeadline": "Aucun résultats",
+        "noResultsDescription": "Aucun tickets trouvés d'après le filtre sélectionné",
         "cancelButton": "Annuler",
         "addIssuesButton": "Ajouter les tickets sélectionnés",
         "addIssueButton": "Ajouter le ticket sélectionné"
