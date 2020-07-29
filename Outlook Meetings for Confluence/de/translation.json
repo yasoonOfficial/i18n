@@ -14,13 +14,14 @@
 		"tryAgain": "Erneut Versuchen",
 		"loginOAuth1aDescription": "Du kannst dich nun anmelden",
 		"loginOAuth1aHeading": "Startklar",
-		"cardLoginButton": "Los"
+		"cardLoginButton": "Los",
+		"backButton": "Zurück"
 	},
 	"loginScreen": {
 		"heading": "Mit Confluence verbinden",
 		"subHeading": "Bitte wählen dein Confluence System, oder lass uns es für dich ermitteln!",
 		"confluenceCloud": "Confluence Cloud",
-		"confluenceServerOrDC": "Confluence Server oder Data Center",
+		"confluenceServerOrDC": "Confluence Server",
 		"notSureButtonLabel": "Nicht sicher"
 	},
 	"link": {

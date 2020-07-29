@@ -14,13 +14,14 @@
 		"tryAgain": "Try Again",
 		"loginOAuth1aDescription": "Ready to Login",
 		"loginOAuth1aHeading": "Ready",
-		"cardLoginButton": "Go"
+		"cardLoginButton": "Go",
+		"backButton": "Back"
 	},
 	"loginScreen": {
 		"heading": "Connect to Confluence",
 		"subHeading": "Please choose your Confluence, or let us detect it for you!",
 		"confluenceCloud": "Confluence Cloud",
-		"confluenceServerOrDC": "Confluence Server or Data Center",
+		"confluenceServerOrDC": "Confluence Server",
 		"notSureButtonLabel": "Not sure"
 	},
 	"link": {
