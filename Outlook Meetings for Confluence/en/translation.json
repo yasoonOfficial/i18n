@@ -221,7 +221,7 @@
 		"confirmModalText": "Please enter the url under which your Confluence system is reachable from the internet. If you change the existing public base url of your system, all users will be logged out of the current instance.",
 		"confirmModalHeading": "Heads up 👋",
 		"connectPublicUrlButton": "Connect",
-		"applyButton": "Apply",
+		"applyButton": "Okay",
 		"cancelButton": "Cancel",
 		"loadingFlagButton": "Taking to long?",
 		"loadingHeader": "Checking if the app is functioning properly",
