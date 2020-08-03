@@ -66,7 +66,11 @@
         "includeSubject": "Include Subject",
         "createIssueSuccessScreenEnabled": "Show success screen after creating an issue",
         "oldEditor": "Disable WYSIWYG Editor and use markup instead",
-        "autoRefreshFeed": "Refresh feed automatically"
+        "autoRefreshFeed": "Refresh feed automatically",
+        "logRocketActiveMessage": "You activated screen recording for this session. You can disable this in the settings.",
+        "logRocketActiveTitle": "Screen recording active",
+        "logRocketChangedMessage": "You changed your screen recording setting. For this to become active you need to re-open this dialog",
+        "needReloadTitle": "Reload necessary"
     },
     "about": {
         "licenseHeading": "Licenses",

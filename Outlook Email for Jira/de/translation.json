@@ -66,7 +66,11 @@
         "includeSubject": "Beschreibung einbeziehen",
         "createIssueSuccessScreenEnabled": "Nach dem Erstellen eines Vorgangs Erfolgsdialog anzeigen",
         "oldEditor": "Den WYSIWYG Editor deaktivieren und stattdessen Markup verwenden",
-        "autoRefreshFeed": "Feed automatisch aktualisieren"
+        "autoRefreshFeed": "Feed automatisch aktualisieren",
+        "logRocketActiveMessage": "Für diese Sitzung ist die Bildschirmaufnahme aktiviert. Du kannst dies in den Einstellungen deaktivieren.",
+        "logRocketActiveTitle": "Bildschirmaufnahme aktiv",
+        "logRocketChangedMessage": "Du hast deine Bildschirmaufnahmeeinstellung geändert. Damit die Änderung wirksam wird, musst du diesen Dialog schließen und erneut öffnen.",
+        "needReloadTitle": "Erneutes Laden nötig"
     },
     "about": {
         "licenseHeading": "Lizenzen",
