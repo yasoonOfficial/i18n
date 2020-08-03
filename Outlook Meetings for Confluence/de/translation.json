@@ -141,6 +141,8 @@
 		"cancel": "Abbrechen",
 		"seetingTabLabel": "Einstellungen",
 		"registrationsTabLabel": "Confluence Konto",
+		"chooseLanguageLabel": "Spracheauswahl",
+		"languageSelectPlaceholder": "Bitte wähle deine Sprache",
 		"enableLogRocket": "Support logging aktiv"
 	},
 	"welcomeScreen": {
