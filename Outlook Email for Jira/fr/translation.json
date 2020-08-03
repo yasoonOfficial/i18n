@@ -12,7 +12,7 @@
         "attachments": "Pièces-jointes",
         "noAttachments": "Aucune pièce-jointe pour l'instant! 💾",
         "addCommentPlaceholder": "Ajouter un commentaire",
-        "writeCommentMotivation": "Soit le premier á commenter! 😊",
+        "writeCommentMotivation": "Soit le premier à commenter! 😊",
         "shareWithCustomer": "Commentaire visible par le client",
         "commentInterally": "Commenter en interne",
         "emailHasChanged": "L'email sélectionné a été modifié",
@@ -48,19 +48,19 @@
     "settingsScreen": {
         "appSettingsTabHeading": "Paramètres",
         "jiraLoginTabHeading": "Compte Jira",
-        "aboutTabHeading": "Á propos",
+        "aboutTabHeading": "À propos",
         "settingsHeader": "Paramètres",
         "back": "Retour",
         "generalSettingsHeading": "Paramètres généraux",
         "language": "Langue",
         "languageSelectPlaceholder": "Sélectionner...",
-        "remoteDebug": "Capture d'écran (pour aide á distance en cas de problème)",
+        "remoteDebug": "Capture d'écran (pour aide à distance en cas de problème)",
         "createAddIssueHeading": "Réglages pour fenêtre des tickets",
-        "addAttachmentsByDefault": "Sélectionner toutes les piéces-jointes",
+        "addAttachmentsByDefault": "Sélectionner toutes les pièces-jointes",
         "addEmailAsFile": "Sélectionner / télécharger l'email (.msg)",
         "preselectProjectIssueType": "Présélectionner le dernier projet et type de ticket utilisés",
         "showServiceDeksPortalFields": "Afficher l'onglet 'Portal Field' pour le Centre de Services Jira",
-        "addMailInformation": "Ajouter le mail á la description",
+        "addMailInformation": "Ajouter le mail à la description",
         "includeAttachments": "Inclure les pièces-jointes",
         "includeSubject": "Inclure la description",
         "createIssueSuccessScreenEnabled": "Afficher une fenêtre de confirmation après la création d'un ticket",
@@ -100,13 +100,13 @@
         "commentInterallyButton": "Commenter en interne"
     },
     "addInstance": {
-        "connectToJira": "Connecté á Jira",
-        "oAuthLoginDescription1": "Cliquer s'il vous plaît sur 'Login' pour continuer. Tu verras  ensuite une fenêtre s'ouvrir dans laquelle tu devras confirmer l'accès á Jira.",
+        "connectToJira": "Connecté à Jira",
+        "oAuthLoginDescription1": "Cliquer s'il vous plaît sur 'Login' pour continuer. Tu verras  ensuite une fenêtre s'ouvrir dans laquelle tu devras confirmer l'accès à Jira.",
         "oAuthLoginDescription2": "Cette page sera actualisée automatiquement après ta connexion.",
         "loginWithJiraHosting": "Se connecter avec Jira {{hosting}}",
-        "provideMailAddressMessage": "Indique s'il te plaît l'adresse utilisée pour te connecter á Jira.",
+        "provideMailAddressMessage": "Indique s'il te plaît l'adresse utilisée pour te connecter à Jira.",
         "exampleUrlPlaceholder": "e.g. https://acme.atlassian.net",
-        "provideUrlMessage": "Indique s'il te plaît l'adresse utilisée pour te connecter á Jira.",
+        "provideUrlMessage": "Indique s'il te plaît l'adresse utilisée pour te connecter à Jira.",
         "useInSharedMailboxTooltip": "Ne pas utiliser dans une 'boite mail partagée'",
         "whereDoIFindThis": "Où ça se trouve ?",
         "loginReminder": "Utiliser les données de connexion sur tous les appareils",
@@ -151,7 +151,7 @@
         "button": "Envoyer remarque"
     },
     "fieldErrorBoundary": {
-        "errorMessage": "Désolé, nous n'avons pas pu afficher ce champs correctement. Il ne sera pas envoyé á Jira.",
+        "errorMessage": "Désolé, nous n'avons pas pu afficher ce champs correctement. Il ne sera pas envoyé à Jira.",
         "reportInstruction": "Veuillez indiquer le type de champs"
     },
     "instanceSettings": {
@@ -161,23 +161,23 @@
         "notLoggedInMessage": "Tu n'es actuellement pas connecté(e).",
         "instancePickerPlaceholder": "Choisis une instance",
         "loginErrorDescription": "Une erreur est survenue lors de ta connexion :",
-        "loginErrorTitle": "Erreur lors de la connexion á Jira",
-        "yasoonConnectionErrorDescription": "Nous n'avons pas pu nous connecter au serveur *.yasoon.com. Cela peut être dû á un pare-feu. Tu peux continuer á utiliser l'addin mais il se peut que certaines fonctionnalités soient réduites. Si tu souhaites toutes les fonctionnalités, il faut que tu sois sûr(e) que yasoon.com n'ait pas été bloqué (tu peux demander á ton service IT)",
-        "yasoonConnectionErrorTitle": "Connexion á yasoon.com impossible",
-        "jiraConnectionErrorDescription": "Nous n'avons pas pu nous connecter á l'instance Jira. Dans un premier temps, vérifie bien que tu as entré l'URL correctement.",
+        "loginErrorTitle": "Erreur lors de la connexion à Jira",
+        "yasoonConnectionErrorDescription": "Nous n'avons pas pu nous connecter au serveur *.yasoon.com. Cela peut être dû à un pare-feu. Tu peux continuer à utiliser l'addin mais il se peut que certaines fonctionnalités soient réduites. Si tu souhaites toutes les fonctionnalités, il faut que tu sois sûr(e) que yasoon.com n'ait pas été bloqué (tu peux demander à ton service IT)",
+        "yasoonConnectionErrorTitle": "Connexion à yasoon.com impossible",
+        "jiraConnectionErrorDescription": "Nous n'avons pas pu nous connecter à l'instance Jira. Dans un premier temps, vérifie bien que tu as entré l'URL correctement.",
         "jiraConnectionErrorRequirements": "Si l'URL est valide, il se peut que le système de Jira n'est pas trouvé le {link}.",
         "jiraConnectionErrorMissingServerAddon": "Si tu as une version de Jira hébergée par tes soins, tu as besoin d'installer notre {link} (doit s'exécuter en https).",
         "jiraConnectionErrorContactSupport": "Si tu penses que c'est une erreur : {link}.",
-        "jiraConnectionErrorTitle": "Connexion á Jira impossible",
-        "alreadyConnectedDescription": "Tu es déjà connecté(e) á ce système.",
+        "jiraConnectionErrorTitle": "Connexion à Jira impossible",
+        "alreadyConnectedDescription": "Tu es déjà connecté(e) à ce système.",
         "alreadyConnectedTitle": "Déjà connecté",
         "cannotReadJiraUserError": "Utilisateur Jira introuvable - Réessaye.",
         "cannotAssignUserError": "Impossibilité d'assigner un utilisateur - Réessaye",
         "noSupportTitle": "Version non supportée",
-        "noSupportDescription": "Cette version de Outlook Email for Jira a besoin d'une mise á jour de l'application Jira. Tu peux le faire á partir de la marketplace d'Atlassian."
+        "noSupportDescription": "Cette version de Outlook Email for Jira a besoin d'une mise à jour de l'application Jira. Tu peux le faire à partir de la marketplace d'Atlassian."
     },
     "basicLogin": {
-        "headline": "Connecté á Jira",
+        "headline": "Connecté à Jira",
         "subHeadline": "Rentre tes identifiants.",
         "jiraUrl": "Jira Url",
         "mail": "Adresse email",
@@ -202,12 +202,12 @@
     "welcomeScreen": {
         "aboutUsLinks": "{link1} - {link2}",
         "headline": "Jira connecté avec Outlook",
-        "createJiraIssues": "Crée de nouveaux tickets Jira á partir des mails et prendre en charges les textes et les pièces-jointes.",
-        "viewJiraIssues": "Voir les tickets Jira associés á la conversation par mail en cours.",
+        "createJiraIssues": "Crée de nouveaux tickets Jira à partir des mails et prendre en charges les textes et les pièces-jointes.",
+        "viewJiraIssues": "Voir les tickets Jira associés à la conversation par mail en cours.",
         "supportedEnvironments": "Fonctionne partout  – Windows, Mac, iOS, Android & Web.",
         "startNow": "Commence maintenant !",
         "pricingInfo": "Tarifs",
-        "aboutUs": "Á propos de nous"
+        "aboutUs": "À propos de nous"
     },
     "instanceList": {
         "addAnotherSystem": "Ajouter un autre système"
@@ -225,7 +225,7 @@
         "authWithToken": "Authentification via OAuth Token",
         "authWithBasicAuth": "Authentification via Basic Auth",
         "connectedWithYasoon": "Connecté avec Yasoon Cloud Connect",
-        "recommendedConnection": "Nous recommandons de se connecter á Jira via {link1} et OAuth authentication. Veuillez utiliser notre {link2} pour configurer une connexion sécurisée.",
+        "recommendedConnection": "Nous recommandons de se connecter à Jira via {link1} et OAuth authentication. Veuillez utiliser notre {link2} pour configurer une connexion sécurisée.",
         "allSecureMessage": "Vous êtes parés, tout est sécurisé!"
     },
     "breadCrumbs": {
@@ -240,7 +240,7 @@
         "runsOut": "Votre session d'essai expire {{date}}",
         "getALicense": "Obtenir une licence",
         "requestApp": "Envoyer une demande",
-        "messageLabel": "Message á l'administrateur",
+        "messageLabel": "Message à l'administrateur",
         "defaultMessage": "Je souhaite utiliser cette application.",
         "sendMessage": "Envoyer"
     },
@@ -289,7 +289,7 @@
         "noneOption": "Aucun"
     },
     "statusField": {
-        "transitionTo": "transmettre le ticket á :"
+        "transitionTo": "transmettre le ticket à :"
     },
     "userField": {
         "assignToMe": "Me l'assigner",
@@ -303,10 +303,10 @@
         "newSuffix": "(nouveau)"
     },
     "errorMessages": {
-        "noConnectToJiraTitle": "Connexion á Jira impossible",
-        "noConnectToJiraDescription": "On dirait que ta session a expiré. Reconnecte toi á nouveau á partir du menu Paramètres.",
+        "noConnectToJiraTitle": "Connexion à Jira impossible",
+        "noConnectToJiraDescription": "On dirait que ta session a expiré. Reconnecte toi à nouveau à partir du menu Paramètres.",
         "xDomainTimeoutTitle": "Réponse du serveur en attente",
-        "xDomainTimeoutDescription": "Ton serveur Jira met beaucoup de temps á répondre. Si cela arrive souvent, contacte ton administrateur Jira.",
+        "xDomainTimeoutDescription": "Ton serveur Jira met beaucoup de temps à répondre. Si cela arrive souvent, contacte ton administrateur Jira.",
         "noSDSupportTitle": "Servicedesk non supporté",
         "noSDSupportDescription": "Tu as besoin au minimum de Jira Servicedesk 3.3.0. Tu as actuellement",
         "uploadFilesError": "Impossible de télécharger les fichiers !",
@@ -324,8 +324,8 @@
         "selectIssueTitle": "Sélectionne le ticket",
         "selectIssueDescription": "Sélectionne un ticket que tu veux commenter. Tu peux effectuer la recherche par clé et par titre ou filtrer par projet",
         "noContentTitle": "Aucun contenu",
-        "noContentDescription": "Ecris un commentaire ou sélectionne au moins une pièce-jointe á télécharger",
-        "updateJiraIssueTitle": "Erreur pendant la mise á jour du ticket ",
+        "noContentDescription": "Ecris un commentaire ou sélectionne au moins une pièce-jointe à télécharger",
+        "updateJiraIssueTitle": "Erreur pendant la mise à jour du ticket ",
         "updateJiraIssueDescription": "Désolé - nous n'avons pas pu ajouter le commentaire au ticket en raison de",
         "uploadAttachments": "Nous n'avons pas pu télécharger le ou les pièces-jointes.",
         "fetchingJiraIssueFailedFallback": "Une erreur est apparue pendant le chargement des données",
@@ -377,21 +377,21 @@
         "verboseLogging": "Journal détaillé des erreurs",
         "networkTrace": "Enregistrer réseau",
         "utils": "Outils",
-        "checkUpdates": "Mises á jour disponibles",
-        "about": "Á propos",
+        "checkUpdates": "Mises à jour disponibles",
+        "about": "À propos",
         "aboutHeadline": "Outlook Email for Jira v{{addinVersion}}",
         "appVersion": "Version",
         "systemInfo": "Info système: {{systemVersion}}",
         "documentation": "Documentation",
         "supportRequest": "Demande d'assistance",
         "openLogFolder": "Afficher l'historique",
-        "newIssueSupertip": "Créer un nouveau ticket á partir de ce mail",
+        "newIssueSupertip": "Créer un nouveau ticket à partir de ce mail",
         "groupJiraMsgRead": "Jira",
-        "newIssueDescription": "Créer un nouveau ticket á partir de ce mail",
-        "addToIssueSupertip": "Ajouter ce mail á un ticket existant",
-        "addToIssueDescription": "Ajouter ce mail á un ticket existant",
-        "relatedIssuesSupertip": "Afficher les tickets associés á cet mail",
-        "relatedIssuesDescription": "Afficher les tickets associés á cet mail",
+        "newIssueDescription": "Créer un nouveau ticket à partir de ce mail",
+        "addToIssueSupertip": "Ajouter ce mail à un ticket existant",
+        "addToIssueDescription": "Ajouter ce mail à un ticket existant",
+        "relatedIssuesSupertip": "Afficher les tickets associés à cet mail",
+        "relatedIssuesDescription": "Afficher les tickets associés à cet mail",
         "showFeed": "Afficher fil",
         "views": "Vues",
         "moduleFeed": "Jira"
@@ -410,14 +410,14 @@
         "logWorkButton": "Suivi temporel",
         "originalEstimateInfo": "L'estimation initiale pour le ticket était",
         "dateTimePickerLabel": "Date de début",
-        "adjustAutomaticallyRadioButton": "Mettre á jour automatiquement",
-        "leaveAsIsRadioButton": "Ne pas mettre á jour",
-        "adjustmanuallyRadioButton": "Mettre á jour manuellement"
+        "adjustAutomaticallyRadioButton": "Mettre à jour automatiquement",
+        "leaveAsIsRadioButton": "Ne pas mettre à jour",
+        "adjustmanuallyRadioButton": "Mettre à jour manuellement"
     },
     "mailHeader": {
         "from": "De",
         "cc": "Cc",
-        "to": "Á",
+        "to": "À",
         "sent": "Envoyé",
         "subject": "Objet",
         "attachments": "Pièces-jointes"
@@ -449,8 +449,8 @@
         "datePlaceholder": "Choisis une date"
     },
     "issueChooserScreen": {
-        "singleHeadline": "Choisis un ticket á ajouter",
-        "multiHeadline": "Choisis un ou plusieurs tickets á ajouter",
+        "singleHeadline": "Choisis un ticket à ajouter",
+        "multiHeadline": "Choisis un ou plusieurs tickets à ajouter",
         "noResultsHeadline": "Aucun résultats",
         "noResultsDescription": "Aucun tickets trouvés d'après le filtre sélectionné",
         "cancelButton": "Annuler",
