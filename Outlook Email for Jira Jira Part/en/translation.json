@@ -1,10 +1,5 @@
 {
-    "settingsScreen": {
-        "appSettingsTabHeading": "App Settings",
-        "jiraLoginTabHeading": "Jira Login",
-        "aboutTabHeading": "About",
-        "settingsHeader": "Settings",
-        "back": "Back",
+    "userDefaultsTab": {
         "generalSettingsHeading": "General Settings",
         "language": "Language",
         "languageSelectPlaceholder": "Select...",
@@ -19,14 +14,18 @@
         "includeSubject": "Include Subject",
         "createIssueSuccessScreenEnabled": "Show success screen after creating an issue",
         "oldEditor": "Disable WYSIWYG Editor and use markup instead",
-        "autoRefreshFeed": "Refresh feed automatically"
+        "autoRefreshFeed": "Refresh feed automatically",
+        "userDefaultsDescription": "Configure the settings a new user will get by default when first installing our Outlook Add-In. This will only affect new users when adding this Jira instance as their first instance. Each user can then adjust these settings for his personal preferences."
     },
     "technicalSettingsTab": {
         "privacyHeading": "Privacy Settings",
-        "remoteDebug": "Allow Recording of the screen for debug purposes",
-        "bugReporting": "Allow Sending of bug reports",
+        "remoteDebug": "Allow Recording of the screen for debug purposes. This always has to be activated manually by the user and only lasts for a single session.",
+        "bugReporting": "Allow Sending of bug reports.",
         "performanceHeading": "Performance Settings",
-        "autoRefreshFeed": "Allow automatically refreshing feed"
+        "autoRefreshFeed": "Allow automatically refreshing feed",
+        "technicalSettingsDescription": "Configure the settings for any user connecting our Outlook Add-In to this instance. This will affect all users after a few reloads of our Outlook Add-In.",
+        "privacyDescription": "Disabling these options will severely impact our troubleshooting capabilities.",
+        "performanceDescription": "Disabling these options might reduce the request load on your Jira instance."
     },
     "actions": {
         "save": "Save",

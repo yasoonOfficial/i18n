@@ -1,10 +1,5 @@
 {
-    "settingsScreen": {
-        "appSettingsTabHeading": "Einstellungen",
-        "jiraLoginTabHeading": "Jira Konto",
-        "aboutTabHeading": "Über",
-        "settingsHeader": "Einstellungen",
-        "back": "Zurück",
+    "userDefaultsTab": {
         "generalSettingsHeading": "Allgemeine Einstellungen",
         "language": "Sprache",
         "languageSelectPlaceholder": "Auswählen...",
@@ -19,14 +14,18 @@
         "includeSubject": "Beschreibung einbeziehen",
         "createIssueSuccessScreenEnabled": "Nach dem Erstellen eines Vorgangs Erfolgsdialog anzeigen",
         "oldEditor": "Den WYSIWYG Editor deaktivieren und stattdessen Markup verwenden",
-        "autoRefreshFeed": "Feed automatisch aktualisieren"
+        "autoRefreshFeed": "Feed automatisch aktualisieren",
+        "userDefaultsDescription": "Konfiguriere die Einstellungen, die ein neuer Benutzer unseres Outlook Add-Ins standardmäßig erhält, wenn er unser Outlook Add-In installiert. Dies betrifft nur neue Benutzer, die diese Jira-Instanz als ihre erste Instanz hinzufügen. Anschließend kann jeder Benutzer diese Einstellungen nach seinen Präferenzen bearbeiten."
     },
     "technicalSettingsTab": {
         "privacyHeading": "Privatsphäreeinstellungen",
-        "remoteDebug": "Das Aufnehmen des Bildschirms für Remote-Debugging erlauben",
+        "remoteDebug": "Das Aufnehmen des Bildschirms für Remote-Debugging erlauben. Dies muss immer manuell durch den Benutzer aktiviert werden und ist nur für eine Sitzung aktiv.",
         "bugReporting": "Das Senden von Fehlerberichten erlauben",
         "performanceHeading": "Leistungseinstellungen",
-        "autoRefreshFeed": "Das automatische Erneuern des Feeds erlauben"
+        "autoRefreshFeed": "Das automatische Erneuern des Feeds erlauben",
+        "technicalSettingsDescription": "Konfiguriere die Einstellungen für jeden Benutzer, der unser Outlook Add-In mit dieser Jira-Instanz verknüpft. Dies betrifft alle Benutzer und wird spätestens nach einigem Neu-Laden unseres Outlook Add-Ins aktiv.",
+        "privacyDescription": "Das Deaktivieren dieser Optionen beeinträchtigt unser Fehlerbehebungspotenzial erheblich.",
+        "performanceDescription": "Das Deaktivieren dieser Optionen kann die Netzwerkbelastung der Jira-Instanz verringern."
     },
     "actions": {
         "save": "Speichern",
