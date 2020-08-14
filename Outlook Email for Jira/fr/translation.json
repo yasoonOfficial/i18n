@@ -78,7 +78,7 @@
         "servicePortalTab": "Portail de services",
         "singleTab": "Tous les champs",
         "serviceDeskIssueTypeTooltip": "Utiliser le type de ticket",
-        "accountFieldPlaceholder": "Marqueur pour le champ compte",
+        "accountFieldPlaceholder": "Espace réservé pour le champ compte",
         "existingIssuesButton": "Tickets existants",
         "existingIssuesHeading": "Cette conversation possède déjà des tickets",
         "goToInstancesList": "Afficher aperçu des instances",
@@ -88,7 +88,7 @@
         "loginExpiredDescription": "Ta session a expiré. Pour continuer, déconnecte-toi et réessaye.",
         "serviceDeskAddParticipantsTooltip": "Ajouter des participants",
         "serviceDeskAddFromCc": "De CC",
-        "serviceDeskAddFromRecipients": "destinataires",
+        "serviceDeskAddFromRecipients": "Des destinataires",
         "serviceDeskAddFromBoth": "Les deux",
         "serviceDeskAddInfoBox": "Uniquement les utilisateurs avec un compte Jira seront ajoutés",
         "noParticipantsFound": "Aucun utilisateur Jira trouvé dans le destinataire du mail"
@@ -101,19 +101,19 @@
     },
     "addInstance": {
         "connectToJira": "Connecté à Jira",
-        "oAuthLoginDescription1": "Cliquer s'il vous plaît sur 'Login' pour continuer. Tu verras  ensuite une fenêtre s'ouvrir dans laquelle tu devras confirmer l'accès à Jira.",
+        "oAuthLoginDescription1": "Clique s'il te plaît sur 'Login' pour continuer. Tu verras ensuite une fenêtre s'ouvrir dans laquelle tu devras confirmer l'accès à Jira.",
         "oAuthLoginDescription2": "Cette page sera actualisée automatiquement après ta connexion.",
         "loginWithJiraHosting": "Se connecter avec Jira {{hosting}}",
         "provideMailAddressMessage": "Indique s'il te plaît l'adresse utilisée pour te connecter à Jira.",
-        "exampleUrlPlaceholder": "e.g. https://acme.atlassian.net",
-        "provideUrlMessage": "Indique s'il te plaît l'adresse utilisée pour te connecter à Jira.",
+        "exampleUrlPlaceholder": "p.ex. https://acme.atlassian.net",
+        "provideUrlMessage": "Indique s'il te plaît l'adresse email utilisée pour te connecter à Jira.",
         "useInSharedMailboxTooltip": "Ne pas utiliser dans une 'boite mail partagée'",
         "whereDoIFindThis": "Où ça se trouve ?",
         "loginReminder": "Utiliser les données de connexion sur tous les appareils",
         "aggreementMessage": "En cliquant sur 'Continuer', vous acceptez nos {link1} et {link2}."
     },
     "attachmentField": {
-        "noAttachmentMessage": "Cet email n'a pas de pièce-jointe",
+        "noAttachmentMessage": "Cette email n'a pas de pièce-jointe",
         "selectAllButton": "Tous",
         "deselectAllButton": "Aucun"
     },
@@ -131,7 +131,7 @@
         "cancelButton": "Annuler",
         "submit": "Valider",
         "fileUploadButton": "parcourir.",
-        "fileUploadButtonPreText": "Déposez des fichiers pour les joindr, ou",
+        "fileUploadButtonPreText": "Déposez des fichiers pour les joindre, ou",
         "logout": "Se déconnecter",
         "login": "Se connecter",
         "tryAgain": "Réessayer",
@@ -140,7 +140,7 @@
         "editInline": "modifier",
         "continue": "Continuer",
         "notWorking": "Un problème ?",
-        "saveButton": "Valider les changements"
+        "saveButton": "Sauvegarder  les changements"
     },
     "timetracking": {
         "fieldHelpTooltip": "En savoir plus sur le suivi temporel"
@@ -177,8 +177,8 @@
         "noSupportDescription": "Cette version de Outlook Email for Jira a besoin d'une mise à jour de l'application Jira. Tu peux le faire à partir de la marketplace d'Atlassian."
     },
     "basicLogin": {
-        "headline": "Connecté à Jira",
-        "subHeadline": "Rentre tes identifiants.",
+        "headline": "Connecter à Jira",
+        "subHeadline": "Entre tes identifiants.",
         "jiraUrl": "Jira Url",
         "mail": "Adresse email",
         "usernameOrMail": "Nom d'utilisateur ou adresse email",
@@ -190,7 +190,7 @@
         "invalidCredentialsDescriptionCloud": "Vérifie tes identifiants et réessaye. {link}",
         "invalidCredentialsDescriptionServer": "Vérifie tes identifiants et réessaye.",
         "errorDuringLoginTitle": "Erreur lors de la connexion",
-        "errorDuringLoginDescription": "Une erreur est survenue lors de la connexion. {{message}}. Contacte ton administrateur Jira et vérifie bien que Basic Auth est activé."
+        "errorDuringLoginDescription": "Une erreur est survenue lors de la connexion. {{message}}. Contacte s'il te plît ton administrateur Jira et vérifie bien que Basic Auth est activé."
     },
     "editorScreen": {
         "headline": "Modifier description",
@@ -304,7 +304,7 @@
     },
     "errorMessages": {
         "noConnectToJiraTitle": "Connexion à Jira impossible",
-        "noConnectToJiraDescription": "On dirait que ta session a expiré. Reconnecte toi à nouveau à partir du menu Paramètres.",
+        "noConnectToJiraDescription": "Il semble que ta session soit expiré. Reconnecte-toi à nouveau à partir du menu Paramètres.",
         "xDomainTimeoutTitle": "Réponse du serveur en attente",
         "xDomainTimeoutDescription": "Ton serveur Jira met beaucoup de temps à répondre. Si cela arrive souvent, contacte ton administrateur Jira.",
         "noSDSupportTitle": "Servicedesk non supporté",
@@ -315,7 +315,7 @@
         "openEmailFormTitle": "Impossible d'ouvrir ",
         "openEmailFormDescription": "Nous n'avons pas pu ouvrir le formulaire électronique.",
         "internalErrorTitle": "Erreur interne",
-        "internalErrorDescription": "Désolé - nous n'avons pas pu traiter ce que tu as écris. Il s'agit probablement d'un problème venant de chez nous. Ça serait vraiment super que tu puisses nous le faire remonter. Aucun ticket créé",
+        "internalErrorDescription": "Désolé - nous n'avons pas pu traiter tes entrées. Il s'agit probablement d'un problème venant de chez nous. Ça serait vraiment super si tu pourrais nous informer. Aucun ticket créé",
         "createIssueTitle": "Le ticket n'a pas pu être créé",
         "unknownError": "Erreur inconnue",
         "instanceNotFound": "La connexion avec une des instances Jira n'a pas pu être effectuée",
