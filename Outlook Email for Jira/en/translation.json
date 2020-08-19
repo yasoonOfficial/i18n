@@ -425,7 +425,11 @@
         "dateTimePickerLabel": "Date started",
         "adjustAutomaticallyRadioButton": "Adjust automatically",
         "leaveAsIsRadioButton": "Leave as is",
-        "adjustmanuallyRadioButton": "Adjust manually"
+        "adjustmanuallyRadioButton": "Adjust manually",
+        "worklogHeadline": "Timetracking",
+        "timeSpentLabel": "Time spent",
+        "remainingEstimateLabel": "Remaining Estimate",
+        "jobDescriptionLabel": "Description"
     },
     "mailHeader": {
         "from": "From",
@@ -479,5 +483,4 @@
         "project": "Project",
         "type": "Issue type"
     }
-
 }

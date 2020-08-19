@@ -425,7 +425,11 @@
         "dateTimePickerLabel": "Startdatum",
         "adjustAutomaticallyRadioButton": "automatisch anpassen",
         "leaveAsIsRadioButton": "beibehalten",
-        "adjustmanuallyRadioButton": "manuell anpassen"
+        "adjustmanuallyRadioButton": "manuell anpassen",
+        "worklogHeadline": "Zeiterfassung",
+        "timeSpentLabel": "Benötigte Zeit",
+        "remainingEstimateLabel": "Restschätzung",
+        "jobDescriptionLabel": "Beschreibung"
     },
     "mailHeader": {
         "from": "Von",
@@ -479,5 +483,4 @@
         "project": "Projekt",
         "type": "Vorgangstyp"
     }
-
 }
