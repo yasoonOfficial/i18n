@@ -4,7 +4,7 @@
         "senderTab": "Absender",
         "conversationTab": "Konversation",
         "emptyConversationHeading": "Keine Vorgänge gefunden",
-        "emptyConversationDescription": "Diese Email oder Konversation ist kein Vorgang zugewiesen",
+        "emptyConversationDescription": "Dieser Email oder Konversation ist kein Vorgang zugewiesen",
         "createIssueButton": "Neuen Vorgang erzeugen",
         "addIssueButton": "Einen existierenden Vorgang zuweisen",
         "emptySenderDescription": "Wir konnten für die Emailadresse des Senders keine Vorgänge finden",
