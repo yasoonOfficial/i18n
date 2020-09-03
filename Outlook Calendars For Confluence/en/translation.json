@@ -832,5 +832,8 @@
     },
     "timeZonePicker": {
         "timeZoneLabel": "time zone"
+    },
+    "officeLogin": {
+        "errorDuringLoginTitle": "Error during Login"
     }
 }

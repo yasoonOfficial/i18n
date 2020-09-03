@@ -832,5 +832,8 @@
     },
     "timeZonePicker": {
         "timeZoneLabel": "Zeitzone"
+    },
+    "officeLogin": {
+        "errorDuringLoginTitle": "Es ist ein Fehler aufgetreten"
     }
 }

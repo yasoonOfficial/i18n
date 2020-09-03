@@ -831,5 +831,8 @@
     },
     "timeZonePicker": {
         "timeZoneLabel": "fuseau horaire"
+    },
+    "officeLogin": {
+        "errorDuringLoginTitle": "Erreur lors de la connexion"
     }
 }
