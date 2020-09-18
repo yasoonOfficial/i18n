@@ -39,5 +39,8 @@
     "graphLoginScreen": {
         "header": "Willkommen bei Outlook Email for Jira",
         "description": "Sieht so aus, als benutzt du diese Funktion das erste Mal. Bitte melde dich mit deinem Office 365 Account an, um loszulegen!"
+    },
+    "sendMailDialog": {
+        "regardingIssue": "Betreffend {{issueKey}}"
     }
 }
