@@ -182,6 +182,7 @@
         "jiraConnectionErrorMissingServerAddon": "If you have a self-hosted Jira instance, it needs to have our {link} installed (and it needs to run on https).",
         "jiraConnectionErrorContactSupport": "If you think this is an error, please {link}.",
         "jiraConnectionErrorTitle": "Cannot connect to Jira",
+        "connectedWithMicrosoft": "Connected with Microsoft!",
         "alreadyConnectedDescription": "You are already connected to this system.",
         "alreadyConnectedTitle": "Already connected",
         "cannotReadJiraUserError": "Cannot read own Jira user - try again.",
@@ -483,5 +484,40 @@
         "reporter": "Reporter",
         "project": "Project",
         "type": "Issue type"
+    },
+    "shareItem": {
+        "shareToggleLabel": "Share mail"
+    },
+    "azureObjectType": {
+        "conversation": "conversation",
+        "mail": "mail"
+    },
+    "sharePermissionType": {
+        "public": "Everybody with access to this issue",
+        "azureTenant": "Everybody in my company with access to this issue",
+        "private": "Just myself",
+        "heading": "Who should be able to see this?"
+    },
+    "shareItemSettings": {
+        "heading": "Sharing settings",
+        "saveAsDefault": "Save this as default"
+    },
+    "shareItemLogin": {
+        "heading": "Share this conversation!",
+        "firstParagraph": "You can allow other users to see this mail/conversation live within Jira. To use this feature, you only need to connect your Microsoft account with your Jira account.",
+        "secondParagraph": "Each time you want to share you can choose whether everybody with access to the issue can view that mail/conversation or only those in your company. ",
+        "loginButton": "Login with Microsoft and Jira",
+        "multiInstance": "You will need to do this once for each of your connected Jira instances."
+    },
+    "sharePermissionTypeSettings": {
+        "template": "Share this {azureObjectType} with {shareType}",
+        "private": "myself",
+        "azureTenant": "my company",
+        "public": "everyone"
+    },
+    "shareObjectTypeSettings": {
+        "conversation": "This conversation including future replies",
+        "mail": "Just this mail",
+        "heading": "What do you want to share?"
     }
 }

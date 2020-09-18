@@ -182,6 +182,7 @@
         "jiraConnectionErrorMissingServerAddon": "Wenn die Jira Instanz selbst gehostet wird, muss unser {link} installiert sein und unter https erreichbar sein.",
         "jiraConnectionErrorContactSupport": "Wenn du der Meinung bist, dass es sich um einen Fehler handelt, wenden Sie sich bitte an unseren {link}.",
         "jiraConnectionErrorTitle": "Keine Verbindung zu Jira",
+        "connectedWithMicrosoft": "Mit Microsoft verbunden!",
         "alreadyConnectedDescription": "Du bist bereits mit diesem System verbunden.",
         "alreadyConnectedTitle": "Bereits verbunden",
         "cannotReadJiraUserError": "Konnten den Jira-Benutzer nicht finden - versuche es erneut.",
@@ -483,5 +484,40 @@
         "reporter": "Autor",
         "project": "Projekt",
         "type": "Vorgangstyp"
+    },
+    "shareItem": {
+        "shareToggleLabel": "Mail teilen"
+    },
+    "azureObjectType": {
+        "conversation": "Konversation",
+        "mail": "Mail"
+    },
+    "sharePermissionType": {
+        "public": "Jeder, der den Vorgang sehen kann",
+        "azureTenant": "Jeder aus meinem Unternehmen, der den Vorgang sehen kann",
+        "private": "Niemand außer mir",
+        "heading": "Wer soll das sehen dürfen?"
+    },
+    "shareItemSettings": {
+        "heading": "Sharing-Einstellungen",
+        "saveAsDefault": "Als Standard übernehmen"
+    },
+    "shareItemLogin": {
+        "heading": "Teile die Konversation!",
+        "firstParagraph": "Du kannst es anderen Nutzern erlauben, diese Mail/Konversation live in Jira zu sehen. Um diese Funktion nutzen zu können, musst du nur einmalig deinen Microsoft- mit deinem Jira-Account verknüpfen.",
+        "secondParagraph": "Beim Teilen kannst du dann jedes Mal entscheiden, ob du die Mail/Konversation mit allen Nutzern, die Zugriff auf den Vorgang haben teilen möchtest, oder nur mit Nutzern aus deinem Unternehmen. ",
+        "loginButton": "Mit Microsoft and Jira anmelden",
+        "multiInstance": "Dies muss einmalig für jede deiner verbundenen Jira-Instanzen ausgeführt werden."
+    },
+    "sharePermissionTypeSettings": {
+        "template": "Teile diese {azureObjectType} mit {shareType}",
+        "private": "mir",
+        "azureTenant": "allen in meinem Unternehmen",
+        "public": "allen"
+    },
+    "shareObjectTypeSettings": {
+        "conversation": "Diese Konversation inklusive zukünftiger Antworten",
+        "mail": "Nur diese Mail",
+        "heading": "Was möchtest du teilen?"
     }
 }
