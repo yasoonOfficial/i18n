@@ -697,8 +697,6 @@
         "toggleCalendarList": "Toggle Calendar List",
         "showWeekendsLabel": "Show Weekends",
         "showWeekendsToggleLabel": "Show Weekends",
-        "groupCalendarsInAgendaViewLabel": "Group Resources in Agenda View",
-        "groupCalendarsInAgendaViewToggleLabel": "Group Resources in Agenda View",
         "allowEventsToOverlap": "Allow Events to Overlap",
         "showEventsOverlappingToggleLabel": "Show events overlapping",
         "calendarTimeRangeLabel": "Calendar time range",

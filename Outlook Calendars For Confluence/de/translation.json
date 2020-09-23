@@ -697,8 +697,6 @@
         "toggleCalendarList": "Kalenderliste umschalten",
         "showWeekendsLabel": "Wochenenden anzeigen",
         "showWeekendsToggleLabel": "Wochenenden anzeigen",
-        "groupCalendarsInAgendaViewLabel": "Kalender in der Agenda Ansicht gruppieren",
-        "groupCalendarsInAgendaViewToggleLabel": "Kalender in der Agenda Ansicht gruppieren",
         "allowEventsToOverlap": "Überlappung von Terminen zulassen",
         "showEventsOverlappingToggleLabel": "Termine überlappend anzeigen",
         "calendarTimeRangeLabel": "Zeitbereich des Kalenders",

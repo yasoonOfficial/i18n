@@ -696,8 +696,6 @@
         "toggleCalendarList": "Toggle Liste des calendriers",
         "showWeekendsLabel": "Afficher les fins de semaine",
         "showWeekendsToggleLabel": "Afficher les fins de semaine",
-        "groupCalendarsInAgendaViewLabel": "Ressources du groupe dans la vue Agenda",
-        "groupCalendarsInAgendaViewToggleLabel": "Ressources du groupe dans la vue Agenda",
         "allowEventsToOverlap": "Autoriser les réunions à se superposer",
         "showEventsOverlappingToggleLabel": "Afficher les réunions superposées",
         "calendarTimeRangeLabel": "Plage de temps du calendrier",
