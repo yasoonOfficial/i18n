@@ -198,7 +198,9 @@
 	"templateTable": {
 		"preconfiguredTemplates": "Vorkonfigurierte Vorlagen",
 		"noCustomTemplates": "Keine benutzerdefinierten Vorlagen ausgewählt. Wähle die erste Vorlage in der Auswahlliste unten aus.",
-		"addTemplate": "Vorlage hinzufügen"
+		"addTemplate": "Vorlage hinzufügen",
+		"defaultTemplateLabel": "Standard",
+		"setDefaultTemplateLabel": "Als Standard festlegen"
 	},
 	"adminScreen": {
 		"heading": "Outlook Meetings for Confluence",
