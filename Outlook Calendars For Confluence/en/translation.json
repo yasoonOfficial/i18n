@@ -366,6 +366,7 @@
         "agenda": "Agenda",
         "list": "List",
         "scheduler": "Scheduler",
+        "resource": "Resource",
         "rollingDays": "Rolling days",
         "day": "Day",
         "week": "Week",
@@ -741,7 +742,8 @@
         "calenndarViewTypeRadioTitle": "Calendar View Type",
         "agendaOptionLabel": "Agenda",
         "listOptionLabel": "List",
-        "schedulerOptionLabel": "Scheduler"
+        "schedulerOptionLabel": "Scheduler",
+        "ressourceOptionLabel": "Resource"
     },
     "officePersonTab": {
         "openCalendarsDescription": "Open your own calendars or those of your co-workers.",

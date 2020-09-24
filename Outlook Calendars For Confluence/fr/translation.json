@@ -366,6 +366,7 @@
         "agenda": "Agenda",
         "list": "Liste",
         "scheduler": "Planificateur",
+        "resource": "Ressource",
         "rollingDays": "Jours glissants",
         "day": "Jour",
         "week": "Semaine",
@@ -740,7 +741,8 @@
         "calenndarViewTypeRadioTitle": "Type de calendrier",
         "agendaOptionLabel": "Agenda",
         "listOptionLabel": "Liste",
-        "schedulerOptionLabel": "Planificateur"
+        "schedulerOptionLabel": "Planificateur",
+        "ressourceOptionLabel": "Ressource"
     },
     "officePersonTab": {
         "openCalendarsDescription": "Ouvrez vos propres calendriers ou ceux de vos collègues.",
