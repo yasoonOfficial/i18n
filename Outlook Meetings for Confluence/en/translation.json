@@ -130,7 +130,7 @@
 		"placeholder": "Search for spaces",
 		"noOptionsMessage": "No results",
 		"searchMessage": "Type to search",
-		"recentSpaces'": "Recent Spaces",
+		"recentSpaces": "Recent Spaces",
 		"starredSpaces": "Starred Spaces",
 		"searchResultLabel": "Search Result for search term"
 	},
