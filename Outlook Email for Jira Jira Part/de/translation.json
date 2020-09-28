@@ -31,7 +31,12 @@
         "save": "Speichern",
         "cancel": "Abbrechen",
         "login": "Anmelden",
-        "resetToDefault": "Auf Werkseinstellungen zurücksetzen"
+        "loginMicrosoftHint": "Anmelden mit Microsoft",
+        "initSendMailDialog": "Email schreiben",
+        "sendMail": "Abschicken",
+        "resetToDefault": "Auf Werkseinstellungen zurücksetzen",
+        "reply": "Antworten",
+        "showDetail": "Detailansicht"
     },
     "emptyState": {
         "noAdminEmptyState": "Du brauchst Adminberechtigungen, um diese Seite sehen zu können"
@@ -41,6 +46,44 @@
         "description": "Sieht so aus, als benutzt du diese Funktion das erste Mal. Bitte melde dich mit deinem Office 365 Account an, um loszulegen!"
     },
     "sendMailDialog": {
-        "regardingIssue": "Betreffend {{issueKey}}"
+        "subjectPlaceholder": "Betreff eingeben",
+        "subjectLabel": "Betreff",
+        "recipientsLabel": "Empfänger",
+        "regardingIssue": "Betreffend {{issueKey}}",
+        "recipientsPlaceholder": "Keine Ergebnisse",
+        "recipientsNoOptionsMessage": "Zum Suchen tippen...",
+        "replyHeading": "Auf diese Mail antworten",
+        "replyBodyLabel": "Antworttext",
+        "bodyLabel": "Emailinhalt",
+        "heading": "Vorgang als Email teilen"
+    },
+    "azureObjectType": {
+        "conversation": "Konversation",
+        "mail": "Mail"
+    },
+    "sharePermissionType": {
+        "public": "Jeder, der den Vorgang sehen kann",
+        "azureTenant": "Jeder aus meinem Unternehmen, der den Vorgang sehen kann",
+        "private": "Niemand außer mir",
+        "heading": "Wer soll das sehen dürfen?"
+    },
+    "shareItemSettings": {
+        "heading": "Sharing-Einstellungen",
+        "saveAsDefault": "Als Standard übernehmen"
+    },
+    "sharePermissionTypeSettings": {
+        "template": "Teile diese {azureObjectType} mit {shareType}",
+        "private": "mir",
+        "azureTenant": "allen in meinem Unternehmen",
+        "public": "allen"
+    },
+    "shareObjectTypeSettings": {
+        "conversation": "Diese Konversation inklusive zukünftiger Antworten",
+        "mail": "Nur diese Mail",
+        "heading": "Was möchtest du teilen?"
+    },
+    "conversationScreen": {
+        "noMailEmptyStateWithLoginHint": "Der Vorgang hat keine für dich sichtbaren verknüpften Mails. Möglicherweise gibt es private Mails, die du nach Anmelden mit Microsoft sehen kannst.",
+        "noMailEmptyState": "Der Vorgang hat keine - oder keine für dich sichtbaren - verknüpften Mails."
     }
 }

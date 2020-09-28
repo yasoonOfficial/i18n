@@ -31,7 +31,12 @@
         "save": "Save",
         "cancel": "Cancel",
         "login": "Login",
-        "resetToDefault": "Reset to default"
+        "loginMicrosoftHint": "Login with Microsoft",
+        "initSendMailDialog": "Send an email",
+        "sendMail": "Send",
+        "resetToDefault": "Reset to default",
+        "reply": "Reply",
+        "showDetail": "Show detailed view"
     },
     "emptyState": {
         "noAdminEmptyState": "You need admin permissions to view this page"
@@ -41,7 +46,45 @@
         "description": "Looks like you are using this feature for the very first time. Please login with your Office 365 account to get started!"
     },
     "sendMailDialog": {
-        "regardingIssue": "Regarding {{issueKey}}"
+        "subjectPlaceholder": "Enter a subject",
+        "subjectLabel": "Subject",
+        "recipientsLabel": "Recipients",
+        "recipientsPlaceholder": "Type to search...",
+        "recipientsNoOptionsMessage": "No matching options",
+        "regardingIssue": "Regarding {{issueKey}}",
+        "replyHeading": "Reply to this mail",
+        "replyBodyLabel": "Reply content",
+        "bodyLabel": "Mail content",
+        "heading": "Share issue as mail"
+    },
+    "azureObjectType": {
+        "conversation": "conversation",
+        "mail": "mail"
+    },
+    "sharePermissionType": {
+        "public": "Everybody with access to this issue",
+        "azureTenant": "Everybody in my company with access to this issue",
+        "private": "Just myself",
+        "heading": "Who should be able to see this?"
+    },
+    "shareItemSettings": {
+        "heading": "Sharing settings",
+        "saveAsDefault": "Save this as default"
+    },
+    "sharePermissionTypeSettings": {
+        "template": "Share this {azureObjectType} with {shareType}",
+        "private": "myself",
+        "azureTenant": "my company",
+        "public": "everyone"
+    },
+    "shareObjectTypeSettings": {
+        "conversation": "This conversation including future replies",
+        "mail": "Just this mail",
+        "heading": "What do you want to share?"
+    },
+    "conversationScreen": {
+        "noMailEmptyStateWithLoginHint": "This issue has no related emails you are allowed to see. There might be private mails here. You might see more if you login with Microsoft.",
+        "noMailEmptyState": "This issue has no related emails or none you are allowed to see."
     }
 
 }
