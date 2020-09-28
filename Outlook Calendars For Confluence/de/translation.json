@@ -835,5 +835,19 @@
     },
     "officeLogin": {
         "errorDuringLoginTitle": "Es ist ein Fehler aufgetreten"
+    },
+    "adminHelpTab":{
+        "tabLabel": "Hilfe",
+        "documentationLabel": "Prüfen Sie unsere Dokumentation",
+        "documentationDescription": "Es ist immer eine gute Idee, zuerst in unsere Dokumentation zu schauen. Wir versuchen dort häufige Fragen zu beantworten. Benutzen Sie die Schnell Links unten, um anzufangen!",
+        "quickLinksLabel": "Schnell-Links",
+        "gettingStarted": "Erste Schritte",
+        "faq": "Häufig gestellte Fragen",
+        "contactUsLabel": "Kontaktieren Sie uns",
+        "contactUsDescription": "Falls du technische Hilfe benötigst oder dich einfach nur über unser Produkt informieren möchtest, helfen wir dir gerne weiter!",
+        "contactLinksLabel": "Kontaktiere uns",
+        "sendAMail": "Eine E-Mail senden",
+        "raiseATicket": "Erstelle ein Ticket",
+        "callUs": "Ruf uns an (Zeitzone: MEZ)"
     }
 }

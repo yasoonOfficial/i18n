@@ -835,5 +835,19 @@
     },
     "officeLogin": {
         "errorDuringLoginTitle": "Error during Login"
+    },
+    "adminHelpTab":{
+        "tabLabel": "Help",
+        "documentationLabel": "Vérifiez notre documentation",
+        "documentationDescription": "C'est toujours une bonne idée de consulter d'abord notre documentation, nous essayons d'y répondre aux questions courantes. Utilisez les liens rapides ci-dessous pour commencer",
+        "quickLinksLabel": "Liens rapides",
+        "gettingStarted": "Démarrer",
+        "faq": "FAQ",
+        "contactUsLabel": "Contactez-nous",
+        "contactUsDescription": "Si vous avez besoin d'une aide technique ou si vous voulez simplement en savoir plus sur notre produit, nous sommes heureux de vous aider",
+        "contactLinksLabel": "Contact links",
+        "sendAMail": "Envoyer un courriel",
+        "raiseATicket": "Relever un ticket",
+        "callUs": "Appelez-nous (fuseau horaire : CET)"
     }
 }

@@ -834,5 +834,19 @@
     },
     "officeLogin": {
         "errorDuringLoginTitle": "Erreur lors de la connexion"
+    },
+    "adminHelpTab":{
+        "tabLabel": "Help",
+        "documentationLabel": "Check our documentation",
+        "documentationDescription": "It's always a good idea to check out our documentation first, we try to answer common questions there. Use the quick links below to get started!",
+        "quickLinksLabel": "Quick links",
+        "gettingStarted": "Getting started",
+        "faq": "FAQ",
+        "contactUsLabel": "Contact us",
+        "contactUsDescription": " In case you need technical help or just want to learn about our product, we are happy to help!",
+        "contactLinksLabel": "Contact links",
+        "sendAMail": "Send an email",
+        "raiseATicket": "Raise a ticket",
+        "callUs": "Call us (timezone: CET)"
     }
 }
