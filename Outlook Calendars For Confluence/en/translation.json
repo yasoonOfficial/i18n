@@ -838,16 +838,16 @@
     },
     "adminHelpTab":{
         "tabLabel": "Help",
-        "documentationLabel": "Vérifiez notre documentation",
-        "documentationDescription": "C'est toujours une bonne idée de consulter d'abord notre documentation, nous essayons d'y répondre aux questions courantes. Utilisez les liens rapides ci-dessous pour commencer",
-        "quickLinksLabel": "Liens rapides",
-        "gettingStarted": "Démarrer",
+        "documentationLabel": "Check our documentation",
+        "documentationDescription": "It's always a good idea to check out our documentation first, we try to answer common questions there. Use the quick links below to get started!",
+        "quickLinksLabel": "Quick links",
+        "gettingStarted": "Getting started",
         "faq": "FAQ",
-        "contactUsLabel": "Contactez-nous",
-        "contactUsDescription": "Si vous avez besoin d'une aide technique ou si vous voulez simplement en savoir plus sur notre produit, nous sommes heureux de vous aider",
+        "contactUsLabel": "Contact us",
+        "contactUsDescription": " In case you need technical help or just want to learn about our product, we are happy to help!",
         "contactLinksLabel": "Contact links",
-        "sendAMail": "Envoyer un courriel",
-        "raiseATicket": "Relever un ticket",
-        "callUs": "Appelez-nous (fuseau horaire : CET)"
+        "sendAMail": "Send an email",
+        "raiseATicket": "Raise a ticket",
+        "callUs": "Call us (timezone: CET)"
     }
 }
