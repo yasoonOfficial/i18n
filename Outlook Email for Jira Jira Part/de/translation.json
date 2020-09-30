@@ -30,6 +30,7 @@
     "actions": {
         "save": "Speichern",
         "cancel": "Abbrechen",
+        "close": "Schließen",
         "login": "Anmelden",
         "loginMicrosoftHint": "Anmelden mit Microsoft",
         "initSendMailDialog": "Email schreiben",

@@ -30,6 +30,7 @@
     "actions": {
         "save": "Save",
         "cancel": "Cancel",
+        "close": "Close",
         "login": "Login",
         "loginMicrosoftHint": "Login with Microsoft",
         "initSendMailDialog": "Send an email",
