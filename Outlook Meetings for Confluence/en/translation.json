@@ -84,7 +84,8 @@
 		"deleteMeetingNotesTootlip": "Click to delete the meeting notes page.",
 		"deleteMeetingNotesDraftTootlip": "The meeting page will be created when you send the meeting request. Click to delete the draft.",
 		"parentPageTree": "Parent page tree",
-		"space": "Space"
+		"space": "Space",
+		"recurringBanner": "This is an recurring meeting, if you want to create an meeting for this occurence please go to the event occurence."
 	},
 	"editMeetingNotes": {
 		"heading": "Confluence Meeting Agenda",

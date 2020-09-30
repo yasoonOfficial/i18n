@@ -84,7 +84,8 @@
 		"deleteMeetingNotesTootlip": "Klicke um die Besprechungsnotizen zu löschen.",
 		"deleteMeetingNotesDraftTootlip": "Die Meeting Agenda Seite wird erstellt, wenn die Meetinganfrage versendet wird. Klicke um den Entwurf zu löschen.",
 		"parentPageTree": "Übergeordnete Seite",
-		"space": "Bereich"
+		"space": "Bereich",
+		"recurringBanner": "This is an recurring meeting, if you want to create an meeting for this occurence please go to the event occurence."
 	},
 	"editMeetingNotes": {
 		"heading": "Confluence Meeting Agenda",
