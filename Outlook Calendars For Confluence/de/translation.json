@@ -849,5 +849,18 @@
         "sendAMail": "Eine E-Mail senden",
         "raiseATicket": "Erstelle ein Ticket",
         "callUs": "Ruf uns an (Zeitzone: MEZ)"
+    },
+    "sharePermissionTypeSettings": {
+        "template": "Teile diesen Kalender mit {shareType}",
+        "azureTenant": "allen in meinem Unternehmen",
+        "public": "allen"
+    },
+    "sharePermissionType": {
+        "public": "Jeder, mit Zugang zu dieser Seite",
+        "azureTenant": "Jeder aus meinem Unternehmen, der den Vorgang sehen kann",
+        "heading": "Wer soll das sehen dürfen?"
+    },
+    "shareItemSettings": {
+        "heading": "Sharing-Einstellungen"
     }
 }
