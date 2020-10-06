@@ -783,7 +783,8 @@
         "timezoneTitle": "Time zone",
         "helpTitle": "Help",
         "logoutTitle": "Logout",
-        "logout": "Logout"
+        "logoutOutlook": "Logout Outlook",
+        "logoutJira": "Logout Jira"
     },
     "compactCalendar": {
         "pickADateTooltip": "Pick a date directly",
@@ -849,7 +850,13 @@
         "sendAMail": "Send an email",
         "raiseATicket": "Raise a ticket",
         "callUs": "Call us (timezone: CET)"
-        },
+    },
+    "office365LogoutModal":{
+        "logoutButtonLabel": "Logout",
+        "cancelButtonLabel": "Cancel",
+        "heading": "Logout",
+        "desctiptionText": "Hey, are you sure you want to log out? If you have shared calendars with other users, they will not be able to see them anymore."
+    },
     "sharePermissionTypeSettings": {
         "template": "Share this calendar with {shareType}",
         "azureTenant": "my company",

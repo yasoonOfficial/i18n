@@ -783,7 +783,8 @@
         "timezoneTitle": "Zeitzone",
         "helpTitle": "Dokumentation",
         "logoutTitle": "Abmelden",
-        "logout": "Abmelden"
+        "logoutOutlook": "Logout Outlook",
+        "logoutJira": "Logout Jira"
     },
     "compactCalendar": {
         "pickADateTooltip": "Datum wählen",
@@ -849,6 +850,12 @@
         "sendAMail": "Eine E-Mail senden",
         "raiseATicket": "Erstelle ein Ticket",
         "callUs": "Ruf uns an (Zeitzone: MEZ)"
+    },
+    "office365LogoutModal":{
+        "logoutButtonLabel": "Abmelden",
+        "cancelButtonLabel": "Abbrechen",
+        "heading": "Ablemden",
+        "desctiptionText": "Hey, bist du dir sicher das du dich abmelden möchtest? Wenn du Kalender für andere Nutzer freigegeben hast können diese sie nicht mehr sehen."
     },
     "sharePermissionTypeSettings": {
         "template": "Teile diesen Kalender mit {shareType}",

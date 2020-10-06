@@ -782,7 +782,8 @@
         "timezoneTitle": "Fuseau horaire",
         "helpTitle": "Aide",
         "logoutTitle": "Déconnexion",
-        "logout": "Déconnexion"
+        "logoutOutlook": "Déconnexion Outlook",
+        "logoutJira": "Déconnexion Jira"
     },
     "compactCalendar": {
         "pickADateTooltip": "Choisissez une date",
@@ -848,5 +849,11 @@
         "sendAMail": "Envoyer un courriel",
         "raiseATicket": "Relever un ticket",
         "callUs": "Appelez-nous (fuseau horaire : CET)"
+    },
+    "office365LogoutModal":{
+        "logoutButtonLabel": "Déconnexion",
+        "cancelButtonLabel": "Annuler",
+        "heading": "Déconnexion",
+        "desctiptionText": "Vous êtes sûr de vouloir vous déconnecter ? Si vous avez partagé des calendriers avec d'autres utilisateurs, ils ne pourront plus les voir."
     }
 }
