@@ -1,4 +1,12 @@
 {
+    "adminScreen": {
+        "templatesTabHeading": "Templates",
+        "userDefaultsTabHeading": "User defaults",
+        "technicalSettingsTabHeading": "Settings",
+        "sharingSettingsTabHeading": "Sharing Settings",
+        "overviewTabHeading": "Overview",
+        "helpTabHeading": "Help"
+    },
     "userDefaultsTab": {
         "generalSettingsHeading": "Allgemeine Einstellungen",
         "language": "Sprache",
@@ -32,12 +40,14 @@
         "cancel": "Abbrechen",
         "close": "Schließen",
         "login": "Anmelden",
+        "logout": "Abmelden",
         "loginMicrosoftHint": "Anmelden mit Microsoft",
         "initSendMailDialog": "Email schreiben",
         "sendMail": "Abschicken",
         "resetToDefault": "Auf Werkseinstellungen zurücksetzen",
         "reply": "Antworten",
-        "showDetail": "Detailansicht"
+        "showDetail": "Detailansicht",
+        "openInBrowser": "In Outlook öffnen"
     },
     "emptyState": {
         "noAdminEmptyState": "Du brauchst Adminberechtigungen, um diese Seite sehen zu können"
