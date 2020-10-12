@@ -26,6 +26,7 @@
         "togglePersonalCalendarDescription": "Soll der 'Persönliche Kalender'-Eintrag in der Confluence sidebar sichtbar sein? (Dies erlaubt weiterhin, dass persönliche Outlook Kalender hinzugefügt werden können).",
         "appearanceTabHeading": "Aussehen",
         "jiraTabHeading": "Jira",
+        "sharedItemsHeading": "Kalender-Sharing",
         "configureSharedMailboxesHeading": "Einstellungen für Shared Mailboxes",
         "configureSharedMailboxesDescription": "Hier kannst du einstellen, ob Shared Mailboxes für das Erstellen neuer Kalender verfügbar sein sollen. Für gewöhnlich ist es am besten, einen oder mehrere Shared Mailboxes ausschließlich für Confluence anzulegen, so dass alle Berechtigungen richtig gesetzt sind. Hierfür kannst du das untenstehende Powershell-Script ausführen und anschließend die Mailbox-Informationen hier eingeben. Wenn du hierzu Fragen hast, kannst du uns {link}.",
         "configureSharedMailboxSubheading": "Shared Mailbox für die Kalendererstellung verfügbar machen",
@@ -860,12 +861,17 @@
     "sharePermissionTypeSettings": {
         "template": "Teile diesen Kalender mit {shareType}",
         "azureTenant": "allen in meinem Unternehmen",
+        "notShared": "niemandem",
         "public": "allen"
     },
     "sharePermissionType": {
         "public": "Jeder, mit Zugang zu dieser Seite",
-        "azureTenant": "Jeder aus meinem Unternehmen, der den Vorgang sehen kann",
+        "azureTenant": "Jeder aus meinem Unternehmen, der diese Seite sehen kann",
+        "notShared":"Jeder, der diese Seite sehen kann und in Office eingeloggt ist",
         "heading": "Wer soll das sehen dürfen?"
+    },
+    "adminSharedItems":{
+        "heading":"Wähle das Standardverhalten zum Teilen von Kalendern"
     },
     "shareItemSettings": {
         "heading": "Sharing-Einstellungen"

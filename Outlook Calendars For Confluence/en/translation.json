@@ -26,6 +26,7 @@
         "togglePersonalCalendarDescription": "Should the personal calendar section be visible in the Confluence sidebar? (This does not exclude adding personal Outlook calendars to the app.)",
         "appearanceTabHeading": "Appearance",
         "jiraTabHeading": "Jira",
+        "sharedItemsHeading": "Calendar sharing",
         "configureSharedMailboxesHeading": "Configure Shared Mailboxes",
         "configureSharedMailboxesDescription": "Below you can configure if shared mailboxes should be available for creating new calendars. It's usually best to create one or more dedicated shared mailboxes for Confluence, so all rights are set correctly. To do this, please use the Powershell script below and enter the mailbox information here afterwards. Please {link} if you have questions regarding this setup.",
         "configureSharedMailboxSubheading": "Make a shared mailbox available for calendar creation",
@@ -837,7 +838,7 @@
     "officeLogin": {
         "errorDuringLoginTitle": "Error during Login"
     },
-    "adminHelpTab":{
+    "adminHelpTab": {
         "tabLabel": "Help",
         "documentationLabel": "Check our documentation",
         "documentationDescription": "It's always a good idea to check out our documentation first, we try to answer common questions there. Use the quick links below to get started!",
@@ -859,13 +860,20 @@
     },
     "sharePermissionTypeSettings": {
         "template": "Share this calendar with {shareType}",
-        "azureTenant": "my company",
+        "confluence": "Confluence users",
+        "notShared": "nobody",
         "public": "everyone"
     },
     "sharePermissionType": {
-        "public": "Everybody with access to this page",
-        "azureTenant": "Everybody in my company with access to this page",
+        "public": "Everyone with access to this page",
+        "confluence": "Everyone that is logged in with Confluence",
+        "notShared": "Everyone that is logged in with Office365",
         "heading": "Who should be able to see this?"
+    },
+    "adminSharedItems":{
+        "heading":"Select the default behaviour for sharing calendars",
+        "selectSharingPermissionsHeading":"Share calendar settings",
+        "isSharingPossibleLabel": "Are users allowed to share calendars with their Outlook permissions"
     },
     "shareItemSettings": {
         "heading": "Sharing settings"
