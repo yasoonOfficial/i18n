@@ -119,6 +119,22 @@
     },
     "messageDialog": {
         "to": "An: "
+    },
+    "helpTab": {
+        "pageHeader": "Hilfe und Support",
+        "checkDocSubheading": "Schau in unser Wiki",
+        "checkDocHint": "Es ist immer eine gute Idee, in unser Wiki zu sehen. Wir versuchen, die häufigsten Fragen dort zu beantworten. Nutze die Links unten, um loszulegen!",
+        "quickLinks": "Links",
+        "FAQButton": "FAQ",
+        "deploymentButton": "Einrichtung",
+        "gettingStartedbutton": "Erste Schritte",
+        "contactUsHeading": "Nimm Kontakt zu uns auf",
+        "contactUsDescription": "Wenn du technische Hilfe brauchst oder einfach nur mehr über unser Produkt erfahren willst, freuen wir uns, dir helfen zu können!",
+        "contactLinksSubheading": "Kontakt-Links",
+        "sendMailButton": "Schreibe uns eine Email",
+        "raiseTicketButton": "Eröffne ein Support-Ticket",
+        "bookMeetingButton": "Buche ein Support-Meeting",
+        "callUsButton": "Ruf uns an (Zeitzone: CET/CEST)"
     }
 
 }

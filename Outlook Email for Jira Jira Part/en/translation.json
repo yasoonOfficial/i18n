@@ -119,6 +119,22 @@
     },
     "messageDialog": {
         "to": "To: "
+    },
+    "helpTab": {
+        "pageHeader": "Get help & support",
+        "checkDocSubheading": "Check our documentation",
+        "checkDocHint": "It's always a good idea to check out our documentation first, we try to answer common questions there. Use the quick links below to get started!",
+        "quickLinks": "Quick links",
+        "FAQButton": "FAQ",
+        "deploymentButton": "Deployment",
+        "gettingStartedbutton": "Getting started",
+        "contactUsHeading": "Contact us",
+        "contactUsDescription": "In case you need technical help or just want to learn about our product, we are happy to help!",
+        "contactLinksSubheading": "Contact links",
+        "sendMailButton": "Send an email",
+        "raiseTicketButton": "Raise a ticket",
+        "bookMeetingButton": "Book a meeting",
+        "callUsButton": "Call us (timezone: CET/CEST)"
     }
 
 }
