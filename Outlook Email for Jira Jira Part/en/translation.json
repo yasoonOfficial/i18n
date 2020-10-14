@@ -1,11 +1,26 @@
 {
     "adminScreen": {
         "templatesTabHeading": "Templates",
-        "userDefaultsTabHeading": "Anwenderstandards",
-        "technicalSettingsTabHeading": "Einstellungen",
-        "sharingSettingsTabHeading": "Sharing Einstellungen",
-        "overviewTabHeading": "Übersicht",
-        "helpTabHeading": "Hilfe"
+        "userDefaultsTabHeading": "User defaults",
+        "technicalSettingsTabHeading": "Settings",
+        "sharingSettingsTabHeading": "Sharing Settings",
+        "overviewTabHeading": "Overview",
+        "helpTabHeading": "Help"
+    },
+    "sharingSettingsTab": {
+        "sharingUserDefaultsHeading": "Configure User defaults",
+        "sharingUserDefaultsDescription": "Which settings should users newly connecting to this instance get by default? They can change this later.",
+        "sharingDescription": "Your users can share their Outlook conversations and make them accessible within the Jira issue.",
+        "visibilityHeading": "Enable Sharing Whole Conversations",
+        "visibilityDescription": "This feature requires Office365.",
+        "activate": "Enable manually",
+        "deactivate": "Disable"
+    },
+    "globalVisibilityLabel": {
+        "enabled": "Sharing is enabled (manually)",
+        "disabled": "Sharing is disabled (manually)",
+        "autoDetected": "We detected a user logging in with Office 365 so we enabled this feature automatically",
+        "readyForAutoDetect": "The feature will be enabled automatically when a user connects his Office 365 account."
     },
     "userDefaultsTab": {
         "generalSettingsHeading": "General Settings",
@@ -44,9 +59,11 @@
         "loginMicrosoftHint": "Login with Microsoft",
         "initSendMailDialog": "Send an email",
         "sendMail": "Send",
+        "sendToAll": "Email all",
         "resetToDefault": "Reset to default",
         "reply": "Reply",
-        "showDetail": "Show detailed view",
+        "replyAll": "Reply all",
+        "showDetail": "Open",
         "openInBrowser": "Open in Outlook"
     },
     "emptyState": {
@@ -96,6 +113,12 @@
     "conversationScreen": {
         "noMailEmptyStateWithLoginHint": "This issue has no related emails you are allowed to see. There might be private mails here. You might see more if you login with Microsoft.",
         "noMailEmptyState": "This issue has no related emails or none you are allowed to see."
+    },
+    "messageComponent": {
+        "sharedIconTooltip": "This mail was shared directly"
+    },
+    "messageDialog": {
+        "to": "To: "
     }
 
 }

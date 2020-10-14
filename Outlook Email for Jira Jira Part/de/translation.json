@@ -1,11 +1,26 @@
 {
     "adminScreen": {
         "templatesTabHeading": "Templates",
-        "userDefaultsTabHeading": "User defaults",
-        "technicalSettingsTabHeading": "Settings",
-        "sharingSettingsTabHeading": "Sharing Settings",
-        "overviewTabHeading": "Overview",
-        "helpTabHeading": "Help"
+        "userDefaultsTabHeading": "Nutzerstandards",
+        "technicalSettingsTabHeading": "Einstellungen",
+        "sharingSettingsTabHeading": "Sharing Einstellungen",
+        "overviewTabHeading": "Übersicht",
+        "helpTabHeading": "Hilfe"
+    },
+    "sharingSettingsTab": {
+        "sharingUserDefaultsHeading": "Anwenderstandards einstellen",
+        "sharingUserDefaultsDescription": "Welche Standardeinstellung sollen Nutzer erhalten, die sich neu mit dieser Instanz verbinden? Die Nutzer können diese anschließend ändern.",
+        "sharingDescription": "Die Nutzer können ihre Konversationen aus Outlook teilen und in Jira verfügbar machen.",
+        "visibilityHeading": "Teilen von Konversationen aktivieren",
+        "visibilityDescription": "Diese Funktion benötigt Office 365.",
+        "activate": "Manuell aktivieren",
+        "deactivate": "Deaktivieren"
+    },
+    "globalVisibilityLabel": {
+        "enabled": "Teilen ist möglich (manuell aktiviert)",
+        "disabled": "Teilen is nicht möglich (manuell deaktiviert)",
+        "autoDetected": "Wir haben bemerkt, dass sich ein Nutzer mit Office 365 angemeldet hat und deshalb diese Funktion automatisch aktiviert.",
+        "readyForAutoDetect": "Diese Funktion wird automatisch aktiviert, wenn sich ein Anwender mit Office 365 anmeldet."
     },
     "userDefaultsTab": {
         "generalSettingsHeading": "Allgemeine Einstellungen",
@@ -44,9 +59,11 @@
         "loginMicrosoftHint": "Anmelden mit Microsoft",
         "initSendMailDialog": "Email schreiben",
         "sendMail": "Abschicken",
+        "sendToAll": "Email an alle Beteiligten",
         "resetToDefault": "Auf Werkseinstellungen zurücksetzen",
         "reply": "Antworten",
-        "showDetail": "Detailansicht",
+        "replyAll": "Allen antworten",
+        "showDetail": "Öffnen",
         "openInBrowser": "In Outlook öffnen"
     },
     "emptyState": {
@@ -96,5 +113,12 @@
     "conversationScreen": {
         "noMailEmptyStateWithLoginHint": "Der Vorgang hat keine für dich sichtbaren verknüpften Mails. Möglicherweise gibt es private Mails, die du nach Anmelden mit Microsoft sehen kannst.",
         "noMailEmptyState": "Der Vorgang hat keine - oder keine für dich sichtbaren - verknüpften Mails."
+    },
+    "messageComponent": {
+        "sharedIconTooltip": "Diese Mail wurde direkt geteilt"
+    },
+    "messageDialog": {
+        "to": "An: "
     }
+
 }
