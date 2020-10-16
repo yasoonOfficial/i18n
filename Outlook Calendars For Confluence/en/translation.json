@@ -860,13 +860,13 @@
     },
     "sharePermissionTypeSettings": {
         "template": "Share this calendar with {shareType}",
-        "confluence": "Confluence users",
+        "atlassianCloud": "Confluence users",
         "notShared": "nobody",
         "public": "everyone"
     },
     "sharePermissionType": {
         "public": "Everyone with access to this page",
-        "confluence": "Everyone that is logged in with Confluence",
+        "atlassianCloud": "Everyone that is logged in with Confluence",
         "notShared": "Everyone that is logged in with Office365",
         "heading": "Who should be able to see this?"
     },
