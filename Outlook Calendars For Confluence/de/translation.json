@@ -860,6 +860,7 @@
     },
     "sharePermissionTypeSettings": {
         "template": "Teile diesen Kalender mit {shareType}",
+        "unsharedTemplate": "Share calendars based on {shareType}",
         "azureTenant": "allen in meinem Unternehmen",
         "notShared": "niemandem",
         "public": "allen"

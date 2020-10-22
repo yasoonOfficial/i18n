@@ -859,15 +859,16 @@
         "desctiptionText": "Hey, are you sure you want to log out? If you have shared calendars with other users, they will not be able to see them anymore."
     },
     "sharePermissionTypeSettings": {
-        "template": "Share this calendar with {shareType}",
+        "template": "Share calendars with {shareType}",
+        "unsharedTemplate": "Share calendars based on {shareType}",
         "atlassianCloud": "Confluence users",
-        "notShared": "nobody",
+        "notShared": "Outlook permissions",
         "public": "everyone"
     },
     "sharePermissionType": {
         "public": "Everyone with access to this page",
-        "atlassianCloud": "Everyone that is logged in with Confluence",
-        "notShared": "Everyone that is logged in with Office365",
+        "atlassianCloud": "Logged in with Confluence",
+        "notShared": "Logged in with Confluence and Office365",
         "heading": "Who should be able to see this?"
     },
     "adminSharedItems":{
