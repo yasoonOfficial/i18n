@@ -494,6 +494,7 @@
     },
     "sharePermissionType": {
         "public": "Everybody with access to this issue",
+        "atlassianCloud": "Every logged-in user with access to this issue",
         "azureTenant": "Everybody in my company with access to this issue",
         "private": "Just myself",
         "heading": "Who should be able to see this?"
@@ -513,7 +514,7 @@
         "template": "Share this {azureObjectType} with {shareType}",
         "private": "myself",
         "azureTenant": "my company",
-        "public": "everyone"
+        "atlassianCloud": "everyone"
     },
     "shareObjectTypeSettings": {
         "conversation": "This conversation including future replies",

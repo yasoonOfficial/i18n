@@ -91,6 +91,7 @@
     },
     "sharePermissionType": {
         "public": "Jeder, der den Vorgang sehen kann",
+        "atlassianCloud": "Jeder angemeldete Nutzer, der den Vorgang sehen kann",
         "azureTenant": "Jeder aus meinem Unternehmen, der den Vorgang sehen kann",
         "private": "Niemand außer mir",
         "heading": "Wer soll das sehen dürfen?"
@@ -103,7 +104,7 @@
         "template": "Teile diese {azureObjectType} mit {shareType}",
         "private": "mir",
         "azureTenant": "allen in meinem Unternehmen",
-        "public": "allen"
+        "atlassianCloud": "allen"
     },
     "shareObjectTypeSettings": {
         "conversation": "Diese Konversation inklusive zukünftiger Antworten",
