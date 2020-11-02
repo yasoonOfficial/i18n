@@ -878,5 +878,9 @@
     },
     "shareItemSettings": {
         "heading": "Sharing settings"
+    },
+    "shareItemPopup":{
+        "helpTooltip": "Go to documentation",
+        "helpText": "Need help"
     }
 }
