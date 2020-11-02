@@ -860,19 +860,21 @@
     },
     "sharePermissionTypeSettings": {
         "template": "Teile diesen Kalender mit {shareType}",
+        "atlassianCloud": "allen in meinem Unternehmen",
         "unsharedTemplate": "Share calendars based on {shareType}",
-        "azureTenant": "allen in meinem Unternehmen",
         "notShared": "niemandem",
         "public": "allen"
     },
     "sharePermissionType": {
         "public": "Jeder, mit Zugang zu dieser Seite",
-        "azureTenant": "Jeder aus meinem Unternehmen, der diese Seite sehen kann",
+        "atlassianCloud": "Jeder aus meinem Unternehmen, der diese Seite sehen kann",
         "notShared":"Jeder, der diese Seite sehen kann und in Office eingeloggt ist",
         "heading": "Wer soll das sehen dürfen?"
     },
     "adminSharedItems":{
-        "heading":"Wähle das Standardverhalten zum Teilen von Kalendern"
+        "heading":"Wähle das Standardverhalten zum Teilen von Kalendern",
+        "isSharingPossibleLabel":"Erlaube Benutzern, Kalender mit ihren Outlook Berechtigungen zu teilen",
+        "selectSharingPermissionsHeading":"Einstellungen zum Kalender teilen"
     },
     "shareItemSettings": {
         "heading": "Sharing-Einstellungen"
