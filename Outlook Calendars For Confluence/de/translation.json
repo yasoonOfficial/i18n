@@ -859,16 +859,13 @@
         "desctiptionText": "Hey, bist du dir sicher das du dich abmelden möchtest? Wenn du Kalender für andere Nutzer freigegeben hast können diese sie nicht mehr sehen."
     },
     "sharePermissionTypeSettings": {
-        "template": "Teile diesen Kalender mit {shareType}",
-        "atlassianCloud": "allen in meinem Unternehmen",
-        "unsharedTemplate": "Share calendars based on {shareType}",
-        "notShared": "niemandem",
-        "public": "allen"
+        "template": "Sichtbar für Nutzer mit {shareType}",
+        "notShared": "Kalendarzugriff",
+        "shared": "Seitenzugriff"
     },
     "sharePermissionType": {
-        "public": "Jeder, mit Zugang zu dieser Seite",
-        "atlassianCloud": "Jeder aus meinem Unternehmen, der diese Seite sehen kann",
-        "notShared":"Jeder, der diese Seite sehen kann und in Office eingeloggt ist",
+        "shared": "Jeder Nutzer mit Seitenzugriff",
+        "notShared":"Nutzer mit bestehenden Kalenderzugriff",
         "heading": "Wer soll das sehen dürfen?"
     },
     "adminSharedItems":{
