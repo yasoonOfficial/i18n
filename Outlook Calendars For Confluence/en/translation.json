@@ -869,10 +869,13 @@
         "heading": "Who should be able to see this?"
     },
     "adminSharedItems":{
-        "heading":"Select the default behaviour for sharing calendars",
-        "selectSharingPermissionsHeading":"Share calendar settings",
-        "isSharingPossibleLabel": "Are users allowed to share calendars with their Outlook permissions",
-        "isAnonymousSharingEnabledLabel":"Allow users to publicly share calendars"
+        "heading":"Default sharing option",
+        "sharingHeader":"Share calendar settings",
+        "anonymousSharingHeader":"Anonymous calendar sharing",
+        "isSharingPossibleLabel": "Allow users to share calendars",
+        "isAnonymousSharingEnabledLabel":"Allow users to publicly share calendars",
+        "sharingDescription": "",
+        "anonymousSharingDescription": "If you choose to allow anonymous access, calendars that are shared with the option 'Everyone with access to this page' will also work for public Confluence pages (without login). "
     },
     "shareItemSettings": {
         "heading": "Sharing settings"

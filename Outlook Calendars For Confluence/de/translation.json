@@ -869,9 +869,13 @@
         "heading": "Wer soll das sehen dürfen?"
     },
     "adminSharedItems":{
-        "heading":"Wähle das Standardverhalten zum Teilen von Kalendern",
-        "isSharingPossibleLabel":"Erlaube Benutzern, Kalender mit ihren Outlook Berechtigungen zu teilen",
-        "selectSharingPermissionsHeading":"Einstellungen zum Kalender teilen"
+        "heading":"Default sharing option",
+        "sharingHeader":"Share calendar settings",
+        "anonymousSharingHeader":"Anonymous calendar sharing",
+        "isSharingPossibleLabel": "Allow users to share calendars",
+        "isAnonymousSharingEnabledLabel":"Allow users to publicly share calendars",
+        "sharingDescription": "",
+        "anonymousSharingDescription": ""
     },
     "shareItemSettings": {
         "heading": "Sharing-Einstellungen"
