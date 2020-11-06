@@ -874,8 +874,9 @@
         "anonymousSharingHeader":"Anonymous calendar sharing",
         "isSharingPossibleLabel": "Allow users to share calendars",
         "isAnonymousSharingEnabledLabel":"Allow users to publicly share calendars",
-        "sharingDescription": "",
-        "anonymousSharingDescription": ""
+        "sharingDescription": "Benutzer können Kalender mit ihren eigenen Outlook-Berechtigungen freigeben, so dass andere Benutzer sich nicht anmelden müssen.",
+        "anonymousSharingDescription": "Standardmäßig können anonyme Confluence Nutzer nicht auf Kalender zugreifen. Wenn Sie die Freigabe von Outlook-Kalendern auf öffentlichen Seiten erlauben möchten, müssen Sie diese Einstellung aktivieren.",
+        "helpLink": "Weitere infos in unserer Dokumentation"
     },
     "shareItemSettings": {
         "heading": "Sharing-Einstellungen"

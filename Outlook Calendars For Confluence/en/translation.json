@@ -874,8 +874,9 @@
         "anonymousSharingHeader":"Anonymous calendar sharing",
         "isSharingPossibleLabel": "Allow users to share calendars",
         "isAnonymousSharingEnabledLabel":"Allow users to publicly share calendars",
-        "sharingDescription": "",
-        "anonymousSharingDescription": "If you choose to allow anonymous access, calendars that are shared with the option 'Everyone with access to this page' will also work for public Confluence pages (without login). "
+        "sharingDescription": "Users can share calendars with their own Outlook permissions, so other users don’t need to log-in.",
+        "anonymousSharingDescription": "By default calendars can’t be accessed by anonymous users. If you want to allow Outlook calendars to be shared on public pages you explicitly need to enable this setting.",
+        "helpLink": "See our docs for further details"
     },
     "shareItemSettings": {
         "heading": "Sharing settings"
