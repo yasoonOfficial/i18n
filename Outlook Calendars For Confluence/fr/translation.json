@@ -855,5 +855,32 @@
         "cancelButtonLabel": "Annuler",
         "heading": "Déconnexion",
         "desctiptionText": "Vous êtes sûr de vouloir vous déconnecter ? Si vous avez partagé des calendriers avec d'autres utilisateurs, ils ne pourront plus les voir."
+    },
+    "sharePermissionTypeSettings": {
+        "template": "Visible pour les utilisateurs avec {shareType}",
+        "notShared": "accès au calendrier",
+        "shared": "accès à la page"
+    },
+    "sharePermissionType": {
+        "shared": "Toute personne ayant accès à cette page",
+        "notShared": "Utilisateurs ayant déjà un accès au calendrier",
+        "heading": "Qui devrait pouvoir voir cela?"
+    },
+    "adminSharedItems":{
+        "heading":"Default sharing option",
+        "sharingHeader":"Partagez les paramètres du calendrier",
+        "anonymousSharingHeader":"Partage anonyme d'un calendrier",
+        "isSharingPossibleLabel": "Permettre aux utilisateurs de partager des calendriers",
+        "isAnonymousSharingEnabledLabel":"Permet aux utilisateurs de partager publiquement des calendriers",
+        "sharingDescription": "Les utilisateurs peuvent partager des calendriers avec leurs propres permissions Outlook, de sorte que les autres utilisateurs n'ont pas besoin de se connecter",
+        "anonymousSharingDescription": "Par défaut, les calendriers ne sont pas accessibles aux utilisateurs anonymes. Si vous souhaitez autoriser le partage des calendriers Outlook sur des pages publiques, vous devez explicitement activer ce paramètre.",
+        "helpLink": "Voir nos documents pour plus de détails"
+    },
+    "shareItemSettings": {
+        "heading": "Paramètres de partage"
+    },
+    "shareItemPopup":{
+        "helpTooltip": "Aller à la documentation",
+        "helpText": "Besoin d'aide"
     }
 }
