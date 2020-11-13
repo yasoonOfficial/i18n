@@ -881,6 +881,7 @@
     },
     "shareItemPopup":{
         "helpTooltip": "Aller à la documentation",
-        "helpText": "Besoin d'aide"
+        "helpText": "Besoin d'aide",
+        "freeBusyOnlyLabel": "seulement Free/Busy"
     }
 }

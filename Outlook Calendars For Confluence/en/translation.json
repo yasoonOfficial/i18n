@@ -883,6 +883,7 @@
     },
     "shareItemPopup":{
         "helpTooltip": "Go to documentation",
-        "helpText": "Need help"
+        "helpText": "Need help",
+        "freeBusyOnlyLabel": "Free/Busy only"
     }
 }
