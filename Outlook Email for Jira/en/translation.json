@@ -501,10 +501,12 @@
     },
     "shareItemSettings": {
         "heading": "Sharing settings",
+        "learnMore": "Learn more...",
         "saveAsDefault": "Save this as default"
     },
     "shareItemLogin": {
         "heading": "Share this conversation!",
+        "learnMore": "Learn more...",
         "firstParagraph": "You can allow other users to see this mail/conversation live within Jira. To use this feature, you only need to connect your Microsoft account with your Jira account.",
         "secondParagraph": "Each time you want to share you can choose whether everybody with access to the issue can view that mail/conversation or only those in your company. ",
         "loginButton": "Login with Microsoft and Jira",

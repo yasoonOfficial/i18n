@@ -501,10 +501,12 @@
     },
     "shareItemSettings": {
         "heading": "Sharing-Einstellungen",
+        "learnMore": "Mehr erfahren...",
         "saveAsDefault": "Als Standard übernehmen"
     },
     "shareItemLogin": {
         "heading": "Teile die Konversation!",
+        "learnMore": "Mehr erfahren...",
         "firstParagraph": "Du kannst es anderen Nutzern erlauben, diese Mail/Konversation live in Jira zu sehen. Um diese Funktion nutzen zu können, musst du nur einmalig deinen Microsoft- mit deinem Jira-Account verknüpfen.",
         "secondParagraph": "Beim Teilen kannst du dann jedes Mal entscheiden, ob du die Mail/Konversation mit allen Nutzern, die Zugriff auf den Vorgang haben teilen möchtest, oder nur mit Nutzern aus deinem Unternehmen. ",
         "loginButton": "Mit Microsoft and Jira anmelden",
