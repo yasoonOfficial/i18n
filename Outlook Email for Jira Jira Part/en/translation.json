@@ -98,6 +98,7 @@
     },
     "shareItemSettings": {
         "heading": "Sharing settings",
+        "learnMore": "Learn more...",
         "saveAsDefault": "Save this as default"
     },
     "sharePermissionTypeSettings": {
