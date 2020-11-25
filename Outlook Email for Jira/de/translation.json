@@ -359,6 +359,10 @@
         "suggestions": "Vorgeschlagen",
         "allEpics": "Alle Epics"
     },
+    "sprintField": {
+        "suggestions": "Vorschläge",
+        "allMatches": "Alle Sprints"
+    },
     "officeMessages": {
         "reminderLinkToIssue": "Link zum Vorgang:",
         "due": "[Fällig]",

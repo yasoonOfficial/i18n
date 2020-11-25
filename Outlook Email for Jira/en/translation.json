@@ -359,6 +359,10 @@
         "suggestions": "Suggestions",
         "allEpics": "All epics"
     },
+    "sprintField": {
+        "suggestions": "Suggestions",
+        "allMatches": "All sprints"
+    },
     "officeMessages": {
         "reminderLinkToIssue": "Link to issue:",
         "due": "[Due]",
