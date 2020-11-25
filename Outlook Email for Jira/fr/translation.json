@@ -8,7 +8,7 @@
         "createIssueButton": "Créer un nouveau ticket",
         "addIssueButton": "Associer à un ticket",
         "emptySenderDescription": "Nous n'avons pas trouvé de ticket pour l'expéditeur d'après l'adresse mail indiquée",
-        "emptySenderHeading": "Aucun tickets trouvés",
+        "emptySenderHeading": "Aucun tickets trouvé",
         "attachments": "Pièces-jointes",
         "noAttachments": "Aucune pièce-jointe pour l'instant! 💾",
         "addCommentPlaceholder": "Ajouter un commentaire",
@@ -21,7 +21,7 @@
         "showAllFields": "Afficher tous les champs",
         "showLessFields": "Afficher moins de champs",
         "moreSenderIssuesButton": "Plus de tickets",
-        "emptyFeedHeading": "Aucun tickets trouvés",
+        "emptyFeedHeading": "Aucun tickets trouvé",
         "emptyFeedDescription": "Il n'y a aucun tickets dans votre fil",
         "refreshFeed": "Actualiser votre fil"
     },
@@ -108,7 +108,7 @@
         "exampleUrlPlaceholder": "p.ex. https://acme.atlassian.net",
         "provideUrlMessage": "Indique s'il te plaît l'adresse email utilisée pour te connecter à Jira.",
         "useInSharedMailboxTooltip": "Ne pas utiliser dans une 'boite mail partagée'",
-        "whereDoIFindThis": "Où ça se trouve ?",
+        "whereDoIFindThis": "Où ça se trouvé?",
         "loginReminder": "Utiliser les données de connexion sur tous les appareils",
         "aggreementMessage": "En cliquant sur 'Continuer', vous acceptez nos {link1} et {link2}."
     },
@@ -140,7 +140,7 @@
         "editInline": "modifier",
         "continue": "Continuer",
         "notWorking": "Un problème ?",
-        "saveButton": "Sauvegarder  les changements"
+        "saveButton": "Sauvegarder les changements"
     },
     "timetracking": {
         "fieldHelpTooltip": "En savoir plus sur le suivi temporel"
@@ -452,7 +452,7 @@
         "singleHeadline": "Choisis un ticket à ajouter",
         "multiHeadline": "Choisis un ou plusieurs tickets à ajouter",
         "noResultsHeadline": "Aucun résultats",
-        "noResultsDescription": "Aucun tickets trouvés d'après le filtre sélectionné",
+        "noResultsDescription": "Aucun tickets trouvé d'après le filtre sélectionné",
         "cancelButton": "Annuler",
         "addIssuesButton": "Ajouter les tickets sélectionnés",
         "addIssueButton": "Ajouter le ticket sélectionné"
