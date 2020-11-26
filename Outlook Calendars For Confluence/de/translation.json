@@ -291,7 +291,7 @@
         "demoIssueCommentBody": "Kommentartext",
         "demoIssueDefaultValue": "Anzuzeigende Daten",
         "issueTypeLabel": "Typ:",
-        "priorityLabel": "Typ:",
+        "priorityLabel": "Priorität:",
         "timeRemaining": " {{time}} verbleibend",
         "timeDifferenceIconLabel": "Zeige Zeitdifferenz",
         "displayNameFallback": "Der Name ist privat",

@@ -290,7 +290,7 @@
         "demoIssueCommentBody": "Données de commentaire",
         "demoIssueDefaultValue": "Données à afficher",
         "issueTypeLabel": "Type:",
-        "priorityLabel": "Type:",
+        "priorityLabel": "Priorité:",
         "timeRemaining": "{{time}} restant",
         "timeDifferenceIconLabel": "Afficher le décalage horaire",
         "displayNameFallback": "Privé",
