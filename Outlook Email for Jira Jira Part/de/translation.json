@@ -114,7 +114,8 @@
     },
     "conversationScreen": {
         "noMailEmptyStateWithLoginHint": "Der Vorgang hat keine für dich sichtbaren verknüpften Mails. Möglicherweise gibt es private Mails, die du nach Anmelden mit Microsoft sehen kannst.",
-        "noMailEmptyState": "Der Vorgang hat keine - oder keine für dich sichtbaren - verknüpften Mails."
+        "noMailEmptyStateHeader": "Keine Mails",
+        "noMailEmptyStateDescription": "Der Vorgang hat keine - oder keine für dich sichtbaren - verknüpften Mails."
     },
     "messageComponent": {
         "sharedIconTooltip": "Diese Mail wurde direkt geteilt"

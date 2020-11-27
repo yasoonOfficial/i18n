@@ -114,7 +114,8 @@
     },
     "conversationScreen": {
         "noMailEmptyStateWithLoginHint": "This issue has no related emails you are allowed to see. There might be private mails here. You might see more if you login with Microsoft.",
-        "noMailEmptyState": "This issue has no related emails or none you are allowed to see."
+        "noMailEmptyStateHeader": "No mails",
+        "noMailEmptyStateDescription": "This issue has no related emails or none you are allowed to see."
     },
     "messageComponent": {
         "sharedIconTooltip": "This mail was shared directly"
