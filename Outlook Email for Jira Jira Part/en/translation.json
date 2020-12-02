@@ -83,6 +83,7 @@
         "replyHeading": "Reply to this mail",
         "replyBodyLabel": "Reply content",
         "bodyLabel": "Mail content",
+        "includeIssueCardLabel": "Append issue details",
         "heading": "Share issue as mail"
     },
     "azureObjectType": {
