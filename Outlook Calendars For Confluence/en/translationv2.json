@@ -1,0 +1,8 @@
+{
+	"templateScreen": {
+		"chooseCalendarHeading":"Choose Calendar Template",
+		"mostPopularHeading": "Most Popular",
+		"outlookHeading": "Outlook",
+		"jiraHeading":"Jira"
+	}
+}
