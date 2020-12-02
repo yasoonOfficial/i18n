@@ -4,5 +4,25 @@
 		"mostPopularHeading": "Most Popular",
 		"outlookHeading": "Outlook",
 		"jiraHeading":"Jira"
+	},
+	"template": {
+		"lozengeNew": "new",
+		"lozengePopular": "popular",
+		"ownCalendarHeading":"Add one of my calendars",
+		"ownCalendarDescription": "Add a calendar where you have access to",
+		"currentUserHeading": "Calendar of current user",
+		"currentUserDescription": "Add the main calendar of the current logged in user",
+		"userSearchHeading": "Add a calendar of a User",
+		"userSearchDescription": "Add the main calendar of a specific user",
+		"groupCalendarHeading": "Add a group calendar",
+		"groupCalendarDescription": "Add the calendar of an Outlook group",
+		"resourceCalendarHeading": "Add Room or Resource",
+		"resourceCalendarDescription": "Add a Room or Resource calendar",
+		"jiraReleasesAsEventsHeading":"Jira Releases as Events",
+		"jiraReleasesAsEventsDescripion":"Show a Jira projects releases, in a roadmap view",
+		"jiraSprintsAsEventsHeading":"Jira Sprints as Events",
+		"jiraSprintsAsEventsDescripion":"Show sprints of a Jira project as events",
+		"jiraIssuessAsEventsHeading":"Jira Issues as Events",
+		"jiraIssuessAsEventsDescripion":"Select issues that you want to show as events"
 	}
 }
