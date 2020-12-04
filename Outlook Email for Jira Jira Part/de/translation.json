@@ -80,8 +80,8 @@
         "recipientsPlaceholder": "Keine Ergebnisse",
         "recipientsNoOptionsMessage": "Zum Suchen tippen...",
         "replyHeading": "Auf diese Mail antworten",
-        "replyBodyLabel": "Antworttext",
-        "bodyLabel": "E-Mail Inhalt",
+        "replyBodyLabel": "Antwort",
+        "bodyLabel": "E-Mail",
         "includeIssueCardLabel": "Vorgangsdetails anhängen",
         "heading": "Neue E-Mail"
     },

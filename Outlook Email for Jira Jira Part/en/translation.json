@@ -80,8 +80,8 @@
         "recipientsNoOptionsMessage": "No matching options",
         "regardingIssue": "Regarding {{issueKey}}",
         "replyHeading": "Reply to this mail",
-        "replyBodyLabel": "Reply content",
-        "bodyLabel": "Mail content",
+        "replyBodyLabel": "Reply",
+        "bodyLabel": "Email",
         "includeIssueCardLabel": "Append issue details",
         "heading": "New email"
     },
