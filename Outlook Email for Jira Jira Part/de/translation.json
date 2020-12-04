@@ -139,5 +139,9 @@
         "raiseTicketButton": "Eröffne ein Support-Ticket",
         "bookMeetingButton": "Buche ein Support-Meeting",
         "callUsButton": "Ruf uns an (Zeitzone: CET/CEST)"
+    },
+    "links": {
+        "sendMailDoc": "Dokumentation",
+        "contactUs": "Kontakt"
     }
 }

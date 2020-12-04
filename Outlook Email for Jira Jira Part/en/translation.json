@@ -139,6 +139,10 @@
         "raiseTicketButton": "Raise a ticket",
         "bookMeetingButton": "Book a meeting",
         "callUsButton": "Call us (timezone: CET/CEST)"
+    },
+    "links": {
+        "sendMailDoc": "Documentation",
+        "contactUs": "Contact us"
     }
 
 }
