@@ -142,6 +142,7 @@
     },
     "links": {
         "sendMailDoc": "Documentation",
-        "contactUs": "Contact us"
+        "contactUs": "Contact us",
+        "getOutlookAddIn": "Get the Outlook Add-In"
     }
 }
