@@ -1,28 +1,26 @@
 {
     "adminScreen": {
-        "templatesTabHeading": "Templates",
-        "userDefaultsTabHeading": "Nutzerstandards",
+        "templatesTabHeading": "Vorlagen",
+        "userDefaultsTabHeading": "Outlook Standardeinstellungen",
         "technicalSettingsTabHeading": "Einstellungen",
-        "sharingSettingsTabHeading": "Sharing Einstellungen",
+        "sharingSettingsTabHeading": "E-Mail Freigabe",
         "overviewTabHeading": "Übersicht",
         "helpTabHeading": "Hilfe"
     },
     "sharingSettingsTab": {
         "sharingUserDefaultsHeading": "Anwenderstandards einstellen",
         "sharingUserDefaultsDescription": "Welche Standardeinstellung sollen Nutzer erhalten, die sich neu mit dieser Instanz verbinden? Die Nutzer können diese anschließend ändern.",
-        "sharingDescription": "Die Nutzer können ihre Konversationen aus Outlook teilen und in Jira verfügbar machen.",
-        "visibilityHeading": "Teilen von Konversationen aktivieren",
+        "sharingDescription": "Die Nutzer können ihre Konversationen aus Outlook freigeben und für Jira Benutzer verfügbar machen.",
+        "visibilityHeading": "Freigabe von E-Mails aktivieren",
         "visibilityDescription": "Diese Funktion benötigt Office 365.",
         "activate": "Manuell aktivieren",
-        "deactivate": "Deaktivieren"
-    },
-    "globalVisibilityLabel": {
-        "enabled": "Teilen ist möglich (manuell aktiviert)",
-        "disabled": "Teilen is nicht möglich (manuell deaktiviert)",
-        "autoDetected": "Wir haben bemerkt, dass sich ein Nutzer mit Office 365 angemeldet hat und deshalb diese Funktion automatisch aktiviert.",
-        "readyForAutoDetect": "Diese Funktion wird automatisch aktiviert, wenn sich ein Anwender mit Office 365 anmeldet."
+        "deactivate": "Automatische Erkennung deaktivieren",
+        "autoDetected": "Sie wurde automatisch aktiviert, da wir Office 365 erkannt haben.",
+        "readyForAutoDetect": "Sie wird automatisch aktiviert, sobald wir Office 365 erkennen.",
+        "globalVisibilityLabel": "Freigabe von E-Mails erlaubt"
     },
     "userDefaultsTab": {
+        "heading": "Outlook Standardeinstellungen konfigurieren",
         "generalSettingsHeading": "Allgemeine Einstellungen",
         "language": "Sprache",
         "languageSelectPlaceholder": "Auswählen...",
@@ -41,6 +39,7 @@
         "userDefaultsDescription": "Konfiguriere die Einstellungen, die ein neuer Benutzer unseres Outlook Add-Ins standardmäßig erhält, wenn er unser Outlook Add-In installiert. Dies betrifft nur neue Benutzer, die diese Jira-Instanz als ihre erste Instanz hinzufügen. Anschließend kann jeder Benutzer diese Einstellungen nach seinen Präferenzen bearbeiten."
     },
     "technicalSettingsTab": {
+        "heading": "Allgemeine Einstellungen",
         "privacyHeading": "Privatsphäreeinstellungen",
         "remoteDebug": "Das Aufnehmen des Bildschirms für Remote-Debugging erlauben. Dies muss immer manuell durch den Benutzer aktiviert werden und ist nur für eine Sitzung aktiv.",
         "bugReporting": "Das Senden von Fehlerberichten erlauben",
