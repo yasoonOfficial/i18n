@@ -516,6 +516,11 @@
         "loginButton": "Mit Microsoft and Jira anmelden",
         "multiInstance": "Dies muss einmalig für jede deiner verbundenen Jira-Instanzen ausgeführt werden."
     },
+    "onboarding": {
+        "learnMore": "Mehr erfahren...",
+        "shareItemHeading": "Neues Feature!",
+        "shareItemText": "Du kannst jetzt die ganze Konversation teilen und alle Antworten in Jira sehen"
+    },
     "sharePermissionTypeSettings": {
         "template": "Teile diese {azureObjectType} mit {shareType}",
         "private": "mir",

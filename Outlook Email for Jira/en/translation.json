@@ -516,6 +516,11 @@
         "loginButton": "Login with Microsoft and Jira",
         "multiInstance": " You will need to do this once for each of your connected Jira instances."
     },
+    "onboarding": {
+        "learnMore": "Learn more...",
+        "shareItemHeading": "New feature!",
+        "shareItemText": "You can now share your whole conversation and see all replies in Jira"
+    },
     "sharePermissionTypeSettings": {
         "template": "Share this {azureObjectType} with {shareType}",
         "private": "myself",
