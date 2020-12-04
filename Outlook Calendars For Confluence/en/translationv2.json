@@ -26,6 +26,8 @@
 	},
 	"calendarList": {
 		"viewHeading": "View",
+		"generalSettingsLabel":"General settings",
+		"calendars":"Calendars",
 		"addCalendarButton": "+ Add Calendar"
 	}
 }
