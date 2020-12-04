@@ -75,7 +75,7 @@
     "sendMailDialog": {
         "subjectPlaceholder": "Betreff eingeben",
         "subjectLabel": "Betreff",
-        "recipientsLabel": "Empfänger",
+        "recipientsLabel": "An",
         "regardingIssue": "Betreffend {{issueKey}}",
         "recipientsPlaceholder": "Keine Ergebnisse",
         "recipientsNoOptionsMessage": "Zum Suchen tippen...",
