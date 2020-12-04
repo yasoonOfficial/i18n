@@ -84,7 +84,7 @@
         "replyBodyLabel": "Antworttext",
         "bodyLabel": "E-Mail Inhalt",
         "includeIssueCardLabel": "Vorgangsdetails anhängen",
-        "heading": "Vorgang als E-Mail teilen"
+        "heading": "Neue E-Mail"
     },
     "azureObjectType": {
         "conversation": "Konversation",
