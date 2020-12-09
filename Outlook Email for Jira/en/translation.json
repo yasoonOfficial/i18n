@@ -490,7 +490,7 @@
         "type": "Issue type"
     },
     "shareItem": {
-        "shareToggleLabel": "Share mail"
+        "shareToggleLabel": "Share email"
     },
     "azureObjectType": {
         "conversation": "conversation",
@@ -519,7 +519,7 @@
     "onboarding": {
         "learnMore": "Learn more...",
         "shareItemHeading": "New feature!",
-        "shareItemText": "You can now share your whole conversation and see all replies in Jira"
+        "shareItemText": "You can now share your whole conversation and see all replies in Jira."
     },
     "sharePermissionTypeSettings": {
         "template": "Share this {azureObjectType} with {shareType}",

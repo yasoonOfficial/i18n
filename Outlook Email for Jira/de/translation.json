@@ -490,7 +490,7 @@
         "type": "Vorgangstyp"
     },
     "shareItem": {
-        "shareToggleLabel": "Mail teilen"
+        "shareToggleLabel": "E-Mail teilen"
     },
     "azureObjectType": {
         "conversation": "Konversation",
