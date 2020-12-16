@@ -63,7 +63,8 @@
         "reply": "Antworten",
         "replyAll": "Allen antworten",
         "showDetail": "Öffnen",
-        "openInBrowser": "In Outlook öffnen"
+        "openInBrowser": "In Outlook öffnen",
+        "loadMore": "Mehr laden"
     },
     "emptyState": {
         "noAdminEmptyState": "Du brauchst Adminberechtigungen, um diese Seite sehen zu können"
