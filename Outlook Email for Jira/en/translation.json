@@ -182,6 +182,8 @@
         "jiraConnectionErrorMissingServerAddon": "If you have a self-hosted Jira instance, it needs to have our {link} installed (and it needs to run on https).",
         "jiraConnectionErrorContactSupport": "If you think this is an error, please {link}.",
         "jiraConnectionErrorTitle": "Cannot connect to Jira",
+        "jiraSSOErrorTitle": "Cannot connect to Jira",
+        "jiraSSOErrorDescription": "We couldn't connect to the Jira instance. If you have SSO enabled in your Jira instance make sure to follow the {link}.",
         "jiraHttpConnectionOfficeAddIn": "Connecting to a Jira instance running on http is not possible in a modern Office Add-In.",
         "jiraHttpConnectionGetComAddIn": "We recommend trying again with our {link} (only available for Windows)",
         "connectedWithMicrosoft": "Connected with Microsoft!",
@@ -425,6 +427,7 @@
         "contactOurSupport": "contact our support",
         "helpOnAPITokens": "Help on API Tokens",
         "getComAddIn": "COM Add-In",
+        "ssoError": "steps required",
         "TLS": "TLS",
         "marketplaceApp": "Marketplace app"
     },

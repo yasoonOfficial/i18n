@@ -184,6 +184,8 @@
         "jiraConnectionErrorTitle": "Keine Verbindung zu Jira",
         "jiraHttpConnectionOfficeAddIn": "Die Verbindung mit einer nur unter \"http\" erreichbaren Jira Instanz ist in einem modernen Office Add-In nicht möglich.",
         "jiraHttpConnectionGetComAddIn": "Wir empfehlen es mithilfe unseres {link} erneut zu versuchen (nur für Windows)",
+        "jiraSSOErrorTitle": "Keine Verbindung zu Jira",
+        "jiraSSOErrorDescription": "Wir konnten uns leider nicht zur Jira-Instanz verbinden. Wenn in dieser Instanz SSO (Single Sign-On) aktiviert ist, stelle bitte sicher, dass die {link} erfolgt sind.",
         "connectedWithMicrosoft": "Mit Microsoft verbunden!",
         "alreadyConnectedDescription": "Du bist bereits mit diesem System verbunden.",
         "alreadyConnectedTitle": "Bereits verbunden",
@@ -425,6 +427,7 @@
         "contactOurSupport": "Support",
         "helpOnAPITokens": "Hilfe zu API-Tokens",
         "getComAddIn": "COM Add-Ins",
+        "ssoError": "benötigten Schritte",
         "TLS": "TLS",
         "marketplaceApp": "Marketplace app"
     },
