@@ -148,6 +148,11 @@
         "notWorking": "Not working?",
         "saveButton": "Save"
     },
+    "editorActions": {
+        "insert": "Insert",
+        "insertUnique":"Current email",
+        "insertWhole": "Whole email"
+    },
     "timetracking": {
         "fieldHelpTooltip": "Learn more about time tracking"
     },

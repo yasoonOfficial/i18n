@@ -147,6 +147,11 @@
         "notWorking": "Klappt nicht?",
         "saveButton": "Speichern"
     },
+    "editorActions": {
+        "insert": "Einfügen",
+        "insertUnique":"Aktuelle E-Mail",
+        "insertWhole": "Komplette E-Mail"
+    },
     "timetracking": {
         "fieldHelpTooltip": "Mehr über Zeiterfassung erfahren"
     },
