@@ -153,6 +153,9 @@
         "insertUnique":"Current email",
         "insertWhole": "Whole email"
     },
+    "editorField": {
+        "sharingActiveDefaultText": "An email was shared with this issue"
+    },
     "timetracking": {
         "fieldHelpTooltip": "Learn more about time tracking"
     },

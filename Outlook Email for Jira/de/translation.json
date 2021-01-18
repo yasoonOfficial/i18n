@@ -152,6 +152,9 @@
         "insertUnique":"Aktuelle E-Mail",
         "insertWhole": "Komplette E-Mail"
     },
+    "editorField": {
+        "sharingActiveDefaultText": "Eine E-Mail wurde mit diesem Vorgang geteilt"
+    },
     "timetracking": {
         "fieldHelpTooltip": "Mehr über Zeiterfassung erfahren"
     },
