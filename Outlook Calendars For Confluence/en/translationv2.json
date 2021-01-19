@@ -7,6 +7,7 @@
 	"template": {
 		"lozengeNew": "new",
 		"lozengePopular": "popular",
+		"lozengeSoon": "coming soon",
 		"ownCalendarHeading":"Add one of my calendars",
 		"ownCalendarDescription": "Add a calendar where you have access to",
 		"currentUserHeading": "Calendar of current user",
@@ -22,7 +23,14 @@
 		"jiraSprintsAsEventsHeading":"Jira Sprints as Events",
 		"jiraSprintsAsEventsDescripion":"Show sprints of a Jira project as events",
 		"jiraIssuessAsEventsHeading":"Jira Issues as Events",
-		"jiraIssuessAsEventsDescripion":"Select issues that you want to show as events"
+		"jiraIssuessAsEventsDescripion":"Select issues that you want to show as events",
+		"createCalendarHeading": "Create new Outlook Calendar",
+		"createCalendarDescription": "Create a new Outlook Subcalendar in your Mailbox",
+		"jiraFiltersAsIssuesHeading": "Jira Filters as Events",
+		"jiraFiltersAsIssuesDescripion": "Search for filters that you want to show as events",
+		"jiraJQLAsIssuesHeading": "Jira JQL as Events",
+		"jiraJQLAsIssuesDescripion": "Enter JQL that you want to show as events"
+
 	},
 	"calendarList": {
 		"viewHeading": "View",
