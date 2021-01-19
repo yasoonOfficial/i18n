@@ -150,10 +150,12 @@
     "editorActions": {
         "insert": "Einfügen",
         "insertUnique":"Aktuelle E-Mail",
-        "insertWhole": "Komplette E-Mail"
+        "insertWhole": "Komplette E-Mail",
+        "insertHeader": "Kopfdaten der E-Mail"
     },
     "editorField": {
-        "sharingActiveDefaultText": "Eine E-Mail wurde mit diesem Vorgang geteilt"
+        "loading": "Lädt...",
+        "sharingActiveDefaultText": "Die E-Mail \"{{subject}}\" gesendet am {{sentAt}} von {{senderMail}} wurde mit diesem Vorgang geteilt"
     },
     "timetracking": {
         "fieldHelpTooltip": "Mehr über Zeiterfassung erfahren"
