@@ -20,6 +20,8 @@
 		"resourceCalendarDescription": "Add a Room or Resource calendar",
 		"jiraReleasesAsEventsHeading":"Jira Releases as Events",
 		"jiraReleasesAsEventsDescripion":"Show a Jira projects releases, in a roadmap view",
+		"jiraProjectsAsEventsHeading":"Jira Project as Events",
+		"jiraProjectsAsEventsDescripion":"Show a Jira projects issues, in a roadmap view",
 		"jiraSprintsAsEventsHeading":"Jira Sprints as Events",
 		"jiraSprintsAsEventsDescripion":"Show sprints of a Jira project as events",
 		"jiraIssuessAsEventsHeading":"Jira Issues as Events",
