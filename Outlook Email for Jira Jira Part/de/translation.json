@@ -58,6 +58,7 @@
         "loginMicrosoftHint": "Anmelden mit Microsoft",
         "initSendMailDialog": "E-Mail schreiben",
         "sendMail": "Abschicken",
+        "sendToSender": "Email an den Absender",
         "sendToAll": "Email an alle Beteiligten",
         "resetToDefault": "Auf Werkseinstellungen zurücksetzen",
         "reply": "Antworten",

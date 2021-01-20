@@ -58,6 +58,7 @@
         "loginMicrosoftHint": "Login with Microsoft",
         "initSendMailDialog": "Send an email",
         "sendMail": "Send",
+        "sendToSender": "Email sender",
         "sendToAll": "Email all",
         "resetToDefault": "Reset to default",
         "reply": "Reply",
