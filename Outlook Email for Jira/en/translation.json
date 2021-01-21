@@ -363,7 +363,8 @@
     "userMessages": {
         "textTooLongForJiraTitle": "Text too long",
         "textTooLongForJiraAttachmentSelected": "The description was not pre-filled as it would have caused an error on issue creation. The email was added as an attachment instead.",
-        "textTooLongForJiraSharingActiveMessage": "The description was not pre-filled as it would have caused an error on issue creation. The email will be shared with the issue as usual."
+        "textTooLongForJiraSharingActiveMessage": "The description was not pre-filled as it would have caused an error on issue creation. The email will be shared with the issue as usual.",
+        "considerShortening": "The comment will probably be truncated when adding it to the issue. To avoid this, remove parts of the comment."
     },
     "issueField": {
         "relatedIssues": "Related Issues",
