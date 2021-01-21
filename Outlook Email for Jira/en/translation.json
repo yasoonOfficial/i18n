@@ -360,6 +360,11 @@
         "genericError": "Sorry, time tracking could not be saved",
         "wrongInputFormat": "Time tracking has to be in the format: '3w 4d 12h 5m' sein"
     },
+    "userMessages": {
+        "textTooLongForJiraTitle": "Text too long",
+        "textTooLongForJiraAttachmentSelected": "The description was not pre-filled as it would have caused an error on issue creation. The email was added as an attachment instead.",
+        "textTooLongForJiraSharingActiveMessage": "The description was not pre-filled as it would have caused an error on issue creation. The email will be shared with the issue as usual."
+    },
     "issueField": {
         "relatedIssues": "Related Issues",
         "recentIssues": "Recent Issues",
