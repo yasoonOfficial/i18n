@@ -151,7 +151,8 @@
         "insert": "Einfügen",
         "insertUnique":"Aktuelle E-Mail",
         "insertWhole": "Komplette E-Mail",
-        "insertHeader": "Kopfdaten der E-Mail"
+        "insertHeader": "Kopfdaten der E-Mail",
+        "insertSelection": "Ausgewählten Text"
     },
     "editorField": {
         "loading": "Lädt...",

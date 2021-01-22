@@ -152,7 +152,8 @@
         "insert": "Insert",
         "insertUnique":"Current email",
         "insertWhole": "Whole email",
-        "insertHeader": "Email header"
+        "insertHeader": "Email header",
+        "insertSelection": "Text selection"
     },
     "editorField": {
         "loading": "Loading...",
