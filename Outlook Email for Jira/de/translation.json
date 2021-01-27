@@ -152,7 +152,9 @@
         "insertUnique":"Aktuelle E-Mail",
         "insertWhole": "Komplette E-Mail",
         "insertHeader": "Kopfdaten der E-Mail",
-        "insertSelection": "Ausgewählten Text"
+        "insertSelection": "Ausgewählten Text",
+        "insertFailedTitle": "Einfügen fehlgeschlagen",
+        "insertFailedMessage": "Entschuldigung, beim Einfügen des Textes ist etwas schiefgegangen."
     },
     "editorField": {
         "loading": "Lädt...",
@@ -360,12 +362,6 @@
         "fetchingJiraIssueFailedFallback": "Fehler beim Laden von Vorgangsinformationen",
         "genericError": "Sorry, die Zeiterfassung konnte nicht gespeichert werden",
         "wrongInputFormat": "Die Zeiterfassung muss im Format: '3w 4d 12h 5m' sein"
-    },
-    "userMessages": {
-        "textTooLongForJiraTitle": "Text zu lang",
-        "textTooLongForJiraAttachmentSelected": "Die Beschreibung wurde nicht vorausgefüllt, die dies zu einem Fehler beim Erstellen des Vorgangs geführt hätte. Stattdessen wurde die E-Mail als Anhang vorausgewählt.",
-        "textTooLongForJiraSharingActiveMessage": "Die Beschreibung wurde nicht vorausgefüllt, die dies zu einem Fehler beim Erstellen des Vorgangs geführt hätte. Die E-Mail wird wie gewohnt mit dem Vorgang geteilt.",
-        "considerShortening": "Der Kommentar wird wahrscheinlich abgeschnitten, wenn er an den Vorgang gesendet wird. Um das zu vermeiden, kürze bitte den Kommentar."
     },
     "issueField": {
         "relatedIssues": "Verwandte Vorgänge",

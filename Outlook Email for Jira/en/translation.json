@@ -153,7 +153,9 @@
         "insertUnique":"Current email",
         "insertWhole": "Whole email",
         "insertHeader": "Email header",
-        "insertSelection": "Text selection"
+        "insertSelection": "Text selection",
+        "insertFailedTitle": "Action failed",
+        "insertFailedMessage": "Sorry, something went wrong while inserting the text."
     },
     "editorField": {
         "loading": "Loading...",
@@ -360,12 +362,6 @@
         "fetchingJiraIssueFailedFallback": "Error while fetching issue data",
         "genericError": "Sorry, time tracking could not be saved",
         "wrongInputFormat": "Time tracking has to be in the format: '3w 4d 12h 5m' sein"
-    },
-    "userMessages": {
-        "textTooLongForJiraTitle": "Text too long",
-        "textTooLongForJiraAttachmentSelected": "The description was not pre-filled as it would have caused an error on issue creation. The email was added as an attachment instead.",
-        "textTooLongForJiraSharingActiveMessage": "The description was not pre-filled as it would have caused an error on issue creation. The email will be shared with the issue as usual.",
-        "considerShortening": "The comment will probably be truncated when adding it to the issue. To avoid this, remove parts of the comment."
     },
     "issueField": {
         "relatedIssues": "Related Issues",
