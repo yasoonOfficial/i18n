@@ -158,7 +158,7 @@
     },
     "editorField": {
         "loading": "Lädt...",
-        "sharingActiveDefaultText": "Die E-Mail \"{{subject}}\" gesendet am {{sentAt}} von {{senderMail}} wurde mit diesem Vorgang geteilt"
+        "sharingActiveDefaultText": "Eine E-Mail wurde mit diesem Vorgang geteilt"
     },
     "timetracking": {
         "fieldHelpTooltip": "Mehr über Zeiterfassung erfahren"

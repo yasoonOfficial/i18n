@@ -159,7 +159,7 @@
     },
     "editorField": {
         "loading": "Loading...",
-        "sharingActiveDefaultText": "The email \"{{subject}}\" from {{senderMail}} sent at {{sentAt}} was shared with this issue"
+        "sharingActiveDefaultText": "An email was shared with this issue"
     },
     "timetracking": {
         "fieldHelpTooltip": "Learn more about time tracking"
