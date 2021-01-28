@@ -85,7 +85,8 @@
         "replyBodyLabel": "Reply",
         "bodyLabel": "Email",
         "includeIssueCardLabel": "Append issue details",
-        "heading": "New email"
+        "heading": "New email",
+        "emailSharedDefaultText": "An email was shared with this issue"
     },
     "azureObjectType": {
         "conversation": "conversation",
