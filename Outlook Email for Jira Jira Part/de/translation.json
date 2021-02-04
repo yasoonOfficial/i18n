@@ -125,6 +125,11 @@
     "messageDialog": {
         "to": "An: "
     },
+    "comment": {
+        "to": "An: ",
+        "subject": "Betreff: ",
+        "emailAddedPhrase": "Zu diesem Vorgang wurde eine E-Mail gesendet:"
+    },
     "helpTab": {
         "pageHeader": "Hilfe und Support",
         "checkDocSubheading": "Schau in unser Wiki",

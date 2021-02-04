@@ -125,6 +125,11 @@
     "messageDialog": {
         "to": "To: "
     },
+    "comment": {
+        "to": "To: ",
+        "subject": "Subject: ",
+        "emailAddedPhrase": "An email has been sent for this issue:"
+    },
     "helpTab": {
         "pageHeader": "Get help & support",
         "checkDocSubheading": "Check our documentation",
