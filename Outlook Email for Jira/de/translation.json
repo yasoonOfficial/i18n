@@ -481,7 +481,9 @@
         "textFields": "im Text"
     },
     "organizationsField": {
-        "unassignedPlaceholder": "Wähle Organisationen"
+        "unassignedPlaceholder": "Wähle Organisationen",
+        "forUserLabel": "Dieser Kunde",
+        "allLabel": "Alle Organisationen"
     },
     "datetimepicker": {
         "datePlaceholder": "Wähle ein Datum",
