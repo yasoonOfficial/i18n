@@ -8,30 +8,28 @@
 		"lozengeNew": "new",
 		"lozengePopular": "popular",
 		"lozengeSoon": "coming soon",
-		"ownCalendarHeading":"Add one of my calendars",
-		"ownCalendarDescription": "Add a calendar where you have access to",
-		"currentUserHeading": "Calendar of current user",
-		"currentUserDescription": "Add the main calendar of the current logged in user",
-		"userSearchHeading": "Add a calendar of a User",
-		"userSearchDescription": "Add the main calendar of a specific user",
-		"groupCalendarHeading": "Add a group calendar",
-		"groupCalendarDescription": "Add the calendar of an Outlook group",
-		"resourceCalendarHeading": "Add Room or Resource",
-		"resourceCalendarDescription": "Add a Room or Resource calendar",
-		"jiraReleasesAsEventsHeading":"Jira Releases as Events",
-		"jiraReleasesAsEventsDescripion":"Show a Jira projects releases, in a roadmap view",
-		"jiraProjectsAsEventsHeading":"Jira Project as Events",
-		"jiraProjectsAsEventsDescripion":"Show a Jira projects issues, in a roadmap view",
-		"jiraSprintsAsEventsHeading":"Jira Sprints as Events",
-		"jiraSprintsAsEventsDescripion":"Show sprints of a Jira project as events",
-		"jiraIssuessAsEventsHeading":"Jira Issues as Events",
-		"jiraIssuessAsEventsDescripion":"Select issues that you want to show as events",
-		"createCalendarHeading": "Create new Outlook Calendar",
-		"createCalendarDescription": "Create a new Outlook Subcalendar in your Mailbox",
-		"jiraFiltersAsIssuesHeading": "Jira Filters as Events",
-		"jiraFiltersAsIssuesDescripion": "Search for filters that you want to show as events",
-		"jiraJQLAsIssuesHeading": "Jira JQL as Events",
-		"jiraJQLAsIssuesDescripion": "Enter JQL that you want to show as events"
+		"ownCalendarHeading":"My calendar",
+		"ownCalendarDescription": "Show one of my calendars",
+		"currentUserHeading": "Current users’ calendar",
+		"currentUserDescription": "Show the calendar of the current logged in user",
+		"userSearchHeading": "User calendar",
+		"userSearchDescription": "Show a calendar of a specific user",
+		"groupCalendarHeading": "Group calendar",
+		"groupCalendarDescription": "Show a calendar of an Outlook group",
+		"resourceCalendarHeading": "Room or resource calendar",
+		"resourceCalendarDescription": "Show a room or resource calendar",
+		"jiraReleasesAsEventsHeading": "Jira releases",
+		"jiraReleasesAsEventsDescripion": "Show Jira release dates",
+		"jiraProjectsAsEventsHeading": "Jira project issues",
+		"jiraProjectsAsEventsDescripion":"Show Jira project issues using any date field (e.g. due date)",
+		"jiraSprintsAsEventsHeading": "Jira sprints",
+		"jiraSprintsAsEventsDescripion": "Show Jira sprint dates",
+		"createCalendarHeading": "New calendar",
+		"createCalendarDescription": "Create a new Outlook calendar",
+		"jiraFiltersAsIssuesHeading": "Jira filter issues",
+		"jiraFiltersAsIssuesDescripion": "Show Jira issues from a filter, using any date field",
+		"jiraJQLAsIssuesHeading": "JQL issues",
+		"jiraJQLAsIssuesDescripion": "Show Jira issues from a JQL query, using any date field"
 
 	},
 	"calendarList": {
@@ -72,8 +70,47 @@
 		"freeBusyLabel": "Only availability",
 		"freeBusyDescription": "Users see events as busy/available only"
 	},
-	"jiraCalendarSettingsScreen": {
+	"jiraCalendarSharingSettings": {
 		"calendarSharingHeading": "Calendar access",
-		"calendarSharingSubHeading": "Choose who can access the calendar"
+		"calendarSharingSubHeading": "Choose who can view the {{calendarType}}",
+		"unsharedLabel": "Jira permissions",
+		"unsharedDescription": "User with access to this page can access the calendar",
+		"sharedLabel": "Shared permissions",
+		"sharedDescription": "Users with existing permissions can access the calendar"
+	},
+	"jiraDateRangeOptionSettings":{
+		"dateRangeOptionHeading": "{{calendarType}} display",
+		"dateRangeOptionSubHeading": "Choose how the releases appear in the calendar",
+		"startToReleaseDateHeading": "Start to release date",
+		"startToReleaseDateSubHeading": "Display the release as a timeframe",
+		"releaseDateOnlyHeading": "Release date only",
+		"releaseDateOnlySubHeading": "Display the release as a single day event",
+		"customRangeHeading": "Custom",
+		"customRangeSubHeading": "Customize how the release is displayed",
+		"dateRangeGroupHeading": "Date Ranges",
+		"singleDateGroupHeading": "Single Dates",
+		"customGroupHeading": "Custom"
+	},
+	"jiraCalendarSettingsScreen": {
+		"releases": "releases",
+		"projects": "projects",
+		"jql": "jql",
+		"filters": "filters",
+		"removeCalendar": "Remove calendar"
+	},
+	"officeCalendarSettingsScreen": {
+		"removeCalendar": "Remove calendar"
+	},
+	"officeCurrentUserCalendar": {
+		"name": "My calendar",
+		"description": "Current users’ Outlook calendar"
+	},
+	"jiraLoginScreen": {
+		"heading": "Jira Login",
+		"subHeading": "To show dates from Jira, please sign in with your Jira account."
+	},
+	"officeLoginScreen": {
+		"heading": "Microsoft login",
+		"subHeading": "To show Outlook calendars, please sign in with your Microsoft account."
 	}
 }
