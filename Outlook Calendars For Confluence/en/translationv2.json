@@ -39,5 +39,41 @@
 		"generalSettingsLabel":"General settings",
 		"calendars":"Calendars",
 		"addCalendarButton": "+ Add Calendar"
+	},
+	"officeCategoryColorSettings": {
+		"useCategoryColorHeading": "Use category color",
+		"useCategoryColorSubHeading": "Show events with the category color instead of the calendar color"
+	},
+	"officeCalendarSharingSettings": {
+		"calendarSharingHeading": "Calendar access",
+		"calendarSharingSubHeading": "Choose who can access the calendar",
+		"unsharedLabel": "Outlook permissions",
+		"unsharedDescription": "User with access to this page can access the calendar",
+		"sharedLabel": "Shared permissions",
+		"sharedDescription": "Users with existing permissions can access the calendar"
+	},
+	"officeEditPermissionSettings": {
+		"editPermissionHeading": "Event details",
+		"editPermissionSubHeading": "Choose what can be viewed",
+		"fullPermissionsLabel": "Full permissions",
+		"fullPermissionsDescription": "Users can create and edit events in this calendar",
+		"meetingRequestLabel": "Send meeting request",
+		"meetingRequestDescription": "Users can add events by sending a meeting requests to this calendar",
+		"viewOnlyLabel": "View only",
+		"viewOnlyDescription": "Users cannot create or edit any events in this calendar"
+	},
+	"officeEventDetailsSettings": {
+		"eventDetailsHeading": "Event editing",
+		"eventDetailsSubHeading": "Choose what can be changed",
+		"fullDetailsLabel": "Full event details",
+		"fullDetailsDescription": "Users can see all details of events",
+		"titleAndLocationLabel": "Title and location",
+		"titleAndLocationDescription": "Users can only see title and location of events",
+		"freeBusyLabel": "Only availability",
+		"freeBusyDescription": "Users see events as busy/available only"
+	},
+	"jiraCalendarSettingsScreen": {
+		"calendarSharingHeading": "Calendar access",
+		"calendarSharingSubHeading": "Choose who can access the calendar"
 	}
 }
