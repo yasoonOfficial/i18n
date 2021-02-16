@@ -46,13 +46,13 @@
 		"calendarSharingHeading": "Calendar access",
 		"calendarSharingSubHeading": "Choose who can access the calendar",
 		"unsharedLabel": "Outlook permissions",
-		"unsharedDescription": "User with access to this page can access the calendar",
+		"unsharedDescription": "Users with existing permissions can access the calendar",
 		"sharedLabel": "Shared permissions",
-		"sharedDescription": "Users with existing permissions can access the calendar"
+		"sharedDescription": "User with access to this page can access the calendar"
 	},
 	"officeEditPermissionSettings": {
-		"editPermissionHeading": "Event details",
-		"editPermissionSubHeading": "Choose what can be viewed",
+		"editPermissionHeading": "Event editing",
+		"editPermissionSubHeading": "Choose what can be changed",
 		"fullPermissionsLabel": "Full permissions",
 		"fullPermissionsDescription": "Users can create and edit events in this calendar",
 		"meetingRequestLabel": "Send meeting request",
@@ -61,8 +61,8 @@
 		"viewOnlyDescription": "Users cannot create or edit any events in this calendar"
 	},
 	"officeEventDetailsSettings": {
-		"eventDetailsHeading": "Event editing",
-		"eventDetailsSubHeading": "Choose what can be changed",
+		"eventDetailsHeading": "Event details",
+		"eventDetailsSubHeading": "Choose what can be viewed",
 		"fullDetailsLabel": "Full event details",
 		"fullDetailsDescription": "Users can see all details of events",
 		"titleAndLocationLabel": "Title and location",
