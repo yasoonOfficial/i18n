@@ -112,5 +112,44 @@
 	"officeLoginScreen": {
 		"heading": "Microsoft login",
 		"subHeading": "To show Outlook calendars, please sign in with your Microsoft account."
+	},
+	"generalViewSetting":{
+		"listViewHeading": "List view",
+		"agendaViewHeading": "Calendar view",
+		"schedulerViewHeading": "Timeline view"
+	},
+	"listViewSetting": {
+		"heading": "List view scope",
+		"subHeading": "Select how many days should be visible in the calendar list",
+		"selectDayLabel": "Today",
+		"selectnext7DaysLabel": "Next 7 days"
+	},
+	"schedulerViewSetting":{
+		"heading": "Timeline view scope",
+		"subHeading": "Select how many days should be visible in the timeline",
+		"selectSingleDayLabel": "Single day",
+		"select7DaysLabel": "7 days",
+		"select30DaysLabel": "30 days",
+		"select90DaysLabel": "90 days"
+	},
+	"fixedDateSetting": {
+		"heading": "Fixed date",
+		"subHeading": "Select if the calendar should be fixed on a specific date"
+	},
+	"overlappingEventsSetting": {
+		"heading": "Overlap events",
+		"subHeading": "Select if simultaneous events should visually overlap"
+	},
+	"agendaViewSetting": {
+		"heading": "Calendar view scope",
+		"subHeading": "How many days should be visible in the calendar",
+		"selectDayLabel": "Today",
+		"selectworkWeekLabel": "Work week",
+		"selectweekLabel": "Week",
+		"selectMonthLabel": "Month"
+	},
+	"splitResourcesSetting": {
+		"heading": "Split resources",
+		"subHeading": "Display calendars as separate columns"
 	}
 }
