@@ -83,6 +83,8 @@
 		"dateRangeOptionSubHeading": "Choose how the releases appear in the calendar",
 		"startToReleaseDateHeading": "Start to release date",
 		"startToReleaseDateSubHeading": "Display the release as a timeframe",
+		"createdToDueDateHeading": "Created to due date",
+		"createdToDueDateSubHeading": "Display the issues as a timeframe",
 		"releaseDateOnlyHeading": "Release date only",
 		"releaseDateOnlySubHeading": "Display the release as a single day event",
 		"customRangeHeading": "Custom",
