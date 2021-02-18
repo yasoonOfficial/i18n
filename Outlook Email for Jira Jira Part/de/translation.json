@@ -56,6 +56,7 @@
         "login": "Anmelden",
         "logout": "Abmelden",
         "loginMicrosoftHint": "Anmelden mit Microsoft",
+        "loginWithAccountChooser": "Anmelden mit Accountauswahl",
         "initSendMailDialog": "E-Mail schreiben",
         "sendMail": "Abschicken",
         "sendToSender": "Email an den Absender",

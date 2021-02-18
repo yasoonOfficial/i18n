@@ -56,6 +56,7 @@
         "login": "Login",
         "logout": "Logout",
         "loginMicrosoftHint": "Login with Microsoft",
+        "loginWithAccountChooser": "Login with account chooser",
         "initSendMailDialog": "Send an email",
         "sendMail": "Send",
         "sendToSender": "Email sender",
