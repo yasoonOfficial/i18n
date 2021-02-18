@@ -70,6 +70,9 @@
     "emptyState": {
         "noAdminEmptyState": "Du brauchst Adminberechtigungen, um diese Seite sehen zu können"
     },
+    "graphLogin": {
+        "failedTitle": "Anmelden mit Microsoft 365 fehlgeschlagen"
+    },
     "graphLoginScreen": {
         "header": "Willkommen bei Outlook Email for Jira",
         "description": "Sieht so aus, als benutzt du diese Funktion das erste Mal. Bitte melde dich mit deinem Office 365 Account an, um loszulegen!"
