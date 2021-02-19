@@ -153,5 +153,9 @@
 	"splitResourcesSetting": {
 		"heading": "Split resources",
 		"subHeading": "Display calendars as separate columns"
+	},
+	"calendarViewScreen": {
+		"sidebarHeading": "Calendars",
+		"editButtonTooltip": "Click to edit the calendar"
 	}
 }
