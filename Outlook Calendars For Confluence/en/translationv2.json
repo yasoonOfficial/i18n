@@ -1,14 +1,14 @@
 {
 	"templateScreen": {
-		"chooseCalendarHeading":"Choose Calendar Template",
+		"chooseCalendarHeading": "Choose Calendar Template",
 		"outlookHeading": "Outlook",
-		"jiraHeading":"Jira"
+		"jiraHeading": "Jira"
 	},
 	"template": {
 		"lozengeNew": "new",
 		"lozengePopular": "popular",
 		"lozengeSoon": "coming soon",
-		"ownCalendarHeading":"My calendar",
+		"ownCalendarHeading": "My calendar",
 		"ownCalendarDescription": "Show one of my calendars",
 		"currentUserHeading": "Current users’ calendar",
 		"currentUserDescription": "Show the calendar of the current logged in user",
@@ -21,7 +21,7 @@
 		"jiraReleasesAsEventsHeading": "Jira releases",
 		"jiraReleasesAsEventsDescripion": "Show Jira release dates",
 		"jiraProjectsAsEventsHeading": "Jira project issues",
-		"jiraProjectsAsEventsDescripion":"Show Jira project issues using any date field (e.g. due date)",
+		"jiraProjectsAsEventsDescripion": "Show Jira project issues using any date field (e.g. due date)",
 		"jiraSprintsAsEventsHeading": "Jira sprints",
 		"jiraSprintsAsEventsDescripion": "Show Jira sprint dates",
 		"createCalendarHeading": "New calendar",
@@ -30,12 +30,11 @@
 		"jiraFiltersAsIssuesDescripion": "Show Jira issues from a filter, using any date field",
 		"jiraJQLAsIssuesHeading": "JQL issues",
 		"jiraJQLAsIssuesDescripion": "Show Jira issues from a JQL query, using any date field"
-
 	},
 	"calendarList": {
-		"viewHeading": "View",
-		"generalSettingsLabel":"General settings",
-		"calendars":"Calendars",
+		"viewHeading": "Layout",
+		"generalSettingsLabel": "General settings",
+		"calendars": "Calendars",
 		"addCalendarButton": "+ Add Calendar"
 	},
 	"officeCategoryColorSettings": {
@@ -78,7 +77,7 @@
 		"sharedLabel": "Shared permissions",
 		"sharedDescription": "Users with existing permissions can access the calendar"
 	},
-	"jiraDateRangeOptionSettings":{
+	"jiraDateRangeOptionSettings": {
 		"dateRangeOptionHeading": "{{calendarType}} display",
 		"dateRangeOptionSubHeading": "Choose how the releases appear in the calendar",
 		"startToReleaseDateHeading": "Start to release date",
@@ -115,7 +114,7 @@
 		"heading": "Microsoft login",
 		"subHeading": "To show Outlook calendars, please sign in with your Microsoft account."
 	},
-	"generalViewSetting":{
+	"generalViewSetting": {
 		"listViewHeading": "List view",
 		"agendaViewHeading": "Calendar view",
 		"schedulerViewHeading": "Timeline view"
@@ -126,7 +125,7 @@
 		"selectDayLabel": "Today",
 		"selectnext7DaysLabel": "Next 7 days"
 	},
-	"schedulerViewSetting":{
+	"schedulerViewSetting": {
 		"heading": "Timeline view scope",
 		"subHeading": "Select how many days should be visible in the timeline",
 		"selectSingleDayLabel": "Single day",
