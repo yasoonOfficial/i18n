@@ -150,7 +150,7 @@
     },
     "editorActions": {
         "insert": "Insert",
-        "insertUnique":"Current email",
+        "insertUnique": "Current email",
         "insertWhole": "Whole email",
         "insertHeader": "Email header",
         "insertSelection": "Text selection",
@@ -204,6 +204,7 @@
         "alreadyConnectedTitle": "Already connected",
         "cannotReadJiraUserError": "Cannot read own Jira user - try again.",
         "cannotAssignUserError": "Cannot assign user - try again",
+        "cannotCompleteLogin": "We couldn't complete the login to the Jira instance. Please check our {link}.",
         "noSupportTitle": "Version not supported",
         "noSupportDescription": "This version of Outlook Email for Jira needs an update of the Jira app. Please update the app from the Atlassian Marketplace first."
     },
@@ -441,6 +442,7 @@
         "helpOnAPITokens": "Help on API Tokens",
         "getComAddIn": "COM Add-In",
         "ssoError": "steps required",
+        "troubleshootingArticle": "troubleshooting article",
         "TLS": "TLS",
         "marketplaceApp": "Marketplace app"
     },

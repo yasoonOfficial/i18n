@@ -149,7 +149,7 @@
     },
     "editorActions": {
         "insert": "Einfügen",
-        "insertUnique":"Aktuelle E-Mail",
+        "insertUnique": "Aktuelle E-Mail",
         "insertWhole": "Komplette E-Mail",
         "insertHeader": "Kopfdaten der E-Mail",
         "insertSelection": "Ausgewählten Text",
@@ -204,6 +204,7 @@
         "alreadyConnectedTitle": "Bereits verbunden",
         "cannotReadJiraUserError": "Konnten den Jira-Benutzer nicht finden - versuche es erneut.",
         "cannotAssignUserError": "Konnte Benutzer nicht zuweisen - versuche es erneut",
+        "cannotCompleteLogin": "Wir konnten die Anmeldung nicht abschließen. Bitte diesen {link} lesen.",
         "noSupportTitle": "Version nicht unterstützt",
         "noSupportDescription": "Diese Version von Outlook Email for Jira benötigt ein Update der Jira App. Bitte update die App aus dem Atlassian Marketplace."
     },
@@ -410,7 +411,7 @@
         "webViewIE": "Internet Explorer 11",
         "webViewEdge": "Microsoft Edge",
         "troubleshooting": "Fehlerbehebung",
-        "verboseLogging": "Explizite Log Nachrichten",
+        "verboseLogging": "Ausführliche Log-Nachrichten",
         "networkTrace": "Netzwerk protokollieren",
         "utils": "Tools",
         "checkUpdates": "Auf Updates prüfen",
@@ -438,9 +439,10 @@
         "technicalRequirements": "technischen Voraussetzungen",
         "jiraServerAddon": "Jira Server Addon",
         "contactOurSupport": "Support",
-        "helpOnAPITokens": "Hilfe zu API-Tokens",
         "getComAddIn": "COM Add-Ins",
         "ssoError": "benötigten Schritte",
+        "helpOnAPITokens": "Hilfe zu API Tokens",
+        "troubleshootingArticle": "Support-Artikel",
         "TLS": "TLS",
         "marketplaceApp": "Marketplace app"
     },
