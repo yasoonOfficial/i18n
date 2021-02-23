@@ -1,0 +1,33 @@
+{
+    "general": {
+        "create": "Create",
+        "cancel": "Cancel",
+        "refresh": "Refresh"
+    },
+    "error": {
+        "serverNotSupported": "Jira Server is not supported yet"
+    },
+    "login": {
+        "heading": "Connect to Jira",
+        "instruction": "Please connect your Jira account.",
+        "login": "Login"
+    },
+    "search": {
+        "placeholder": "Search for common issues.."
+    },
+    "chooseDesk": {
+        "heading": "Choose a service desk",
+        "subHeading": "Welcome! You can raise a support request after selecting a service desk."
+    },
+    "chooseGroup": {
+        "heading": "Contact us about",
+        "subHeading": "Select a field which you would like to contact us about."
+    },
+    "chooseType": {
+        "subHeading": "You can raise a support request from the options provided."
+    },
+    "createTicket": {
+        "typeChooserLabel": "What can we help you with?",
+        "typeChooserPlaceholder": "Select a request type"
+    }
+}
