@@ -1,10 +1,11 @@
 {
     "atlassianConnect.personalCalendar": "Persoenlicher Kalender",
-    "atlassianConnect.outlookCalendars":"Outlook Kalender",
+    "atlassianConnect.outlookCalendars": "Outlook Kalender",
     "atlassianConnect.spaceCalendar": "Bereichskalender",
-    "atlassianConnect.calendarConfiguration": "Kalender Konfigurieren",
+    "atlassianConnect.gettingStarted": "Einführung",
+    "atlassianConnect.calendarConfiguration": "Kalender konfigurieren",
     "atlassianConnect.configureOutlookCalendars": "Konfiguriere Outlook Calendars",
     "atlassianConnect.outlookCalendar": "Outlook Kalender",
     "atlassianConnect.pageCalendarSettings": "Makro-Kalender Einstellungen",
-    "atlassianConnect.addMacroDescription": "Fuegt einen konfigurierbaren Outlook Kalender hinzu, um Office und Jira-Kalender auf der aktuellen Seite anzuzeigen."    
+    "atlassianConnect.addMacroDescription": "Fuegt einen konfigurierbaren Outlook Kalender hinzu, um Office und Jira-Kalender auf der aktuellen Seite anzuzeigen."
 }

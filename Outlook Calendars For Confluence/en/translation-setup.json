@@ -1,10 +1,11 @@
 {
     "atlassianConnect.personalCalendar": "Personal Calendar",
-    "atlassianConnect.outlookCalendars":"Outlook Calendars",
+    "atlassianConnect.outlookCalendars": "Outlook Calendars",
     "atlassianConnect.spaceCalendar": "Space Calendar",
+    "atlassianConnect.gettingStarted": "Getting started",
     "atlassianConnect.calendarConfiguration": "Configure Calendars",
     "atlassianConnect.configureOutlookCalendars": "Configure Outlook Calendars",
     "atlassianConnect.outlookCalendar": "Outlook Calendar",
     "atlassianConnect.pageCalendarSettings": "Page Calendar Settings",
-    "atlassianConnect.addMacroDescription": "Adds a configurable Outlook calendar to display Office and Jira Calendars within the current page."    
+    "atlassianConnect.addMacroDescription": "Adds a configurable Outlook calendar to display Office and Jira Calendars within the current page."
 }
