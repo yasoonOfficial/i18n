@@ -156,5 +156,15 @@
 	"calendarViewScreen": {
 		"sidebarHeading": "Calendars",
 		"editButtonTooltip": "Click to edit the calendar"
+	}, 
+	"createOfficeEventScreen": {
+		"calendarLabel": "Calendar",
+		"subjectLabel": "Subject",
+		"locationLabel": "Location",
+		"startDateLabel": "Start date",
+		"endDateLabel": "End date",
+		"isAlldayLabel": "Allday",
+		"attendeesLabel": "Attendees",
+		"teamsMeetingLabel": "Teams Meeting"
 	}
 }
