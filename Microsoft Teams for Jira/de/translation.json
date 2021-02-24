@@ -1,3 +1,55 @@
 {
-    
+    "general": {
+        "create": "Erstellen",
+        "cancel": "Abbrechen",
+        "refresh": "Neu laden",
+        "remove": "Entfernen",
+        "browse": "Durchsuchen"
+    },
+    "error": {
+        "serverNotSupported": "Jira Server wird noch nicht unterstützt",
+        "microsoftLogin": "Microsoft login fehlgeschlagen. Bitte neu laden.",
+        "atlassianLogin": "Atlassian login fehlgeschlagen. Bitte erneut versuchen.",
+        "yasoonLogin": "Beim login ist ein Fehler aufgetreten. Das yasoon team wurde benachrichtigt.",
+        "createIssue": "Issue konnte nicht angelegt werden, bitte Felder überprüfen!",
+        "fileUpload": "Upload fehlgeschlagen. Bitte Dateien überprüfen"
+    },
+    "login": {
+        "heading": "Mit Jira verbinden",
+        "instruction": "Bitte mit Jira Account verbinden.",
+        "login": "Login"
+    },
+    "search": {
+        "placeholder": "Suchen.."
+    },
+    "chooseDesk": {
+        "heading": "Service desk auswählen",
+        "subHeading": "Willkommen! Hier können Sie eine Supportanfrage erstellen nachdem Sie einen service desk ausgewählt haben."
+    },
+    "chooseGroup": {
+        "heading": "Kontaktieren Sie uns",
+        "subHeading": "Wählen Sie ein Kategorie aus, zu der Ihre Supportanfrage am besten passt."
+    },
+    "chooseType": {
+        "subHeading": "Sie können aus den bereitgestellten Optionen eine Support Anfrage auswählen."
+    },
+    "createTicket": {
+        "typeChooserLabel": "Wobei können wir Ihnen helfen?",
+        "typeChooserPlaceholder": "Wähle eine Kategorie",
+        "submitSuccess": "Deine Supportanfrage {{issueKey}} wurde übermittelt."
+    },
+    "fieldErrorBoundary": {
+        "errorMessage": "Komponente fehlerhaft.",
+        "reportInstruction": "Feedback senden"
+    },
+    "jiraUserContextMenu": {
+        "myRequests": "Meine Anfragen",
+        "logout": "Logout"
+    },
+    "suggestions": {
+        "heading": "Vorgeschlagene Artikel"
+    },
+    "fields": {
+        "dropzoneHelptext": "Dateien drag and droppen oder hier klicken zum Auswählen"
+    }
 }
