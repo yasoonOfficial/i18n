@@ -651,7 +651,7 @@
         "loginTooltip": "Click here to log in with Outlook",
         "openOrCreateCalendarTooltip": "Open and create a calendar",
         "addIconLabel": "Add",
-        "addCalendarButtonLabel": "Add Calendar",
+        "addCalendarButtonLabel": "Add calendar",
         "noJiraUrlConfiguredFlagTitle": "No Jira URL is configured yet.",
         "noJiraUrlConfiguredFlagDescription": "Please instruct your administrator to enter a Jira URL in the settings!",
         "openOutlookCalendarOptionLabel": "Open Outlook Calendar",

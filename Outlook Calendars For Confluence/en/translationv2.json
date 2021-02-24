@@ -35,7 +35,8 @@
 		"viewHeading": "Layout",
 		"generalSettingsLabel": "General settings",
 		"calendars": "Calendars",
-		"addCalendarButton": "+ Add Calendar"
+		"addCalendarButton": "+ Add calendar",
+		"loginButton": "Login"
 	},
 	"officeCategoryColorSettings": {
 		"useCategoryColorHeading": "Use category color",
@@ -88,8 +89,8 @@
 		"releaseDateOnlySubHeading": "Display the release as a single day event",
 		"customRangeHeading": "Custom",
 		"customRangeSubHeading": "Customize how the release is displayed",
-		"dateRangeGroupHeading": "Date Ranges",
-		"singleDateGroupHeading": "Single Dates",
+		"dateRangeGroupHeading": "Date ranges",
+		"singleDateGroupHeading": "Single dates",
 		"customGroupHeading": "Custom"
 	},
 	"jiraCalendarSettingsScreen": {
@@ -107,12 +108,27 @@
 		"description": "Current users’ Outlook calendar"
 	},
 	"jiraLoginScreen": {
-		"heading": "Jira Login",
+		"heading": "Jira login",
 		"subHeading": "To show dates from Jira, please sign in with your Jira account."
+	},
+	"jiraLoginInitialScreen": {
+		"heading": "Jira Login",
+		"description": "To open calendars, you must first sign in with your Jira account."
+	},
+	"jiraInstanceChooserScreen":{
+		"backButton": "Back to templates",
+		"addInstanceButton": "Add another instance"
 	},
 	"officeLoginScreen": {
 		"heading": "Microsoft login",
 		"subHeading": "To show Outlook calendars, please sign in with your Microsoft account."
+	},
+	"officeOwnCalendarScreen": {
+		"myCalendarsHeading": "My calendars",
+		"sharedCalendarsHeading": "Shared with me",
+		"loadingPlaceholderText": "Loading own calendars",
+		"backButton": "Back to templates",
+		"errorMessage": "Could not load own user"
 	},
 	"generalViewSetting": {
 		"listViewHeading": "List view",
@@ -166,5 +182,93 @@
 		"isAlldayLabel": "Allday",
 		"attendeesLabel": "Attendees",
 		"teamsMeetingLabel": "Teams Meeting"
+	},
+	"createJqlScreen": {
+		"heading": "Back to templates",
+		"submitButton": "Add calendar"
+	}, 
+	"editJQLScreen": {
+		"heading": "JQL:",
+		"label": "Edit JQL"
+	},
+	"jiraEndDateFieldSetting": {
+		"heading": "End date",
+		"subHeading": "Select a field of the issue that should the end date of the timerange",
+		"startDateLabel": "Start date",
+		"dueDateLabel": "Due date",
+		"releaseDateLabel": "Release date",
+		"loadingLabel": "Loading all fields",
+		"loadingPlaceholder": "Loading fields",
+		"placeholder": "Select a field"
+	},
+	"jiraSingleDateFieldSetting": {
+		"heading": "Display date",
+		"subHeading": "Select a field of the issue that should the date of the event",
+		"startDateLabel": "Start date",
+		"dueDateLabel": "Due date",
+		"releaseDateLabel": "Release date",
+		"loadingLabel": "Loading all fields",
+		"loadingPlaceholder": "Loading fields",
+		"placeholder": "Select a field"
+	},
+	"jiraStartDateFieldSetting": {
+		"heading": "Start date",
+		"subHeading": "Select a field of the issue that should the start date of the timerange",
+		"startDateLabel": "Start date",
+		"dueDateLabel": "Due date",
+		"releaseDateLabel": "Release date",
+		"loadingLabel": "Loading all fields",
+		"loadingPlaceholder": "Loading fields",
+		"placeholder": "Select a field"
+	},
+	"timeRangeSetting": {
+		"heading": "Select visibility",
+		"subHeading": "Choose from recommended dispayed based on a single date or a timerange",
+		"isCheckedLabel": "Date range",
+		"isUncheckedLabel": "Single date"
+	},
+	"createOfficeCalendarScreen": {
+		"calendarNameLabel": "Calendar name",
+		"calendarNamePlaceholder": "Enter a calendar name",
+		"submitButton": "Create calendar",
+		"backButton": "Back to templates"
+	},
+	"jiraJqlScreen": {
+		"textfieldPlaceholder": "JQL calendar name",
+		"validatingMessage": "Validating JQL",
+		"validMessage": "Valid JQL"
+	},
+	"jiraSearchFiltersScreen": {
+		"heading": "Back to templates",
+		"resultsLabel": "Filters",
+		"defaultOptionsLabel": "Starred filters",
+		"noOptionsPlaceholder": "No filters found"
+	}, 
+	"jiraSearchJiraReleasesScreen": {
+		"heading": "Back to templates",
+    	"resultsLabel": "Projects",
+    	"defaultOptionsLabel": "Recent projects",
+    	"noOptionsPlaceholder": "No projects found"
+	},
+	"jiraSearchProjectsScreen": {
+		"heading": "Back to templates",
+		"resultsLabel": "Projects",
+		"defaultOptionsLabel": "Recent projects",
+		"noOptionsPlaceholder": "No projects found"
+	}, 
+	"officeSearchGroupScreen": {
+		"heading": "Back to templates",
+    	"resultsLabel": "Results",
+    	"noOptionsPlaceholder": "No groups found"
+	},
+	"officeSearchRoomsScreen": {
+		"heading": "Back to templates",
+		"resultsLabel": "Results",
+		"noOptionsPlaceholder": "No rooms found"
+	},
+	"officeSearchUserScreen": {
+		"heading": "Back to templates",
+		"resultsLabel": "Results",
+		"noOptionsPlaceholder": "No users found"
 	}
 }
