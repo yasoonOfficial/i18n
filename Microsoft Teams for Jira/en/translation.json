@@ -2,10 +2,17 @@
     "general": {
         "create": "Create",
         "cancel": "Cancel",
-        "refresh": "Refresh"
+        "refresh": "Refresh",
+        "remove": "Remove",
+        "browse": "Browse"
     },
     "error": {
-        "serverNotSupported": "Jira Server is not supported yet"
+        "serverNotSupported": "Jira Server is not supported yet",
+        "microsoftLogin": "Could not verify Microsoft login. Please refresh and try again.",
+        "atlassianLogin": "Atlassian login failed. Please try again.",
+        "yasoonLogin": "Encountered an error while processing your login. The yasoon team has been notified.",
+        "createIssue": "Couldn't create issue, please check fields!",
+        "fileUpload": "Some of your files appear to be invalid."
     },
     "login": {
         "heading": "Connect to Jira",
@@ -28,6 +35,21 @@
     },
     "createTicket": {
         "typeChooserLabel": "What can we help you with?",
-        "typeChooserPlaceholder": "Select a request type"
+        "typeChooserPlaceholder": "Select a request type",
+        "submitSuccess": "Your request {{issueKey}} has been submitted."
+    },
+    "fieldErrorBoundary": {
+        "errorMessage": "This field has crashed.",
+        "reportInstruction": "Send feedback"
+    },
+    "jiraUserContextMenu": {
+        "myRequests": "My requests",
+        "logout": "Logout"
+    },
+    "suggestions": {
+        "heading": "Suggested articles"
+    },
+    "fields": {
+        "dropzoneHelptext": "Drop files or click to select"
     }
 }
