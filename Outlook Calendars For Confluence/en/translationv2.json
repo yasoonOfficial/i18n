@@ -151,7 +151,8 @@
 	},
 	"fixedDateSetting": {
 		"heading": "Fixed date",
-		"subHeading": "Select if the calendar should be fixed on a specific date"
+		"subHeading": "Select if the calendar should be fixed on a specific date",
+		"placeHolder": "No date selected"
 	},
 	"overlappingEventsSetting": {
 		"heading": "Overlap events",
