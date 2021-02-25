@@ -115,7 +115,7 @@
 		"heading": "Jira Login",
 		"description": "To open calendars, you must first sign in with your Jira account."
 	},
-	"jiraInstanceChooserScreen":{
+	"jiraInstanceChooserScreen": {
 		"backButton": "Back to templates",
 		"addInstanceButton": "Add another instance"
 	},
@@ -171,8 +171,9 @@
 	},
 	"calendarViewScreen": {
 		"sidebarHeading": "Calendars",
-		"editButtonTooltip": "Click to edit the calendar"
-	}, 
+		"editButtonTooltip": "Click to edit the calendar",
+		"noSpaceEditPermission": "It seems like you don't have space admin permissions"
+	},
 	"createOfficeEventScreen": {
 		"calendarLabel": "Calendar",
 		"subjectLabel": "Subject",
@@ -186,7 +187,7 @@
 	"createJqlScreen": {
 		"heading": "Back to templates",
 		"submitButton": "Add calendar"
-	}, 
+	},
 	"editJQLScreen": {
 		"heading": "JQL:",
 		"label": "Edit JQL"
@@ -243,23 +244,23 @@
 		"resultsLabel": "Filters",
 		"defaultOptionsLabel": "Starred filters",
 		"noOptionsPlaceholder": "No filters found"
-	}, 
+	},
 	"jiraSearchJiraReleasesScreen": {
 		"heading": "Back to templates",
-    	"resultsLabel": "Projects",
-    	"defaultOptionsLabel": "Recent projects",
-    	"noOptionsPlaceholder": "No projects found"
+		"resultsLabel": "Projects",
+		"defaultOptionsLabel": "Recent projects",
+		"noOptionsPlaceholder": "No projects found"
 	},
 	"jiraSearchProjectsScreen": {
 		"heading": "Back to templates",
 		"resultsLabel": "Projects",
 		"defaultOptionsLabel": "Recent projects",
 		"noOptionsPlaceholder": "No projects found"
-	}, 
+	},
 	"officeSearchGroupScreen": {
 		"heading": "Back to templates",
-    	"resultsLabel": "Results",
-    	"noOptionsPlaceholder": "No groups found"
+		"resultsLabel": "Results",
+		"noOptionsPlaceholder": "No groups found"
 	},
 	"officeSearchRoomsScreen": {
 		"heading": "Back to templates",
