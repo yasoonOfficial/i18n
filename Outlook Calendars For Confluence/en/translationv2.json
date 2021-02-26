@@ -175,6 +175,12 @@
 		"editButtonTooltip": "Click to edit the calendar",
 		"noSpaceEditPermission": "It seems like you don't have space admin permissions"
 	},
+	"sidbarEmptyState": {
+		"disabledEmptyStateText": "You don't have the permission to add calendars. Only Confluence space admins are allowed to edit.",
+		"emptyStateText": "It seems like you're the first one here.",
+		"addCalendarsButton": "Add calendars",
+		"gettingStartedButton": "Getting started"
+	},
 	"createOfficeEventScreen": {
 		"calendarLabel": "Calendar",
 		"subjectLabel": "Subject",
