@@ -117,7 +117,8 @@
 	},
 	"jiraInstanceChooserScreen": {
 		"backButton": "Back to templates",
-		"addInstanceButton": "Add another instance"
+		"addInstanceButton": "Add another instance",
+		"instanceHeading": "Available instances"
 	},
 	"officeLoginScreen": {
 		"heading": "Microsoft login",
@@ -189,15 +190,20 @@
 		"endDateLabel": "End date",
 		"isAlldayLabel": "Allday",
 		"attendeesLabel": "Attendees",
-		"teamsMeetingLabel": "Teams Meeting"
+		"teamsMeetingLabel": "Teams Meeting",
+		"descriptionLabel": "Description"
 	},
 	"createJqlScreen": {
 		"heading": "Back to templates",
 		"submitButton": "Add calendar"
 	},
-	"editJQLScreen": {
+	"editJQLFieldScreen": {
 		"heading": "JQL:",
 		"label": "Edit JQL"
+	},
+	"editJQLScreen": {
+		"heading": "Back to calendars",
+		"submitLabel": "Save changes"
 	},
 	"jiraEndDateFieldSetting": {
 		"heading": "End date",
@@ -288,5 +294,33 @@
         "gotToTimeUnitTooltip": "Go to this {{unit}}",
         "todayButtonLabel": "Today",
         "nextTimeUnitTooltip": "Next {{unit}}"
+    },
+	"templateSelectionScreen": {
+		"heading": "Choose calendar template"
+	},
+	"officeEventHover": {
+		"youAreOrganizerText": "You're the organizer",
+		"isOrganizerText": " is the organizer",
+		"acceptedText": " accepted"
+	},
+	"headingInlineEditField": {
+		"defaultValue": "Click to enter value"
+	},
+	"freeBusyLabels": {
+		"busy": "Busy",
+		"free": "Free",
+		"workingElsewhere": "Working Elsewhere",
+		"unknown": "Unknown",
+		"oof": "Out of Office",
+		"tentative": "Tentative"
+	},
+	"calendarListScreen": {
+		"noCalendarSelectedMessage": "It seems that something went wrong. Please select a calendar on the left side"
+	},
+	"loginScreenStateless": {
+		"loginButton": "Login"
+	},
+	"editorComponent": {
+        "loadingText": "Loading editor..."
     }
 }
