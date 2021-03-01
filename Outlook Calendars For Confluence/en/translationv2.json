@@ -278,5 +278,15 @@
 		"heading": "Back to templates",
 		"resultsLabel": "Results",
 		"noOptionsPlaceholder": "No users found"
-	}
+	},
+	"attendeesField": {
+		"createOption": "Manually add"
+	},
+	"calendarToolbar": {
+        "refreshTooltip": "Refresh",
+        "previousTimeUnitTooltip": "Previous {{unit}}",
+        "gotToTimeUnitTooltip": "Go to this {{unit}}",
+        "todayButtonLabel": "Today",
+        "nextTimeUnitTooltip": "Next {{unit}}"
+    }
 }
