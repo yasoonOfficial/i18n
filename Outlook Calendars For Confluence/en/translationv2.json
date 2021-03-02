@@ -307,6 +307,14 @@
 		"openInOutlookText": "Open in Outlook",
 		"deleteButtonText": "Delete"
 	},
+	"jiraEventHover": {
+		"openInJiraText": "Open in Jira",
+		"createdBy": "Created by",
+		"issuetype": "Issuetype",
+		"reporter": "Reporter",
+		"dueDate": "Due date",
+		"assignee": "Assignee"
+	},
 	"headingInlineEditField": {
 		"defaultValue": "Click to enter value"
 	},
@@ -326,7 +334,7 @@
 	},
 	"editorComponent": {
 		"loadingText": "Loading editor..."
-    },
+	},
 	"calendarOptionBase": {
 		"readOnlyLabel": "Read Only"
 	}
