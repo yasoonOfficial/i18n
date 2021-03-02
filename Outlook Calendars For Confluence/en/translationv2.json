@@ -291,19 +291,21 @@
 		"createOption": "Manually add"
 	},
 	"calendarToolbar": {
-        "refreshTooltip": "Refresh",
-        "previousTimeUnitTooltip": "Previous {{unit}}",
-        "gotToTimeUnitTooltip": "Go to this {{unit}}",
-        "todayButtonLabel": "Today",
-        "nextTimeUnitTooltip": "Next {{unit}}"
-    },
+		"refreshTooltip": "Refresh",
+		"previousTimeUnitTooltip": "Previous {{unit}}",
+		"gotToTimeUnitTooltip": "Go to this {{unit}}",
+		"todayButtonLabel": "Today",
+		"nextTimeUnitTooltip": "Next {{unit}}"
+	},
 	"templateSelectionScreen": {
 		"heading": "Choose calendar template"
 	},
 	"officeEventHover": {
 		"youAreOrganizerText": "You're the organizer",
 		"isOrganizerText": " is the organizer",
-		"acceptedText": " accepted"
+		"acceptedText": " accepted",
+		"openInOutlookText": "Open in Outlook",
+		"deleteButtonText": "Delete"
 	},
 	"headingInlineEditField": {
 		"defaultValue": "Click to enter value"
@@ -323,7 +325,7 @@
 		"loginButton": "Login"
 	},
 	"editorComponent": {
-        "loadingText": "Loading editor..."
+		"loadingText": "Loading editor..."
     },
 	"calendarOptionBase": {
 		"readOnlyLabel": "Read Only"
