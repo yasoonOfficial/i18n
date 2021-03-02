@@ -21,7 +21,7 @@
 		"jiraReleasesAsEventsHeading": "Jira releases",
 		"jiraReleasesAsEventsDescripion": "Show Jira release dates",
 		"jiraProjectsAsEventsHeading": "Jira project issues",
-		"jiraProjectsAsEventsDescripion": "Show Jira project issues using any date field (e.g. due date)",
+		"jiraProjectsAsEventsDescripion": "Show Jira project issues, using any date field (e.g. due date)",
 		"jiraSprintsAsEventsHeading": "Jira sprints",
 		"jiraSprintsAsEventsDescripion": "Show Jira sprint dates",
 		"createCalendarHeading": "New calendar",
@@ -188,10 +188,11 @@
 		"locationLabel": "Location",
 		"startDateLabel": "Start date",
 		"endDateLabel": "End date",
-		"isAlldayLabel": "Allday",
+		"isAlldayLabel": "All day",
 		"attendeesLabel": "Attendees",
-		"teamsMeetingLabel": "Teams Meeting",
-		"descriptionLabel": "Description"
+		"teamsMeetingLabel": "Teams meeting",
+		"descriptionLabel": "Description",
+		"myCalendarGroupLabel": "My calendar"
 	},
 	"createJqlScreen": {
 		"heading": "Back to templates",
@@ -249,6 +250,7 @@
 	},
 	"jiraJqlScreen": {
 		"textfieldPlaceholder": "JQL calendar name",
+		"textareaPlaceholder": "project = acme",
 		"validatingMessage": "Validating JQL",
 		"validMessage": "Valid JQL"
 	},
@@ -322,5 +324,8 @@
 	},
 	"editorComponent": {
         "loadingText": "Loading editor..."
-    }
+    },
+	"calendarOptionBase": {
+		"readOnlyLabel": "Read Only"
+	}
 }
