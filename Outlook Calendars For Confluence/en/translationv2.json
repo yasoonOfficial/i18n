@@ -29,7 +29,9 @@
 		"jiraFiltersAsIssuesHeading": "Jira filter issues",
 		"jiraFiltersAsIssuesDescripion": "Show Jira issues from a filter, using any date field",
 		"jiraJQLAsIssuesHeading": "JQL issues",
-		"jiraJQLAsIssuesDescripion": "Show Jira issues from a JQL query, using any date field"
+		"jiraJQLAsIssuesDescripion": "Show Jira issues from a JQL query, using any date field",
+		"teamsChannelCalendarHeading": "Channel calendar",
+		"teamsChannelCalendarDescription": "Show Teams channel events"
 	},
 	"calendarList": {
 		"viewHeading": "Layout",
