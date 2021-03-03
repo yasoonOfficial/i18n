@@ -103,7 +103,8 @@
 		"removeCalendar": "Remove calendar"
 	},
 	"officeCalendarSettingsScreen": {
-		"removeCalendar": "Remove calendar"
+		"removeCalendar": "Remove calendar",
+		"noSettingsPlaceholder": "Everything is fine, there are no settings to configure here."
 	},
 	"officeCurrentUserCalendar": {
 		"name": "My calendar",
@@ -282,7 +283,8 @@
 	"officeSearchRoomsScreen": {
 		"heading": "Back to templates",
 		"resultsLabel": "Results",
-		"noOptionsPlaceholder": "No rooms found"
+		"noOptionsPlaceholder": "No rooms found",
+		"textfieldPlaceholder": "Type to search"
 	},
 	"officeSearchUserScreen": {
 		"heading": "Back to templates",
