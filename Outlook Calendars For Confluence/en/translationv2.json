@@ -309,9 +309,13 @@
 		"youAreOrganizerText": "You're the organizer",
 		"isOrganizerText": " is the organizer",
 		"acceptedText": " accepted",
-		"openInOutlookText": "Open in Outlook",
+		"openInOutlookText": "Open",
 		"deleteButtonText": "Delete",
-		"copyToOwnCalendar": "Copy to own calendar"
+		"copyToOwnCalendar": "Copy to own calendar",
+		"eventDeletionFailed": "Delete Event Failed",
+		"eventSuccessFlagDescription": "Succesfully created event",
+		"eventSuccessFlagTitle": "It should you up in your calendar soon",
+		"copyToOwnCalendarFailedFlagTitle": "Create event in own calendar failed"
 	},
 	"jiraEventHover": {
 		"openInJiraText": "Open in Jira",
