@@ -309,7 +309,8 @@
 		"isOrganizerText": " is the organizer",
 		"acceptedText": " accepted",
 		"openInOutlookText": "Open in Outlook",
-		"deleteButtonText": "Delete"
+		"deleteButtonText": "Delete",
+		"copyToOwnCalendar": "Copy to own calendar"
 	},
 	"jiraEventHover": {
 		"openInJiraText": "Open in Jira",
