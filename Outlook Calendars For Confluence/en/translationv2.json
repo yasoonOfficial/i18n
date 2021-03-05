@@ -38,7 +38,8 @@
 		"generalSettingsLabel": "General settings",
 		"calendars": "Calendars",
 		"addCalendarButton": "+ Add calendar",
-		"loginButton": "Login"
+		"loginButton": "Login",
+		"loginErrorMessage": "Login required"
 	},
 	"officeCategoryColorSettings": {
 		"useCategoryColorHeading": "Use category color",
