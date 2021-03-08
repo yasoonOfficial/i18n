@@ -2,7 +2,8 @@
 	"templateScreen": {
 		"chooseCalendarHeading": "Choose Calendar Template",
 		"outlookHeading": "Outlook",
-		"jiraHeading": "Jira"
+		"jiraHeading": "Jira",
+		"teamsHeading": "Microsoft Teams"
 	},
 	"template": {
 		"lozengeNew": "new",
