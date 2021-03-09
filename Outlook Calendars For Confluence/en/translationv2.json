@@ -311,11 +311,15 @@
 		"isOrganizerText": " is the organizer",
 		"acceptedText": " accepted",
 		"openInOutlookText": "Open",
+		"openInOutlookTooltip": "Open in outlook",
 		"deleteButtonText": "Delete",
-		"copyToOwnCalendar": "Copy to own calendar",
+		"deleteButtonTooltip": "Delete this event",
+		"copyToOwnCalendar": "Copy",
+		"copyToOwnCalendarTooltip": "Copy to own calendar",
+		"openInOutlookFlagAction": "Open in Outlook",
 		"eventDeletionFailed": "Delete Event Failed",
-		"eventSuccessFlagDescription": "Succesfully created event",
-		"eventSuccessFlagTitle": "It should you up in your calendar soon",
+		"eventSuccessFlagDescription": "Succesfully copied event to your calendar",
+		"eventSuccessFlagTitle": "Success",
 		"copyToOwnCalendarFailedFlagTitle": "Create event in own calendar failed"
 	},
 	"jiraEventHover": {
