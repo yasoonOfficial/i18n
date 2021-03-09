@@ -12,7 +12,8 @@
         "atlassianLogin": "Atlassian login fehlgeschlagen. Bitte erneut versuchen.",
         "yasoonLogin": "Beim login ist ein Fehler aufgetreten. Das yasoon team wurde benachrichtigt.",
         "createIssue": "Issue konnte nicht angelegt werden, bitte Felder überprüfen!",
-        "fileUpload": "Upload fehlgeschlagen. Bitte Dateien überprüfen"
+        "fileUpload": "Upload fehlgeschlagen. Bitte Dateien überprüfen",
+        "noUserFound": "Es wurde kein Benutzer mit deiner E-Mail-Adresse in diesem Service-Portal gefunden."
     },
     "login": {
         "heading": "Mit Jira verbinden",
