@@ -13,7 +13,7 @@
         "yasoonLogin": "Encountered an error while processing your login. The yasoon team has been notified.",
         "createIssue": "Couldn't create issue, please check fields!",
         "fileUpload": "Some of your files appear to be invalid.",
-        "noUserFound": "An user with your email address was not found in this service portal."
+        "noUserFound": "An user with email address {{email}} was not found in this service portal."
     },
     "login": {
         "heading": "Connect to Jira",
