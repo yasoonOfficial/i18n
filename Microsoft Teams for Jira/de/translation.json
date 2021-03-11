@@ -18,7 +18,8 @@
     "login": {
         "heading": "Mit Jira verbinden",
         "instruction": "Bitte mit Jira Account verbinden.",
-        "login": "Login"
+        "login": "Login",
+        "learnMore": "Mehr erfahren"
     },
     "search": {
         "placeholder": "Suchen.."
