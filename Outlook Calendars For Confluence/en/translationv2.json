@@ -352,5 +352,8 @@
 	},
 	"calendarOptionBase": {
 		"readOnlyLabel": "Read Only"
+	},
+	"notification": {
+		"dismiss": "Dismiss"
 	}
 }
