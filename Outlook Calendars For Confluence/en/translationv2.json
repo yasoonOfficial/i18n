@@ -130,11 +130,18 @@
 		"subHeading": "To show Outlook calendars, please sign in with your Microsoft account."
 	},
 	"officeOwnCalendarScreen": {
-		"myCalendarsHeading": "My calendars",
+		"resultsLabel": "My calendars",
 		"sharedCalendarsHeading": "Shared with me",
+		"ownCalendarsHeading": "Own calendars",
 		"loadingPlaceholderText": "Loading own calendars",
-		"backButton": "Back to templates",
-		"errorMessage": "Could not load own user"
+		"textfieldPlaceholderText": "Type to search for calendars",
+		"backButton": "Back to templates"
+	},
+	"searchTeamsChannelCalendarScreen": {
+		"resultsLabel": "Outlook Teams",
+		"loadingPlaceholderText": "Loading teams and channel calendars",
+		"textfieldPlaceholderText": "Type to search for teams/channels",
+		"backButton": "Back to templates"
 	},
 	"generalViewSetting": {
 		"listViewHeading": "List view",
