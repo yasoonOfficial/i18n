@@ -1,0 +1,31 @@
+{
+    "persistence": {
+        "fetchGlobalVisibilityErrorTitle": "Failed to fetch app visibility settings",
+        "fetchGlobalVisibilityErrorMessage": "Something has gone wrong. Please reload the page. If this occurs frequently, please contact us.",
+        "saveGlobalVisibilityErrorTitle": "Failed to save visibility settings",
+        "saveGlobalVisibilityErrorMessage": "Something has gone wrong while trying to save. Reload the page and try again.",
+        "fetchProjectVisibilitiesErrorTitle": "Failed to fetch project visibility settings",
+        "fetchProjectVisibilitiesErrorMessage": "Something has gone wrong. Please reload the page. If this occurs frequently, please contact us.",
+        "addProjectVisibilityErrorTitle": "Failed to add project exception",
+        "addProjectVisibilityErrorMessage": "Something has gone wrong while trying to save. Reload the page and try again.",
+        "changeProjectVisibilityErrorTitle": "Failed to modify visibility",
+        "changeProjectVisibilityErrorMessage": "Something has gone wrong while trying to save. Reload the page and try again.",
+        "removeProjectVisibilityErrorTitle": "Failed to reset",
+        "removeProjectVisibilityErrorMessage": "Something has gone wrong while trying to reset the visibility for this project to default. Reload the page and try again.",
+        "saveSuccessTitle": "Saved successfully",
+        "saveSuccessMessage": ""
+    },
+    "visibilityOverviewScreen": {
+        "heading": "Visibility Settings",
+        "projectsSubHeading": "Project exceptions"
+    },
+    "projectSelect": {
+        "placeholder": "Add an exception for a project"
+    },
+    "projectVisibility": {
+        "resetToDefault": "Reset to default"
+    },
+    "links": {
+        "contactUs": "Contact us"
+    }
+}

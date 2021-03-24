@@ -1,0 +1,31 @@
+{
+    "persistence": {
+        "fetchGlobalVisibilityErrorTitle": "Laden der Appeinstellungen fehlgeschlagen",
+        "fetchGlobalVisibilityErrorMessage": "Hier ist etwas schiefgegangen. Bitte lade die Seite neu. Wenn das öfter auftritt, nimm bitte Kontakt mit unserem Support auf.",
+        "saveGlobalVisibilityErrorTitle": "Ändern fehlgeschlagen",
+        "saveGlobalVisibilityErrorMessage": "Beim Speichern ist etwas schiefgegangen. Lade die Seite neu und versuche es noch einmal.",
+        "fetchProjectVisibilitiesErrorTitle": "Laden der Projekteinstellungen fehlgeschlagen",
+        "fetchProjectVisibilitiesErrorMessage": "Hier ist etwas schiefgegangen. Bitte lade die Seite neu. Wenn das öfter auftritt, nimm bitte Kontakt mit unserem Support auf.",
+        "addProjectVisibilityErrorTitle": "Hinzufügen der Ausnahme fehlgeschlagen",
+        "addProjectVisibilityErrorMessage": "Beim Speichern ist etwas schiefgegangen. Lade die Seite neu und versuche es noch einmal.",
+        "changeProjectVisibilityErrorTitle": "Ändern fehlgeschlagen",
+        "changeProjectVisibilityErrorMessage": "Beim Speichern ist etwas schiefgegangen. Lade die Seite neu und versuche es noch einmal.",
+        "removeProjectVisibilityErrorTitle": "Zurücksetzen fehlgeschlagen",
+        "removeProjectVisibilityErrorMessage": "Beim Zurücksetzen ist etwas schiefgegangen. Lade die Seite neu und versuche es noch einmal.",
+        "saveSuccessTitle": "Einstellung gespeichert",
+        "saveSuccessMessage": ""
+    },
+    "visibilityOverviewScreen": {
+        "heading": "Sichtbarkeitseinstellungen",
+        "projectsSubHeading": "Ausnahmen für Projekte"
+    },
+    "projectSelect": {
+        "placeholder": "Ausnahme für ein Projekt hinzufügen"
+    },
+    "projectVisibility": {
+        "resetToDefault": "Auf Standard zurücksetzen"
+    },
+    "links": {
+        "contactUs": "Support kontaktieren"
+    }
+}
