@@ -204,7 +204,9 @@
 		"attendeesLabel": "Attendees",
 		"teamsMeetingLabel": "Teams meeting",
 		"descriptionLabel": "Description",
-		"myCalendarGroupLabel": "My calendar"
+		"myCalendarGroupLabel": "My calendar",
+		"createEventLabel": "Create event",
+		"sendMeetingInviteLabel": "Send meeting invite"
 	},
 	"createJqlScreen": {
 		"heading": "Back to templates",
