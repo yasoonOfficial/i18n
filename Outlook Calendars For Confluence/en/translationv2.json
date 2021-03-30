@@ -95,7 +95,13 @@
 		"customRangeSubHeading": "Customize how the release is displayed",
 		"dateRangeGroupHeading": "Date ranges",
 		"singleDateGroupHeading": "Single dates",
-		"customGroupHeading": "Custom"
+		"customGroupHeading": "Custom",
+		"completeDateOnlyHeading": "Complete date only",
+		"completeDateOnlySubHeading": "Complete date only",
+		"startToEndDateHeading": "Start to End date",
+		"startToEndDateSubHeading": "Display the Sprint as a timeframe",
+		"startToCompleteDateHeading": "Start to Complete date",
+		"startToCompleteDateSubHeading": "Display the Sprint as a timeframe"
 	},
 	"jiraCalendarSettingsScreen": {
 		"releases": "releases",
@@ -225,8 +231,10 @@
 		"heading": "End date",
 		"subHeading": "Select a field of the issue that should the end date of the timerange",
 		"startDateLabel": "Start date",
+		"endDateLabel": "End date",
 		"dueDateLabel": "Due date",
 		"releaseDateLabel": "Release date",
+		"completedDateLabel": "Completed date",
 		"loadingLabel": "Loading all fields",
 		"loadingPlaceholder": "Loading fields",
 		"placeholder": "Select a field"
@@ -235,8 +243,10 @@
 		"heading": "Display date",
 		"subHeading": "Select a field of the issue that should the date of the event",
 		"startDateLabel": "Start date",
+		"endDateLabel": "End date",
 		"dueDateLabel": "Due date",
 		"releaseDateLabel": "Release date",
+		"completedDateLabel": "Completed date",
 		"loadingLabel": "Loading all fields",
 		"loadingPlaceholder": "Loading fields",
 		"placeholder": "Select a field"
@@ -245,8 +255,10 @@
 		"heading": "Start date",
 		"subHeading": "Select a field of the issue that should the start date of the timerange",
 		"startDateLabel": "Start date",
+		"endDateLabel": "End date",
 		"dueDateLabel": "Due date",
 		"releaseDateLabel": "Release date",
+		"completedDateLabel": "Completed date",
 		"loadingLabel": "Loading all fields",
 		"loadingPlaceholder": "Loading fields",
 		"placeholder": "Select a field"
@@ -280,6 +292,11 @@
 		"resultsLabel": "Projects",
 		"defaultOptionsLabel": "Recent projects",
 		"noOptionsPlaceholder": "No projects found"
+	},
+	"searchJiraSprintsScreen": {
+		"heading": "Back to templates",
+		"resultsLabel": "Boards",
+		"noOptionsPlaceholder": "No boards found"
 	},
 	"jiraSearchProjectsScreen": {
 		"heading": "Back to templates",
@@ -365,5 +382,8 @@
 	},
 	"notification": {
 		"dismiss": "Dismiss"
+	},
+	"licenseCheck": {
+		"licenseDisabledBanner": "Your license for Outlook Calendars for Confluence has expired."
 	}
 }
