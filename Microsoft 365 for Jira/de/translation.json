@@ -25,6 +25,11 @@
     "projectVisibility": {
         "resetToDefault": "Auf Standard zurücksetzen"
     },
+    "savingLozenge": {
+        "saving": "Speichern...",
+        "saved": "Einstellungen gespeichert",
+        "error": "Fehler beim Speichern"
+    },
     "links": {
         "contactUs": "Support kontaktieren"
     }

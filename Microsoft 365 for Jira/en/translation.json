@@ -25,6 +25,11 @@
     "projectVisibility": {
         "resetToDefault": "Reset to default"
     },
+    "savingLozenge": {
+        "saving": "Saving Settings...",
+        "saved": "Settings Saved",
+        "error": "Error while saving"
+    },
     "links": {
         "contactUs": "Contact us"
     }
