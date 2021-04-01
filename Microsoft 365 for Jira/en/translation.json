@@ -17,7 +17,10 @@
     },
     "visibilityOverviewScreen": {
         "heading": "Visibility Settings",
-        "projectsSubHeading": "Project exceptions"
+        "projectsSubHeading": "Project exceptions",
+        "globalSubHeading": "Defaults for all projects",
+        "projectsDescription": "TBD",
+        "globalDescription": "TBD"
     },
     "projectSelect": {
         "placeholder": "Add an exception for a project"

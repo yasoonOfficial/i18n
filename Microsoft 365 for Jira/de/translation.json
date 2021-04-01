@@ -17,7 +17,10 @@
     },
     "visibilityOverviewScreen": {
         "heading": "Sichtbarkeitseinstellungen",
-        "projectsSubHeading": "Ausnahmen für Projekte"
+        "projectsSubHeading": "Ausnahmen für Projekte",
+        "globalSubHeading": "Standardeinstellungen für alle Projekte",
+        "projectsDescription": "TBD",
+        "globalDescription": "TBD"
     },
     "projectSelect": {
         "placeholder": "Ausnahme für ein Projekt hinzufügen"
