@@ -214,7 +214,8 @@
 		"myCalendarGroupLabel": "My calendar",
 		"createEventLabel": "Create event",
 		"sendMeetingInviteLabel": "Send meeting invite",
-		"requiresLoginLozenge": "Requires additional login"
+		"requiresLoginLozenge": "Requires additional login",
+		"myCalendarLabel": "My calendar"
 	},
 	"createJqlScreen": {
 		"heading": "Back to templates",
