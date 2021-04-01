@@ -101,7 +101,8 @@
 		"startToEndDateHeading": "Start to End date",
 		"startToEndDateSubHeading": "Display the Sprint as a timeframe",
 		"startToCompleteDateHeading": "Start to Complete date",
-		"startToCompleteDateSubHeading": "Display the Sprint as a timeframe"
+		"startToCompleteDateSubHeading": "Display the Sprint as a timeframe",
+		"selectPlaceholder": "Choose option"
 	},
 	"jiraCalendarSettingsScreen": {
 		"releases": "releases",
