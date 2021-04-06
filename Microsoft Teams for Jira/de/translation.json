@@ -52,6 +52,26 @@
         "heading": "Vorgeschlagene Artikel"
     },
     "fields": {
-        "dropzoneHelptext": "Dateien drag and droppen oder hier klicken zum Auswählen"
+        "dropzoneHelptext": "Dateien drag and droppen oder hier klicken zum Auswählen",
+        "userFieldLoading": "Lade benutzer...",
+        "userFieldPlaceholder": "Benutzer auswählen",
+        "userFieldNoResults": "Keine passenden Benutzer gefunden."
+    },
+    "myRequests": {
+        "heading": "Meine Anfragen",
+        "newRequest": "Neue Anfrage",
+        "tableHeader": {
+            "type": "Art",
+            "reference": "Referrenz",
+            "summary": "Zusammenfassung",
+            "status": "Status",
+            "serviceProject": "Serviceprojekt"
+        },
+        "noSummary": "Keine Zusammenfassung",
+        "activity": "Aktivität",
+        "editorPlaceholder": "Was willst du sagen?",
+        "requestType": "Anfrageart",
+        "status": "Status",
+        "viewInJira": "In Jira anzeigen"
     }
 }

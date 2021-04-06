@@ -52,6 +52,26 @@
         "heading": "Suggested articles"
     },
     "fields": {
-        "dropzoneHelptext": "Drop files or click to select"
+        "dropzoneHelptext": "Drop files or click to select",
+        "userFieldLoading": "Loading users...",
+        "userFieldPlaceholder": "Select a user",
+        "userFieldNoResults": "We couldn't find a matching user."
+    },
+    "myRequests": {
+        "heading": "My requests",
+        "newRequest": "New request",
+        "tableHeader": {
+            "type": "Type",
+            "reference": "Reference",
+            "summary": "Summary",
+            "status": "Status",
+            "serviceProject": "Service project"
+        },
+        "noSummary": "No summary",
+        "activity": "Activity",
+        "editorPlaceholder": "What do you want to say?",
+        "requestType": "Request type",
+        "status": "Status",
+        "viewInJira": "View in Jiraa"
     }
 }
