@@ -130,7 +130,8 @@
 	"jiraInstanceChooserScreen": {
 		"backButton": "Back to templates",
 		"addInstanceButton": "Add another instance",
-		"instanceHeading": "Available instances"
+		"instanceHeading": "Available instances",
+		"installConnectAppText": "yasoon Connect App not installed. Follow instructions to enable Sprints"
 	},
 	"officeLoginScreen": {
 		"heading": "Microsoft login",
