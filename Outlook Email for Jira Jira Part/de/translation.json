@@ -127,7 +127,8 @@
         "sharedIconTooltip": "Diese Mail wurde direkt geteilt"
     },
     "messageDialog": {
-        "to": "An: "
+        "to": "An: ",
+        "attachments": "Anhänge"
     },
     "comment": {
         "to": "An: ",

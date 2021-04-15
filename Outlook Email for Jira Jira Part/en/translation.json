@@ -127,7 +127,8 @@
         "sharedIconTooltip": "This mail was shared directly"
     },
     "messageDialog": {
-        "to": "To: "
+        "to": "To: ",
+        "attachments": "Attachments"
     },
     "comment": {
         "to": "To: ",
