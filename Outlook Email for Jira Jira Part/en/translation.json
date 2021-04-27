@@ -124,7 +124,8 @@
         "noMailEmptyStateDescription": "This issue has no related emails or none you are allowed to see."
     },
     "messageComponent": {
-        "sharedIconTooltip": "This mail was shared directly"
+        "sharedIconTooltip": "This email was shared directly",
+        "attachmentsIconTooltip": "This email has attachments"
     },
     "messageDialog": {
         "to": "To: ",

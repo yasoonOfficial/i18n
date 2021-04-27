@@ -124,7 +124,8 @@
         "noMailEmptyStateDescription": "Der Vorgang hat keine - oder keine für dich sichtbaren - verknüpften Mails."
     },
     "messageComponent": {
-        "sharedIconTooltip": "Diese Mail wurde direkt geteilt"
+        "sharedIconTooltip": "Diese E-Mail wurde direkt geteilt",
+        "attachmentsIconTooltip": "Diese E-Mail hat Anhänge"
     },
     "messageDialog": {
         "to": "An: ",
