@@ -388,5 +388,51 @@
 	},
 	"licenseCheck": {
 		"licenseDisabledBanner": "Your license for Outlook Calendars for Confluence has expired."
+	},
+	"adminScreen": {
+		"heading": "Outlook Calendars for Confluence",
+		"gettingStartedTabLabel": "Getting started",
+		"globalMailboxesTabLabel": "Global mailboxes",
+		"helpTabLabel": "Help"
+	}, 
+	"adminHelpTab": {
+		"documentationHeading": "Check our documentation",
+		"documentationDescription": "It's always a good idea to check out our documentation first, we try to answer common questions there. Use the quick links below to get started",
+		"quickLinksLabel": "Quick links",
+		"gettingStartedButton": "Getting started",
+		"featuresButton": "Features",
+		"faqButton": "FAQ",
+		"contactHeading": "Contact us",
+		"contactDescription": "In case you need technical help or just want to learn about our product, we are happy to help!",
+		"contactLinksHeading": "Contact links",
+		"sendMailButton": "Send an email",
+		"raiseTicketButton": "Raise a ticket",
+		"bookMeetingButton": "Book a meeting",
+		"callUsButton": "Call us (timezone: CET)"
+	},
+	"adminOverviewTab": {
+		"learnMoreAction": "Learn more",
+		"viewPersonalCalendarAction": "View your personal calendar",
+		"gettingStartedFlagHeading": "Ready to use!",
+		"gettingStartedFlagDescription": "Welcome to Outlook Calendars for Confluence. Go to any page and insert the calendar macro to get started!",
+		"migrationGuideHeading": "Migrating from Team Calendars",
+		"migrationGuideText": "If you are migrating from Atlassian Team Calendars, there is an easy way to take over calendar events to your Outlook calendar. Check our migration guide for more details.",
+		"migrationGuideButton": "Migration guide",
+		"featureOverviewHeading": "Feature overview"
+	},
+	"adminFeaturesOverview": {
+		"pageCalendarHeading": "Add calendars to Confluence pages",
+		"pageCalendarText": "Add calendars to individual pages in Confluence. Select a page, type “Outlook …” and you can easily access our app. Set-up your calendar and make project-related data available for your whole team.",
+		"learnMoreButton": "Learn more",
+		"addCalendarsWithTemplatesHeading": "Add calendars easily with templates",
+		"addCalendarsWithTemplatesText": "Add calendars by selecting from the calendar templates available in our (new) edit screen. Every single calendar template provides default settings to make it easier for you to start working with your calendars in Confluence.",
+		"layoutOptionsHeading": "Choose between different layout options",
+		"layoutOptionsText": "Change the calendar layout depending on the calendar dates you share. Jira dates might better be displayed in a timeline view (e.g. Jira releases or sprints) while shared Outlook dates will better be shown in a calendar view (e.g. holidays or user calendar’s).",
+		"scheduleMeetingsHeading": "Schedule Outlook & Microsoft Teams meetings",
+		"scheduleMeetingsText": "Schedule Outlook and Microsoft Teams meetings directly in Confluence. Even decide on whose behalf you’d like to schedule the meeting. View meeting details with a single click after sending out the invite.",
+		"managePermissionsHeading": "Manage calendar permissions (Outlook & Jira)",
+		"managePermissionsText": "This goes for both Outlook calendar and Jira dates! Manage calendar permissions easily yourself. Choose who can see or edit calendars in Confluence. Decide if everyone with access to the Confluence space or page can view the data shared or if it should only be those with a Microsoft 365 or Jira Log-in.",
+		"previousButton": "Prev",
+		"nextButton": "Next"
 	}
 }
