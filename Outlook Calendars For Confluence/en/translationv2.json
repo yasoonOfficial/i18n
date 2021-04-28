@@ -421,8 +421,8 @@
 		"featureOverviewHeading": "Feature overview"
 	},
 	"adminFeaturesOverview": {
-		"pageCalendarHeading": "Add calendars to Confluence pages",
-		"pageCalendarText": "Add calendars to individual pages in Confluence. Select a page, type “Outlook …” and you can easily access our app. Set-up your calendar and make project-related data available for your whole team.",
+		"pageCalendarHeading": "Add Outlook calendars to Confluence pages or spaces",
+		"pageCalendarText": "Use Outlook calendars as a fast, powerful, and secure way to work with calendars in Confluence. Benefit from real-time data from Microsoft 365, no sync is needed. Add new project meetings directly in Confluence.",
 		"learnMoreButton": "Learn more",
 		"addCalendarsWithTemplatesHeading": "Add calendars easily with templates",
 		"addCalendarsWithTemplatesText": "Add calendars by selecting from the calendar templates available in our (new) edit screen. Every single calendar template provides default settings to make it easier for you to start working with your calendars in Confluence.",
