@@ -26,7 +26,7 @@
         "placeholder": "Ausnahme für ein Projekt hinzufügen"
     },
     "projectVisibility": {
-        "resetToDefault": "Auf Standard zurücksetzen"
+        "resetToDefault": "Ausnahme entfernen"
     },
     "savingLozenge": {
         "saving": "Speichern...",
@@ -35,5 +35,37 @@
     },
     "links": {
         "contactUs": "Support kontaktieren"
+    },
+    "productLozenge": {
+        "active": "aktiv",
+        "inactive": "inaktiv"
+    },
+    "actions": {
+        "activate": "Aktivieren",
+        "deactivate": "Deaktivieren",
+        "cancel": "Abbrechen",
+        "confirm": "Bestätigen"
+    },
+    "productDescription": {
+        "teams": "TBD",
+        "email": "TBD",
+        "meetings": "TBD",
+        "todo": "TBD"
+    },
+    "disableProductDescription": {
+        "teams": "TBD",
+        "email": "TBD",
+        "meetings": "TBD",
+        "todo": "TBD"
+    },
+    "overrideCheckBox": {
+        "disableLabel": "Auch für Projekte mit gelisteter Ausnahme deaktivieren.",
+        "enableLabel": "Auch für Projekte mit gelisteter Ausnahme aktivieren."
+    },
+    "enableProductDescription": {
+        "teams": "TBD",
+        "email": "TBD",
+        "meetings": "TBD",
+        "todo": "TBD"
     }
 }

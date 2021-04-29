@@ -19,14 +19,14 @@
         "heading": "Visibility Settings",
         "projectsSubHeading": "Project exceptions",
         "globalSubHeading": "Defaults for all projects",
-        "projectsDescription": "TBD",
-        "globalDescription": "TBD"
+        "projectsDescription": "Not all projects have the same requirements. If you want the settings for a project to differ from the default, you can select the available functionality for the project directly.",
+        "globalDescription": "Defines if the functionality is available in all projects by default. Projects can opt-out/opt-in below."
     },
     "projectSelect": {
         "placeholder": "Add an exception for a project"
     },
     "projectVisibility": {
-        "resetToDefault": "Reset to default"
+        "resetToDefault": "Remove exception"
     },
     "savingLozenge": {
         "saving": "Saving Settings...",
@@ -35,5 +35,38 @@
     },
     "links": {
         "contactUs": "Contact us"
+    },
+    "productLozenge": {
+        "active": "enabled",
+        "inactive": "disabled"
+    },
+    "actions": {
+        "activate": "Enable",
+        "deactivate": "Disable",
+        "cancel": "Cancel",
+        "confirm": "Confirm",
+        "learnMore": "Learn more..."
+    },
+    "productDescription": {
+        "teams": "Bring your Microsoft Teams conversations and chats to your Jira issues and vice versa.",
+        "email": "Connect emails with Jira issues and send emails from Jira.",
+        "meetings": "Schedule Microsoft Teams and Outlook meetings in Jira. See availabilities and send meeting requests from Jira.",
+        "todo": "Create and see personal To Dos in your Jira issues."
+    },
+    "disableProductDescription": {
+        "teams": "This will instantly disable the Microsoft Teams functionality for all projects without a listed exception. Are you sure you want to disable the Microsoft Teams functionality now?",
+        "email": "This will instantly disable the email functionality for all projects without a listed exception. Are you sure you want to disable the email functionality now?",
+        "meetings": "This will instantly disable the meetings functionality for all projects without a listed exception. Are you sure you want to disable the meetings functionality now?",
+        "todo": "This will instantly disable the Microsoft To Do functionality for all projects without a listed exception. Are you sure you want to disable the Microsoft To Do functionality now?"
+    },
+    "overrideCheckBox": {
+        "disableLabel": "Also disable the functionality for projects with a listed exception.",
+        "enableLabel": "Also enable the functionality for projects with a listed exception."
+    },
+    "enableProductDescription": {
+        "teams": "TBD",
+        "email": "TBD",
+        "meetings": "TBD",
+        "todo": "TBD"
     }
 }
