@@ -72,6 +72,8 @@
         "editorPlaceholder": "Was willst du sagen?",
         "requestType": "Anfrageart",
         "status": "Status",
-        "viewInJira": "In Jira anzeigen"
+        "viewInJira": "In Jira anzeigen",
+        "viewMoreInJira": "Mehr in Jira anzeigen",
+        "showMore": "{{amount}} mehr anzeigen"
     }
 }
