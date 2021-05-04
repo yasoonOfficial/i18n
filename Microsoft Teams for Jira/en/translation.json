@@ -74,6 +74,7 @@
         "status": "Status",
         "viewInJira": "View in Jira",
         "viewMoreInJira": "View more in Jira",
-        "showMore": "Show {{amount}} more"
+        "showMore": "Show {{amount}} more",
+        "raisedThis": "raised this"
     }
 }
