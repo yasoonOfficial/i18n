@@ -32,7 +32,9 @@
 		"jiraJQLAsIssuesHeading": "JQL issues",
 		"jiraJQLAsIssuesDescripion": "Show Jira issues from a JQL query, using any date field",
 		"teamsChannelCalendarHeading": "Channel calendar",
-		"teamsChannelCalendarDescription": "Show Teams channel events"
+		"teamsChannelCalendarDescription": "Show Teams channel events",
+		"globalMailboxHeading": "Global mailboxes",
+		"globalMailboxDescription": "Show a calendar of an global configured mailbox"
 	},
 	"calendarList": {
 		"viewHeading": "Layout",
@@ -276,7 +278,8 @@
 		"calendarNameLabel": "Calendar name",
 		"calendarNamePlaceholder": "Enter a calendar name",
 		"submitButton": "Create calendar",
-		"backButton": "Back to templates"
+		"backButton": "Back to templates",
+		"myCalendarLabel": "My calendar"
 	},
 	"jiraJqlScreen": {
 		"textfieldPlaceholder": "JQL calendar name",
@@ -434,5 +437,22 @@
 		"managePermissionsText": "This goes for both Outlook calendar and Jira dates! Manage calendar permissions easily yourself. Choose who can see or edit calendars in Confluence. Decide if everyone with access to the Confluence space or page can view the data shared or if it should only be those with a Microsoft 365 or Jira Log-in.",
 		"previousButton": "Prev",
 		"nextButton": "Next"
+	},
+	"adminGlobalMailboxesTab": {
+		"heading": "Global mailboxes",
+		"description": "In Office, calendars are usually bound to a single user's mailbox, which can make managing the content quite difficult. In some scenarios it is important to store the calendar data not in a user specific mailbox but in a shared calendar. Generally, we recommend using an Outlook Group calendar or a Microsoft Teams channel calendar for this purpose. However, our app also supports the usage of shared mailboxes, which are then displayed in the app as global mailboxes.",
+		"emptyStateHeading": "Global mailboxes",
+		"emptyStateDescription": "You don't have any global mailboxes configured yet. Start by adding your first mailbox.",
+		"emptyStateLearnMoreButton": "Learn more",
+		"emptyStateAddButton": "Add global mailbox",
+		"addMailboxButton": "Add another"
+	},
+	"globalMailboxComponent": {
+		"removeButtonLabel": "Remove"
+	},
+	"globalMailboxesDialog": {
+		"heading": "Search for mailboxes",
+		"resultsLabel": "Search result",
+		"noOptionsLabel": "No options found"
 	}
 }
