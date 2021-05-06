@@ -395,9 +395,13 @@
 	"adminScreen": {
 		"heading": "Outlook Calendars for Confluence",
 		"gettingStartedTabLabel": "Getting started",
+		"sharingTabLabel": "Sharing",
 		"globalMailboxesTabLabel": "Global mailboxes",
 		"helpTabLabel": "Help"
-	}, 
+	},
+	"adminSharingTab": {
+		"sharingDescription": "This feature allows your users to share the calendar with other users. Everyone will see the calendar the same way as the person that created it. Notice: if you change this setting, already shared calendars will stay shared!"
+	},
 	"adminHelpTab": {
 		"documentationHeading": "Check our documentation",
 		"documentationDescription": "It's always a good idea to check out our documentation first, we try to answer common questions there. Use the quick links below to get started",
