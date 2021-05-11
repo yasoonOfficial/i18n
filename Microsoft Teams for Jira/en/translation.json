@@ -75,6 +75,7 @@
         "viewInJira": "View in Jira",
         "viewMoreInJira": "View more in Jira",
         "showMore": "Show {{amount}} more",
-        "raisedThis": "raised this"
+        "raisedThis": "raised this",
+        "relatedChats": "Related chats"
     }
 }

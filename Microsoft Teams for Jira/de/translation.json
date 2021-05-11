@@ -75,6 +75,7 @@
         "viewInJira": "In Jira anzeigen",
         "viewMoreInJira": "Mehr in Jira anzeigen",
         "showMore": "{{amount}} mehr anzeigen",
-        "raisedThis": "hat diese Anfrage gestellt: "
+        "raisedThis": "hat diese Anfrage gestellt: ",
+        "relatedChats": "Verknüpfte Chats"
     }
 }
