@@ -400,7 +400,14 @@
 		"helpTabLabel": "Help"
 	},
 	"adminSharingTab": {
-		"sharingDescription": "This feature allows your users to share the calendar with other users. Everyone will see the calendar the same way as the person that created it. Notice: if you change this setting, already shared calendars will stay shared!"
+		"sharingDescription": "This feature allows your users to share calendars with other users. Everyone will see the calendar the same way as the person that created it. Notice: if you change this setting later on, already shared calendars will still be shared!",
+		"heading": "Calendar sharing settings",
+		"sharingOptions": "Sharing options",
+		"outlookSharingToggleLabel": "Allow sharing Outlook calendars",
+		"jiraSharingToggleLabel": "Allow sharing Jira data",
+		"anonymousSharingHeading": "Anonymous calendar sharing",
+		"anonymousSharingDescription": "By default shared calendars can’t be accessed by anonymous users. If you want to allow calendars to be shared on public pages you explicitly need to enable this setting.",
+		"anonymousSharingToggleLabel": "Allow users to publicly share data"
 	},
 	"adminHelpTab": {
 		"documentationHeading": "Check our documentation",
