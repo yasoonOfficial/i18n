@@ -33,8 +33,8 @@
 		"jiraJQLAsIssuesDescripion": "Show Jira issues from a JQL query, using any date field",
 		"teamsChannelCalendarHeading": "Channel calendar",
 		"teamsChannelCalendarDescription": "Show Teams channel events",
-		"globalMailboxHeading": "Global mailboxes",
-		"globalMailboxDescription": "Show a calendar of an global configured mailbox"
+		"globalMailboxHeading": "Global calendars",
+		"globalMailboxDescription": "Show a calendar of an global configured calendar"
 	},
 	"calendarList": {
 		"viewHeading": "Layout",
@@ -396,7 +396,7 @@
 		"heading": "Outlook Calendars for Confluence",
 		"gettingStartedTabLabel": "Getting started",
 		"sharingTabLabel": "Sharing",
-		"globalMailboxesTabLabel": "Global mailboxes",
+		"globalMailboxesTabLabel": "Global calendars",
 		"helpTabLabel": "Help"
 	},
 	"adminSharingTab": {
@@ -450,10 +450,10 @@
 		"nextButton": "Next"
 	},
 	"adminGlobalMailboxesTab": {
-		"heading": "Global mailboxes",
-		"description": "In Office, calendars are usually bound to a single user's mailbox, which can make managing the content quite difficult. In some scenarios it is important to store the calendar data not in a user specific mailbox but in a shared calendar. Generally, we recommend using an Outlook Group calendar or a Microsoft Teams channel calendar for this purpose. However, our app also supports the usage of shared mailboxes, which are then displayed in the app as global mailboxes.",
-		"emptyStateHeading": "Global mailboxes",
-		"emptyStateDescription": "You don't have any global mailboxes configured yet. Start by adding your first mailbox.",
+		"heading": "Global calendars",
+		"description": "In Office, calendars are usually bound to a single user's mailbox, which can make managing the content quite difficult. In some scenarios it is important to store the calendar data not in a user specific mailbox but in a shared calendar. Generally, we recommend using an Outlook Group calendar or a Microsoft Teams channel calendar for this purpose. However, our app also supports the usage of shared mailboxes, which are then displayed in the app as global calendars.",
+		"emptyStateHeading": "Global calendars",
+		"emptyStateDescription": "You don't have any global calendars configured yet. Start by adding your first mailbox.",
 		"emptyStateLearnMoreButton": "Learn more",
 		"emptyStateAddButton": "Add global mailbox",
 		"addMailboxButton": "Add another"
