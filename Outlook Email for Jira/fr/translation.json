@@ -47,6 +47,7 @@
     },
     "settingsScreen": {
         "appSettingsTabHeading": "Paramètres",
+        "dialogSettingsTabHeading": "Paramètres fenêtre",
         "jiraLoginTabHeading": "Compte Jira",
         "aboutTabHeading": "À propos",
         "settingsHeader": "Paramètres",
@@ -55,7 +56,6 @@
         "language": "Langue",
         "languageSelectPlaceholder": "Sélectionner...",
         "remoteDebug": "Capture d'écran (pour aide à distance en cas de problème)",
-        "createAddIssueHeading": "Réglages pour fenêtre des tickets",
         "addAttachmentsByDefault": "Sélectionner toutes les pièces-jointes",
         "addEmailAsFile": "Sélectionner / télécharger l'email (.msg)",
         "preselectProjectIssueType": "Présélectionner le dernier projet et type de ticket utilisés",
