@@ -162,7 +162,8 @@
 		"heading": "List view scope",
 		"subHeading": "Select how many days should be visible in the calendar list",
 		"selectDayLabel": "Today",
-		"selectnext7DaysLabel": "Next 7 days"
+		"selectnext7DaysLabel": "Next 7 days",
+		"selectMonthLabel": "Month"
 	},
 	"schedulerViewSetting": {
 		"heading": "Timeline view scope",
