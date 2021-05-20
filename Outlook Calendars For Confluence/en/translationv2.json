@@ -34,7 +34,7 @@
 		"teamsChannelCalendarHeading": "Channel calendar",
 		"teamsChannelCalendarDescription": "Show Teams channel events",
 		"globalMailboxHeading": "Global calendars",
-		"globalMailboxDescription": "Show a calendar of an global configured calendar"
+		"globalMailboxDescription": "Show a pre-configured calendar"
 	},
 	"calendarList": {
 		"viewHeading": "Layout",
@@ -397,7 +397,7 @@
 		"heading": "Outlook Calendars for Confluence",
 		"gettingStartedTabLabel": "Getting started",
 		"sharingTabLabel": "Sharing",
-		"globalMailboxesTabLabel": "Global calendars",
+		"globalMailboxesTabLabel": "Shared mailboxes",
 		"helpTabLabel": "Help"
 	},
 	"adminSharingTab": {
@@ -451,12 +451,13 @@
 		"nextButton": "Next"
 	},
 	"adminGlobalMailboxesTab": {
-		"heading": "Global calendars",
-		"description": "In Office, calendars are usually bound to a single user's mailbox, which can make managing the content quite difficult. In some scenarios it is important to store the calendar data not in a user specific mailbox but in a shared calendar. Generally, we recommend using an Outlook Group calendar or a Microsoft Teams channel calendar for this purpose. However, our app also supports the usage of shared mailboxes, which are then displayed in the app as global calendars.",
-		"emptyStateHeading": "Global calendars",
-		"emptyStateDescription": "You don't have any global calendars configured yet. Start by adding your first mailbox.",
+		"heading": "Shared mailboxes",
+		"description": "Add pre-existing shared mailboxes to make them available for the \"Global calendars\" template. This is a legacy feature - we recommend using Outlook Group calendars or Microsoft Teams channel calendars going forward. ",
+		"desctiptionLearnMoreButton": "Learn more",
+		"emptyStateHeading": "Shared mailboxes",
+		"emptyStateDescription": "You don't have any shared mailboxes configured yet.",
 		"emptyStateLearnMoreButton": "Learn more",
-		"emptyStateAddButton": "Add global mailbox",
+		"emptyStateAddButton": " Add shared mailbox",
 		"addMailboxButton": "Add another"
 	},
 	"globalMailboxComponent": {
@@ -466,5 +467,11 @@
 		"heading": "Search for mailboxes",
 		"resultsLabel": "Search result",
 		"noOptionsLabel": "No options found"
+	},
+	"legacyCalendarFlag": {
+		"officeCalendarHeading": "Migrated Outlook calendar",
+		"officeCalendarDescription": "If you want to make changes to the calendar, please remove it and add it again.",
+		"jiraCalendarHeading": "Migrated Jira calendar",
+		"jiraCalendarDescription": "If you want to make changes to the calendar, please remove it and add it again."
 	}
 }
