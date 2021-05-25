@@ -66,7 +66,11 @@
         "replyAll": "Allen antworten",
         "showDetail": "Öffnen",
         "openInBrowser": "In Outlook öffnen",
-        "loadMore": "Mehr laden"
+        "loadMore": "Mehr laden",
+        "hideAttachments": "Anhänge verbergen",
+        "showAllAttachments": "Alle Anhänge anzeigen ({{amount}})",
+        "showAttachments": "Anhänge anzeigen",
+        "seeLessAttachments": "Weniger anzeigen"
     },
     "emptyState": {
         "noAdminEmptyState": "Du brauchst Adminberechtigungen, um diese Seite sehen zu können"
