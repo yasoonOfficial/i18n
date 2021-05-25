@@ -46,6 +46,7 @@
     },
     "jiraUserContextMenu": {
         "myRequests": "Meine Anfragen",
+        "openJira": "Jira öffnen",
         "logout": "Logout"
     },
     "suggestions": {
