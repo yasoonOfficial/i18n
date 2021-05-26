@@ -25,7 +25,11 @@
         "language": "Language",
         "languageSelectPlaceholder": "Select...",
         "remoteDebug": "Record screen (for remote debug purposes)",
-        "createAddIssueHeading": "Issue Dialog Settings",
+        "descriptionSettingsHeading": "Description",
+        "addToIssueDescription": "When adding to an issue, what should be filled into the comment?",
+        "createIssueDescription": "When creating an issue, what should be filled into the description?",
+        "attachmentsHeading": "Attachments",
+        "miscellaneousHeading": "Miscellaneous",
         "addAttachmentsByDefault": "Select all attachments by default",
         "addEmailAsFile": "Select / upload email (.msg) by default",
         "preselectProjectIssueType": "Preselect last used project and issuetype",
@@ -37,6 +41,11 @@
         "oldEditor": "Disable WYSIWYG Editor and use markup instead",
         "autoRefreshFeed": "Refresh feed automatically",
         "userDefaultsDescription": "Configure the settings a new user will get by default when first installing our Outlook Add-In. This will only affect new users when adding this Jira instance as their first instance. Each user can then adjust these settings for his personal preferences."
+    },
+    "prefillOptionLabel": {
+        "doNotPrefill": "Always keep empty",
+        "wholeEmail": "Always fill in the full email",
+        "preferUniqueEmail": "Only fill in the latest reply (or the full email if not possible)"
     },
     "technicalSettingsTab": {
         "heading": "Configure general settings",

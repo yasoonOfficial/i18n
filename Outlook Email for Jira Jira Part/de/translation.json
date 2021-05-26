@@ -25,7 +25,11 @@
         "language": "Sprache",
         "languageSelectPlaceholder": "Auswählen...",
         "remoteDebug": "Bildschirm aufnehmen (für Support)",
-        "createAddIssueHeading": "Vorgangs Popup Einstellungen",
+        "descriptionSettingsHeading": "Vorgangsbeschreibung",
+        "addToIssueDescription": "Was soll beim Hinzufügen zu einem Vorgang in den Kommentar eingefügt werden?",
+        "createIssueDescription": "Was soll beim Erstellen eines Vorgangs in die Beschreibung eingefügt werden?",
+        "attachmentsHeading": "Anhänge",
+        "miscellaneousHeading": "Verschiedenes",
         "addAttachmentsByDefault": "Alle Anhänge vorselektieren",
         "addEmailAsFile": "E-Mail (.msg) Anhang vorselektieren",
         "preselectProjectIssueType": "Zuletzt verwendetes Projekt und Vorgangstyp vorselektieren",
@@ -37,6 +41,11 @@
         "oldEditor": "Den WYSIWYG Editor deaktivieren und stattdessen Markup verwenden",
         "autoRefreshFeed": "Feed automatisch aktualisieren",
         "userDefaultsDescription": "Konfiguriere die Einstellungen, die ein neuer Benutzer unseres Outlook Add-Ins standardmäßig erhält, wenn er unser Outlook Add-In installiert. Dies betrifft nur neue Benutzer, die diese Jira-Instanz als ihre erste Instanz hinzufügen. Anschließend kann jeder Benutzer diese Einstellungen nach seinen Präferenzen bearbeiten."
+    },
+    "prefillOptionLabel": {
+        "doNotPrefill": "Immer leer lassen",
+        "wholeEmail": "Immer die  gesamte E-Mail einfügen",
+        "preferUniqueEmail": "Nur die letzte Antwort einfügen (falls nicht möglich, wird die gesamte E-Mail eingefügt)"
     },
     "technicalSettingsTab": {
         "heading": "Allgemeine Einstellungen",
