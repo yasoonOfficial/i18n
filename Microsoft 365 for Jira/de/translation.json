@@ -115,6 +115,9 @@
         "supportPortalHeadline": "Support Portal",
         "supportPortalText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
         "securityHeadline": "Sicherheit",
-        "securityText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        "securityText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "activeInAllProjects": "Aktiv in allen Projekten",
+        "activeInXProjects": "Aktiv in {{amount}} Projekten",
+        "activeInOneProject": "Aktiv in 1 Projekt"
     }
 }
