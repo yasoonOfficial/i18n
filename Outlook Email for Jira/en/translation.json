@@ -164,8 +164,8 @@
     },
     "editorActions": {
         "insert": "Insert",
-        "insertUnique": "Current email",
-        "insertWhole": "Whole email",
+        "insertUnique": "Latest reply",
+        "insertWhole": "Full email",
         "insertHeader": "Email header",
         "insertSelection": "Text selection",
         "insertFailedTitle": "Action failed",

@@ -163,8 +163,8 @@
     },
     "editorActions": {
         "insert": "Einfügen",
-        "insertUnique": "Aktuelle E-Mail",
-        "insertWhole": "Komplette E-Mail",
+        "insertUnique": "Letzte Antwort",
+        "insertWhole": "Gesamte E-Mail",
         "insertHeader": "Kopfdaten der E-Mail",
         "insertSelection": "Ausgewählten Text",
         "insertFailedTitle": "Einfügen fehlgeschlagen",
