@@ -74,17 +74,17 @@
         "logRocketChangedMessage": "Du hast deine Bildschirmaufnahmeeinstellung geändert. Damit die Änderung wirksam wird, musst du diesen Dialog schließen und erneut öffnen.",
         "needReloadTitle": "Erneutes Laden nötig",
         "descriptionSettingsHeading": "Vorgangsbeschreibung",
-        "addToIssueDescription": "Was soll beim Hinzufügen zu einem Vorgang in den Kommentar gefüllt werden?",
-        "createIssueDescription": "Was soll beim Erstellen eines Vorgangs in die Beschreibung gefüllt werden?",
+        "addToIssueDescription": "Was soll beim Hinzufügen zu einem Vorgang in den Kommentar eingefügt werden?",
+        "createIssueDescription": "Was soll beim Erstellen eines Vorgangs in die Beschreibung eingefügt werden?",
         "attachmentsHeading": "Anhänge",
         "miscellaneousHeading": "Verschiedenes",
         "clearCache": "Zwischengespeicherte Daten löschen (Das nächste Öffnen des Dialogs kann dann ein wenig länger dauern)",
         "troubleshootingHeading": "Fehleranalyse"
     },
     "prefillOptionLabel": {
-        "doNotPrefill": "Leer lassen",
-        "wholeEmail": "Immer die ganze E-Mail",
-        "preferUniqueEmail": "Nur die letzte Antwort (wenn verfügbar, sonst die ganze E-Mail)"
+        "doNotPrefill": "Immer leer lassen",
+        "wholeEmail": "Immer die  gesamte E-Mail einfügen",
+        "preferUniqueEmail": "Nur die letzte Antwort einfügen (falls nicht möglich, wird die gesamte E-Mail eingefügt)"
     },
     "about": {
         "licenseHeading": "Lizenzen",
