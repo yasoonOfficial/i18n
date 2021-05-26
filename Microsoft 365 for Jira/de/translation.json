@@ -67,5 +67,54 @@
         "email": "TBD",
         "meetings": "TBD",
         "todo": "TBD"
+    },
+    "footer": {
+        "poweredBy": "POWERED BY"
+    },
+    "button": {
+        "active": "Aktiv",
+        "activate": "Aktivieren",
+        "next": "Weiter",
+        "configureNow": "Jetzt konfigurieren"
+    },
+    "adminNavigation": {
+        "gettingStarted": "Einstieg",
+        "help": "Hilfe"
+    },
+    "wizard": {
+        "headline": "Sichtbarkeit verwalten",
+        "intro": "Gewähre den richtigen Projekten Sichtbarkeit, damit jeder seine Arbeit bestmöglich erledigen kann.",
+        "activateForInstance": "Für die ganze Instanz aktivieren",
+        "activateForProjects": "Für bestimmte Projekte aktivieren",
+        "inputPlaceholder": "Projekte suchen",
+        "activatedProjects": "Aktivierte Projekte",
+        "outro1": "Gut gemacht!",
+        "outro2": "Viel Spaß beim Benutzen der App."
+    },
+    "help": {
+        "documentationHeadline": "Dokumentation einsehen",
+        "documentationText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat!",
+        "contactUsHeadline": "Kontaktiere uns",
+        "contactUsText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat!",
+        "gettingStarted": "Einstieg",
+        "initialSetup": "Initiales Setup",
+        "faq": "FAQ",
+        "sendEmail": "Email schreiben",
+        "raiseTicket": "Ticket erstellen",
+        "bookMeeting": "Meeting buchen",
+        "callUs": "Anrufen"
+    },
+    "gettingStarted": {
+        "intro1": "Hey Admin!",
+        "intro2": "Hier ist Microsoft 365 for Jira",
+        "intro3": "Verbinde Jira mit deinen Microsoft 365-Tools für eine nahtlose Teamarbeit. Aktiviere unten die benötigte Funktionalität.",
+        "teamsInfo": "Connect your Microsoft Teams conversations and chat to your Jira issues. Using Jira Service Management? Let customers create support tickets in Microsoft Teams.",
+        "emailInfo": "Connect your Microsoft Teams conversations and chat to your Jira issues. Using Jira Service Management? Let customers create support tickets in Microsoft Teams.",
+        "meetingsInfo": "Connect your Microsoft Teams conversations and chat to your Jira issues. Using Jira Service Management? Let customers create support tickets in Microsoft Teams.",
+        "todoInfo": "Connect your Microsoft Teams conversations and chat to your Jira issues. Using Jira Service Management? Let customers create support tickets in Microsoft Teams.",
+        "supportPortalHeadline": "Support Portal",
+        "supportPortalText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "securityHeadline": "Sicherheit",
+        "securityText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
     }
 }
