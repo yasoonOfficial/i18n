@@ -82,9 +82,9 @@
         "troubleshootingHeading": "Fehleranalyse"
     },
     "prefillOptionLabel": {
-        "doNotPrefill": "Nichts",
-        "wholeEmail": "Die ganze E-Mail",
-        "preferUniqueEmail": "Nur diese E-Mail (wenn verfügbar, sonst die ganze E-Mail)"
+        "doNotPrefill": "Leer lassen",
+        "wholeEmail": "Immer die ganze E-Mail",
+        "preferUniqueEmail": "Nur die letzte Antwort (wenn verfügbar, sonst die ganze E-Mail)"
     },
     "about": {
         "licenseHeading": "Lizenzen",

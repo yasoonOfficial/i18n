@@ -82,9 +82,9 @@
 
     },
     "prefillOptionLabel": {
-        "doNotPrefill": "Nothing",
-        "wholeEmail": "The full email",
-        "preferUniqueEmail": "Only the current email (if available, else full email)"
+        "doNotPrefill": "Keep empty",
+        "wholeEmail": "Always full email",
+        "preferUniqueEmail": "Only latest reply (or full email if not possible)"
     },
     "about": {
         "licenseHeading": "Licenses",
