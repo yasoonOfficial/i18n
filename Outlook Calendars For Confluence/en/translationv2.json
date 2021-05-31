@@ -473,5 +473,11 @@
 		"officeCalendarDescription": "If you want to make changes to the calendar, please remove it and add it again.",
 		"jiraCalendarHeading": "Migrated Jira calendar",
 		"jiraCalendarDescription": "If you want to make changes to the calendar, please remove it and add it again."
+	},
+	"userSettingsScreen": {
+		"heading": "Microsoft 365 settings",
+		"loginHeading": "Microsoft account",
+		"logoutButton": "Logout",
+		"notLoggedIn": "You're not logged in"
 	}
 }
