@@ -372,7 +372,8 @@
         "technicalSettings": "Paramètres techniques",
         "webViewRadioLabel": "Choisir navigateur favoris pour discussion et barre latérale",
         "webViewIE": "Internet Explorer 11",
-        "webViewEdge": "Microsoft Edge",
+        "webViewEdge": "Microsoft Edge (legacy)",
+        "webViewEdge2": "Microsoft Edge",
         "troubleshooting": "Dépannage",
         "verboseLogging": "Journal détaillé des erreurs",
         "networkTrace": "Enregistrer réseau",
@@ -466,5 +467,4 @@
         "project": "Projet",
         "type": "Type"
     }
-
 }

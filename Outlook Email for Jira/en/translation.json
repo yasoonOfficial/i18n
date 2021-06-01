@@ -79,7 +79,6 @@
         "miscellaneousHeading": "Miscellaneous",
         "clearCache": "Remove cached data (This will impact performance when opening this dialog the next time)",
         "troubleshootingHeading": "Troubleshooting"
-
     },
     "prefillOptionLabel": {
         "doNotPrefill": "Always keep empty",
@@ -421,9 +420,10 @@
         "usePublicToLocalhostRedirect": "Use public DNS for authentication",
         "bypassAuthentication": "Assume SSO (bypass authentication)",
         "technicalSettings": "Technical Settings",
-        "webViewRadioLabel": "Choose the preferred web view for dialogs & sidebar",
+        "webViewRadioLabel": "Choose the preferred web view for dialogs and sidebar",
         "webViewIE": "Internet Explorer 11",
-        "webViewEdge": "Microsoft Edge",
+        "webViewEdge": "Microsoft Edge (legacy)",
+        "webViewEdge2": "Microsoft Edge",
         "troubleshooting": "Troubleshooting",
         "verboseLogging": "Verbose logging",
         "networkTrace": "Network logging",
