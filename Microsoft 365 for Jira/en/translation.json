@@ -16,14 +16,15 @@
         "saveSuccessMessage": ""
     },
     "visibilityOverviewScreen": {
-        "heading": "Visibility Settings",
-        "projectsSubHeading": "Project exceptions",
-        "globalSubHeading": "Defaults for all projects",
-        "projectsDescription": "Not all projects have the same requirements. If you want the settings for a project to differ from the default, you can select the available functionality for the project directly.",
-        "globalDescription": "Defines if the functionality is available in all projects by default. Projects can opt-out/opt-in below."
+        "heading": "Activate Features",
+        "headingDescription": "Choose which features of Microsoft 365 for Jira should be active.",
+        "projectsSubHeading": "Project-specific features",
+        "globalSubHeading": "Defaults for all Jira projects",
+        "projectsDescription": "Choose which features should be active or disabled in the specific project.",
+        "globalDescription": "Enable features across all projects. Specific projects can be customized below."
     },
     "projectSelect": {
-        "placeholder": "Add an exception for a project"
+        "placeholder": "Choose a project"
     },
     "projectVisibility": {
         "resetToDefault": "Remove exception"
@@ -54,20 +55,20 @@
         "todo": "Create and see personal To Dos in your Jira issues."
     },
     "disableProductDescription": {
-        "teams": "This will instantly disable the Microsoft Teams functionality for all projects without a listed exception. Are you sure you want to disable the Microsoft Teams functionality now?",
-        "email": "This will instantly disable the email functionality for all projects without a listed exception. Are you sure you want to disable the email functionality now?",
-        "meetings": "This will instantly disable the meetings functionality for all projects without a listed exception. Are you sure you want to disable the meetings functionality now?",
-        "todo": "This will instantly disable the Microsoft To Do functionality for all projects without a listed exception. Are you sure you want to disable the Microsoft To Do functionality now?"
+        "teams": "You’re about to disable the Microsoft Teams feature for all projects by default. Project-specific settings won’t be affected by this choice.",
+        "email": "You’re about to disable the email feature for all projects by default. Project-specific settings won’t be affected by this choice.",
+        "meetings": "You’re about to disable the meetings feature for all projects by default. Project-specific settings won’t be affected by this choice.",
+        "todo": "You’re about to disable the Microsoft To Do feature for all projects by default. Project-specific settings won’t be affected by this choice."
     },
     "overrideCheckBox": {
-        "disableLabel": "Also disable the functionality for projects with a listed exception.",
-        "enableLabel": "Also enable the functionality for projects with a listed exception."
+        "disableLabel": "Overwrite project-specific settings",
+        "enableLabel": "Overwrite project-specific settings"
     },
     "enableProductDescription": {
-        "teams": "TBD",
-        "email": "TBD",
-        "meetings": "TBD",
-        "todo": "TBD"
+        "teams": "You’re about to enable the Microsoft Teams feature for all projects by default. Project-specific settings won’t be affected by this choice.",
+        "email": "You’re about to enable the email feature for all projects by default. Project-specific settings won’t be affected by this choice.",
+        "meetings": "You’re about to enable the meetings feature for all projects by default. Project-specific settings won’t be affected by this choice.",
+        "todo": "You’re about to enable the Microsoft To Do feature for all projects by default. Project-specific settings won’t be affected by this choice."
     },
     "footer": {
         "poweredBy": "POWERED BY"
@@ -94,9 +95,9 @@
     },
     "help": {
         "documentationHeadline": "Check our documentation",
-        "documentationText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat!",
+        "documentationText": "It's always a good idea to check out our documentation first, we try to answer common questions there. Use the quick links below to get started!",
         "contactUsHeadline": "Contact us",
-        "contactUsText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat!",
+        "contactUsText": "In case you need technical help or just want to learn more about our product, we are happy to help!",
         "gettingStarted": "Getting started",
         "initialSetup": "Initial setup",
         "faq": "FAQ",
@@ -114,13 +115,25 @@
         "meetingsInfo": "Schedule Microsoft Teams and Outlook meetings in your Jira issue: See availabilities of relevant users and send meeting requests directly in Jira.",
         "todoInfo": "Sync all your Jira issues automatically with your chosen Microsoft To Do list and get a holistic overview of all your task.",
         "supportPortalHeadline": "Support Portal",
-        "supportPortalText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "supportPortalText": "It's always a good idea to check out our documentation that provides you with all the important information about our app.",
         "securityHeadline": "Security",
-        "securityText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "securityText": "Be confident that your data is safe. We ensure the highest standards of app security.",
         "activeInAllProjects": "Active in all projects",
         "activeInProject": "Active in {{count}} project",
         "activeInProject_plural": "Active in {{count}} projects",
         "productProjectException": "({{count}} Exception)",
         "productProjectException_plural": "({{count}} Exceptions)"
+    },
+    "productDisplayNameCompact": {
+        "teams": "Teams",
+        "email": "Email",
+        "meetings": "Meetings",
+        "todo": "To Do"
+    },
+    "productDisplayName": {
+        "teams": "Microsoft Teams",
+        "email": "Email",
+        "meetings": "Meetings",
+        "todo": "Microsoft To Do"
     }
 }

@@ -98,7 +98,7 @@
         "regardingIssue": "Betreffend {{issueKey}}",
         "recipientsPlaceholder": "Keine Ergebnisse",
         "recipientsNoOptionsMessage": "Zum Suchen tippen...",
-        "replyHeading": "Auf diese Mail antworten",
+        "replyHeading": "Auf diese E-Mail antworten",
         "replyBodyLabel": "Antwort",
         "bodyLabel": "E-Mail",
         "includeIssueCardLabel": "Vorgangsdetails anhängen",
@@ -106,7 +106,7 @@
     },
     "azureObjectType": {
         "conversation": "Konversation",
-        "mail": "Mail"
+        "mail": "E-Mail"
     },
     "sharePermissionType": {
         "public": "Jeder, der den Vorgang sehen kann",
@@ -128,13 +128,13 @@
     },
     "shareObjectTypeSettings": {
         "conversation": "Diese Konversation inklusive zukünftiger Antworten",
-        "mail": "Nur diese Mail",
+        "mail": "Nur diese E-Mail",
         "heading": "Was möchtest du teilen?"
     },
     "conversationScreen": {
-        "noMailEmptyStateWithLoginHint": "Der Vorgang hat keine für dich sichtbaren verknüpften Mails. Möglicherweise gibt es private Mails, die du nach Anmelden mit Microsoft sehen kannst.",
-        "noMailEmptyStateHeader": "Keine Mails",
-        "noMailEmptyStateDescription": "Der Vorgang hat keine - oder keine für dich sichtbaren - verknüpften Mails."
+        "noMailEmptyStateWithLoginHint": "Der Vorgang hat keine für dich sichtbaren verknüpften E-Mails. Möglicherweise gibt es private E-Mails, die du nach Anmelden mit Microsoft sehen kannst.",
+        "noMailEmptyStateHeader": "Keine E-Mails",
+        "noMailEmptyStateDescription": "Der Vorgang hat keine - oder keine für dich sichtbaren - verknüpften E-Mails."
     },
     "messageComponent": {
         "sharedIconTooltip": "Diese E-Mail wurde direkt geteilt",

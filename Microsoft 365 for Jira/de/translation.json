@@ -16,14 +16,15 @@
         "saveSuccessMessage": ""
     },
     "visibilityOverviewScreen": {
-        "heading": "Sichtbarkeitseinstellungen",
-        "projectsSubHeading": "Ausnahmen für Projekte",
-        "globalSubHeading": "Standardeinstellungen für alle Projekte",
-        "projectsDescription": "TBD",
-        "globalDescription": "TBD"
+        "heading": "Features aktivieren ",
+        "headingDescription": "Aktiviere die passenden Microsoft 365 for Jira Features für deine Jira-Projekte.",
+        "projectsSubHeading": "Projektspezifische Einstellung",
+        "globalSubHeading": "Projektübergreifende Einstellung",
+        "projectsDescription": "Wähle die Jira-Projekte, bei denen abweichende Features aktiv sein sollen.",
+        "globalDescription": "Aktiviere die Features projektübergreifend. Passe unten Features für spezifische Jira-Projekte an."
     },
     "projectSelect": {
-        "placeholder": "Ausnahme für ein Projekt hinzufügen"
+        "placeholder": "Projekt wählen"
     },
     "projectVisibility": {
         "resetToDefault": "Ausnahme entfernen"
@@ -44,29 +45,24 @@
         "activate": "Aktivieren",
         "deactivate": "Deaktivieren",
         "cancel": "Abbrechen",
-        "confirm": "Bestätigen"
-    },
-    "productDescription": {
-        "teams": "TBD",
-        "email": "TBD",
-        "meetings": "TBD",
-        "todo": "TBD"
+        "confirm": "Bestätigen",
+        "learnMore": "Mehr..."
     },
     "disableProductDescription": {
-        "teams": "TBD",
-        "email": "TBD",
-        "meetings": "TBD",
-        "todo": "TBD"
+        "teams": "Willst du das Microsoft Teams-Feature für alle Projekte deaktivieren? Projektspezifische Ausnahmen bleiben davon unbeeinflusst.",
+        "email": "Willst du das E-Mail-Feature für alle Projekte deaktivieren? Projektspezifische Ausnahmen bleiben davon unbeeinflusst.",
+        "meetings": "Willst du das Meetings-Feature für alle Projekte deaktivieren? Projektspezifische Ausnahmen bleiben davon unbeeinflusst.",
+        "todo": "Willst du das Microsoft To Do-Feature für alle Projekte deaktivieren? Projektspezifische Ausnahmen bleiben davon unbeeinflusst."
     },
     "overrideCheckBox": {
-        "disableLabel": "Auch für Projekte mit gelisteter Ausnahme deaktivieren.",
-        "enableLabel": "Auch für Projekte mit gelisteter Ausnahme aktivieren."
+        "disableLabel": "Auch in ausgenommenen Projekten aktivieren",
+        "enableLabel": "Auch in ausgenommenen Projekten deaktivieren"
     },
     "enableProductDescription": {
-        "teams": "TBD",
-        "email": "TBD",
-        "meetings": "TBD",
-        "todo": "TBD"
+        "teams": "Willst du das Microsoft Teams-Feature für alle Projekte aktivieren? Projektspezifische Ausnahmen bleiben davon unbeeinflusst.",
+        "email": "Willst du das E-Mail-Feature für alle Projekte aktivieren? Projektspezifische Ausnahmen bleiben davon unbeeinflusst.",
+        "meetings": "Willst du das Meetings-Feature für alle Projekte aktivieren? Projektspezifische Ausnahmen bleiben davon unbeeinflusst.",
+        "todo": "Willst du das Microsoft To Do-Feature für alle Projekte aktivieren? Projektspezifische Ausnahmen bleiben davon unbeeinflusst."
     },
     "footer": {
         "poweredBy": "POWERED BY"
@@ -93,9 +89,9 @@
     },
     "help": {
         "documentationHeadline": "Dokumentation einsehen",
-        "documentationText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat!",
+        "documentationText": "Es ist immer eine gute Idee, zunächst in unsere Dokumentation zu schauen. Wir versuchen dort, die häufigsten Fragen zu beantworten. Benutze die Links unten, um direkt loszulegen!",
         "contactUsHeadline": "Kontaktiere uns",
-        "contactUsText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat!",
+        "contactUsText": "Wenn du technische Hilfe brauchst oder mehr über unsere Produkte erfahren möchtest, sind wir gerne bereit, dir zu helfen!",
         "gettingStarted": "Einstieg",
         "initialSetup": "Initiales Setup",
         "faq": "FAQ",
@@ -113,13 +109,25 @@
         "meetingsInfo": "Schedule Microsoft Teams and Outlook meetings in your Jira issue: See availabilities of relevant users and send meeting requests directly in Jira.",
         "todoInfo": "Sync all your Jira issues automatically with your chosen Microsoft To Do list and get a holistic overview of all your task.",
         "supportPortalHeadline": "Support Portal",
-        "supportPortalText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "supportPortalText": "Unsere Dokumentation versorgt dich mit allen Informationen, die du zu unserer App brauchst.",
         "securityHeadline": "Sicherheit",
-        "securityText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "securityText": "Uberzeuge dich davon, dass deine Daten sicher sind. Wir sorgen dafür, dass die höchsten Sicherheitsstandards eingehalten werden.",
         "activeInAllProjects": "Aktiv in allen Projekten",
-        "activeInProject": "Aktiv in {{amount}} Projekt",
-        "activeInProject_plural": "Aktiv in {{amount}} Projekten",
+        "activeInProject": "Aktiv in {{count}} Projekt",
+        "activeInProject_plural": "Aktiv in {{count}} Projekten",
         "productProjectException": "({{count}} Ausnahme)",
         "productProjectException_plural": "({{count}} Ausnahmen)"
+    },
+    "productDisplayNameCompact": {
+        "teams": "Teams",
+        "email": "E-Mail",
+        "meetings": "Meetings",
+        "todo": "To Do"
+    },
+    "productDisplayName": {
+        "teams": "Microsoft Teams",
+        "email": "E-Mail",
+        "meetings": "Meetings",
+        "todo": "Microsoft To Do"
     }
 }
