@@ -46,7 +46,8 @@
         "deactivate": "Deaktivieren",
         "cancel": "Abbrechen",
         "confirm": "Bestätigen",
-        "learnMore": "Mehr..."
+        "learnMore": "Mehr...",
+        "findOutMore": "Mehr erfahren"
     },
     "disableProductDescription": {
         "teams": "Willst du das Microsoft Teams-Feature für alle Projekte deaktivieren? Projektspezifische Ausnahmen bleiben davon unbeeinflusst.",

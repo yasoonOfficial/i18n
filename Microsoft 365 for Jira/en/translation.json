@@ -46,7 +46,8 @@
         "deactivate": "Disable",
         "cancel": "Cancel",
         "confirm": "Confirm",
-        "learnMore": "Learn more..."
+        "learnMore": "Learn more...",
+        "findOutMore": "Find out more"
     },
     "productDescription": {
         "teams": "Bring your Microsoft Teams conversations and chats to your Jira issues and vice versa.",
