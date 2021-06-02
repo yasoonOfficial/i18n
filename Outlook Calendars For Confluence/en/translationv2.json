@@ -76,6 +76,14 @@
 		"freeBusyLabel": "Only availability",
 		"freeBusyDescription": "Users see events as busy/available only"
 	},
+	"officeEventFilteringSetting": {
+		"useEventFilteringHeading": "Event filtering",
+		"useEventFilteringSubHeading": "Filter events based on categories or absent type"
+	},
+	"officeEventFilteringFreeBusyStatusSetting": {
+		"heading": "Event type",
+		"subHeading": "Select show as type to filter events"
+	},
 	"jiraCalendarSharingSettings": {
 		"calendarSharingHeading": "Calendar access",
 		"calendarSharingSubHeading": "Choose who can view the {{calendarType}}",
