@@ -51,9 +51,9 @@
     },
     "productDescription": {
         "teams": "Bring your Microsoft Teams conversations and chats to your Jira issues and vice versa.",
-        "email": "Connect emails with Jira issues and send emails from Jira.",
+        "email": "Create and update issues from your Outlook inbox. Connect emails to Jira issues and send emails from Jira.",
         "meetings": "Schedule Microsoft Teams and Outlook meetings in Jira. See availabilities and send meeting requests from Jira.",
-        "todo": "Create and see personal To Dos in your Jira issues."
+        "todo": "Create and see personal To Dos in your Jira issues or sync all your Jira issues automatically."
     },
     "disableProductDescription": {
         "teams": "You’re about to disable the Microsoft Teams feature for all projects by default. Project-specific settings won’t be affected by this choice.",
@@ -112,7 +112,7 @@
         "intro2": "This is Microsoft 365 for Jira",
         "intro3": "Connect Jira with your Microsoft 365 tools for seamless teamwork. Enable the functionality you need below.",
         "teamsInfo": "Connect your Microsoft Teams conversations and chat to your Jira issues. Using Jira Service Management? Let customers create support tickets in Microsoft Teams.",
-        "emailInfo": "Create and update issues in your Outlook inbox and put emails in a Jira context. See whole email conversations in Jira and share, read or send emails right away.",
+        "emailInfo": "Create and update issues from your Outlook inbox and put emails in a Jira context. See whole email conversations in Jira and share, read or send emails right away.",
         "meetingsInfo": "Schedule Microsoft Teams and Outlook meetings in your Jira issue: See availabilities of relevant users and send meeting requests directly in Jira.",
         "todoInfo": "Sync all your Jira issues automatically with your chosen Microsoft To Do list and get a holistic overview of all your task.",
         "supportPortalHeadline": "Support Portal",
