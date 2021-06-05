@@ -46,7 +46,8 @@
         "deactivate": "Disable",
         "cancel": "Cancel",
         "confirm": "Confirm",
-        "learnMore": "Learn more...",
+        "learnFeatures": "Get to know the features",
+        "learnActivation": "Learn about activation",
         "findOutMore": "Find out more"
     },
     "productDescription": {
