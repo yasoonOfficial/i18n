@@ -16,7 +16,7 @@
         "saveSuccessMessage": ""
     },
     "visibilityOverviewScreen": {
-        "heading": "Activate Features",
+        "heading": "Activate features",
         "headingDescription": "Choose which features of Microsoft 365 for Jira should be active.",
         "projectsSubHeading": "Project-specific features",
         "globalSubHeading": "Defaults for all Jira projects",
