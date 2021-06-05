@@ -81,7 +81,7 @@
     "wizard": {
         "headline": "Sichtbarkeit verwalten",
         "intro": "Gewähre den richtigen Projekten Sichtbarkeit, damit jeder seine Arbeit bestmöglich erledigen kann.",
-        "activateForInstance": "Für die ganze Instanz aktivieren",
+        "activateForInstance": "Für alle Projekte aktivieren",
         "activateForProjects": "Für bestimmte Projekte aktivieren",
         "inputPlaceholder": "Projekte suchen",
         "activatedProjects": "Aktivierte Projekte",

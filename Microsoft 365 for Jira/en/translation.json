@@ -87,7 +87,7 @@
     "wizard": {
         "headline": "Manage visibility",
         "intro": "Grant the visibility to the right projects, so that everybody can do their job in the best way.",
-        "activateForInstance": "Activate for the whole instace",
+        "activateForInstance": "Activate for all projects",
         "activateForProjects": "Activate for specific projects",
         "inputPlaceholder": "Search projects",
         "activatedProjects": "Activated projects",
