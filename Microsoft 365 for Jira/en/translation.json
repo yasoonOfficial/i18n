@@ -52,10 +52,13 @@
         "getInTouch": "Get in touch"
     },
     "productDescription": {
-        "teams": "Bring your Microsoft Teams conversations and chats to your Jira issues and vice versa.",
-        "email": "Create and update issues from your Outlook inbox. Connect emails to Jira issues and send emails from Jira.",
-        "meetings": "Schedule Microsoft Teams and Outlook meetings in Jira. See availabilities and send meeting requests from Jira.",
-        "todo": "Create and see personal To Dos in your Jira issues or sync all your Jira issues automatically."
+        "teams-cloud": "Bring your Microsoft Teams conversations and chats to your Jira issues and vice versa.",
+        "email-cloud": "Create and update issues from your Outlook inbox. Connect emails to Jira issues and send emails from Jira.",
+        "meetings-cloud": "Schedule Microsoft Teams and Outlook meetings in Jira. See availabilities and send meeting requests from Jira.",
+        "todo-cloud": "Create and see personal To Dos in your Jira issues or sync all your Jira issues automatically.",
+        "teams-server": "Bring your Microsoft Teams conversations and chats to your Jira issues and vice versa.",
+        "email-server": "Create and update issues from your Outlook inbox, using the powerful Outlook add-in.",
+        "meetings-server": "Schedule Microsoft Teams and Outlook meetings in Jira. See availabilities and send meeting requests from Jira."
     },
     "disableProductDescription": {
         "teams": "You’re about to disable the Microsoft Teams feature for all projects by default. Project-specific settings won’t be affected by this choice.",
@@ -80,7 +83,7 @@
         "active": "Active",
         "activate": "Activate",
         "next": "Next",
-        "configureNow": "Configure now"
+        "configure": "Configure"
     },
     "adminNavigation": {
         "gettingStarted": "Getting started",
