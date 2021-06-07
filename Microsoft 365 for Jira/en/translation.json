@@ -48,7 +48,8 @@
         "confirm": "Confirm",
         "learnFeatures": "Get to know the features",
         "learnActivation": "Learn about activation",
-        "findOutMore": "Find out more"
+        "findOutMore": "Find out more",
+        "getInTouch": "Get in touch"
     },
     "productDescription": {
         "teams": "Bring your Microsoft Teams conversations and chats to your Jira issues and vice versa.",
@@ -93,13 +94,13 @@
         "inputPlaceholder": "Search projects",
         "activatedProjects": "Activated projects",
         "outro1": "Well done!",
-        "outro2": "Enjoy using the app."
+        "outro2": "Enjoy using Microsoft 365 for Jira."
     },
     "help": {
-        "documentationHeadline": "Check our documentation",
-        "documentationText": "It's always a good idea to check out our documentation first, we try to answer common questions there. Use the quick links below to get started!",
+        "documentationHeadline": "Documentation",
+        "documentationText": "Find common questions, an installation guide or a feature overview in our support portal.",
         "contactUsHeadline": "Contact us",
-        "contactUsText": "In case you need technical help or just want to learn more about our product, we are happy to help!",
+        "contactUsText": "You need technical help or want a personal demo? Get in touch with us.",
         "gettingStarted": "Getting started",
         "initialSetup": "Initial setup",
         "faq": "FAQ",
@@ -109,17 +110,17 @@
         "callUs": "Call us"
     },
     "gettingStarted": {
-        "intro1": "Hey Admin!",
+        "intro1": "Hi Admin!",
         "intro2": "This is Microsoft 365 for Jira",
         "intro3": "Connect Jira with your Microsoft 365 tools for seamless teamwork. Enable the functionality you need below.",
         "teamsInfo": "Connect your Microsoft Teams conversations and chat to your Jira issues. Using Jira Service Management? Let customers create support tickets in Microsoft Teams.",
         "emailInfo": "Create and update issues from your Outlook inbox and put emails in a Jira context. See whole email conversations in Jira and share, read or send emails right away.",
         "meetingsInfo": "Schedule Microsoft Teams and Outlook meetings in your Jira issue: See availabilities of relevant users and send meeting requests directly in Jira.",
         "todoInfo": "Sync all your Jira issues automatically with your chosen Microsoft To Do list and get a holistic overview of all your task.",
-        "supportPortalHeadline": "Support Portal",
-        "supportPortalText": "It's always a good idea to check out our documentation that provides you with all the important information about our app.",
+        "supportPortalHeadline": "Support",
+        "supportPortalText": "You have a question? Or need help? We're happy to assist you.",
         "securityHeadline": "Security",
-        "securityText": "Be confident that your data is safe. We ensure the highest standards of app security.",
+        "securityText": "We ensure the highest security standard for your data.",
         "activeInAllProjects": "Active in all projects",
         "activeInProject": "Active in {{count}} project",
         "activeInProject_plural": "Active in {{count}} projects",
