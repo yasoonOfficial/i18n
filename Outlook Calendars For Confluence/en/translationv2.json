@@ -81,8 +81,14 @@
 		"useEventFilteringSubHeading": "Filter events based on categories or absent type"
 	},
 	"officeEventFilteringFreeBusyStatusSetting": {
-		"heading": "Event type",
-		"subHeading": "Select show as type to filter events"
+		"heading": "Event show as type",
+		"subHeading": "Select show as type to filter events",
+		"noFilter": "No filter selected"
+	},
+	"officeEventFilteringCategorySetting": {
+		"heading": "Event category",
+		"subHeading": "Select categories to filter events",
+		"noFilter": "No filter selected"
 	},
 	"jiraCalendarSharingSettings": {
 		"calendarSharingHeading": "Calendar access",
