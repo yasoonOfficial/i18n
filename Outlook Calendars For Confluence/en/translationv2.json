@@ -175,7 +175,7 @@
 	"listViewSetting": {
 		"heading": "List view scope",
 		"subHeading": "Select how many days should be visible in the calendar list",
-		"selectDayLabel": "Today",
+		"selectDayLabel": "Day",
 		"selectnext7DaysLabel": "Next 7 days",
 		"selectMonthLabel": "Month"
 	},
@@ -199,7 +199,7 @@
 	"agendaViewSetting": {
 		"heading": "Calendar view scope",
 		"subHeading": "How many days should be visible in the calendar",
-		"selectDayLabel": "Today",
+		"selectDayLabel": "Day",
 		"selectworkWeekLabel": "Work week",
 		"selectweekLabel": "Week",
 		"selectMonthLabel": "Month"
