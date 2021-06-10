@@ -42,7 +42,11 @@
 		"calendars": "Calendars",
 		"addCalendarButton": "+ Add calendar",
 		"loginButton": "Login",
-		"loginErrorMessage": "Login required"
+		"loginErrorMessage": "Login required",
+		"filteringCategoriesOnlyLabel": "This calendar has been filtered for categories: {{categories}}",
+		"filteringShowAsOnlyLabel": "This calendar has been filtered for free busy type: {{freeBusyStatus}}",
+		"filteringCategoriesAndFreeBusyTypeLabel": "This calendar has been filtered for categories: {{categories}}, and free busy type: {{freeBusyStatus}}"
+
 	},
 	"officeCategoryColorSettings": {
 		"useCategoryColorHeading": "Use category color",
@@ -88,7 +92,9 @@
 	"officeEventFilteringCategorySetting": {
 		"heading": "Event category",
 		"subHeading": "Select categories to filter events",
-		"noFilter": "No filter selected"
+		"noFilter": "No filter selected",
+		"noOptionsMessage": "Type to select categories",
+		"formatCreateLabel": "Select category"
 	},
 	"jiraCalendarSharingSettings": {
 		"calendarSharingHeading": "Calendar access",
@@ -128,8 +134,7 @@
 		"removeCalendar": "Remove calendar"
 	},
 	"officeCalendarSettingsScreen": {
-		"removeCalendar": "Remove calendar",
-		"noSettingsPlaceholder": "Everything is fine, there are no settings to configure here."
+		"removeCalendar": "Remove calendar"
 	},
 	"officeCurrentUserCalendar": {
 		"name": "My calendar",
@@ -233,7 +238,13 @@
 		"createEventLabel": "Create event",
 		"sendMeetingInviteLabel": "Send meeting invite",
 		"requiresLoginLozenge": "Requires additional login",
-		"myCalendarLabel": "My calendar"
+		"myCalendarLabel": "My calendar",
+		"showAsLabel": "Show as",
+		"freeBusyStatusFilterWarning": "The calendar has been filtered for other criteria, so the event might not show up on this page",
+		"categoryLabel": "Category",
+		"categoryNoOptionsMessage": "Type to select category",
+		"formatCreateCategoryLabel": "Select category",
+		"categoryFilterWarning": "The calendar has been filtered for other criteria, so the event might not show up on this page"
 	},
 	"createJqlScreen": {
 		"heading": "Back to templates",
@@ -387,7 +398,7 @@
 		"free": "Free",
 		"workingElsewhere": "Working Elsewhere",
 		"unknown": "Unknown",
-		"oof": "Out of Office",
+		"oof": "Away",
 		"tentative": "Tentative"
 	},
 	"calendarListScreen": {
