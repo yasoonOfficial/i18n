@@ -43,9 +43,9 @@
 		"addCalendarButton": "+ Add calendar",
 		"loginButton": "Login",
 		"loginErrorMessage": "Login required",
-		"filteringCategoriesOnlyLabel": "This calendar has been filtered for categories: {{categories}}",
-		"filteringShowAsOnlyLabel": "This calendar has been filtered for free busy type: {{freeBusyStatus}}",
-		"filteringCategoriesAndFreeBusyTypeLabel": "This calendar has been filtered for categories: {{categories}}, and free busy type: {{freeBusyStatus}}"
+		"filteringCategoriesOnlyLabel": "This calendar has been filtered events with categories: {{categories}}.",
+		"filteringShowAsOnlyLabel": "This calendar has been filtered: {{freeBusyStatus}} events.",
+		"filteringCategoriesAndFreeBusyTypeLabel": "This calendar has been filtered for {{freeBusyStatus}} events with categories: {{categories}}."
 
 	},
 	"officeCategoryColorSettings": {
@@ -377,7 +377,8 @@
 		"copyToOwnCalendarTooltip": "Copy to own calendar",
 		"openInOutlookFlagAction": "Open in Outlook",
 		"eventDeletionFailed": "Delete Event Failed",
-		"eventSuccessFlagDescription": "Succesfully copied event to your calendar",
+		"eventSuccessFlagDescription": "Succesfully created in your calendar",
+		"eventCopySuccessFlagDescription": "Succesfully copied event to your calendar",
 		"eventSuccessFlagTitle": "Success",
 		"copyToOwnCalendarFailedFlagTitle": "Create event in own calendar failed"
 	},
