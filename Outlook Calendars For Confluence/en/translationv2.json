@@ -43,9 +43,11 @@
 		"addCalendarButton": "+ Add calendar",
 		"loginButton": "Login",
 		"loginErrorMessage": "Login required",
-		"filteringCategoriesOnlyLabel": "This calendar has been filtered events with categories: {{categories}}.",
-		"filteringShowAsOnlyLabel": "This calendar has been filtered: {{freeBusyStatus}} events.",
-		"filteringCategoriesAndFreeBusyTypeLabel": "This calendar has been filtered for {{freeBusyStatus}} events with categories: {{categories}}."
+		"filteringCategoriesOnlyLabel": "This calendar has been filtered events with categories {{categories}}.",
+		"filteringCategoryOnlyLabel": "This calendar has been filtered for events with category {{categories}}.",
+		"filteringShowAsOnlyLabel": "This calendar has been filtered for {{freeBusyStatus}} events.",
+		"filteringCategoriesAndFreeBusyTypeLabel": "This calendar has been filtered for {{freeBusyStatus}} events with categories {{categories}}.",
+		"filteringCategoryAndFreeBusyTypeLabel": "This calendar has been filtered for {{freeBusyStatus}} events with category {{categories}}."
 
 	},
 	"officeCategoryColorSettings": {
