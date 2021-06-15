@@ -96,7 +96,8 @@
 		"subHeading": "Select categories to filter events",
 		"noFilter": "No filter selected",
 		"noOptionsMessage": "Type to select categories",
-		"formatCreateLabel": "Select category"
+		"formatCreateLabel": "Select category",
+		"disabledFilterLabel": "You can't filter for categories when 'Title and location' or 'Only availability' is selected."
 	},
 	"jiraCalendarSharingSettings": {
 		"calendarSharingHeading": "Calendar access",
