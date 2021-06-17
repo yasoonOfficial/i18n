@@ -84,16 +84,16 @@
 	},
 	"officeEventFilteringSetting": {
 		"useEventFilteringHeading": "Event filtering",
-		"useEventFilteringSubHeading": "Filter events based on categories or absent type"
+		"useEventFilteringSubHeading": "Filter events based on categories and/or absence type"
 	},
 	"officeEventFilteringFreeBusyStatusSetting": {
-		"heading": "Event show as type",
-		"subHeading": "Select show as type to filter events",
+		"heading": "Filter by absence type",
+		"subHeading": "Show only events marked as:",
 		"noFilter": "No filter selected"
 	},
 	"officeEventFilteringCategorySetting": {
-		"heading": "Event category",
-		"subHeading": "Select categories to filter events",
+		"heading": "Filter by event category",
+		"subHeading": "Show only events with category",
 		"noFilter": "No filter selected",
 		"noOptionsMessage": "Type to select categories",
 		"formatCreateLabel": "Select category",
@@ -400,7 +400,7 @@
 	"freeBusyLabels": {
 		"busy": "Busy",
 		"free": "Free",
-		"workingElsewhere": "Working Elsewhere",
+		"workingElsewhere": "Working elsewhere",
 		"unknown": "Unknown",
 		"oof": "Away",
 		"tentative": "Tentative"
