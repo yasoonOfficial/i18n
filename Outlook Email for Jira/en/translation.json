@@ -350,6 +350,8 @@
     "errorMessages": {
         "noConnectToJiraTitle": "Could not connect to Jira",
         "noConnectToJiraDescription": "It looks like your login has expired. Please login again in the Settings menu.",
+        "inactiveFeatureTitle": "Feature inactive",
+        "inactiveFeatureDescription": "The email feature was deactivated for all projects in this instance.",
         "xDomainTimeoutTitle": "Waiting for server response",
         "xDomainTimeoutDescription": "Your Jira Server needs a long time to respond. If this occurs frequently, contact your Jira admin.",
         "noSDSupportTitle": "Service Management not supported",

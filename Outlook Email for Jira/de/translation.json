@@ -351,6 +351,8 @@
     "errorMessages": {
         "noConnectToJiraTitle": "Keine Verbindung zu Jira",
         "noConnectToJiraDescription": "Es scheint, als wäre die Anmeldung abgelaufen. Bitte melde dich im Einstellungsmenu neu an.",
+        "inactiveFeatureTitle": "Feature deaktiviert",
+        "inactiveFeatureDescription": "Das E-Mail-Feature wurde in dieser Instanz für alle Projekte deaktiviert.",
         "xDomainTimeoutTitle": "Warte auf Serverantwort",
         "xDomainTimeoutDescription": "Dein Jira-Server benötigt lange für eine Antwort. Wenn das häufiger auftritt, kontaktiere deinen Jira-Admin.",
         "noSDSupportTitle": "Service Management nicht unterstützt",
