@@ -165,6 +165,9 @@
         "bookMeetingButton": "Buche ein Support-Meeting",
         "callUsButton": "Ruf uns an (Zeitzone: CET/CEST)"
     },
+    "initialLoadingScreen": {
+        "loading": "Lädt"
+    },
     "links": {
         "sendMailDoc": "Dokumentation",
         "contactUs": "Kontakt",

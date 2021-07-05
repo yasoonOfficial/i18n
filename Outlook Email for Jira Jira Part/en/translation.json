@@ -165,6 +165,9 @@
         "bookMeetingButton": "Book a meeting",
         "callUsButton": "Call us (timezone: CET/CEST)"
     },
+    "initialLoadingScreen": {
+        "loading": "Loading"
+    },
     "links": {
         "sendMailDoc": "Documentation",
         "contactUs": "Contact us",
