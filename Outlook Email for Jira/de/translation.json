@@ -351,6 +351,8 @@
     "errorMessages": {
         "noConnectToJiraTitle": "Keine Verbindung zu Jira",
         "noConnectToJiraDescription": "Es scheint, als wäre die Anmeldung abgelaufen. Bitte melde dich im Einstellungsmenu neu an.",
+        "nfeedRequiredDependentTitle": "Vorgang konnte nicht bearbeitet werden",
+        "nfeedRequiredDependentDescription": "Ein Pflichtfeld ist abhängig von diesem Feld. Dies wird momentan nicht unterstützt. Bitte bearbeite den Vorgang direkt in Jira.",
         "inactiveFeatureTitle": "Feature deaktiviert",
         "inactiveFeatureDescription": "Das E-Mail-Feature wurde in dieser Instanz für alle Projekte deaktiviert.",
         "xDomainTimeoutTitle": "Warte auf Serverantwort",
