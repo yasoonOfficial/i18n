@@ -12,11 +12,11 @@
         "sharingUserDefaultsDescription": "Welche Standardeinstellung sollen Nutzer erhalten, die sich neu mit dieser Instanz verbinden? Die Nutzer können diese anschließend ändern.",
         "sharingDescription": "Die Nutzer können ihre Konversationen aus Outlook freigeben und für Jira Benutzer verfügbar machen.",
         "visibilityHeading": "Freigabe von E-Mails aktivieren",
-        "visibilityDescription": "Diese Funktion benötigt Office 365.",
+        "visibilityDescription": "Diese Funktion benötigt Microsoft 365.",
         "activate": "Manuell aktivieren",
         "deactivate": "Automatische Erkennung deaktivieren",
-        "autoDetected": "Sie wurde automatisch aktiviert, da wir Office 365 erkannt haben.",
-        "readyForAutoDetect": "Sie wird automatisch aktiviert, sobald wir Office 365 erkennen.",
+        "autoDetected": "Sie wurde automatisch aktiviert, da wir Microsoft 365 erkannt haben.",
+        "readyForAutoDetect": "Sie wird automatisch aktiviert, sobald wir Microsoft 365 erkennen.",
         "globalVisibilityLabel": "Freigabe von E-Mails erlaubt"
     },
     "userDefaultsTab": {
@@ -40,7 +40,7 @@
         "createIssueSuccessScreenEnabled": "Nach dem Erstellen eines Vorgangs Erfolgsdialog anzeigen",
         "oldEditor": "Den WYSIWYG Editor deaktivieren und stattdessen Markup verwenden",
         "autoRefreshFeed": "Feed automatisch aktualisieren",
-        "userDefaultsDescription": "Konfiguriere die Einstellungen, die ein neuer Benutzer unseres Outlook Add-Ins standardmäßig erhält, wenn er unser Outlook Add-In installiert. Dies betrifft nur neue Benutzer, die diese Jira-Instanz als ihre erste Instanz hinzufügen. Anschließend kann jeder Benutzer diese Einstellungen nach seinen Präferenzen bearbeiten."
+        "userDefaultsDescription": "Konfiguriere die Einstellungen, die ein neuer Benutzer unseres Outlook add-ins standardmäßig erhält, wenn er unser Outlook add-in installiert. Dies betrifft nur neue Benutzer, die diese Jira-Instanz als ihre erste Instanz hinzufügen. Anschließend kann jeder Benutzer diese Einstellungen nach seinen Präferenzen bearbeiten."
     },
     "prefillOptionLabel": {
         "doNotPrefill": "Immer leer lassen",
@@ -54,7 +54,7 @@
         "bugReporting": "Das Senden von Fehlerberichten erlauben",
         "performanceHeading": "Leistungseinstellungen",
         "autoRefreshFeed": "Das automatische Erneuern des Feeds erlauben",
-        "technicalSettingsDescription": "Konfiguriere die Einstellungen für jeden Benutzer, der unser Outlook Add-In mit dieser Jira-Instanz verknüpft. Dies betrifft alle Benutzer und wird spätestens nach einigem Neu-Laden unseres Outlook Add-Ins aktiv.",
+        "technicalSettingsDescription": "Konfiguriere die Einstellungen für jeden Benutzer, der unser Outlook add-in mit dieser Jira-Instanz verknüpft. Dies betrifft alle Benutzer und wird spätestens nach einigem Neu-Laden unseres Outlook add-ins aktiv.",
         "privacyDescription": "Das Deaktivieren dieser Optionen beeinträchtigt unser Fehlerbehebungspotenzial erheblich.",
         "performanceDescription": "Das Deaktivieren dieser Optionen kann die Netzwerkbelastung der Jira-Instanz verringern."
     },
@@ -89,7 +89,8 @@
     },
     "graphLoginScreen": {
         "header": "Willkommen bei Outlook Email for Jira",
-        "description": "Sieht so aus, als benutzt du diese Funktion das erste Mal. Bitte melde dich mit deinem Office 365 Account an, um loszulegen!"
+        "description": "Sieht so aus, als benutzt du diese Funktion das erste Mal. Bitte melde dich mit deinem Microsoft 365 Account an, um loszulegen!",
+        "bundleHeader": "Willkommen bei Microsoft 365 for Jira"
     },
     "sendMailDialog": {
         "subjectPlaceholder": "Betreff eingeben",
@@ -171,6 +172,6 @@
     "links": {
         "sendMailDoc": "Dokumentation",
         "contactUs": "Kontakt",
-        "getOutlookAddIn": "Hol dir das Outlook Add-In"
+        "getOutlookAddIn": "Hol dir das Outlook add-in"
     }
 }

@@ -1,27 +1,27 @@
 {
     "adminScreen": {
         "templatesTabHeading": "Templates",
-        "userDefaultsTabHeading": "Outlook Default Settings",
+        "userDefaultsTabHeading": "Outlook default settings",
         "technicalSettingsTabHeading": "Settings",
-        "sharingSettingsTabHeading": "Email Sharing",
-        "overviewTabHeading": "Getting Started",
+        "sharingSettingsTabHeading": "Email sharing",
+        "overviewTabHeading": "Getting started",
         "helpTabHeading": "Help"
     },
     "sharingSettingsTab": {
-        "sharingUserDefaultsHeading": "Configure User defaults",
+        "sharingUserDefaultsHeading": "Configure user defaults",
         "sharingUserDefaultsDescription": "Which settings should users newly connecting to this instance get by default? They can change this later.",
         "sharingDescription": "Your users can share their Outlook conversations and make them accessible within the Jira issue.",
         "visibilityHeading": "Enable email & conversation sharing",
-        "visibilityDescription": "This feature requires Office 365.",
+        "visibilityDescription": "This feature requires Microsoft 365.",
         "activate": "Enable manually",
         "deactivate": "Turn off auto-detect",
-        "autoDetected": "It has been automatically enabled, as we detected you are using Office 365.",
-        "readyForAutoDetect": "It will be enabled automatically when we detect Office 365.",
-        "globalVisibilityLabel": "Allow Email sharing"
+        "autoDetected": "It has been automatically enabled, as we detected you are using Microsoft 365.",
+        "readyForAutoDetect": "It will be enabled automatically when we detect Microsoft 365.",
+        "globalVisibilityLabel": "Allow email sharing"
     },
     "userDefaultsTab": {
         "heading": "Configure user defaults",
-        "generalSettingsHeading": "General Settings",
+        "generalSettingsHeading": "General settings",
         "language": "Language",
         "languageSelectPlaceholder": "Select...",
         "remoteDebug": "Record screen (for remote debug purposes)",
@@ -33,14 +33,14 @@
         "addAttachmentsByDefault": "Select all attachments by default",
         "addEmailAsFile": "Select / upload email (.msg) by default",
         "preselectProjectIssueType": "Preselect last used project and issuetype",
-        "showServiceDeksPortalFields": "Show tab 'Portal Fields' for Jira Service Desk projects",
-        "addMailInformation": "Add mail information to description",
+        "showServiceDeksPortalFields": "Show tab 'Portal fields' for Jira Service Management projects",
+        "addMailInformation": "Add email information to description",
         "includeAttachments": "Include attachments",
         "includeSubject": "Include subject",
         "createIssueSuccessScreenEnabled": "Show success screen after creating an issue",
         "oldEditor": "Disable WYSIWYG Editor and use markup instead",
         "autoRefreshFeed": "Refresh feed automatically",
-        "userDefaultsDescription": "Configure the settings a new user will get by default when first installing our Outlook Add-In. This will only affect new users when adding this Jira instance as their first instance. Each user can then adjust these settings for his personal preferences."
+        "userDefaultsDescription": "Configure the settings a new user will get by default when first installing our Outlook add-in. This will only affect new users when adding this Jira instance as their first instance. Each user can then adjust these settings for his personal preferences."
     },
     "prefillOptionLabel": {
         "doNotPrefill": "Always keep empty",
@@ -50,11 +50,11 @@
     "technicalSettingsTab": {
         "heading": "Configure general settings",
         "privacyHeading": "Privacy Settings",
-        "remoteDebug": "Allow Recording of the screen for debug purposes. This always has to be activated manually by the user and only lasts for a single session.",
-        "bugReporting": "Allow Sending of bug reports.",
-        "performanceHeading": "Performance Settings",
+        "remoteDebug": "Allow recording of the screen for debug purposes. This always has to be activated manually by the user and only lasts for a single session.",
+        "bugReporting": "Allow sending of bug reports.",
+        "performanceHeading": "Performance settings",
         "autoRefreshFeed": "Allow automatically refreshing feed",
-        "technicalSettingsDescription": "Configure the settings for any user connecting our Outlook Add-In to this instance. This will affect all users after a few reloads of our Outlook Add-In.",
+        "technicalSettingsDescription": "Configure the settings for any user connecting our Outlook add-in to this instance. This will affect all users after a few reloads of our Outlook add-in.",
         "privacyDescription": "Disabling these options will severely impact our troubleshooting capabilities.",
         "performanceDescription": "Disabling these options might reduce the request load on your Jira instance."
     },
@@ -89,7 +89,8 @@
     },
     "graphLoginScreen": {
         "header": "Welcome to Outlook Email for Jira",
-        "description": "Looks like you are using this feature for the very first time. Please login with your Office 365 account to get started!"
+        "description": "Looks like you are using this feature for the very first time. Please login with your Microsoft 365 account to get started!",
+        "bundleHeader": "Welcome to Microsoft 365 for Jira"
     },
     "sendMailDialog": {
         "subjectPlaceholder": "Enter a subject",
@@ -156,7 +157,7 @@
         "quickLinks": "Quick links",
         "FAQButton": "FAQ",
         "deploymentButton": "Deployment",
-        "gettingStartedbutton": "Getting started",
+        "gettingStartedbutton": "Get started",
         "contactUsHeading": "Contact us",
         "contactUsDescription": "In case you need technical help or just want to learn about our product, we are happy to help!",
         "contactLinksSubheading": "Contact links",
@@ -171,6 +172,6 @@
     "links": {
         "sendMailDoc": "Documentation",
         "contactUs": "Contact us",
-        "getOutlookAddIn": "Get the Outlook Add-In"
+        "getOutlookAddIn": "Get the Outlook add-in"
     }
 }
