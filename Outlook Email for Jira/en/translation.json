@@ -349,7 +349,7 @@
     },
     "infoMessages": {
         "nfeedNotSupportedActionTitle": "Editing not supported",
-        "nfeedNotSupportedActionMessage": "A required field depends on this Elements Connect field. Please edit this field directly in Jira."
+        "nfeedNotSupportedActionMessage": "A required field depends on this Elements Connect field. Please edit this field {link}."
     },
     "errorMessages": {
         "noConnectToJiraTitle": "Could not connect to Jira",
@@ -466,7 +466,8 @@
         "ssoError": "steps required",
         "troubleshootingArticle": "troubleshooting article",
         "TLS": "TLS",
-        "marketplaceApp": "Marketplace app"
+        "marketplaceApp": "Marketplace app",
+        "directlyInJira": "directly in Jira"
     },
     "logWorkScreen": {
         "logWorkButton": "Log Work",

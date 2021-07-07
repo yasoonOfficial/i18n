@@ -350,7 +350,7 @@
     },
     "infoMessages": {
         "nfeedNotSupportedActionTitle": "Bearbeiten nicht möglich",
-        "nfeedNotSupportedActionMessage": "Ein Pflichtfeld ist abhängig von diesem Elements Connect Feld. Bitte bearbeite dieses Feld direkt in Jira."
+        "nfeedNotSupportedActionMessage": "Ein Pflichtfeld ist abhängig von diesem Elements Connect Feld. Bitte bearbeite dieses Feld {link}."
     },
     "errorMessages": {
         "noConnectToJiraTitle": "Keine Verbindung zu Jira",
@@ -467,7 +467,8 @@
         "helpOnAPITokens": "Hilfe zu API Tokens",
         "troubleshootingArticle": "Support-Artikel",
         "TLS": "TLS",
-        "marketplaceApp": "Marketplace app"
+        "marketplaceApp": "Marketplace app",
+        "directlyInJira": "direkt in Jira"
     },
     "logWorkScreen": {
         "logWorkButton": "Zeit erfassen",
