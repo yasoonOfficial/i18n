@@ -348,6 +348,10 @@
     "creatableSelect": {
         "newSuffix": "(neu)"
     },
+    "infoMessages": {
+        "nfeedNotSupportedActionTitle": "Bearbeiten nicht möglich",
+        "nfeedNotSupportedActionMessage": "Ein Pflichtfeld ist abhängig von diesem Elements Connect Feld. Bitte bearbeite dieses Feld direkt in Jira."
+    },
     "errorMessages": {
         "noConnectToJiraTitle": "Keine Verbindung zu Jira",
         "noConnectToJiraDescription": "Es scheint, als wäre die Anmeldung abgelaufen. Bitte melde dich im Einstellungsmenu neu an.",
