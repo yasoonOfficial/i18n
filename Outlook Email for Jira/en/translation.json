@@ -355,7 +355,7 @@
         "noConnectToJiraTitle": "Could not connect to Jira",
         "noConnectToJiraDescription": "It looks like your login has expired. Please login again in the Settings menu.",
         "nfeedRequiredDependentTitle": "Could not edit the issue",
-        "nfeedRequiredDependentDescription": "A required field depends on this field. This is currently not supported, please do so directly in Jira.",
+        "nfeedRequiredDependentDescription": "A required field depends on this field. This is currently not supported, please do so {link}.",
         "inactiveFeatureTitle": "Feature inactive",
         "inactiveFeatureDescription": "The email feature was deactivated for all projects in this instance.",
         "xDomainTimeoutTitle": "Waiting for server response",
