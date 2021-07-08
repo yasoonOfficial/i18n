@@ -2,10 +2,14 @@
     "adminScreen": {
         "templatesTabHeading": "Templates",
         "userDefaultsTabHeading": "Outlook default settings",
+        "userNotificationsTabHeading": "Outlook user notification",
         "technicalSettingsTabHeading": "Settings",
         "sharingSettingsTabHeading": "Email sharing",
         "overviewTabHeading": "Getting started",
         "helpTabHeading": "Help"
+    },
+    "projectSettings": {
+        "userNotificationsTabHeading": "Outlook user notification"
     },
     "sharingSettingsTab": {
         "sharingUserDefaultsHeading": "Configure user defaults",
@@ -71,6 +75,8 @@
         "sendToSender": "Email sender",
         "sendToAll": "Email all",
         "resetToDefault": "Reset to default",
+        "removeProjectSpecific": "Reset to default",
+        "makeProjectSpecificSettings": "Add project specific setting",
         "reply": "Reply",
         "replyAll": "Reply all",
         "showDetail": "Open",
@@ -165,6 +171,24 @@
         "raiseTicketButton": "Raise a ticket",
         "bookMeetingButton": "Book a meeting",
         "callUsButton": "Call us (timezone: CET/CEST)"
+    },
+    "userNotificationsTab": {
+        "heading": "Notification settings",
+        "textBoxHeading": "Banner text",
+        "radioHeading": "Banner type",
+        "previewHeading": "Live preview",
+        "previewDescriptionOverflow": "The text might overflow differently based on the users' dialog width.",
+        "previewDescriptionTruncation": "The text might be truncated differently based on the users' dialog width.",
+        "description": "Set the information to be shown to users in the Outlook add-in. This can be overwritten in the project specific settings for each project.",
+        "projectDescription": "Set the information to be shown to users in the Outlook add-in. This overwrites the global settings.",
+        "noProjectSettingsDescription": "There are no project specific settings overwriting the global default."
+    },
+    "banner": {
+        "errorLabel": "Critical",
+        "warningLabel": "Warning",
+        "infoLabel": "Info",
+        "disabledLabel": "Do not show banner",
+        "defaultText": "Lorem ipsum dolor sit amet"
     },
     "initialLoadingScreen": {
         "loading": "Loading"

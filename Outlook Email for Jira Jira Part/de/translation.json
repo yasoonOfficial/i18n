@@ -2,10 +2,14 @@
     "adminScreen": {
         "templatesTabHeading": "Vorlagen",
         "userDefaultsTabHeading": "Outlook Standardeinstellungen",
+        "userNotificationsTabHeading": "Outlook Nutzerinformation",
         "technicalSettingsTabHeading": "Einstellungen",
         "sharingSettingsTabHeading": "E-Mail Freigabe",
         "overviewTabHeading": "Übersicht",
         "helpTabHeading": "Hilfe"
+    },
+    "projectSettings": {
+        "userNotificationsTabHeading": "Outlook Nutzerinformation"
     },
     "sharingSettingsTab": {
         "sharingUserDefaultsHeading": "Anwenderstandards einstellen",
@@ -71,6 +75,8 @@
         "sendToSender": "Email an den Absender",
         "sendToAll": "Email an alle Beteiligten",
         "resetToDefault": "Auf Werkseinstellungen zurücksetzen",
+        "makeProjectSpecificSettings": "Projektspezifische Einstellung hinzufügen",
+        "removeProjectSpecific": "Auf Standard zurücksetzen",
         "reply": "Antworten",
         "replyAll": "Allen antworten",
         "showDetail": "Öffnen",
@@ -165,6 +171,24 @@
         "raiseTicketButton": "Eröffne ein Support-Ticket",
         "bookMeetingButton": "Buche ein Support-Meeting",
         "callUsButton": "Ruf uns an (Zeitzone: CET/CEST)"
+    },
+    "userNotificationsTab": {
+        "heading": "Bannereinstellungen",
+        "textBoxHeading": "Bannertext",
+        "radioHeading": "Bannertyp",
+        "previewHeading": "Live Vorschau",
+        "previewDescriptionOverflow": "Der Text wird beim Nutzer basierend auf der Dialogbreite umgebrochen.",
+        "previewDescriptionTruncation": "Der Text wird beim Nutzer basierend auf der Dialogbreite abgeschnitten.",
+        "description": "Lege fest, welche Informationen Nutzern im Outlook add-in angezeigt werden sollen. Dies kann in den Projekteinstellungen projektspezifisch überschrieben werden.",
+        "projectDescription": "Lege fest, welche Informationen Nutzern im Outlook add-in angezeigt werden sollen. Dies überschreibt die global gesetzten Einstellungen.",
+        "noProjectSettingsDescription": "Für dieses Projekt gibt es keine spezifischen Einstellungen, die den globalen Standard überschreiben."
+    },
+    "banner": {
+        "errorLabel": "Kritisch",
+        "warningLabel": "Warnung",
+        "infoLabel": "Information",
+        "disabledLabel": "Kein Banner anzeigen",
+        "defaultText": "Lorem ipsum dolor sit amet"
     },
     "initialLoadingScreen": {
         "loading": "Lädt"
