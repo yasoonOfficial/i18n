@@ -193,6 +193,11 @@
     "initialLoadingScreen": {
         "loading": "Lädt"
     },
+    "errorMessages": {
+        "outdatedData": "Diese Einstellungen wurden zwischenzeitig geändert. Bitte lade die Seite neu und versuche es noch einmal.",
+        "generic": "Etwas ist schiefgelaufen",
+        "saveTitle": "Speichern der Einstellungen fehlgeschlagen"
+    },
     "links": {
         "sendMailDoc": "Dokumentation",
         "contactUs": "Kontakt",

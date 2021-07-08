@@ -193,6 +193,11 @@
     "initialLoadingScreen": {
         "loading": "Loading"
     },
+    "errorMessages": {
+        "outdatedData": "The settings you are trying to save have been modified elsewhere. Please reload the page and try again.",
+        "generic": "Something has gone wrong",
+        "saveTitle": "Failed to save settings"
+    },
     "links": {
         "sendMailDoc": "Documentation",
         "contactUs": "Contact us",
