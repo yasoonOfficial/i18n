@@ -238,7 +238,7 @@
 		"teamsMeetingLabel": "Teams meeting",
 		"descriptionLabel": "Description",
 		"myCalendarGroupLabel": "My calendar",
-		"createEventLabel": "Available calendars",
+		"availableCalendarsGroupLabel": "Available calendars",
 		"requiresLoginLozenge": "Requires additional login",
 		"myCalendarLabel": "My calendar",
 		"showAsLabel": "Show as",
