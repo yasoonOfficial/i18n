@@ -238,8 +238,7 @@
 		"teamsMeetingLabel": "Teams meeting",
 		"descriptionLabel": "Description",
 		"myCalendarGroupLabel": "My calendar",
-		"createEventLabel": "Create event",
-		"sendMeetingInviteLabel": "Send meeting invite",
+		"createEventLabel": "Available calendars",
 		"requiresLoginLozenge": "Requires additional login",
 		"myCalendarLabel": "My calendar",
 		"showAsLabel": "Show as",
@@ -247,7 +246,8 @@
 		"categoryLabel": "Category",
 		"categoryNoOptionsMessage": "Type to select category",
 		"formatCreateCategoryLabel": "Select category",
-		"categoryFilterWarning": "The calendar has been filtered for other criteria, so the event might not show up on this page"
+		"categoryFilterWarning": "The calendar has been filtered for other criteria, so the event might not show up on this page",
+		"sendMeetingRequestHelper": "You'll send a meeting request to this calendar"
 	},
 	"createJqlScreen": {
 		"heading": "Back to templates",
