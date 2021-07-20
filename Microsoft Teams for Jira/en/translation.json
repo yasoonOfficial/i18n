@@ -4,7 +4,8 @@
         "cancel": "Cancel",
         "refresh": "Refresh",
         "remove": "Remove",
-        "browse": "Browse"
+        "browse": "Browse",
+        "loadMore": "Load more"
     },
     "error": {
         "serverNotSupported": "Jira Server is not supported yet",
