@@ -48,7 +48,6 @@
 		"filteringShowAsOnlyLabel": "This calendar has been filtered for {{freeBusyStatus}} events.",
 		"filteringCategoriesAndFreeBusyTypeLabel": "This calendar has been filtered for {{freeBusyStatus}} events with categories {{categories}}.",
 		"filteringCategoryAndFreeBusyTypeLabel": "This calendar has been filtered for {{freeBusyStatus}} events with category {{categories}}."
-
 	},
 	"officeCategoryColorSettings": {
 		"useCategoryColorHeading": "Use category color",
@@ -159,6 +158,7 @@
 	},
 	"officeLoginScreen": {
 		"heading": "Microsoft login",
+		"loginDisabledHint": "Log in to Confluence first to make enable the Microsoft login",
 		"subHeading": "To show Outlook calendars, please sign in with your Microsoft account."
 	},
 	"officeOwnCalendarScreen": {
