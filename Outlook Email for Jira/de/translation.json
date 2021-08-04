@@ -352,6 +352,10 @@
         "nfeedNotSupportedActionTitle": "Bearbeiten nicht möglich",
         "nfeedNotSupportedActionMessage": "Ein Pflichtfeld ist abhängig von diesem Elements Connect Feld. Bitte bearbeite dieses Feld {link}."
     },
+    "warningMessages": {
+        "tooManyIssueKeysTitle": "Zu viele Vorgänge",
+        "tooManyIssueKeysMessage": "Es wurden zu viele mögliche verwandte Vorgangsschlüssel in dieser E-Mail gefunden. Aus Performancegründen werden deshalb nicht alle möglichen Vorgänge angezeigt."
+    },
     "errorMessages": {
         "noConnectToJiraTitle": "Keine Verbindung zu Jira",
         "noConnectToJiraDescription": "Es scheint, als wäre die Anmeldung abgelaufen. Bitte melde dich im Einstellungsmenu neu an.",

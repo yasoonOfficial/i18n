@@ -351,6 +351,10 @@
         "nfeedNotSupportedActionTitle": "Editing not supported",
         "nfeedNotSupportedActionMessage": "A required field depends on this Elements Connect field. Please edit this field {link}."
     },
+    "warningMessages": {
+        "tooManyIssueKeysTitle": "Too many issue keys",
+        "tooManyIssueKeysMessage": "There are more too many possibly related issue keys in this email. For performance reasons we do not show all issues below."
+    },
     "errorMessages": {
         "noConnectToJiraTitle": "Could not connect to Jira",
         "noConnectToJiraDescription": "It looks like your login has expired. Please login again in the Settings menu.",
