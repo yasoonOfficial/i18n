@@ -20,7 +20,7 @@
         "reloadRelatedIssuesMessage": "Vorgänge für aktuelle Email neu laden.",
         "showAllFields": "Zeige alle Felder",
         "showLessFields": "Zeige weniger Felder",
-        "moreSenderIssuesButton": "Mehr Vorgänge",
+        "moreIssuesButton": "Mehr Vorgänge",
         "emptyFeedHeading": "Keine Vorgänge gefunden",
         "emptyFeedDescription": "Du hast aktuell keine Vorgänge in deinem Feed",
         "refreshFeed": "Feed aktualisieren"

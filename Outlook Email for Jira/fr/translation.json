@@ -20,7 +20,7 @@
         "reloadRelatedIssuesMessage": " Recharger les tickets pour le mail.",
         "showAllFields": "Afficher tous les champs",
         "showLessFields": "Afficher moins de champs",
-        "moreSenderIssuesButton": "Plus de tickets",
+        "moreIssuesButton": "Plus de tickets",
         "emptyFeedHeading": "Aucun tickets trouvé",
         "emptyFeedDescription": "Il n'y a aucun tickets dans votre fil",
         "refreshFeed": "Actualiser votre fil"
