@@ -28,7 +28,10 @@
         "loading": "Loading...",
         "link": "Link",
         "close": "Close",
-        "save": "Save"
+        "save": "Save",
+        "comingSoon": "Coming soon",
+        "settings": "Settings",
+        "notSure": "Not sure"
     },
     "error": {
         "serverNotSupported": "Jira Server is not supported yet",
@@ -41,7 +44,8 @@
         "somethingWentWrong": "Something went wrong",
         "invalidLicense": "You don't have a license for this app, or it is expired. Please check the license status in the 'Manage Apps' section.",
         "portalSettingsSaveError": "Could not save portal settings. Please try again later.",
-        "downloadJsmAppError": "Could not download the app. Please try again later."
+        "downloadJsmAppError": "Could not download the app. Please try again later.",
+        "missingExpiredLicense": "Missing or expired license"
     },
     "login": {
         "heading": "Connect to Jira",
@@ -159,8 +163,8 @@
         "typeEmailOrNameToSearch": "Type an email address or name to search...",
         "onlyChatMembersCanReply": "Only chat members can reply",
         "connectivityHelpText": "Please enter the URL under which your Jira system is reachable from the internet. If you change the existing public URL of your system, all users will be logged out of the current instance.",
-        "staticIPHelpText1": "If you need to allow IPs in your firewall, please check out our",
-        "staticIPHelpText2": "help on this",
+        "staticIPHelpText": "If you need to allow IPs in your firewall, please check out our {link1}",
+        "staticIPHelpTextLabel": "help on this",
         "yourJiraUrlPublic": "Your Jira URL (public)",
         "jiraUrlHelpText": "This is the publicly reachable URL of your Jira instance",
         "webhookSuccess": "The webhook was configured automatically.",
@@ -208,7 +212,13 @@
         "personalSettings": "Personal settings",
         "microsoft365Account": "Microsoft 365 account",
         "installTeamsApp": "Install Teams app",
-        "detailedInstructions": "Detailed instructions"
+        "detailedInstructions": "Detailed instructions",
+        "onlyMembersChat": "Only members of the chat can view it in Jira",
+        "contextChatAccess": "{{group}} with issue access can view chat messages",
+        "agents": "Agents",
+        "users": "Users",
+        "linkedChat": "A chat linked to this issue",
+        "relatedConversationsTeamsChannel": "Related conversations in Teams channels"
     },
     "teams": {
         "loadingIssues": "Loading issues...",
@@ -275,7 +285,8 @@
         "callUs": "Call us (timezone: CET)",
         "documentation": "Documentation",
         "getHelp": "Get help",
-        "help": "Help"
+        "help": "Help",
+        "useCasesHelpText": "We have compiled a list of use cases to give you a head start."
     },
     "jsmPreview": {
         "activity": "Activity",

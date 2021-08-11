@@ -28,7 +28,10 @@
         "loading": "Lade...",
         "link": "Verknüpfen",
         "close": "Schließen",
-        "save": "Speichern"
+        "save": "Speichern",
+        "comingSoon": "Coming soon",
+        "settings": "Einstellungen",
+        "notSure": "Nicht sicher"
 
     },
     "error": {
@@ -42,7 +45,8 @@
         "somethingWentWrong": "Entwas ist schief gelaufen",
         "invalidLicense": "Die Lizenz für diese App ist ungültig, oder sie ist abgelaufen. Bitte überprüfe die Lizenz unter 'Apps verwalten'.",
         "portalSettingsSaveError": "Portal-Einstellungen konnten nicht gespeichert werden.",
-        "downloadJsmAppError": "App konnte nicht heruntergeladen werden."
+        "downloadJsmAppError": "App konnte nicht heruntergeladen werden.",
+        "missingExpiredLicense": "Lizenz fehlt oder ungültig"
     },
     "login": {
         "heading": "Mit Jira verbinden",
@@ -160,8 +164,8 @@
         "typeEmailOrNameToSearch": "Email oder Name eingeben zum Suchen...",
         "onlyChatMembersCanReply": "Nur Teilnehmer des Chats können antworten",
         "connectivityHelpText": "Bitte gib die URL ein, unter der dieses Jira System über das Internet erreichbar ist. Wenn du die öffentliche URL dieses Systems änderst, werden alle Benutzer aus der App ausgeloggt.",
-        "staticIPHelpText1": "Wenn Ausnahmen in der Firewall für statische IPs nötig sind, lies bitte unsere",
-        "staticIPHelpText2": "Dokumentation dazu",
+        "staticIPHelpText": "Wenn Ausnahmen in der Firewall für statische IPs nötig sind, lies bitte unsere {link1}",
+        "staticIPHelpTextLabel": "Dokumentation dazu",
         "yourJiraUrlPublic": "Jira URL (öffentlich)",
         "jiraUrlHelpText": "Das ist die öffentlich erreichbare URL dieser Jira Instanz",
         "webhookSuccess": "Der Webhook wurde automagisch angelegt und konfiguriert.",
@@ -209,7 +213,13 @@
         "personalSettings": "Persönliche Einstellungen",
         "microsoft365Account": "Microsoft 365 Account",
         "installTeamsApp": "Teams App installieren",
-        "detailedInstructions": "Ausführliche Anleitung"
+        "detailedInstructions": "Ausführliche Anleitung",
+        "onlyMembersChat": "Nur Teilnehmer des Chats haben Zugang in Jira",
+        "contextChatAccess": "{{group}} mit Zugang zum Issue können den Chat sehen",
+        "agents": "Agenten",
+        "users": "Nutzer",
+        "linkedChat": "Ein Chat der mit dem Issue verknüpft ist",
+        "relatedConversationsTeamsChannel": "Verknüpfte Konversationen in Teams Kanälen"
     },
     "teams": {
         "loadingIssues": "Lade Issues...",
