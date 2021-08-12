@@ -218,7 +218,8 @@
         "agents": "Agents",
         "users": "Users",
         "linkedChat": "A chat linked to this issue",
-        "relatedConversationsTeamsChannel": "Related conversations in Teams channels"
+        "relatedConversationsTeamsChannel": "Related conversations in Teams channels",
+        "newChatFooter": "Posted from Jira issue"
     },
     "teams": {
         "loadingIssues": "Loading issues...",

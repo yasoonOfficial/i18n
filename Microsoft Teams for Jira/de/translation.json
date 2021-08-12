@@ -32,7 +32,6 @@
         "comingSoon": "Coming soon",
         "settings": "Einstellungen",
         "notSure": "Nicht sicher"
-
     },
     "error": {
         "serverNotSupported": "Jira Server wird noch nicht unterstützt",
@@ -219,7 +218,8 @@
         "agents": "Agenten",
         "users": "Nutzer",
         "linkedChat": "Ein Chat der mit dem Issue verknüpft ist",
-        "relatedConversationsTeamsChannel": "Verknüpfte Konversationen in Teams Kanälen"
+        "relatedConversationsTeamsChannel": "Verknüpfte Konversationen in Teams Kanälen",
+        "newChatFooter": "Erstellt aus Vorgang"
     },
     "teams": {
         "loadingIssues": "Lade Issues...",
@@ -294,5 +294,4 @@
         "teams": "Teams",
         "calendar": "Kalender"
     }
-
 }
