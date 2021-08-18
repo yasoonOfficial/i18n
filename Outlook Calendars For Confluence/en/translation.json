@@ -852,7 +852,7 @@
         "raiseATicket": "Raise a ticket",
         "callUs": "Call us (timezone: CET)"
     },
-    "office365LogoutModal":{
+    "office365LogoutModal": {
         "logoutButtonLabel": "Logout",
         "cancelButtonLabel": "Cancel",
         "heading": "Logout",
@@ -868,12 +868,12 @@
         "notShared": "Users with existing calendar access",
         "heading": "Who should be able to see this?"
     },
-    "adminSharedItems":{
-        "heading":"Default sharing option",
-        "sharingHeader":"Share calendar settings",
-        "anonymousSharingHeader":"Anonymous calendar sharing",
+    "adminSharedItems": {
+        "heading": "Default sharing option",
+        "sharingHeader": "Share calendar settings",
+        "anonymousSharingHeader": "Anonymous calendar sharing",
         "isSharingPossibleLabel": "Allow users to share calendars",
-        "isAnonymousSharingEnabledLabel":"Allow users to publicly share calendars",
+        "isAnonymousSharingEnabledLabel": "Allow users to publicly share calendars",
         "sharingDescription": "Users can share calendars with their own Outlook permissions, so other users don’t need to log-in.",
         "anonymousSharingDescription": "By default calendars can’t be accessed by anonymous users. If you want to allow Outlook calendars to be shared on public pages you explicitly need to enable this setting.",
         "helpLink": "See our docs for further details"
@@ -881,7 +881,7 @@
     "shareItemSettings": {
         "heading": "Sharing settings"
     },
-    "shareItemPopup":{
+    "shareItemPopup": {
         "helpTooltip": "Go to documentation",
         "helpText": "Need help",
         "freeBusyOnlyLabel": "Free/Busy only"
