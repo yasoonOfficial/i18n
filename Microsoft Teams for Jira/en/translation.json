@@ -54,7 +54,8 @@
         "learnMore": "Learn more"
     },
     "search": {
-        "placeholder": "Search for common issues.."
+        "placeholder": "Search for common issues..",
+        "noResultsFor": "No results found for '{{query}}'."
     },
     "chooseDesk": {
         "heading": "Choose a service desk",

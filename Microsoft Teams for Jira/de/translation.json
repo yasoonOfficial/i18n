@@ -54,7 +54,8 @@
         "learnMore": "Mehr erfahren"
     },
     "search": {
-        "placeholder": "Suchen.."
+        "placeholder": "Suchen..",
+        "noResultsFor": "Keine Ergebnisse für '{{query}}'."
     },
     "chooseDesk": {
         "heading": "Service desk auswählen",
