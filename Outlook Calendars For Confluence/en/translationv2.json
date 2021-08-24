@@ -161,9 +161,9 @@
 		"subHeading": "To show Outlook calendars, please sign in with your Microsoft account.",
 		"loginDisabledHint": "Please log-in to Confluence first"
 	},
-	"officeLoginPrivacyScreen": {
+	"officeLoginMSALScreen": {
 		"heading": "Microsoft login",
-		"subHeading": "You are using a browser that has strict cookie settings...",
+		"subHeading": "You are using a browser that has strict settings, therefore you may need to re-authenticate more frequently.",
 		"loginDisabledHint": "Please log-in to Confluence first"
 	},
 	"officeOwnCalendarScreen": {
