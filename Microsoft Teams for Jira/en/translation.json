@@ -55,7 +55,9 @@
     },
     "search": {
         "placeholder": "Search for common issues..",
-        "noResultsFor": "No results found for '{{query}}'."
+        "noResultsFor": "No results found for '{{query}}'.",
+        "articles": "Articles",
+        "requestTypes": "Send a request about"
     },
     "chooseDesk": {
         "heading": "Choose a service desk",

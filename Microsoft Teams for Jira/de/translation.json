@@ -55,7 +55,9 @@
     },
     "search": {
         "placeholder": "Suchen..",
-        "noResultsFor": "Keine Ergebnisse für '{{query}}'."
+        "noResultsFor": "Keine Ergebnisse für '{{query}}'.",
+        "articles": "Artikel",
+        "requestTypes": "Sende eine Anfrage bezüglich"
     },
     "chooseDesk": {
         "heading": "Service desk auswählen",
