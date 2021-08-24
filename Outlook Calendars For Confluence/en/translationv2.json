@@ -514,5 +514,9 @@
 		"loginHeading": "Microsoft account",
 		"logoutButton": "Logout",
 		"notLoggedIn": "You're not logged in"
+	},
+	"settingsError": {
+		"unknownError": "An unknown error occured while saving.",
+		"flagHeading": "Version mismatch."
 	}
 }
