@@ -47,7 +47,9 @@
 		"filteringCategoryOnlyLabel": "This calendar has been filtered for events with category {{categories}}.",
 		"filteringShowAsOnlyLabel": "This calendar has been filtered for {{freeBusyStatus}} events.",
 		"filteringCategoriesAndFreeBusyTypeLabel": "This calendar has been filtered for {{freeBusyStatus}} events with categories {{categories}}.",
-		"filteringCategoryAndFreeBusyTypeLabel": "This calendar has been filtered for {{freeBusyStatus}} events with category {{categories}}."
+		"filteringCategoryAndFreeBusyTypeLabel": "This calendar has been filtered for {{freeBusyStatus}} events with category {{categories}}.",
+		"reauthenticateButton": "Re-authenticate",
+		"reauthenticateMessage": "Your browser has restrictive settings, so you don't need to re-authenticate"
 	},
 	"officeCategoryColorSettings": {
 		"useCategoryColorHeading": "Use category color",
