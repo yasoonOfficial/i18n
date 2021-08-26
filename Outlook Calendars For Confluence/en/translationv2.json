@@ -49,7 +49,7 @@
 		"filteringCategoriesAndFreeBusyTypeLabel": "This calendar has been filtered for {{freeBusyStatus}} events with categories {{categories}}.",
 		"filteringCategoryAndFreeBusyTypeLabel": "This calendar has been filtered for {{freeBusyStatus}} events with category {{categories}}.",
 		"reauthenticateButton": "Re-authenticate",
-		"reauthenticateMessage": "Your browser has restrictive settings, so you don't need to re-authenticate"
+		"reauthenticateMessage": "Your browser has restrictive privacy settings, so you need to re-authenticate every 24 hours."
 	},
 	"officeCategoryColorSettings": {
 		"useCategoryColorHeading": "Use category color",
@@ -164,8 +164,8 @@
 		"loginDisabledHint": "Please log-in to Confluence first"
 	},
 	"officeLoginMSALScreen": {
-		"heading": "Microsoft login",
-		"subHeading": "You are using a browser that has strict settings, therefore you may need to re-authenticate more frequently.",
+		"heading": "Re-authenticate Microsoft login",
+		"subHeading": "Your browser has restrictive privacy settings, so you need to re-authenticate every 24 hours.",
 		"loginDisabledHint": "Please log-in to Confluence first"
 	},
 	"officeOwnCalendarScreen": {
