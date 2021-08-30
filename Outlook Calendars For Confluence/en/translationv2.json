@@ -166,7 +166,8 @@
 	"officeLoginMSALScreen": {
 		"heading": "Re-authenticate Microsoft login",
 		"subHeading": "Your browser has restrictive privacy settings, so you need to re-authenticate every 24 hours.",
-		"loginDisabledHint": "Please log-in to Confluence first"
+		"loginDisabledHint": "Please log-in to Confluence first",
+		"reAuthenticateButtonLabel": "Re-authenticate"
 	},
 	"officeOwnCalendarScreen": {
 		"resultsLabel": "My calendars",
