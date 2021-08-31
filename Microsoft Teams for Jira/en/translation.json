@@ -222,7 +222,7 @@
         "users": "Users",
         "linkedChat": "A chat linked to this issue",
         "relatedConversationsTeamsChannel": "Related conversations in Teams channels",
-        "newChatFooter": "Posted from Jira issue",
+        "newChatFooter": "Posted from Jira issue ",
         "showMoreReplies": "Show {{count}} more reply",
         "showMoreReplies_plural": "Show {{count}} more replies",
         "loadOlderReplies": "Load older replies"

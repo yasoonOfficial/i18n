@@ -222,7 +222,7 @@
         "users": "Nutzer",
         "linkedChat": "Ein Chat der mit dem Issue verknüpft ist",
         "relatedConversationsTeamsChannel": "Verknüpfte Konversationen in Teams Kanälen",
-        "newChatFooter": "Erstellt aus Vorgang",
+        "newChatFooter": "Erstellt aus Vorgang ",
         "showMoreReplies": "{{count}} weitere Antwort anzeigen",
         "showMoreReplies_plural": "{{count}} weitere Antworten anzeigen",
         "loadOlderReplies": "Ältere Antworten laden"
