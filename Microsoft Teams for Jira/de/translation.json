@@ -222,7 +222,10 @@
         "users": "Nutzer",
         "linkedChat": "Ein Chat der mit dem Issue verknüpft ist",
         "relatedConversationsTeamsChannel": "Verknüpfte Konversationen in Teams Kanälen",
-        "newChatFooter": "Erstellt aus Vorgang"
+        "newChatFooter": "Erstellt aus Vorgang",
+        "showMoreReplies": "{{count}} weitere Antwort anzeigen",
+        "showMoreReplies_plural": "{{count}} weitere Antworten anzeigen",
+        "loadOlderReplies": "Ältere Antworten laden"
     },
     "teams": {
         "loadingIssues": "Lade Issues...",
@@ -296,5 +299,12 @@
         "chat": "Chat",
         "teams": "Teams",
         "calendar": "Kalender"
+    },
+    "commentVisibility": {
+        "choose": "Sichtbarkeit des Kommentars wählen",
+        "none": "Kein Kommentar",
+        "internal": "Internes Kommentar",
+        "public": "Öffentliches Kommentar",
+        "tooltipExplanation": "Wähle die Sichtbarkeit des Issue-Kommentars beim Anlegen von Chat oder Konversation."
     }
 }

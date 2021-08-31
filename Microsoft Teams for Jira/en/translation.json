@@ -222,7 +222,10 @@
         "users": "Users",
         "linkedChat": "A chat linked to this issue",
         "relatedConversationsTeamsChannel": "Related conversations in Teams channels",
-        "newChatFooter": "Posted from Jira issue"
+        "newChatFooter": "Posted from Jira issue",
+        "showMoreReplies": "Show {{count}} more reply",
+        "showMoreReplies_plural": "Show {{count}} more replies",
+        "loadOlderReplies": "Load older replies"
     },
     "teams": {
         "loadingIssues": "Loading issues...",
@@ -297,5 +300,12 @@
         "chat": "Chat",
         "teams": "Teams",
         "calendar": "Calendar"
+    },
+    "commentVisibility": {
+        "choose": "Choose visibility of comment",
+        "none": "No comment",
+        "internal": "Internal comment",
+        "public": "Public comment",
+        "tooltipExplanation": "Choose visibility of the issue comment about chat or conversation creation."
     }
 }
