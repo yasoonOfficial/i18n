@@ -273,7 +273,9 @@
         "continueToJiraCloud": "Fortfahren zu Jira Cloud",
         "connectedJiraAccount": "Verbundener Jira Account",
         "unsupportedAction": "Aktion nicht unterstützt",
-        "unsupportedActionHelpText": "Leider ist diese Aktion in Chats noch nicht unterstützt. Bitte kontaktiere uns, solltest du diese Funktion benötigen."
+        "unsupportedActionHelpText": "Leider ist diese Aktion in Chats noch nicht unterstützt. Bitte kontaktiere uns, solltest du diese Funktion benötigen.",
+        "labelsLoading": "Labels laden...",
+        "selectLabel": "Wähle ein Label aus"
     },
     "support": {
         "faq": "FAQ",
