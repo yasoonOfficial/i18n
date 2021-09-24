@@ -308,9 +308,10 @@
         "none": "No comment",
         "internal": "Internal comment",
         "public": "Customer comment",
-        "noneShort": "None",
+        "softwareAddComment": "Add comment",
         "internalShort": "Internal",
         "publicShort": "Public",
+        "softwareAddCommentShort": "With comment",
         "tooltipExplanation": "Choose if a notification comment should be added"
     }
 }

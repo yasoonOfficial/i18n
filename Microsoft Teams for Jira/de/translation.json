@@ -307,9 +307,10 @@
         "none": "Kein Kommentar",
         "internal": "Interner Kommentar",
         "public": "Kunden Kommentar",
-        "noneShort": "Keiner",
+        "softwareAddComment": "Kommentar hinzufügen",
         "internalShort": "Intern",
         "publicShort": "Öffentlich",
+        "softwareAddCommentShort": "Mit Kommentar",
         "tooltipExplanation": "Wähle ob ein Kommentar zur Benachrichtigung erstellt wird"
     }
 }
