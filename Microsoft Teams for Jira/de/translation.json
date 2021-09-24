@@ -134,7 +134,7 @@
         "chat": "Chat",
         "channel": "Kanal",
         "channelConversations": "Konversationen",
-        "chooseChatPermissions": "Berechtigungen für diesen Chat auswählen",
+        "chooseChatPermissions": "Wähle, wer auf diesen Chat in Jira zugreifen darf",
         "installBeforeChannelPost": "Um Jira Issues in einem Microsoft Teams Kanal zu posten, müssen Sie zuerst die App in diesem Team installieren.",
         "editorChannelTargetPlaceholder": "Verfasse eine Nachricht... Du kannst alle Kanalteilnehmer mit @-mention erwähnen!",
         "editorPlaceholder": "Verfasse eine Nachricht...",
@@ -303,10 +303,13 @@
         "calendar": "Kalender"
     },
     "commentVisibility": {
-        "choose": "Sichtbarkeit des Kommentars wählen",
+        "choose": "Wähle ob ein Benachrichtigungskommentar erstellt werden soll, mit einem Link zur Teams-Konversation",
         "none": "Kein Kommentar",
-        "internal": "Internes Kommentar",
-        "public": "Öffentliches Kommentar",
-        "tooltipExplanation": "Wähle die Sichtbarkeit des Issue-Kommentars beim Anlegen von Chat oder Konversation."
+        "internal": "Interner Kommentar",
+        "public": "Kunden Kommentar",
+        "noneShort": "Keiner",
+        "internalShort": "Intern",
+        "publicShort": "Öffentlich",
+        "tooltipExplanation": "Wähle ob ein Kommentar zur Benachrichtigung erstellt wird"
     }
 }

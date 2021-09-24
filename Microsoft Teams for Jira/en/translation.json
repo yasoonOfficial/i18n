@@ -134,7 +134,7 @@
         "chat": "Chat",
         "channel": "Channel",
         "channelConversations": "Channel conversations",
-        "chooseChatPermissions": "Choose permissions for this chat",
+        "chooseChatPermissions": "Choose who should be able to view this chat in Jira",
         "installBeforeChannelPost": "To post Jira issues to a Microsoft Teams channel, you'll need to install the app into the team first.",
         "editorChannelTargetPlaceholder": "Type a message... You can also @-mention any channel member!",
         "editorPlaceholder": "Type a message...",
@@ -304,10 +304,13 @@
         "calendar": "Calendar"
     },
     "commentVisibility": {
-        "choose": "Choose visibility of comment",
+        "choose": "Choose, if a notification comment should be added to the issue with a link to the Teams conversation",
         "none": "No comment",
         "internal": "Internal comment",
-        "public": "Public comment",
-        "tooltipExplanation": "Choose visibility of the issue comment about chat or conversation creation."
+        "public": "Customer comment",
+        "noneShort": "None",
+        "internalShort": "Internal",
+        "publicShort": "Public",
+        "tooltipExplanation": "Choose if a notification comment should be added"
     }
 }
