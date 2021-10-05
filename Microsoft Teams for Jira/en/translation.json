@@ -180,7 +180,8 @@
         "relatedConversations": "Related Teams conversations",
         "appearanceActivity": "Activity Tab",
         "appearanceIssueContent": "Issue Content",
-        "appearanceHeader": "Teams chat & conversation appearance",
+        "appearanceHeader": "Appearance",
+        "appearanceIntro": "Teams chat & conversation appearance",
         "appearanceHelpText": "Please choose where the Microsoft Teams conversations and chat view should be visible. By default, it is located in the content area of the issue. For a less prominent positioning, you can switch this to use the activity tab area besides the comments tab.",
         "quickCreateArea": "Quick create area",
         "quickCreateTooltip": "Enables an always visible compose bar in every issue, like a comment box.",
@@ -317,5 +318,18 @@
         "publicShort": "Public",
         "softwareAddCommentShort": "With comment",
         "tooltipExplanation": "Choose if a notification comment should be added"
+    },
+    "notificationSettings": {
+        "headline": "Notifications in Teams",
+        "intro": "Configure notifications for linked issues",
+        "helpText": "Please choose which updates to linked issues should be posted to Microsoft Teams.",
+        "newComment": "New comment",
+        "includeInternal": "Include internal comments",
+        "statusChange": "Status changes",
+        "newAttachment": "New attachments",
+        "issueChanges": "Issue changes",
+        "issueFieldChanges": "Issue field changes",
+        "assigneeChange": "Assignee changes",
+        "dueDateChange": "Due date changes"
     }
 }

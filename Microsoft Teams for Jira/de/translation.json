@@ -180,7 +180,8 @@
         "relatedConversations": "Zugehörige Teams Konversationen",
         "appearanceActivity": "Aktivitäten Tab",
         "appearanceIssueContent": "Issue Inhalt",
-        "appearanceHeader": "Erscheinung von Teams Chats & Konversationen",
+        "appearanceHeader": "Erscheinung",
+        "appearanceIntro": "Erscheinung von Teams Chats & Konversationen",
         "appearanceHelpText": "Bitte wähle aus, wo Microsoft Teams Konversationen und Chats angezeigt werden sollen. Out-of-the-box werden sie im Inhalt des Issues angezeigt. Für eine weniger prominente Erscheinung kann ein Aktivitäten Tab ausgewählt werden, neben dem Kommentar Tab.",
         "quickCreateArea": "Quick create Bereich",
         "quickCreateTooltip": "Aktiviert ein permanent sichtbares Eingabefeld im Issue, wie eine Kommentar-Box.",
@@ -316,5 +317,18 @@
         "publicShort": "Öffentlich",
         "softwareAddCommentShort": "Mit Kommentar",
         "tooltipExplanation": "Wähle ob ein Kommentar zur Benachrichtigung erstellt wird"
+    },
+    "notificationSettings": {
+        "headline": "Benachrichtigungen in Teams",
+        "intro": "Einstellungen von Benachrichtigungen für verknüpfte Vorgänge",
+        "helpText": "Bitte wähle aus, welche Änderungen an verknüpften Vorgängen in Microsoft Teams gepostet werden sollen.",
+        "newComment": "Neues Kommentar",
+        "includeInternal": "Einschließlich interner Kommentare",
+        "statusChange": "Statusänderungen",
+        "newAttachment": "Neue Datei-Anhänge",
+        "issueChanges": "Änderungen am Vorgang",
+        "issueFieldChanges": "Änderungen an Vorgangsfeldern",
+        "assigneeChange": "Änderungen des Bearbeiters",
+        "dueDateChange": "Änderungen des Fälligkeitsdatums"
     }
 }
