@@ -45,7 +45,8 @@
         "invalidLicense": "You don't have a license for this app, or it is expired. Please check the license status in the 'Manage Apps' section.",
         "portalSettingsSaveError": "Could not save portal settings. Please try again later.",
         "downloadJsmAppError": "Could not download the app. Please try again later.",
-        "missingExpiredLicense": "Missing or expired license"
+        "missingExpiredLicense": "Missing or expired license",
+        "missingExpiredLicenseHelptext": "To continue usage of this product, please renew your license."
     },
     "login": {
         "heading": "Connect to Jira",

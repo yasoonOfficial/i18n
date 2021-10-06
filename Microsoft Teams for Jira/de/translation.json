@@ -45,7 +45,8 @@
         "invalidLicense": "Die Lizenz für diese App ist ungültig, oder sie ist abgelaufen. Bitte überprüfe die Lizenz unter 'Apps verwalten'.",
         "portalSettingsSaveError": "Portal-Einstellungen konnten nicht gespeichert werden.",
         "downloadJsmAppError": "App konnte nicht heruntergeladen werden.",
-        "missingExpiredLicense": "Lizenz fehlt oder ungültig"
+        "missingExpiredLicense": "Lizenz fehlt oder ungültig",
+        "missingExpiredLicenseHelptext": "Um das Produkt weiterhin nutzen zu können, erneuere bitte die Lizenz."
     },
     "login": {
         "heading": "Mit Jira verbinden",
