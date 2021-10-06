@@ -102,6 +102,7 @@
         "subjectPlaceholder": "Betreff eingeben",
         "subjectLabel": "Betreff",
         "recipientsLabel": "An",
+        "replyPrefix": "AW: ",
         "regardingIssue": "Betreffend {{issueKey}}",
         "recipientsPlaceholder": "Keine Ergebnisse",
         "recipientsNoOptionsMessage": "Zum Suchen tippen...",
