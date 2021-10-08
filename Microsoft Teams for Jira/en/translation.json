@@ -45,7 +45,8 @@
         "invalidLicense": "You don't have a license for this app, or it is expired. Please check the license status in the 'Manage Apps' section.",
         "portalSettingsSaveError": "Could not save portal settings. Please try again later.",
         "downloadJsmAppError": "Could not download the app. Please try again later.",
-        "missingExpiredLicense": "Missing or expired license"
+        "missingExpiredLicense": "Missing or expired license",
+        "missingExpiredLicenseHelptext": "To continue usage of this product, please renew your license."
     },
     "login": {
         "heading": "Connect to Jira",
@@ -164,7 +165,10 @@
         "externalUser": "External user",
         "selectUserToStartChat": "Select at least one participant to start a chat..",
         "typeEmailOrNameToSearch": "Type an email address or name to search...",
-        "onlyChatMembersCanReply": "Only chat members can reply",
+        "onlyChatMembersCanReply": "Only chat members can reply.",
+        "joinChatNow": "Join now",
+        "joinConversation": "Join the conversation",
+        "joinChatMembersWillSee": "Conversation members will see that you joined the chat.",
         "connectivityHelpText": "Please enter the URL under which your Jira system is reachable from the internet. If you change the existing public URL of your system, all users will be logged out of the current instance.",
         "staticIPHelpText": "If you need to allow IPs in your firewall, please check out our {link1}",
         "staticIPHelpTextLabel": "help on this",
@@ -177,7 +181,8 @@
         "relatedConversations": "Related Teams conversations",
         "appearanceActivity": "Activity Tab",
         "appearanceIssueContent": "Issue Content",
-        "appearanceHeader": "Teams chat & conversation appearance",
+        "appearanceHeader": "Appearance",
+        "appearanceIntro": "Teams chat & conversation appearance",
         "appearanceHelpText": "Please choose where the Microsoft Teams conversations and chat view should be visible. By default, it is located in the content area of the issue. For a less prominent positioning, you can switch this to use the activity tab area besides the comments tab.",
         "quickCreateArea": "Quick create area",
         "quickCreateTooltip": "Enables an always visible compose bar in every issue, like a comment box.",
@@ -218,6 +223,7 @@
         "detailedInstructions": "Detailed instructions",
         "onlyMembersChat": "Only members of the chat can view it in Jira",
         "contextChatAccess": "{{group}} with issue access can view chat messages",
+        "contextChatAllowJoining": "{{group}} with issue access can view and join the chat",
         "agents": "Agents",
         "users": "Users",
         "linkedChat": "A chat linked to this issue",
@@ -315,5 +321,18 @@
         "publicShort": "Public",
         "softwareAddCommentShort": "With comment",
         "tooltipExplanation": "Choose if a notification comment should be added"
+    },
+    "notificationSettings": {
+        "headline": "Notifications in Teams",
+        "intro": "Configure notifications for linked issues",
+        "helpText": "Please choose which updates to linked issues should be posted to Microsoft Teams.",
+        "newComment": "New comment",
+        "includeInternal": "Include internal comments",
+        "statusChange": "Status changes",
+        "newAttachment": "New attachments",
+        "issueChanges": "Issue changes",
+        "issueFieldChanges": "Issue field changes",
+        "assigneeChange": "Assignee changes",
+        "dueDateChange": "Due date changes"
     }
 }

@@ -45,7 +45,8 @@
         "invalidLicense": "Die Lizenz für diese App ist ungültig, oder sie ist abgelaufen. Bitte überprüfe die Lizenz unter 'Apps verwalten'.",
         "portalSettingsSaveError": "Portal-Einstellungen konnten nicht gespeichert werden.",
         "downloadJsmAppError": "App konnte nicht heruntergeladen werden.",
-        "missingExpiredLicense": "Lizenz fehlt oder ungültig"
+        "missingExpiredLicense": "Lizenz fehlt oder ungültig",
+        "missingExpiredLicenseHelptext": "Um das Produkt weiterhin nutzen zu können, erneuere bitte die Lizenz."
     },
     "login": {
         "heading": "Mit Jira verbinden",
@@ -164,7 +165,10 @@
         "externalUser": "Externer Benutzer",
         "selectUserToStartChat": "Mindestens einen Teilnehmer auswählen, um Chat zu starten..",
         "typeEmailOrNameToSearch": "Email oder Name eingeben zum Suchen...",
-        "onlyChatMembersCanReply": "Nur Teilnehmer des Chats können antworten",
+        "onlyChatMembersCanReply": "Nur Teilnehmer des Chats können antworten.",
+        "joinChatNow": "Jetzt beitreten",
+        "joinConversation": "Jetzt dem Chat beitreten",
+        "joinChatMembersWillSee": "Teilnehmer des Chats werden sehen, dass du beigetreten bist.",
         "connectivityHelpText": "Bitte gib die URL ein, unter der dieses Jira System über das Internet erreichbar ist. Wenn du die öffentliche URL dieses Systems änderst, werden alle Benutzer aus der App ausgeloggt.",
         "staticIPHelpText": "Wenn Ausnahmen in der Firewall für statische IPs nötig sind, lies bitte unsere {link1}",
         "staticIPHelpTextLabel": "Dokumentation dazu",
@@ -177,7 +181,8 @@
         "relatedConversations": "Zugehörige Teams Konversationen",
         "appearanceActivity": "Aktivitäten Tab",
         "appearanceIssueContent": "Issue Inhalt",
-        "appearanceHeader": "Erscheinung von Teams Chats & Konversationen",
+        "appearanceHeader": "Erscheinung",
+        "appearanceIntro": "Erscheinung von Teams Chats & Konversationen",
         "appearanceHelpText": "Bitte wähle aus, wo Microsoft Teams Konversationen und Chats angezeigt werden sollen. Out-of-the-box werden sie im Inhalt des Issues angezeigt. Für eine weniger prominente Erscheinung kann ein Aktivitäten Tab ausgewählt werden, neben dem Kommentar Tab.",
         "quickCreateArea": "Quick create Bereich",
         "quickCreateTooltip": "Aktiviert ein permanent sichtbares Eingabefeld im Issue, wie eine Kommentar-Box.",
@@ -218,6 +223,7 @@
         "detailedInstructions": "Ausführliche Anleitung",
         "onlyMembersChat": "Nur Teilnehmer des Chats haben Zugang in Jira",
         "contextChatAccess": "{{group}} mit Zugang zum Issue können den Chat sehen",
+        "contextChatAllowJoining": "{{group}} mit Zugang zum Issue können den Chat einsehen und beitreten",
         "agents": "Agenten",
         "users": "Nutzer",
         "linkedChat": "Ein Chat der mit dem Issue verknüpft ist",
@@ -314,5 +320,18 @@
         "publicShort": "Öffentlich",
         "softwareAddCommentShort": "Mit Kommentar",
         "tooltipExplanation": "Wähle ob ein Kommentar zur Benachrichtigung erstellt wird"
+    },
+    "notificationSettings": {
+        "headline": "Benachrichtigungen in Teams",
+        "intro": "Einstellungen von Benachrichtigungen für verknüpfte Vorgänge",
+        "helpText": "Bitte wähle aus, welche Änderungen an verknüpften Vorgängen in Microsoft Teams gepostet werden sollen.",
+        "newComment": "Neues Kommentar",
+        "includeInternal": "Einschließlich interner Kommentare",
+        "statusChange": "Statusänderungen",
+        "newAttachment": "Neue Datei-Anhänge",
+        "issueChanges": "Änderungen am Vorgang",
+        "issueFieldChanges": "Änderungen an Vorgangsfeldern",
+        "assigneeChange": "Änderungen des Bearbeiters",
+        "dueDateChange": "Änderungen des Fälligkeitsdatums"
     }
 }

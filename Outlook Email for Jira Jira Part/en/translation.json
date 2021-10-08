@@ -101,6 +101,7 @@
     "sendMailDialog": {
         "subjectPlaceholder": "Enter a subject",
         "subjectLabel": "Subject",
+        "replyPrefix": "RE: ",
         "recipientsLabel": "To",
         "recipientsPlaceholder": "Type to search...",
         "recipientsNoOptionsMessage": "No matching options",
