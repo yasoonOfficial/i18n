@@ -237,6 +237,8 @@
         "noMatchingIssue": "Kein passender Issue gefunden.",
         "noMatchingIssueType": "Kein passender Issue Type gefunden.",
         "noMatchingProject": "Kein passendes Projekt gefunden.",
+        "emptySprintSearch": "Bitte einen Suchbegriff eingeben...",
+        "selectSprint": "Wähle einen Sprint aus",
         "issueWatchers": "Issue Watchers",
         "channelAndIssue": "Kanal & Issue",
         "noNotifications": "Keine Benachrichtigung",
