@@ -320,7 +320,7 @@
         "calendar": "Calendar"
     },
     "commentVisibility": {
-        "choose": "Choose visibility of comment",
+        "choose": "Choose, if a notification comment should be added to the issue with a link to the Teams conversation",
         "none": "No comment",
         "internal": "Internal comment",
         "public": "Customer comment",
