@@ -46,7 +46,11 @@
         "portalSettingsSaveError": "Could not save portal settings. Please try again later.",
         "downloadJsmAppError": "Could not download the app. Please try again later.",
         "missingExpiredLicense": "Missing or expired license",
-        "missingExpiredLicenseHelptext": "To continue usage of this product, please renew your license."
+        "missingExpiredLicenseHelptext": "To continue usage of this product, please renew your license.",
+        "chatCreationFailed": "Failed to create chat.",
+        "chatCreationFailedExternal": "Failed to create chat. Try removing external users.",
+        "conversationCreationFailed": "Failed to create conversation.",
+        "externalUsersNotFound": "Could not find external users: "
     },
     "login": {
         "heading": "Connect to Jira",
@@ -163,6 +167,7 @@
         "welcomeToTeamsForJira": "Welcome to Microsoft Teams for Jira",
         "firstUseLoginInfo": "Looks like you are using the app for the very first time. Please login with your Microsoft 365 account to get started!",
         "externalUser": "External user",
+        "external": "External",
         "selectUserToStartChat": "Select at least one participant to start a chat..",
         "typeEmailOrNameToSearch": "Type an email address or name to search...",
         "onlyChatMembersCanReply": "Only chat members can reply.",
@@ -228,10 +233,13 @@
         "users": "Users",
         "linkedChat": "A chat linked to this issue",
         "relatedConversationsTeamsChannel": "Related conversations in Teams channels",
-        "newChatFooter": "Posted from Jira issue",
+        "newChatFooter": "Posted from Jira issue ",
         "showMoreReplies": "Show {{count}} more reply",
         "showMoreReplies_plural": "Show {{count}} more replies",
-        "loadOlderReplies": "Load older replies"
+        "loadOlderReplies": "Load older replies",
+        "chatTo": "To",
+        "externalUserHeadline": "You are attempting to chat with external users.",
+        "externalUserInfo": "This might not work. When the external user does not use Teams, creation of the chat will fail."
     },
     "teams": {
         "loadingIssues": "Loading issues...",
@@ -312,7 +320,7 @@
         "calendar": "Calendar"
     },
     "commentVisibility": {
-        "choose": "Choose, if a notification comment should be added to the issue with a link to the Teams conversation",
+        "choose": "Choose visibility of comment",
         "none": "No comment",
         "internal": "Internal comment",
         "public": "Customer comment",
