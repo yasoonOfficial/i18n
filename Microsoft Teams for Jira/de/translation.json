@@ -31,7 +31,9 @@
         "save": "Speichern",
         "comingSoon": "Coming soon",
         "settings": "Einstellungen",
-        "notSure": "Nicht sicher"
+        "notSure": "Nicht sicher",
+        "ok": "OK",
+        "dontShowAgain": "Nicht erneut anzeigen"
     },
     "error": {
         "serverNotSupported": "Jira Server wird noch nicht unterstützt",
