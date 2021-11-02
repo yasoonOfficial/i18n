@@ -260,6 +260,7 @@
     "issueCard": {
         "assignedToMe": "This issue is assigned to you!",
         "youAreWatching": "You are watching this issue",
+        "approvalText": "This request requires your approval.",
         "slaCompletedLozenge": "Completed",
         "slaCompletedTooltip": "All SLAs have been completed"
     },

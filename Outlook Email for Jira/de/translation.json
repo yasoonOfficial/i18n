@@ -261,6 +261,7 @@
     "issueCard": {
         "assignedToMe": "Dieser Vorgang ist dir zugewiesen!",
         "youAreWatching": "Du beobachtest diesen Vorgang",
+        "approvalText": "Die Anfrage erfordert Ihre Genehmigung.",
         "slaCompletedLozenge": "Abgeschlossen",
         "slaCompletedTooltip": "Alle SLAs sind abgeschlossen"
     },
