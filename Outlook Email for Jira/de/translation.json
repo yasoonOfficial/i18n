@@ -138,6 +138,7 @@
     "jiraActions": {
         "openInJiraOption": "In Jira öffnen",
         "assignToMeOption": "Mir zuweisen",
+        "commentOption": "Kommentar erstellen",
         "watchIssueOptionLabel": "Beobachtung beginnen",
         "unwatchIssueOption": "Beobachtung beenden",
         "watchIssueOption": "Beobachtung beginnen"

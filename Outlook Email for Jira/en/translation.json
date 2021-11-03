@@ -138,6 +138,7 @@
     "jiraActions": {
         "openInJiraOption": "Open in Jira",
         "assignToMeOption": "Assign to me",
+        "commentOption": "Add comment",
         "watchIssueOptionLabel": "Watch",
         "unwatchIssueOption": "Unwatch",
         "watchIssueOption": "Watch"
