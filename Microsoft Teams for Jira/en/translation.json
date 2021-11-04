@@ -240,8 +240,8 @@
         "showMoreReplies_plural": "Show {{count}} more replies",
         "loadOlderReplies": "Load older replies",
         "chatTo": "To",
-        "externalUserHeadline": "You are attempting to chat with external users.",
-        "externalUserInfo": "This might not work. When the external user does not use Teams, creation of the chat will fail."
+        "externalUserHeadline": "Chat with external contacts",
+        "externalUserInfo": "Chatting with external contacts is supported, but has a few limitations. Creating the chat might fail if the external organization does not allow external chats."
     },
     "teams": {
         "loadingIssues": "Loading issues...",

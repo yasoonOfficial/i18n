@@ -240,8 +240,8 @@
         "showMoreReplies_plural": "{{count}} weitere Antworten anzeigen",
         "loadOlderReplies": "Ältere Antworten laden",
         "chatTo": "An",
-        "externalUserHeadline": "Du versuchst mit einem externen Empfänger zu chatten.",
-        "externalUserInfo": "Das kann fehlschlagen, wenn der Empfänger nicht Teams benutzt."
+        "externalUserHeadline": "Chat mit externen Empfängern",
+        "externalUserInfo": "Ein Chat mit externen Kontakten wird unterstützt, es gibt allerdings ein paar Einschränkungen. Es kann fehlschlagen, wenn der Empfänger kein Teams benutzt oder externe Chats unterbunden sind."
     },
     "teams": {
         "loadingIssues": "Lade Vorgänge...",
