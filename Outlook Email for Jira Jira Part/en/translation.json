@@ -68,6 +68,8 @@
         "close": "Close",
         "login": "Login",
         "logout": "Logout",
+        "fileUploadButton": " Browse.",
+        "fileUploadButtonPreText": "Drop files to attach, or",
         "loginMicrosoftHint": "Login with Microsoft",
         "loginWithAccountChooser": "Login with account chooser",
         "initSendMailDialog": "Send an email",

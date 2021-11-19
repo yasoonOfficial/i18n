@@ -68,6 +68,8 @@
         "close": "Schließen",
         "login": "Anmelden",
         "logout": "Abmelden",
+        "fileUploadButton": "suchen.",
+        "fileUploadButtonPreText": "Dateien hierherziehen, oder",
         "loginMicrosoftHint": "Anmelden mit Microsoft",
         "loginWithAccountChooser": "Anmelden mit Accountauswahl",
         "initSendMailDialog": "E-Mail schreiben",
