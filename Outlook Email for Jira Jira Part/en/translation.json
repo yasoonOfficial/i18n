@@ -157,6 +157,7 @@
     "comment": {
         "to": "To: ",
         "subject": "Subject: ",
+        "attachments": "Attachments: ",
         "emailAddedPhrase": "An email has been sent for this issue:"
     },
     "helpTab": {

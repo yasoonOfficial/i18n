@@ -157,6 +157,7 @@
     "comment": {
         "to": "An: ",
         "subject": "Betreff: ",
+        "attachments": "Anhänge: ",
         "emailAddedPhrase": "Zu diesem Vorgang wurde eine E-Mail gesendet:"
     },
     "helpTab": {
