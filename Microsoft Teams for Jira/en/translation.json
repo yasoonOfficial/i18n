@@ -33,7 +33,8 @@
         "settings": "Settings",
         "notSure": "Not sure",
         "ok": "OK",
-        "dontShowAgain": "Don't show again"
+        "dontShowAgain": "Don't show again",
+        "add": "Add"
     },
     "error": {
         "serverNotSupported": "Jira Server is not supported yet",
@@ -241,7 +242,18 @@
         "loadOlderReplies": "Load older replies",
         "chatTo": "To",
         "externalUserHeadline": "Chat with external contacts",
-        "externalUserInfo": "Chatting with external contacts is supported, but has a few limitations. Creating the chat might fail if the external organization does not allow external chats."
+        "externalUserInfo": "Chatting with external contacts is supported, but has a few limitations. Creating the chat might fail if the external organization does not allow external chats.",
+        "addUserToChat": "Add user to chat",
+        "addUsersToChat": "Add users to the chat",
+        "addUserToChatError": "Could not add user to chat.",
+        "addUser": "Add user",
+        "chatParticipants": "Chat participants",
+        "noChatHistory": "Don't include chat history",
+        "allChatHistory": "Include all chat history",
+        "backupChatToAttachments": "Backup chat to attachments",
+        "newChatOrConversation": "Create new chat or conversation",
+        "inaccessibleChat": "Chat is inaccessible",
+        "noAccessToChat": "You don't have access to this chat"
     },
     "teams": {
         "loadingIssues": "Loading issues...",

@@ -33,7 +33,8 @@
         "settings": "Einstellungen",
         "notSure": "Nicht sicher",
         "ok": "OK",
-        "dontShowAgain": "Nicht erneut anzeigen"
+        "dontShowAgain": "Nicht erneut anzeigen",
+        "add": "Hinzufügen"
     },
     "error": {
         "serverNotSupported": "Jira Server wird noch nicht unterstützt",
@@ -241,7 +242,18 @@
         "loadOlderReplies": "Ältere Antworten laden",
         "chatTo": "An",
         "externalUserHeadline": "Chat mit externen Empfängern",
-        "externalUserInfo": "Ein Chat mit externen Kontakten wird unterstützt, es gibt allerdings ein paar Einschränkungen. Es kann fehlschlagen, wenn der Empfänger kein Teams benutzt oder externe Chats unterbunden sind."
+        "externalUserInfo": "Ein Chat mit externen Kontakten wird unterstützt, es gibt allerdings ein paar Einschränkungen. Es kann fehlschlagen, wenn der Empfänger kein Teams benutzt oder externe Chats unterbunden sind.",
+        "addUserToChat": "Teilnehmer zum Chat hinzufügen",
+        "addUsersToChat": "Teilnehmer zum Chat hinzufügen",
+        "addUserToChatError": "Teilnehmer konnte nicht hinzugefügt werden.",
+        "addUser": "Teilnehmer hinzufügen",
+        "chatParticipants": "Chat-Teilnehmer",
+        "noChatHistory": "Chat-Verlauf nicht teilen",
+        "allChatHistory": "Ganzen Chat-Verlauf teilen",
+        "backupChatToAttachments": "Chat-Backup erstellen",
+        "newChatOrConversation": "Neuen Chat oder neue Konversation erstellen",
+        "inaccessibleChat": "Chat nicht einsehbar",
+        "noAccessToChat": "Du hast keinen Zugriff auf diesen Chat"
     },
     "teams": {
         "loadingIssues": "Lade Vorgänge...",
