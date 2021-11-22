@@ -83,6 +83,8 @@
         "replyAll": "Allen antworten",
         "showDetail": "Öffnen",
         "openInBrowser": "In Outlook öffnen",
+        "unshareMessage": "E-Mail-Verknüpfung entfernen",
+        "unshareConversation": "Konversationsverknüpfung entfernen",
         "loadMore": "Mehr laden",
         "hideAttachments": "Anhänge verbergen",
         "showAllAttachments": "Alle Anhänge anzeigen ({{amount}})",

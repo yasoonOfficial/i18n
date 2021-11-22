@@ -83,6 +83,8 @@
         "replyAll": "Reply all",
         "showDetail": "Open",
         "openInBrowser": "Open in Outlook",
+        "unshareMessage": "Unlink email",
+        "unshareConversation": "Unlink conversation",
         "loadMore": "Load more",
         "hideAttachments": "Hide attachments",
         "showAllAttachments": "Show all attachments ({{amount}})",
