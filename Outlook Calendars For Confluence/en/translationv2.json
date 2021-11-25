@@ -328,7 +328,8 @@
 		"heading": "Back to templates",
 		"resultsLabel": "Filters",
 		"defaultOptionsLabel": "Starred filters",
-		"noOptionsPlaceholder": "No filters found"
+		"noOptionsPlaceholder": "No filters found",
+		"noFilterDescription": "No description available"
 	},
 	"jiraSearchJiraReleasesScreen": {
 		"heading": "Back to templates",
