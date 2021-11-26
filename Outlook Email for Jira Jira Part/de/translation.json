@@ -73,6 +73,8 @@
         "loginMicrosoftHint": "Anmelden mit Microsoft",
         "loginWithAccountChooser": "Anmelden mit Accountauswahl",
         "initSendMailDialog": "E-Mail schreiben",
+        "messageConfirm": "E-Mail entknüpfen",
+        "conversationConfirm": "{{amount}} E-Mails entknüpfen",
         "sendMail": "Abschicken",
         "sendToSender": "Email an den Absender",
         "sendToAll": "Email an alle Beteiligten",
@@ -83,8 +85,7 @@
         "replyAll": "Allen antworten",
         "showDetail": "Öffnen",
         "openInBrowser": "In Outlook öffnen",
-        "unshareMessage": "E-Mail-Verknüpfung entfernen",
-        "unshareConversation": "Konversationsverknüpfung entfernen",
+        "unshare": "Verknüpfung entfernen",
         "loadMore": "Mehr laden",
         "hideAttachments": "Anhänge verbergen",
         "showAllAttachments": "Alle Anhänge anzeigen ({{amount}})",
@@ -204,6 +205,13 @@
         "outdatedData": "Diese Einstellungen wurden zwischenzeitig geändert. Bitte lade die Seite neu und versuche es noch einmal.",
         "generic": "Etwas ist schiefgelaufen",
         "saveTitle": "Speichern der Einstellungen fehlgeschlagen"
+    },
+    "unlinkConfirmationModal": {
+        "messageConfirm": "E-Mail",
+        "conversationConfirm": "Konversation",
+        "unlinkConversationDescription": "Die ganze Konversation mit momentan {{amount}} E-Mails und alle zukünftigen Antworten entknüpfen. Dies wird die E-Mails nur von diesem Vorgang entfernen und hat keine Auswirkungen auf die eigentlichen E-Mails in Outlook.",
+        "unlinkMessageDescription": "Diese E-Mail entknüpfen. Dies wird die E-Mail nur von diesem Vorgang entfernen und hat keine Auswirkungen auf die eigentliche E-Mail in Outlook.",
+        "heading": "Verknüpfung entfernen"
     },
     "links": {
         "sendMailDoc": "Dokumentation",

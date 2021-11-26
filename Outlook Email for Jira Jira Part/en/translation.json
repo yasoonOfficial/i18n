@@ -73,6 +73,8 @@
         "loginMicrosoftHint": "Login with Microsoft",
         "loginWithAccountChooser": "Login with account chooser",
         "initSendMailDialog": "Send an email",
+        "messageConfirm": "Unlink this email",
+        "conversationConfirm": "Unlink {{amount}} emails",
         "sendMail": "Send",
         "sendToSender": "Email sender",
         "sendToAll": "Email all",
@@ -83,8 +85,7 @@
         "replyAll": "Reply all",
         "showDetail": "Open",
         "openInBrowser": "Open in Outlook",
-        "unshareMessage": "Unlink email",
-        "unshareConversation": "Unlink conversation",
+        "unshare": "Unlink",
         "loadMore": "Load more",
         "hideAttachments": "Hide attachments",
         "showAllAttachments": "Show all attachments ({{amount}})",
@@ -204,6 +205,13 @@
         "outdatedData": "The settings you are trying to save have been modified elsewhere. Please reload the page and try again.",
         "generic": "Something has gone wrong",
         "saveTitle": "Failed to save settings"
+    },
+    "unlinkConfirmationModal": {
+        "messageConfirm": "Email",
+        "conversationConfirm": "Conversation",
+        "unlinkConversationDescription": "Unlink the whole conversation with currently {{amount}} emails and all future replies. This will only remove them from this issue and will not affect the emails themselves in Outlook.",
+        "unlinkMessageDescription": "Unlink this email. This will only remove it from this issue and will not affect the email itself in Outlook.",
+        "heading": "Remove linked email"
     },
     "links": {
         "sendMailDoc": "Documentation",
