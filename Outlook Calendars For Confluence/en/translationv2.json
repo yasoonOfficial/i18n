@@ -420,6 +420,10 @@
 	"loginScreenStateless": {
 		"loginButton": "Login"
 	},
+	"loginScreenModel": {
+		"appLinkErrorDescription": "Application link not found or it has been removed by an admin",
+		"appLinkErrorTitle": "Error with application link"
+	},
 	"editorComponent": {
 		"loadingText": "Loading editor..."
 	},
