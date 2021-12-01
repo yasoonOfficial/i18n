@@ -253,7 +253,8 @@
         "backupChatToAttachments": "Chat-Backup erstellen",
         "newChatOrConversation": "Neuen Chat oder neue Konversation erstellen",
         "inaccessibleChat": "Chat nicht einsehbar",
-        "noAccessToChat": "Du hast keinen Zugriff auf diesen Chat"
+        "noAccessToChat": "Du hast keinen Zugriff auf diesen Chat",
+        "noChannelSelectOptions": "Keine Optionen mit '{{searchTerm}}' gefunden. Du kannst nur Kanäle finden, die 'Smart Connect for Jira' installiert haben."
     },
     "teams": {
         "loadingIssues": "Lade Vorgänge...",
