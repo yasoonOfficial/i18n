@@ -203,6 +203,14 @@
 		"select30DaysLabel": "30 days",
 		"select90DaysLabel": "90 days"
 	},
+	"schedulerViewGroupingSetting": {
+		"heading": "Timeline grouping",
+		"subHeading": "Select the time range grouping",
+		"selectHourLabel": "Hour",
+		"selectDayLabel": "Day",
+		"selectweekLabel": "Week",
+		"selectMonthLabel": "Month"
+	},
 	"fixedDateSetting": {
 		"heading": "Fixed date",
 		"subHeading": "Select if the calendar should be fixed on a specific date",
