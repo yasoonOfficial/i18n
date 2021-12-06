@@ -34,7 +34,8 @@
         "notSure": "Not sure",
         "ok": "OK",
         "dontShowAgain": "Don't show again",
-        "add": "Add"
+        "add": "Add",
+        "learnWhy": "Learn why"
     },
     "error": {
         "serverNotSupported": "Jira Server is not supported yet",
@@ -254,7 +255,8 @@
         "newChatOrConversation": "Create new chat or conversation",
         "inaccessibleChat": "Chat is inaccessible",
         "noAccessToChat": "You don't have access to this chat",
-        "noChannelSelectOptions": "No options for '{{searchTerm}}'. You can only find channels which have 'Smart Connect for Jira' installed."
+        "noChannelSelectOptions": "No channels found. You can only find channels which have 'Smart Connect for Jira' installed.",
+        "noChannelSelectOptionsHelp": "Can't find your channel?"
     },
     "teams": {
         "loadingIssues": "Loading issues...",
