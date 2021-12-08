@@ -256,7 +256,8 @@
         "inaccessibleChat": "Chat is inaccessible",
         "noAccessToChat": "You don't have access to this chat",
         "noChannelSelectOptions": "No channels found. You can only find channels which have 'Smart Connect for Jira' installed.",
-        "noChannelSelectOptionsHelp": "Can't find your channel?"
+        "noChannelSelectOptionsHelp": "Can't find your channel?",
+        "viewChatParticipants": "View chat participants or add users"
     },
     "teams": {
         "loadingIssues": "Loading issues...",
