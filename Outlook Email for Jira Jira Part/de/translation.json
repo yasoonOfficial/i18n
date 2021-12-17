@@ -209,9 +209,12 @@
     "unlinkConfirmationModal": {
         "messageConfirm": "E-Mail",
         "conversationConfirm": "Konversation",
-        "unlinkConversationDescription": "Die ganze Konversation mit momentan {{amount}} E-Mails und alle zukünftigen Antworten entknüpfen. Dies wird die E-Mails nur von diesem Vorgang entfernen und hat keine Auswirkungen auf die eigentlichen E-Mails in Outlook.",
-        "unlinkConversationDescriptionSingle": "Die ganze Konversation mit momentan 1 E-Mail und alle zukünftigen Antworten entknüpfen. Dies wird die E-Mail nur von diesem Vorgang entfernen und hat keine Auswirkungen auf die eigentliche E-Mail in Outlook.",
-        "unlinkMessageDescription": "Diese E-Mail entknüpfen. Dies wird die E-Mail nur von diesem Vorgang entfernen und hat keine Auswirkungen auf die eigentliche E-Mail in Outlook.",
+        "unlinkConversationDescription": "Die ganze Konversation mit momentan {{amount}} E-Mails und alle zukünftigen Antworten entknüpfen.",
+        "unlinkConversationDescriptionSingle": "Die ganze Konversation mit momentan 1 E-Mail und alle zukünftigen Antworten entknüpfen.",
+        "unlinkMessageDescription": "Diese E-Mail entknüpfen.",
+        "unlinkMessageFromConversationDescription": "Diese E-Mail entknüpfen. Andere E-Mails der Konversation sowie zukünftige Antworten bleiben mit dem Vorgang verknüpft.",
+        "unlinkMultiDisclaimer": "Dies wird die E-Mails nur von diesem Vorgang entfernen und hat keine Auswirkungen auf die eigentlichen E-Mails in Outlook.",
+        "unlinkSingleDisclaimer": "Dies wird die E-Mail nur von diesem Vorgang entfernen und hat keine Auswirkungen auf die eigentliche E-Mail in Outlook.",
         "heading": "Verknüpfung entfernen"
     },
     "links": {

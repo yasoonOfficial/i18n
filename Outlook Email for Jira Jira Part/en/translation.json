@@ -209,9 +209,12 @@
     "unlinkConfirmationModal": {
         "messageConfirm": "Email",
         "conversationConfirm": "Conversation",
-        "unlinkConversationDescription": "Unlink the whole conversation with currently {{amount}} emails and all future replies. This will only remove them from this issue and will not affect the emails themselves in Outlook.",
-        "unlinkConversationDescriptionSingle": "Unlink the whole conversation with currently 1 email and all future replies. This will only remove it from this issue and will not affect the email itself in Outlook.",
-        "unlinkMessageDescription": "Unlink this email. This will only remove it from this issue and will not affect the email itself in Outlook.",
+        "unlinkConversationDescription": "Unlink the whole conversation with currently {{amount}} emails and all future replies.",
+        "unlinkConversationDescriptionSingle": "Unlink the whole conversation with currently 1 email and all future replies.",
+        "unlinkMessageDescription": "Unlink this email.",
+        "unlinkMessageFromConversationDescription": "Unlink this email. Other emails of the same conversation as well as future replies are still linked to this issue.",
+        "unlinkMultiDisclaimer": "This will only remove the emails from this issue and will not affect the emails themselves in Outlook.",
+        "unlinkSingleDisclaimer": "This will only remove the email from this issue and will not affect the email itself in Outlook. ",
         "heading": "Remove linked email"
     },
     "links": {
