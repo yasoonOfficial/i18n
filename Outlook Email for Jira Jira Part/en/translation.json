@@ -90,7 +90,10 @@
         "hideAttachments": "Hide attachments",
         "showAllAttachments": "Show all attachments ({{amount}})",
         "showAttachments": "Show attachments",
-        "seeLessAttachments": "See less"
+        "seeLessAttachments": "See less",
+        "unlinkMessageFromConversation": "Unlink this email",
+        "unlinkMessage": "Unlink this email",
+        "unlinkConversation": "Unlink this conversation"
     },
     "emptyState": {
         "noAdminEmptyState": "You need admin permissions to view this page"
@@ -205,6 +208,14 @@
         "outdatedData": "The settings you are trying to save have been modified elsewhere. Please reload the page and try again.",
         "generic": "Something has gone wrong",
         "saveTitle": "Failed to save settings"
+    },
+    "unlinkConfirmationDropdown": {
+        "unlinkConversationDescription": "Unlink currently {{amount}} emails and all future replies.",
+        "unlinkConversationDescriptionSingle": "Unlink currently 1 email and all future replies.",
+        "unlinkMessageDescription": "Unlink this email.",
+        "unlinkMessageFromConversationDescription": "Other emails are still linked to this issue.",
+        "unlinkMultiDisclaimer": "The emails themselves in Outlook are unaffected.",
+        "unlinkSingleDisclaimer": "The email itself in Outlook is unaffected."
     },
     "unlinkConfirmationModal": {
         "messageConfirm": "Email",

@@ -90,7 +90,10 @@
         "hideAttachments": "Anhänge verbergen",
         "showAllAttachments": "Alle Anhänge anzeigen ({{amount}})",
         "showAttachments": "Anhänge anzeigen",
-        "seeLessAttachments": "Weniger anzeigen"
+        "seeLessAttachments": "Weniger anzeigen",
+        "unlinkMessageFromConversation": "E-Mail entknüpfen",
+        "unlinkMessage": "E-Mail entknüpfen",
+        "unlinkConversation": "Konversation entknüpfen"
     },
     "emptyState": {
         "noAdminEmptyState": "Du brauchst Adminberechtigungen, um diese Seite sehen zu können"
@@ -205,6 +208,15 @@
         "outdatedData": "Diese Einstellungen wurden zwischenzeitig geändert. Bitte lade die Seite neu und versuche es noch einmal.",
         "generic": "Etwas ist schiefgelaufen",
         "saveTitle": "Speichern der Einstellungen fehlgeschlagen"
+    },
+
+    "unlinkConfirmationDropdown": {
+        "unlinkConversationDescription": "Die Konversation mit momentan {{amount}} E-Mails entknüpfen.",
+        "unlinkConversationDescriptionSingle": "Diese E-Mail und alle zukünftigen Antworten entknüpfen.",
+        "unlinkMessageDescription": "Diese E-Mail entknüpfen.",
+        "unlinkMessageFromConversationDescription": "Andere E-Mails der Konversation bleiben mit dem Vorgang verknüpft.",
+        "unlinkMultiDisclaimer": "Dies hat keine Auswirkungen auf die eigentlichen E-Mails in Outlook.",
+        "unlinkSingleDisclaimer": "Dies hat keine Auswirkungen auf die eigentliche E-Mail in Outlook."
     },
     "unlinkConfirmationModal": {
         "messageConfirm": "E-Mail",
