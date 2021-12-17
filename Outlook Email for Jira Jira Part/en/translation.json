@@ -210,6 +210,7 @@
         "messageConfirm": "Email",
         "conversationConfirm": "Conversation",
         "unlinkConversationDescription": "Unlink the whole conversation with currently {{amount}} emails and all future replies. This will only remove them from this issue and will not affect the emails themselves in Outlook.",
+        "unlinkConversationDescriptionSingle": "Unlink the whole conversation with currently 1 email and all future replies. This will only remove it from this issue and will not affect the email itself in Outlook.",
         "unlinkMessageDescription": "Unlink this email. This will only remove it from this issue and will not affect the email itself in Outlook.",
         "heading": "Remove linked email"
     },
