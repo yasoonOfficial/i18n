@@ -257,7 +257,9 @@
         "noAccessToChat": "You don't have access to this chat",
         "noChannelSelectOptions": "No channels found. You can only find channels which have 'Smart Connect for Jira' installed.",
         "noChannelSelectOptionsHelp": "Can't find your channel?",
-        "viewChatParticipants": "View chat participants or add users"
+        "viewChatParticipants": "View chat participants or add users",
+        "createCustomerOnDemand": "Create customer users on demand",
+        "createCustomerOnDemandHelpText": "Check this option if you want to create customer users on demand when they use the portal app and do not have a customer user yet. This is commonly used in public service desks."
     },
     "teams": {
         "loadingIssues": "Loading issues...",

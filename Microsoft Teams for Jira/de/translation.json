@@ -257,7 +257,9 @@
         "noAccessToChat": "Du hast keinen Zugriff auf diesen Chat",
         "noChannelSelectOptions": "Keine Kanäle gefunden. Du kannst nur Kanäle finden, die 'Smart Connect for Jira' installiert haben.",
         "noChannelSelectOptionsHelp": "Kanal nicht gefunden?",
-        "viewChatParticipants": "Teilnehmer des Chats einsehen oder hinzufügen"
+        "viewChatParticipants": "Teilnehmer des Chats einsehen oder hinzufügen",
+        "createCustomerOnDemand": "Portalkunden automatisch anlegen",
+        "createCustomerOnDemandHelpText": "Mit dieser Option wird automatisch ein Portalkunde angelegt, wenn ein Benutzer noch keinen hat. Diese Option wird üblicherweise bei öffentlichen Service Desks benutzt."
     },
     "teams": {
         "loadingIssues": "Lade Vorgänge...",
