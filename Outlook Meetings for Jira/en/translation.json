@@ -1,0 +1,59 @@
+{
+    "availabilitiesConfiguration": {
+        "userRoleColumnLabel": "Issue Field / User Role",
+        "isMandatoryColumnLabel": "Is Mandatory",
+        "selectPlaceholder": "Add an issue field"
+    },
+    "scheduleMeetingForm": {
+        "createTeamsMeetingTooltip": "Add Microsoft Teams meeting link",
+        "configuteTeamsMeetingTooltip": "Please enable Microsoft Teams support in admin settings first!",
+        "teamsMeetingToggleLabel": "Teams meeting",
+        "attendeesFieldLabel": "Attendees",
+        "attendeesFieldPlaceholder": "Type to search...",
+        "locationFieldLabel": "Location",
+        "locationFieldPlaceholder": "Type to search...",
+        "commentFieldLabel": "Comment",
+        "commentFieldPlaceholder": "Add a comment, dial-in info will be appended automatically",
+        "availabilityStatusFree": "All attendees are available",
+        "availabilityStatusBusy": "Some attendees are unavailable",
+        "availabilityStatusFreeButSomeUnknown": "The availability of some attendees is unknown",
+        "meetingSuggestionLabel": "Meeting Time Suggestions",
+        "meetingSuggestionIconLabel": "Everyone",
+        "userAvatarListTitle": "Attendee Availability"
+    },
+    "azureLogin": {
+        "dropdownItemLoginAccountChooser": "Login with account chooser"
+    },
+    "commentVisibilityDropdown": {
+        "commentLabel": "Comment",
+        "addCommentLabel": "Add comment",
+        "publicCommentLabel": "Public comment",
+        "addPublicCommentLabel": "Add public comment",
+        "internalCommentLabel": "Internal comment",
+        "addInternalCommentLabel": "Add internal comment",
+        "noCommentLabel": "No comment",
+        "addNoCommentLabel": "Don't add comment",
+        "chooseCommentLabel": "Choose",
+        "itemGroupLabel": "Add meeting as issue comment"
+    },
+    "dateTimePickerForm": {
+        "occurInPastTooltip": "This meeting would occur in the past",
+        "startDateFieldLabel": "Start date",
+        "startTimeFieldLabel": "Start time",
+        "endTimeFieldLabel": "End time",
+        "endDateFieldLabel": "End date",
+        "timezoneFieldLabel": "Timezone",
+        "allDayFieldLabel": "All day",
+        "privateFieldLabel": "Private",
+        "fewerOptionsLabel": "Fewer options",
+        "moreOptionsLabel": "More options",
+        "localTimeHelper": "Your local time"
+    },
+    "meetingSuggestion": {
+        "todayLabel": "Today",
+        "noMeetingSuggestionsPlaceholder": "Select participants to see meeting suggestions."
+    },
+    "personaCard": {
+        "clickLabel": "Click"
+    }
+}
