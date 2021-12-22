@@ -54,6 +54,139 @@
         "noMeetingSuggestionsPlaceholder": "Select participants to see meeting suggestions."
     },
     "personaCard": {
-        "clickLabel": "Click"
+        "clickLabel": "Click",
+        "scheduleMeetingDropdownItemLabel": "Schedule meeting",
+        "sendMessageDropdownItemLabel": "Send message",
+        "callTeamsDropdownItemLabel": "Call via Teams",
+        "callPhoneDropdownItemLabel": "Call via Phone",
+        "noAvailabilityInformationPlaceholder": "Could not read availability information."
+    },
+    "scheduleMeetingDialogFooter": {
+        "sendMeetingTooltip": "Send an Outlook meeting request to all attendees and - if selected - add an issue comment with the meeting details",
+        "sendMeetingButtonLabel": "Send Meeting",
+        "backButtonLabel": "Back",
+        "cancelButtonLabel": "Cancel"
+    },
+    "scheduleMeetingDialogHeader": {
+        "settingsLabel": "Settings",
+        "closeLabel": "Close"
+    },
+    "timezonePicker": {
+        "selectPlaceholder": "Choose a timezone"
+    },
+    "upcomingMeeting": {
+        "contextMenuLabel": "More",
+        "openInWebDropdownItem": "Open in web",
+        "cancelEventDropdownItem": "Cancel event",
+        "joinMeetingTooltip": "Join Online Meeting",
+        "calendarIconLabel": "Calendar"
+    },
+    "userAvatarList": {
+        "configureParticipantsLabel": "Configure Participants",
+        "configureButtonLabel": "Configure...",
+        "noUsersPlaceholder": "Select participants to see availabilities."
+    },
+    "adminSettingsScreen": {
+        "learnMoreFlagActionLabel": "Learn more",
+        "learnMoreFlagDescription": "Welcome to {{ appName }}. Go to any issue and log in with your Office 365 account to get started!",
+        "learnMoreFlagTitle": "Ready to use!",
+        "scheduleMeetingHeading": "Scheduling a meeting",
+        "scheduleMeetingDescription": "You can schedule meetings from any issue, using the schedule button on the top.",
+        "inValidLicenseText": "You don't have a valid license or it has expired. If you'd like to continue using our app, please get valid license!",
+        "microsoftLoginChangeWarning": "Are you sure you want to change the way how to authenticate with Microsoft? This may impacts if users are able to login.",
+        "removeCustomAppRegsitrationWarning": "Are you sure you want to remove the custom app registration? The app will fallback to the Yasoon standard app and it may impacts if users are able to login.",
+        "yesButtonLabel": "Yes",
+        "noButtonLabel": "No",
+        "advancedSettingsHeading": "Advanced connection settings",
+        "customADAppHeading": "Custom AzureAD App Registration",
+        "customADAppDescription": "This setting allows you to use a custom, self-hosted AzureAD enterprise app registration.",
+        "customADAppLinkLabel": "More...",
+        "clientIdFieldLabel": "Client Id",
+        "clientIdFieldPlaceholder": "Enter App Client Id",
+        "tenantIdFieldLabel": "Tenant Id",
+        "tenantIdFieldPlaceholder": "Enter the tenant id of the registered app",
+        "deleteButtonLabel": "Delete",
+        "applyButtonLabel": "Apply",
+        "saveButtonLabel": "Save",
+        "visibilitySettingsHeading": "Global visibility settings",
+        "visibilitySettingsDescription": "Use the settings below to enable or disable the app for each project by default. Each setting can be overridden in the project settings.",
+        "scheduledMeetingsToggleLabel_html": "<i>Scheduled Meetings</i> view enabled by default",
+        "availabilitesToggleLabel_html": "<i>Outlook Availabilities</i> view enabled by default",
+        "sentrySettingsHeading": "Send automatic product feedback",
+        "sentrySettingsDescription_html": "Help us to improve our product. We use <a href=\"https://sentry.io/security/\" target=\"_blank\">Sentry</a> to automatically capture errors in the application - so they do not happen again. <br /> Sentry is an important part for our product development team, so \"thank you\", if you turn it on.",
+        "sentrySettingsToggleLabel": "Enable Error Logging",
+        "templateSettingsHeading": "Meeting request template",
+        "templateSettingsDescription": "You can adjust the template below to customize the meeting request that is sent via Outlook. You can use all available fields of the issue using the {\"{{issue.field}}\"} syntax. Please note that only a very limited set of HTML is supported.",
+        "templateSavedFlagLabel": "Templates saved",
+        "templateSavedFlagDescription": "The templates have been saved successfully.",
+        "gettingStartedTabLabel": "Getting Started",
+        "templatesTabLabel": "Templates",
+        "advancedSettingsTabLabel": "Advanced Settings"
+    },
+    "availabilityOverviewWebPanel": {
+        "licenseExpiredWarning": "Your license is expired",
+        "userAvatarListTitle": "Involved Persons",
+        "noSuggestionsText": "Could not provide suggestions",
+        "requiredAttendeesLabel": "With required attendees",
+        "requiredLabel": "Required",
+        "withEveryAttendeeLabel": "With everyone",
+        "everyoneLabel": "Everyone"
+    },
+    "officeLoginScreen": {
+        "loginButtonLabel": "Login with Microsoft 365",
+        "heading": "Welcome to Outlook Meetings for Jira",
+        "description": "Looks like you are using the app for the very first time. Please login with your Microsoft 365 account to get started!"
+    },
+    "peopleAndMeetingsScreen": {
+        "userAvatarListTitle": "Involved people",
+        "meetingAreaHeadline": "Scheduled meetings",
+        "scheduledMeetingsLabel": "Scheduled meetings"
+    },
+    "projectSettingScreen": {
+        "heading": "Outlook Meetings for Jira",
+        "visibilityHeading": "Visibility",
+        "visibilityDescription": "The following visibility settings will only affect the current project.",
+        "meetingsEnabledLabel_html": "<i>Scheduled Meetings</i> panel enabled",
+        "availabilityEnabled_html": "<i>Outlook Availabilities</i> panel enabled</div>",
+        "availabilityStrategyClassicLabel": "Distributed for 7 days",
+        "availabilityStrategyAggressiveLabel": "First available slots",
+        "availabilityHeading": "Availabilities configuration",
+        "availabilityDescription_html": "The following settings control the appearance of the <i>Outlook Availabilities</i> panel.",
+        "participantsHeading": "Meeting participants from issue fields",
+        "participantsDescription_html": " You can configure which user issue fields should be taken into account when searching for available meeting times. <br /> If you specify a text or label field, we'll try to identify valid email addresses.",
+        "defaultAvailabilitySettingsLabel": "Include all fields of a issue with users.",
+        "suggestionsNumberHeading": "Number of suggestions",
+        "suggestionsNumberDescription": "Configure how many meeting slot suggestions should be shown.",
+        "suggestionsStrategyHeading": "Suggestion Strategy",
+        "suggestionsStrategyDescription": "Determines how suggested time slots are determined",
+        "availableTimePicker5minutes": "5 minutes",
+        "availableTimePicker10minutes": "10 minutes",
+        "availableTimePicker15minutes": "15 minutes",
+        "availableTimePicker30minutes": "30 minutes",
+        "availableTimePicker60minutes": "60 minutes",
+        "dialogHeading": "Dialog configuration",
+        "dialogDescription": "Here you can customize certain aspects of the Schedule Meeting dialog.",
+        "meetingLengthHeading": "Meeting Length",
+        "meetingLengthDescription": "Configure the default meeting length.",
+        "meetingLengthRangeLabel": "min",
+        "timePickerStepsHeading": "Time Picker steps",
+        "timePickerStepsDescription": "How many steps should be displayed in the time picker",
+        "teamsSettingsHeading": "Microsoft Teams configuration",
+        "teamsSettingsDescription": "Configure Microsoft Teams related settings",
+        "channelIdHeading": "Meeting channel id",
+        "channelIdDescription": "Configure which Teams channel should host the meetings. The channel will be notified when the meeting starts & chats will appear in the channel.",
+        "channelIdPlaceholder": "Enter the Teams channel id",
+        "additionalHeading": "Additional configuration",
+        "additionalDescription": "This is currently a way to unlock certain hidden configurations, mostly custom developments that only makes sense for single customers. <br /> Do not use if not told so by the support team.",
+        "additionalInvalidHeading": "Invalid Additional Config",
+        "additionalInvalidNoJson": "Additional config must be json",
+        "additionalInvalidNoArray": "Additional config must be an array type.",
+        "saveButtonLabel": "Save",
+        "statusLozengeInprogress": "Saving Settings...",
+        "statusLozengeSuccess": "Settings Saved",
+        "statusLozengeRemoved": "Error while saving"
+    },
+    "scheduleMeetingDialog": {
+        "invalidLicense": "License is expired"
     }
 }
