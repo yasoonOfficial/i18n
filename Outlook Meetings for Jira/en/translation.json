@@ -187,6 +187,22 @@
         "statusLozengeRemoved": "Error while saving"
     },
     "scheduleMeetingDialog": {
-        "invalidLicense": "License is expired"
+        "invalidLicense": "License is expired",
+        "meetingScheduledTitle": "Meeting scheduled",
+        "meetingScheduledDescription": "The meeting has been scheduled and all participants have received their invite."
+    },
+    "upcomingMeetings": {
+        "scheduleAnotherMeetingButtonLabel": "Schedule another meeting",
+        "scheduleMeetingButtonLabel": "Schedule meeting",
+        "hidePastMeetings": "Hide past meetings",
+        "showPastMeetings": "Show past meetings",
+        "noMeetingsHeading": "No meetings yet!",
+        "noMeetingsDescription": "Looks like you have not scheduled any meeting yet - create a new one below 📆",
+        "licenseExpiredWarning": "Your license is expired",
+        "scheduleMeetingLabel": "Schedule meeting"
+    },
+    "userSettings": {
+        "heading": "Office 365 Account",
+        "logoutButtonLabel": "Logout"
     }
 }
