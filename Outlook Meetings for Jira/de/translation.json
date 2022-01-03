@@ -1,0 +1,208 @@
+{
+    "availabilitiesConfiguration": {
+        "userRoleColumnLabel": "Vorgangsfeld / Benutzerrolle",
+        "isMandatoryColumnLabel": "Ist verpflichtend",
+        "selectPlaceholder": "Ein Vorgangsfeld hinzufügen"
+    },
+    "scheduleMeetingForm": {
+        "createTeamsMeetingTooltip": "Microsoft Teams Besprechungslink hinzufügen",
+        "configuteTeamsMeetingTooltip": "Bitte aktiviere zuerst die Microsoft Teams in den Admin-Einstellungen!",
+        "teamsMeetingToggleLabel": "Teams-Besprechung",
+        "attendeesFieldLabel": "Teilnehmer",
+        "attendeesFieldPlaceholder": "Type to search...",
+        "locationFieldLabel": "Ort",
+        "locationFieldPlaceholder": "Type to search...",
+        "commentFieldLabel": "Kommentar",
+        "commentFieldPlaceholder": "Füge einen Kommentar hinzu, die Microsoft Teams Einwahlinformationen werden automatisch angefügt",
+        "availabilityStatusFree": "Alle Teilnehmer sind verfügbar",
+        "availabilityStatusBusy": "Einige Teilnehmer sind nicht verfügbar",
+        "availabilityStatusFreeButSomeUnknown": "Die Verfügbarkeit einiger Teilnehmer ist unbekannt",
+        "meetingSuggestionLabel": "Vorschläge für Besprechungszeiten",
+        "meetingSuggestionIconLabel": "Alle",
+        "userAvatarListTitle": "Teilnehmer Verfügbarkeit"
+    },
+    "azureLogin": {
+        "dropdownItemLoginAccountChooser": "Anmelden mit account Auswahl"
+    },
+    "commentVisibilityDropdown": {
+        "commentLabel": "Kommentar",
+        "addCommentLabel": "Einen Kommentar hinzufügen",
+        "publicCommentLabel": "Kunden antworten",
+        "addPublicCommentLabel": "Einen Kommentar hinzufügen",
+        "internalCommentLabel": "Internen Hinweis hinzufügen",
+        "addInternalCommentLabel": "Einen Kommentar hinzufügen",
+        "noCommentLabel": "Kein Kommentar",
+        "addNoCommentLabel": "Keinen Kommentar hinzufügen",
+        "chooseCommentLabel": "Auswählen",
+        "itemGroupLabel": "Outlook Meeting als Kommentar hinzufügen"
+    },
+    "dateTimePickerForm": {
+        "occurInPastTooltip": "Diese Besprechung würde in der Vergangenheit stattfinden",
+        "startDateFieldLabel": "Startdatum",
+        "startTimeFieldLabel": "Anfangszeit",
+        "endTimeFieldLabel": "Endzeit",
+        "endDateFieldLabel": "Enddatum",
+        "timezoneFieldLabel": "Zeitzone",
+        "allDayFieldLabel": "Ganztägig",
+        "privateFieldLabel": "Privat",
+        "fewerOptionsLabel": "Weniger Optionen",
+        "moreOptionsLabel": "Mehr Optionen",
+        "localTimeHelper": "Aktuelle Zeitzone"
+    },
+    "meetingSuggestion": {
+        "todayLabel": "Heute",
+        "noMeetingSuggestionsPlaceholder": "Wähle Teilnehmer aus, um Besprechungsvorschläge zu sehen"
+    },
+    "personaCard": {
+        "clickLabel": "Klick",
+        "scheduleMeetingDropdownItemLabel": "Besprechung planen",
+        "sendMessageDropdownItemLabel": "Nachricht senden",
+        "callTeamsDropdownItemLabel": "Über Teams anrufen",
+        "callPhoneDropdownItemLabel": "Über das Telefon anrufen",
+        "noAvailabilityInformationPlaceholder": "Es konnten keine Verfügbarkeitsinformationen ermittelt werden."
+    },
+    "scheduleMeetingDialogFooter": {
+        "sendMeetingTooltip": "Sende eine Outlook-Besprechungsanfrage an alle Teilnehmer und - falls ausgewählt - erstelle einen Kommentar mit den Besprechungsdetails.",
+        "sendMeetingButtonLabel": "Besprechung senden",
+        "backButtonLabel": "Zurück",
+        "cancelButtonLabel": "Abbrechen"
+    },
+    "scheduleMeetingDialogHeader": {
+        "settingsLabel": "Einstellungen",
+        "closeLabel": "Schließen"
+    },
+    "timezonePicker": {
+        "selectPlaceholder": "Zeitzone auswählen"
+    },
+    "upcomingMeeting": {
+        "contextMenuLabel": "Mehr details",
+        "openInWebDropdownItem": "Im Web öffnen",
+        "cancelEventDropdownItem": "Ereignis absagen",
+        "joinMeetingTooltip": "An Online-Meeting teilnehmen",
+        "calendarIconLabel": "Kalender"
+    },
+    "userAvatarList": {
+        "configureParticipantsLabel": "Teilnehmer konfigurieren",
+        "configureButtonLabel": "Konfigurieren...",
+        "noUsersPlaceholder": "Teilnehmer auswählen, um Verfügbarkeiten zu sehen."
+    },
+    "adminSettingsScreen": {
+        "learnMoreFlagActionLabel": "Mehr erfahren",
+        "learnMoreFlagDescription": "Willkommen bei {{ appName }}. Gehen zu einem beliebigen Vorgang und melden dich mit deinem Office 365-Konto an, um loszulegen!",
+        "learnMoreFlagTitle": "Startklar!",
+        "scheduleMeetingHeading": "Besprechung planen",
+        "scheduleMeetingDescription": "Besprechungen können von jedem Vorgang aus planen. Gehe dazu einfach auf die Schaltfläche Besprechung planen",
+        "inValidLicenseText": "Die Lizenz ist ungültig oder abgelaufen. Wenn du unsere App weiterhin nutzen möchtest, erneruere bitte die Lizenz!",
+        "microsoftLoginChangeWarning": "Bist du sicher, dass du die Art und Weise, wie du dich bei Microsoft authentifizierst, ändern möchtest? Dies kann Auswirkungen darauf haben, ob sich die Benutzer anmelden können",
+        "removeCustomAppRegsitrationWarning": "Bist du sicher, dass du die benutzerdefinierte App-Registrierung entfernen möchtest? Die App wird auf die Standard-App von Yasoon zurückgreifen und es kann Auswirkungen darauf haben, ob sich die Benutzer anmelden können.",
+        "yesButtonLabel": "Ja",
+        "noButtonLabel": "Nein",
+        "advancedSettingsHeading": "Erweiterte Verbindungseinstellungen",
+        "customADAppHeading": "Benutzerdefinierte AzureAD App-Registrierung",
+        "customADAppDescription": "Mit dieser Einstellung kannst du eine benutzerdefinierte, selbst gehostete AzureAD Enterprise App-Registrierung verwenden",
+        "customADAppLinkLabel": "More...",
+        "clientIdFieldLabel": "Client Id",
+        "clientIdFieldPlaceholder": "Geben Sie die Client Id ein",
+        "tenantIdFieldLabel": "Tenant Id",
+        "tenantIdFieldPlaceholder": "Geben Sie die tenant id der registrierten AzureAd app ein",
+        "deleteButtonLabel": "Löschen",
+        "applyButtonLabel": "Anwenden",
+        "saveButtonLabel": "Speichern",
+        "visibilitySettingsHeading": "Globale Sichtbarkeitseinstellungen",
+        "visibilitySettingsDescription": "Verwende die folgenden Einstellungen, um die App für jedes Projekt standardmäßig zu aktivieren oder zu deaktivieren. Alle Einstellungen können in den Projekteinstellungen überschrieben werden.",
+        "scheduledMeetingsToggleLabel_html": "<i>Geplante Meetings</i> standardmäßig aktiviert",
+        "availabilitesToggleLabel_html": "<i>Outlook Verfügbarkeiten</i> standardmäßig aktiviert",
+        "sentrySettingsHeading": "Automatisches Produktfeedback senden",
+        "sentrySettingsDescription_html": "Hilf uns, unser Produkt zu verbessern. Wir nutzen <a href=\"https://sentry.io/security/\" target=\"_blank\">Sentry</a>, um Fehler in der Anwendung automatisch zu erfassen - damit sie nicht mehr vorkommen. <br /> Sentry ist ein wichtiger bestandteil für unsere Produktentwicklung, unser Team bedankt sich, wenn es einschaltet ist.",
+        "sentrySettingsToggleLabel": "Fehlerprotokollierung einschalten",
+        "templateSettingsHeading": "Vorlage für Besprechungsanfragen",
+        "templateSettingsDescription": "Um die Besprechungsanfrage, welche über Outlook gesendet wird, individuell zu gestalten, können alle verfügbaren Felder des aktuellen Vorgangs unter Verwendung folgender Syntax verwenden werden {\"{{issue.field}}\"}. Bitte beachte, dass nur ein sehr eingeschränkter Satz von HTML unterstützt wird.",
+        "templateSavedFlagLabel": "Vorlage gespeichert",
+        "templateSavedFlagDescription": "Die Vorlage wurde erfolgreich gespeichert.",
+        "gettingStartedTabLabel": "Erste Schritte",
+        "templatesTabLabel": "Vorlagen",
+        "advancedSettingsTabLabel": "Erweiterte Einstellungen"
+    },
+    "availabilityOverviewWebPanel": {
+        "licenseExpiredWarning": "Die Lizenz ist abgelaufen",
+        "userAvatarListTitle": "Involvierte Personen",
+        "noSuggestionsText": "Es konnten keine Vorschläge gemacht werden",
+        "requiredAttendeesLabel": "Mit erforderlichen Teilnehmern",
+        "requiredLabel": "Erforderlich",
+        "withEveryAttendeeLabel": "Mit allen",
+        "everyoneLabel": "Alle"
+    },
+    "officeLoginScreen": {
+        "loginButtonLabel": "Mit Microsoft 365 anmelden",
+        "heading": "Wilkommen bei {{ appName }}",
+        "description": "Es sieht so aus als würdest du die App zum ersten mal nutzen. Bitte melder dich mit deinem Microsoft 365 account an um loszulegen."
+    },
+    "peopleAndMeetingsScreen": {
+        "userAvatarListTitle": "Beteiligte Personen",
+        "meetingAreaHeadline": "Geplante Besprechungen",
+        "scheduledMeetingsLabel": "Geplante Besprechungen"
+    },
+    "projectSettingScreen": {
+        "heading": "Outlook Meetings for Jira",
+        "visibilityHeading": "Sichtbarkeit",
+        "visibilityDescription": "Die folgenden Sichtbarkeitseinstellungen wirken sich nur auf das aktuelle Projekt aus.",
+        "meetingsEnabledLabel_html": "<i>Scheduled Meetings</i> Panel aktiviert",
+        "availabilityEnabled_html": "<i>Outlook Availabilities</i> Panel aktiviert",
+        "availabilityStrategyClassicLabel": "Vorschläge für die nächsten 7 Tage",
+        "availabilityStrategyAggressiveLabel": "Erste verfügbare Slots",
+        "availabilityHeading": "Verfügbarkeitskonfiguration",
+        "availabilityDescription_html": "Die folgenden Einstellungen steuern das Erscheinungsbild des <i>Outlook Availabilities</i>-Panels.",
+        "participantsHeading": "Besprechungsteilnehmer aus Vorgangsfeldern",
+        "participantsDescription_html": "Konfiguriere, welche Vorgangsfelder des Vorgangs bei der Suche nach verfügbaren Besprechungsterminen berücksichtigt werden sollen. <br /> Wenn du ein Text- oder Labelfeld auswählst, versuchen wir, gültige E-Mail-Adressen zu identifizieren.",
+        "defaultAvailabilitySettingsLabel": "Alle Felder eines Vorgangs mit Benutzern einbeziehen",
+        "suggestionsNumberHeading": "Anzahl der Vorschläge",
+        "suggestionsNumberDescription": "Konfiguriere, wie viele Vorschläge für Besprechungsplätze angezeigt werden sollen",
+        "suggestionsStrategyHeading": "Vorschlagsstrategie",
+        "suggestionsStrategyDescription": "Legt fest, wie lange die vorgeschlagenen Zeitfenster sind",
+        "availableTimePicker5minutes": "5 Minuten",
+        "availableTimePicker10minutes": "10 Minuten",
+        "availableTimePicker15minutes": "15 Minuten",
+        "availableTimePicker30minutes": "30 Minuten",
+        "availableTimePicker60minutes": "60 Minuten",
+        "dialogHeading": "Dialog Konfiguration",
+        "dialogDescription": "Hier können Sie bestimmte Aspekte des Dialogs \"Besprechung planen\" anpassen",
+        "meetingLengthHeading": "Besprechungslänge",
+        "meetingLengthDescription": "Konfiguriere die Standard-Besprechungslänge.",
+        "meetingLengthRangeLabel": "min",
+        "timePickerStepsHeading": "Zeitauswahlschritte",
+        "timePickerStepsDescription": "Wie viele Schritte in der Zeitauswahl angezeigt werden sollen",
+        "teamsSettingsHeading": "Microsoft Teams-Konfiguration",
+        "teamsSettingsDescription": "Microsoft Teams-bezogene Einstellungen ",
+        "channelIdHeading": "Meeting channel id",
+        "channelIdDescription": "Konfigurieren Sie den Teams-Kanal, in dem die Besprechungen stattfinden sollen. Der Kanal wird benachrichtigt, wenn das Meeting beginnt und die Chats werden im Kanal angezeigt",
+        "channelIdPlaceholder": "Geb die Teams-Kanal-ID ein",
+        "additionalHeading": "Zusätzliche Konfiguration",
+        "additionalDescription": "Dies ist die Möglichkeit, bestimmte versteckte Konfigurationen freizuschalten. Diese Eigenentwicklungen, sind nur für einzelne Kunden sinnvoll. Bitte nur Verwenden, wenn das Support-Team dazu aufgefordert",
+        "additionalInvalidHeading": "Ungültige zusätzliche Konfiguration",
+        "additionalInvalidNoJson": "Zusätzliche Konfiguration muss im JSON Format sein",
+        "additionalInvalidNoArray": "Zusätzliche Konfiguration muss im Array Format sein",
+        "saveButtonLabel": "Speichern",
+        "statusLozengeInprogress": "Speichern der Einstellungen...",
+        "statusLozengeSuccess": "Einstellungen gespeichert",
+        "statusLozengeRemoved": "Fehler beim Speichern"
+    },
+    "scheduleMeetingDialog": {
+        "invalidLicense": "Lizenz ist abgelaufen",
+        "meetingScheduledTitle": "Besprechung geplant",
+        "meetingScheduledDescription": "Das Meeting wurde geplant und alle Teilnehmer haben ihre Einladung erhalten."
+    },
+    "upcomingMeetings": {
+        "scheduleAnotherMeetingButtonLabel": "Eine weitere Besprechung planen",
+        "scheduleMeetingButtonLabel": "Besprechung planen",
+        "hidePastMeetings": "Vergangene Besprechungen ausblenden",
+        "showPastMeetings": "Vergangene Besprechungen anzeigen",
+        "noMeetingsHeading": "Noch keine Besprechungen!",
+        "noMeetingsDescription": "Sieht so aus, als hättest du noch kein Meeting geplant - erstellen unten ein neues 📆",
+        "licenseExpiredWarning": "Die Lizenz ist abgelaufen",
+        "scheduleMeetingLabel": "Besprechung planen"
+    },
+    "userSettings": {
+        "heading": "Office 365 Konto",
+        "logoutButtonLabel": "Logout"
+    }
+}
