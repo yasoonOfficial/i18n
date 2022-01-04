@@ -168,7 +168,7 @@
         "startConversation": "Start a conversation",
         "noRelatedTeamsMessages": "No related Teams messages",
         "noChatsOrConversations": "There are no Teams chats or conversations linked to this issue yet. Start one now!",
-        "welcomeToTeamsForJira": "Welcome to Microsoft Teams for Jira",
+        "welcomeToTeamsForJira": "Welcome to {{appName}}",
         "firstUseLoginInfo": "Looks like you are using the app for the very first time. Please login with your Microsoft 365 account to get started!",
         "externalUser": "External user",
         "external": "External",
