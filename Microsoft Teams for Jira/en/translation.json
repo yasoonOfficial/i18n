@@ -35,7 +35,8 @@
         "ok": "OK",
         "dontShowAgain": "Don't show again",
         "add": "Add",
-        "learnWhy": "Learn why"
+        "learnWhy": "Learn why",
+        "searchIssues": "Search issues"
     },
     "error": {
         "serverNotSupported": "Jira Server is not supported yet",
@@ -259,7 +260,16 @@
         "noChannelSelectOptionsHelp": "Can't find your channel?",
         "viewChatParticipants": "View chat participants or add users",
         "createCustomerOnDemand": "Create customer users on demand",
-        "createCustomerOnDemandHelpText": "Check this option if you want to create customer users on demand when they use the portal app and do not have a customer user yet. This is commonly used in public service desks."
+        "createCustomerOnDemandHelpText": "Check this option if you want to create customer users on demand when they use the portal app and do not have a customer user yet. This is commonly used in public service desks.",
+        "cardDesignerHeader": "Customize cards posted by Smart Connect",
+        "cardDesignerInfo1": "You can use the Card Designer to customize the way adaptive cards posted by the Smart Connect bot appear in your teams chats. To get started, select an issue below to fill the Designer with data.",
+        "cardDesignerInfo2": "To preview your custom card, click on the 'Preview mode' button within the Designer.",
+        "cardDesignerInfo3": "The default card template comes with issue actions such as comment and watch. If you removed these and want to re-add them, click on the 'Insert issue actions' button within the Designer.",
+        "cardDesignerSelectSampleData": "Select issue for sample data",
+        "cardDesignerTemplateSet": "You have set a custom global card template.",
+        "cardDesignerTemplateSaveHelp": "To apply your custom card payload, click on the save button below.",
+        "cardDesignerTemplateSave": "Save custom card template",
+        "cardDesignerTemplateRestore": "Restore default card template"
     },
     "teams": {
         "loadingIssues": "Loading issues...",

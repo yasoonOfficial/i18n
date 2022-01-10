@@ -35,7 +35,8 @@
         "ok": "OK",
         "dontShowAgain": "Nicht erneut anzeigen",
         "add": "Hinzufügen",
-        "learnWhy": "Lerne wieso"
+        "learnWhy": "Lerne wieso",
+        "searchIssues": "Vergänge durchsuchen"
     },
     "error": {
         "serverNotSupported": "Jira Server wird noch nicht unterstützt",
@@ -259,7 +260,16 @@
         "noChannelSelectOptionsHelp": "Kanal nicht gefunden?",
         "viewChatParticipants": "Teilnehmer des Chats einsehen oder hinzufügen",
         "createCustomerOnDemand": "Portalkunden automatisch anlegen",
-        "createCustomerOnDemandHelpText": "Mit dieser Option wird automatisch ein Portalkunde angelegt, wenn ein Benutzer noch keinen hat. Diese Option wird üblicherweise bei öffentlichen Service Desks benutzt."
+        "createCustomerOnDemandHelpText": "Mit dieser Option wird automatisch ein Portalkunde angelegt, wenn ein Benutzer noch keinen hat. Diese Option wird üblicherweise bei öffentlichen Service Desks benutzt.",
+        "cardDesignerHeader": "Inhalte gepostet von Smart Connect personalisieren",
+        "cardDesignerInfo1": "Mit dem Card Designer kann ein Custom Adaptive Card Template erstellt werden. Dises Template beinflusst das Erscheinungsbild der Cards, die von 'Smart Connect' gepostet werden. Wähle einen Vorgang aus, um den Designer mit Beispieldaten zu füllen",
+        "cardDesignerInfo2": "Um eine Vorschau des Custom Templates zu sehen, klicke auf den 'Preview mode' button im Header des Designers.",
+        "cardDesignerInfo3": "Das Standard Template enthält Actions zum Kommentieren und Watchen des Vorgangs. Zum Einfügen dieser Actions bitte auf den 'Insert issue actions' im Designer klicken.",
+        "cardDesignerSelectSampleData": "Vorgang auswählen als Beispieldaten",
+        "cardDesignerTemplateSet": "Custom Adaptive Card Template gesetzt.",
+        "cardDesignerTemplateSaveHelp": "Zum Anwenden des Custom Adaptive Card Templates auf den 'Speichern' Button klicken.",
+        "cardDesignerTemplateSave": "Custom Adaptive Card Template speichern",
+        "cardDesignerTemplateRestore": "Standard Adaptive Card Template wiederherstellen"
     },
     "teams": {
         "loadingIssues": "Lade Vorgänge...",
