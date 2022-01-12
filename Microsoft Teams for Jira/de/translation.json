@@ -36,7 +36,8 @@
         "dontShowAgain": "Nicht erneut anzeigen",
         "add": "Hinzufügen",
         "learnWhy": "Lerne wieso",
-        "searchIssues": "Vergänge durchsuchen"
+        "searchIssues": "Vorgänge durchsuchen",
+        "openInTeams": "In Teams öffnen"
     },
     "error": {
         "serverNotSupported": "Jira Server wird noch nicht unterstützt",
@@ -55,7 +56,8 @@
         "chatCreationFailed": "Chat konnte nicht angelegt werden.",
         "chatCreationFailedExternal": "Chat konnte nicht angelegt werden. Externe Empfänger konnten nicht gefunden werden.",
         "conversationCreationFailed": "Konversation konnte nicht angelegt werden.",
-        "externalUsersNotFound": "Externe Empfänger konnten nicht gefunden werden: "
+        "externalUsersNotFound": "Externe Empfänger konnten nicht gefunden werden: ",
+        "fetchTeamsMessages": "Fehler beim Laden von Teams-Nachrichten."
     },
     "login": {
         "heading": "Mit Jira verbinden",

@@ -36,7 +36,8 @@
         "dontShowAgain": "Don't show again",
         "add": "Add",
         "learnWhy": "Learn why",
-        "searchIssues": "Search issues"
+        "searchIssues": "Search issues",
+        "openInTeams": "Open in Teams"
     },
     "error": {
         "serverNotSupported": "Jira Server is not supported yet",
@@ -55,7 +56,8 @@
         "chatCreationFailed": "Failed to create chat.",
         "chatCreationFailedExternal": "Failed to create chat. Try removing external users.",
         "conversationCreationFailed": "Failed to create conversation.",
-        "externalUsersNotFound": "Could not find external users: "
+        "externalUsersNotFound": "Could not find external users: ",
+        "fetchTeamsMessages": "Error fetching Teams messages."
     },
     "login": {
         "heading": "Connect to Jira",
