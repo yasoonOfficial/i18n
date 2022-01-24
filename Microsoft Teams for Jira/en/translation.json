@@ -259,6 +259,7 @@
         "noChatHistory": "Don't include chat history",
         "allChatHistory": "Include all chat history",
         "backupChatToAttachments": "Backup chat to attachments",
+        "backupConversationsToAttachments": "Backup conversations to attachments",
         "newChatOrConversation": "Create new chat or conversation",
         "inaccessibleChat": "Chat is inaccessible",
         "noAccessToChat": "You don't have access to this chat",

@@ -259,6 +259,7 @@
         "noChatHistory": "Chat-Verlauf nicht teilen",
         "allChatHistory": "Ganzen Chat-Verlauf teilen",
         "backupChatToAttachments": "Chat-Backup erstellen",
+        "backupConversationsToAttachments": "Konversationen Backup erstellen",
         "newChatOrConversation": "Neuen Chat oder neue Konversation erstellen",
         "inaccessibleChat": "Chat nicht einsehbar",
         "noAccessToChat": "Du hast keinen Zugriff auf diesen Chat",
