@@ -209,6 +209,12 @@
         "assignee": "Assignee",
         "reporter": "Reporter",
         "requestParticipant": "Request Participant",
-        "watcher": "Watcher"
+        "watcher": "Watcher",
+        "noAvailability": "Could not read availability",
+        "outsideWorkingHours": "Outside of working hours",
+        "free": "Free",
+        "busy": "Busy",
+        "noAvailabilityFor7Days": "Not available for the next 7 days.",
+        "freeAt": "Free at"
     }
 }
