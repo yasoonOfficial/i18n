@@ -19,7 +19,12 @@
         "availabilityStatusFreeButSomeUnknown": "The availability of some attendees is unknown",
         "meetingSuggestionLabel": "Meeting Time Suggestions",
         "meetingSuggestionIconLabel": "Everyone",
-        "userAvatarListTitle": "Attendee Availability"
+        "userAvatarListTitle": "Attendee Availability",
+        "loadingAvailabilitiesLabel": "Loading availability",
+        "notAvailableLabel": "Not Available",
+        "availableLabel": "Available",
+        "unknownLabel": "Unknown",
+        "ownLocationLabel": "Own Location"
     },
     "azureLogin": {
         "dropdownItemLoginAccountChooser": "Log in with account chooser "

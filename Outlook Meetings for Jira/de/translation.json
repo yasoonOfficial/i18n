@@ -19,7 +19,12 @@
         "availabilityStatusFreeButSomeUnknown": "Die Verfügbarkeit einiger Teilnehmer*innen ist unbekannt",
         "meetingSuggestionLabel": "Meetingvorschläge",
         "meetingSuggestionIconLabel": "Alle",
-        "userAvatarListTitle": "Teilnehmer*innen"
+        "userAvatarListTitle": "Teilnehmer*innen",
+        "loadingAvailabilitiesLabel": "Lade Verfügbarkeit",
+        "notAvailableLabel": "Nicht verfügbar",
+        "availableLabel": "Verfügbar",
+        "unknownLabel": "Unbekannt",
+        "ownLocationLabel": "Eigener Ort"
     },
     "azureLogin": {
         "dropdownItemLoginAccountChooser": "Anmelden mit Konto-Auswahl"
