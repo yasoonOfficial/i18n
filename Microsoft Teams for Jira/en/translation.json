@@ -240,7 +240,7 @@
         "users": "Users",
         "linkedChat": "A chat linked to this issue",
         "linkedMeetingChat": "Chat of a meeting linked to this issue",
-        "meetingScheduledFor": "Meeting scheduled at",
+        "meetingScheduledFor": "Meeting scheduled",
         "chatNoMessagesYet": "No messages yet",
         "chatNoMessagesMotivation": "Be the first to get this conversation rolling!",
         "relatedConversationsTeamsChannel": "Related conversations in Teams channels",
