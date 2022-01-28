@@ -452,6 +452,17 @@
 		"generalSettingsTabLabel": "General settings",
 		"helpTabLabel": "Help"
 	},
+	"adminConnectivityTab": {
+		"yourConfluenceUrlPublic": "Your Jira URL (public)",
+		"okay": "Okay",
+		"cancel": "Cancel",
+		"headsUp": "Heads up",
+		"connectivityHelpText": "Please enter the URL under which your Confluence system is reachable from the internet. If you change the existing public URL of your system, all users will be logged out of the current instance.",
+		"staticIPHelpText": "If you need to allow IPs in your firewall, please check out our {link1}",
+		"staticIPHelpTextLabel": "help on this",
+		"confluenceUrlHelpText": "This is the publicly reachable URL of your Confluence instance",
+		"connect": "Connect"
+	},
 	"adminSharingTab": {
 		"sharingDescription": "This feature allows your users to share calendars with other users. Everyone will see the calendar the same way as the person that created it. Notice: if you change this setting later on, already shared calendars will still be shared!",
 		"heading": "Calendar sharing settings",
