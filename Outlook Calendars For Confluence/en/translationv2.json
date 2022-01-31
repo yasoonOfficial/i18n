@@ -453,7 +453,7 @@
 		"helpTabLabel": "Help"
 	},
 	"adminConnectivityTab": {
-		"yourConfluenceUrlPublic": "Your Jira URL (public)",
+		"yourConfluenceUrlPublic": "Your Confluence URL (public)",
 		"okay": "Okay",
 		"cancel": "Cancel",
 		"headsUp": "Heads up",
