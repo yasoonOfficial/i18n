@@ -461,7 +461,8 @@
 		"staticIPHelpText": "If you need to allow IPs in your firewall, please check out our {link1}",
 		"staticIPHelpTextLabel": "help on this",
 		"confluenceUrlHelpText": "This is the publicly reachable URL of your Confluence instance",
-		"connect": "Connect"
+		"connect": "Connect",
+		"noBaseUrlInSettings": "We did not find your baseUrl in the settings. Please enter it below or do a connectivity check to detect where an error might have occured."
 	},
 	"adminSharingTab": {
 		"sharingDescription": "This feature allows your users to share calendars with other users. Everyone will see the calendar the same way as the person that created it. Notice: if you change this setting later on, already shared calendars will still be shared!",
