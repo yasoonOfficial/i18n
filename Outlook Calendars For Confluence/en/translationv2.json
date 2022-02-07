@@ -558,6 +558,7 @@
 		"heading": "Microsoft 365 settings",
 		"loginHeading": "Microsoft account",
 		"logoutButton": "Logout",
+		"showDebugInformation": "Show debug information",
 		"notLoggedIn": "You're not logged in"
 	},
 	"settingsError": {
