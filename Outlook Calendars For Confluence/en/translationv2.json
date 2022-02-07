@@ -452,6 +452,13 @@
 		"generalSettingsTabLabel": "General settings",
 		"helpTabLabel": "Help"
 	},
+	"connectivitySettingsTab": {
+		"heading": "Connection settings overview",
+		"checkConnectivity": "Check connectivity",
+		"connectivityCheckHeading": "Connectivity check",
+		"connectivityCheckDescription": "If some functionalities of our app are not working correctly, you can troubleshoot the most common issues via clicking this button",
+		"introductionText": "Your data center/server environment is unique and we try to handle as many exceptions as possible. On this page, you can check, if e.g. your system does fullfill all our requirements to work properly."
+	},
 	"adminConnectivityTab": {
 		"yourConfluenceUrlPublic": "Your Confluence URL (public)",
 		"okay": "Okay",
@@ -462,6 +469,8 @@
 		"staticIPHelpTextLabel": "help on this",
 		"confluenceUrlHelpText": "This is the publicly reachable URL of your Confluence instance",
 		"connect": "Connect",
+		"learnMore": "Learn more",
+		"staticIPHelpText2": "To use the app, your Confluence system will need to be reachable by our servers. If your system is behind a firewall, you can allow access for the following IPs - all requests will come from these IPs.",
 		"noBaseUrlInSettings": "We did not find your baseUrl in the settings. Please enter it below or do a connectivity check to detect where an error might have occured."
 	},
 	"adminSharingTab": {
