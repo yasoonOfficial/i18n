@@ -457,7 +457,7 @@
 		"checkConnectivity": "Check connectivity",
 		"connectivityCheckHeading": "Connectivity check",
 		"connectivityCheckDescription": "If some functionalities of our app are not working correctly, you can troubleshoot the most common issues via clicking this button",
-		"introductionText": "Your data center/server environment is unique and we try to handle as many exceptions as possible. On this page, you can check, if e.g. your system does fullfill all our requirements to work properly."
+		"introductionText": "Your data center/server environment needs to reach and also needs to be reachable from our servers. On this page, you can check, if your system does fulfill all our requirements to work properly."
 	},
 	"adminConnectivityTab": {
 		"yourConfluenceUrlPublic": "Your Confluence URL (public)",
@@ -470,8 +470,11 @@
 		"confluenceUrlHelpText": "This is the publicly reachable URL of your Confluence instance",
 		"connect": "Connect",
 		"learnMore": "Learn more",
-		"staticIPHelpText2": "To use the app, your Confluence system will need to be reachable by our servers. If your system is behind a firewall, you can allow access for the following IPs - all requests will come from these IPs.",
-		"noBaseUrlInSettings": "We did not find your baseUrl in the settings. Please enter it below or do a connectivity check to detect where an error might have occured."
+		"staticIPHelpText2": "To use the app, your Confluence system needs to be reachable by our servers. If your system is behind a firewall, you can allow access for the following IPs - all requests will come from these IPs.",
+		"noBaseUrlBanner": "App not configured correctly.",
+		"baseUrlMismatchBanner": "Your Confluence url does not match the configured one below",
+		"baseUrlMismatch": "This might be intentional if e.g. you cloned your instance. Please adjust the url below.",
+		"noBaseUrlInSettings": "Connection to yasoon not possible. Please connect the public reachable Confluence url. And do a connectivity-check afterwards to see if everything works as intended"
 	},
 	"adminSharingTab": {
 		"sharingDescription": "This feature allows your users to share calendars with other users. Everyone will see the calendar the same way as the person that created it. Notice: if you change this setting later on, already shared calendars will still be shared!",
@@ -502,7 +505,10 @@
 		"learnMoreAction": "Learn more",
 		"viewPersonalCalendarAction": "View your personal calendar",
 		"gettingStartedFlagHeading": "Ready to use!",
+		"connectivityErrorFlagHeading": "Configuration needed!",
+		"connectivityErrorFlagDescription": "Please check to connectivity tab for further information. The calendar won't work as intended right now.",
 		"gettingStartedFlagDescription": "Welcome to Outlook Calendars for Confluence. Go to any page and insert the calendar macro to get started!",
+		"onClickConnectionTab": "Navigate to connectivity tab",
 		"migrationGuideHeading": "Migrating from Team Calendars",
 		"migrationGuideText": "If you are migrating from Atlassian Team Calendars, there is an easy way to take over calendar events to your Outlook calendar. Check our migration guide for more details.",
 		"migrationGuideButton": "Migration guide",
