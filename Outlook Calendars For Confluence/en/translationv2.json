@@ -564,5 +564,14 @@
 	"settingsError": {
 		"unknownError": "An unknown error occured while saving.",
 		"flagHeading": "Version mismatch."
+	},
+	"secretRotation": {
+		"heading": "Secret rotation",
+		"description": "The internal secret is stored on your Confluence instance. It ensures a secure connection between the Confluence instance and the yasoon backend. Whenever a administrator leaves your company or has no longer admin permission, we highly recomend to rotate the secret.",
+		"button": "Rotate secret",
+		"headsUp": "Heads up",
+		"headsUpText": "This action cannot be reversed.",
+		"okay": "Okay",
+		"cancel": "Cancel"
 	}
 }
