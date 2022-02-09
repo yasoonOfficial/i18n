@@ -76,12 +76,9 @@
         "subHeading": "Willkommen! Hier kannst du eine Supportanfrage erstellen nachdem du einen Service Desk ausgewählt hast."
     },
     "chooseGroup": {
-        "heading": "Kontaktiere uns",
-        "subHeading": "Wählen eine Kategorie aus, zu der Deine Supportanfrage am besten passt."
+        "heading": "Kontaktiere uns"
     },
-    "chooseType": {
-        "subHeading": "Du kannst aus den bereitgestellten Optionen eine Support Anfrage auswählen."
-    },
+    "welcomeChooseInfo": "Willkommen! Du kannst eine Anfrage in {{serviceDeskName}} stellen, in dem Du eine der Optionen auswählst.",
     "createTicket": {
         "typeChooserLabel": "Wobei können wir helfen?",
         "typeChooserPlaceholder": "Wähle eine Kategorie",

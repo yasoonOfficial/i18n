@@ -76,12 +76,9 @@
         "subHeading": "Welcome! You can raise a support request after selecting a service desk."
     },
     "chooseGroup": {
-        "heading": "Contact us about",
-        "subHeading": "Select a category which you would like to contact us about."
+        "heading": "Contact us about"
     },
-    "chooseType": {
-        "subHeading": "You can raise a support request from the options provided."
-    },
+    "welcomeChooseInfo": "Welcome! You can raise a request for {{serviceDeskName}} using the options provided.",
     "createTicket": {
         "typeChooserLabel": "What can we help you with?",
         "typeChooserPlaceholder": "Select a request type",
