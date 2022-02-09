@@ -499,7 +499,10 @@
 		"sendMailButton": "Send an email",
 		"raiseTicketButton": "Raise a ticket",
 		"bookMeetingButton": "Book a meeting",
-		"callUsButton": "Call us (timezone: CET)"
+		"callUsButton": "Call us (timezone: CET)",
+		"supportToolsHeading": "Support tools",
+		"supportToolsButton": "Go to support tools",
+		"supportToolsDescription": "Additional configurations, please only use in consultation with the support team."
 	},
 	"adminOverviewTab": {
 		"learnMoreAction": "Learn more",
