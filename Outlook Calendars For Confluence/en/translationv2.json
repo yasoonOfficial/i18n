@@ -582,5 +582,10 @@
 		"headsUpText": "This action cannot be reversed.",
 		"okay": "Okay",
 		"cancel": "Cancel"
+	},
+	"adminSupportScreen": {
+		"description": "This are support features, please only use in consultation with the support team.",
+		"saveButton": "Save property",
+		"loadButton": "Load property"
 	}
 }
