@@ -106,6 +106,12 @@
         "description": "Sieht so aus, als benutzt du diese Funktion das erste Mal. Bitte melde dich mit deinem Microsoft 365 Account an, um loszulegen!",
         "bundleHeader": "Willkommen bei Microsoft 365 for Jira"
     },
+	"officeLoginMSALScreen": {
+		"heading": "Erneut mit Microsoft anmelden",
+		"subHeading": "Du musst dich alle 24 Stunden erneut anmelden, da dein Browser restriktive Privatsphäreeinstellungen hat.",
+		"loginDisabledHint": "Bitte zuerst in Jira anmelden",
+		"reAuthenticateButtonLabel": "Erneut anmelden"
+	},
     "sendMailDialog": {
         "subjectPlaceholder": "Betreff eingeben",
         "subjectLabel": "Betreff",

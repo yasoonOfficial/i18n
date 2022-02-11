@@ -106,6 +106,12 @@
         "description": "Looks like you are using this feature for the very first time. Please login with your Microsoft 365 account to get started!",
         "bundleHeader": "Welcome to Microsoft 365 for Jira"
     },
+	"officeLoginMSALScreen": {
+		"heading": "Re-authenticate Microsoft login",
+		"subHeading": "Your browser has restrictive privacy settings, so you need to re-authenticate every 24 hours.",
+		"loginDisabledHint": "Please log-in to Jira first",
+		"reAuthenticateButtonLabel": "Re-authenticate"
+	},
     "sendMailDialog": {
         "subjectPlaceholder": "Enter a subject",
         "subjectLabel": "Subject",
