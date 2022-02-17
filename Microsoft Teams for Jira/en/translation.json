@@ -66,6 +66,12 @@
         "login": "Login",
         "learnMore": "Learn more"
     },
+	"officeLoginMSALScreen": {
+		"heading": "Re-authenticate Microsoft login",
+		"subHeading": "Your browser has restrictive privacy settings, so you need to re-authenticate every 24 hours.",
+		"loginDisabledHint": "Please log-in to Jira first",
+		"reAuthenticateButtonLabel": "Re-authenticate"
+	},
     "search": {
         "placeholder": "Search for common issues..",
         "noResultsFor": "No results found for '{{query}}'.",

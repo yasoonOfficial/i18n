@@ -66,6 +66,12 @@
         "login": "Login",
         "learnMore": "Mehr erfahren"
     },
+	"officeLoginMSALScreen": {
+		"heading": "Erneut mit Microsoft anmelden",
+		"subHeading": "Du musst dich alle 24 Stunden erneut anmelden, da dein Browser restriktive Privatsphäreeinstellungen hat.",
+		"loginDisabledHint": "Bitte zuerst in Jira anmelden",
+		"reAuthenticateButtonLabel": "Erneut anmelden"
+	},
     "search": {
         "placeholder": "Suchen..",
         "noResultsFor": "Keine Ergebnisse für '{{query}}'.",
