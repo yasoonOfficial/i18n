@@ -34,7 +34,8 @@
 		"teamsChannelCalendarHeading": "Channel calendar",
 		"teamsChannelCalendarDescription": "Show Teams channel events",
 		"globalMailboxHeading": "Global calendars",
-		"globalMailboxDescription": "Show a pre-configured calendar"
+		"globalMailboxDescription": "Show a pre-configured calendar",
+		"requiresAppLink": "Requires admin config"
 	},
 	"calendarList": {
 		"viewHeading": "Layout",
