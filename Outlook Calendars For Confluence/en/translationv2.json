@@ -587,5 +587,12 @@
 		"description": "This are support features, please only use in consultation with the support team.",
 		"saveButton": "Save property",
 		"loadButton": "Load property"
+	},
+	"dialogHeading": {
+		"scheduleMeeting": "Schedule meeting",
+		"spaceEdit": "Space calendar settings",
+		"personalEdit": "Personal calendar settings",
+		"globalMailboxes": "Add global mailboxes",
+		"v2MigrationGuide": "V2 Migration guide"
 	}
 }
