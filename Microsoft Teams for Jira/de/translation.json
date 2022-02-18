@@ -68,7 +68,9 @@
     },
 	"officeLoginMSALScreen": {
 		"heading": "Erneut mit Microsoft anmelden",
-		"subHeading": "Du musst dich alle 24 Stunden erneut anmelden, da dein Browser restriktive Privatsphäreeinstellungen hat.",
+		"descriptionFirstLine": "Du musst dich erneut anmelden. Dies wird wahrscheinlich von deinen Browsereinstellungen verursacht.",
+		"descriptionSecondLine": "{link}",
+		"docLink": "Zeig mir, wie ich das verhindern kann",
 		"loginDisabledHint": "Bitte zuerst in Jira anmelden",
 		"reAuthenticateButtonLabel": "Erneut anmelden"
 	},

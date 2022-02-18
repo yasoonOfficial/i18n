@@ -68,7 +68,9 @@
     },
 	"officeLoginMSALScreen": {
 		"heading": "Re-authenticate Microsoft login",
-		"subHeading": "Your browser has restrictive privacy settings, so you need to re-authenticate every 24 hours.",
+		"descriptionFirstLine": "You need to re-authenticate. This is probably caused by your browser settings.",
+		"descriptionSecondLine": "{link}",
+		"docLink": "Show me how to fix this",
 		"loginDisabledHint": "Please log-in to Jira first",
 		"reAuthenticateButtonLabel": "Re-authenticate"
 	},
