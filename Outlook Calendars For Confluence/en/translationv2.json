@@ -236,10 +236,12 @@
 	"calendarViewScreen": {
 		"sidebarHeading": "Calendars",
 		"editButtonTooltip": "Click to edit the calendar",
-		"noSpaceEditPermission": "It seems like you don't have space admin permissions"
+		"noSpaceEditPermissionTooltip": "It seems like you don't have space admin permissions",
+		"confluenceReadOnlyModeTooltip": "Confluence is in read-only mode"
 	},
 	"sidbarEmptyState": {
-		"disabledEmptyStateText": "You don't have the permission to add calendars. Only Confluence space admins are allowed to edit.",
+		"missingSpacePermissionEmptyStateText": "You don't have the permission to add calendars. Only Confluence space admins are allowed to edit.",
+		"readOnlyStateText": "Confluence is in read-only mode. Please wait until Confluence allows editing again.",
 		"emptyStateText": "It seems like you're the first one here.",
 		"addCalendarsButton": "Add calendars",
 		"gettingStartedButton": "Getting started"
