@@ -455,6 +455,11 @@
 		"generalSettingsTabLabel": "General settings",
 		"helpTabLabel": "Help"
 	},
+	"savingLozenge": {
+		"saving": "Saving Settings...",
+		"saved": "Settings Saved",
+		"error": "Error while saving"
+	},
 	"connectivitySettingsTab": {
 		"heading": "Connection settings overview",
 		"checkConnectivity": "Check connectivity",
