@@ -447,6 +447,9 @@
 	"licenseCheck": {
 		"licenseDisabledBanner": "Your license for Outlook Calendars for Confluence has expired."
 	},
+	"onPremiseV2Migration": {
+		"migrationRequiredBanner": "Migration required, please ask you administrator to migrate the app."
+	},
 	"adminScreen": {
 		"heading": "Outlook Calendars for Confluence",
 		"gettingStartedTabLabel": "Getting started",
