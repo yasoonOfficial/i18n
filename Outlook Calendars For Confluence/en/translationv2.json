@@ -50,7 +50,8 @@
 		"filteringCategoriesAndFreeBusyTypeLabel": "This calendar has been filtered for {{freeBusyStatus}} events with categories {{categories}}.",
 		"filteringCategoryAndFreeBusyTypeLabel": "This calendar has been filtered for {{freeBusyStatus}} events with category {{categories}}.",
 		"reauthenticateButton": "Re-authenticate",
-		"reauthenticateMessage": "Your browser has restrictive privacy settings, so you need to re-authenticate every 24 hours."
+		"reauthenticateMessage": "Your browser has restrictive privacy settings, so you need to re-authenticate every 24 hours.",
+		"ewsLoginRequired": "EWS login required"
 	},
 	"officeCategoryColorSettings": {
 		"useCategoryColorHeading": "Use category color",
