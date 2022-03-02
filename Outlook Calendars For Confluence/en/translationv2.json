@@ -468,7 +468,7 @@
 		"heading": "Connection settings overview",
 		"checkConnectivity": "Check connectivity",
 		"connectivityCheckHeading": "Connectivity check",
-		"connectivityCheckDescription": "If some functionalities of our app are not working correctly, you can troubleshoot the most common issues via clicking this button",
+		"connectivityCheckDescription": "Support tool to check and troubleshooting the connection to mandatory services. Only for analysis and won’t change any configuration.",
 		"introductionText": "Your data center/server environment needs to reach and also needs to be reachable from our servers. On this page, you can check, if your system does fulfill all our requirements to work properly."
 	},
 	"adminConnectivityTab": {
@@ -480,7 +480,13 @@
 		"staticIPHelpText": "If you need to allow IPs in your firewall, please check out our {link1}",
 		"staticIPHelpTextLabel": "help on this",
 		"confluenceUrlHelpText": "This is the publicly reachable URL of your Confluence instance",
-		"connect": "Connect",
+		"connect": "Connection required",
+		"connectButton": "Connect",
+		"connectDescription": "During the installation of the app, we tried to register the instance with our cloud infrastructure, which unfortunately failed. Please make sure that the Confluence instance can reach yasoon services and Microsoft 365.",
+		"connected": "Connected",
+		"connectedDescription": "We were able to successfully establish a secure connection to the yasoon services. If you experience unexpected connectivity issues you can perform a connectivity check below.",
+		"yasoonConnectivity": "Yasoon connectivity",
+		"yasoonConnectivityDescription": "As the app deeply integrates with Microsoft 365, which is a cloud only solution, our app behaves a bit differently than “classic” Confluence Server apps. Your Confluence instance needs to connect to yasoon services as well as to Microsoft 365. {link1}",
 		"learnMore": "Learn more",
 		"staticIPHelpText2": "To use the app, your Confluence system needs to be reachable by our servers. If your system is behind a firewall, you can allow access for the following IPs - all requests will come from these IPs.",
 		"noBaseUrlBanner": "App not configured correctly.",
@@ -591,12 +597,18 @@
 	},
 	"secretRotation": {
 		"heading": "Secret rotation",
-		"description": "The internal secret is stored on your Confluence instance. It ensures a secure connection between the Confluence instance and the yasoon backend. Whenever a administrator leaves your company or has no longer admin permission, we highly recomend to rotate the secret.",
+		"description": "The app stores a shared secret to ensure a secure connection with our services. All Confluence admins may have access to this secret. To avoid any malicious and unauthorized data access, we recommend to rotate the secret whenever you remove an admin from your instance",
 		"button": "Rotate secret",
 		"headsUp": "Heads up",
 		"headsUpText": "This action cannot be reversed.",
 		"okay": "Okay",
 		"cancel": "Cancel"
+	},
+	"jiraConnectivity": {
+		"heading": "Jira connectivity",
+		"description": "The app uses existing application links between Jira and Confluence to display Jira calendars.",
+		"existingApplinks": "We can connect to the following Jira instances:",
+		"noApplinks": "We couldn't find any configured application links between Jira and Confluence."
 	},
 	"adminSupportScreen": {
 		"description": "This are support features, please only use in consultation with the support team.",
