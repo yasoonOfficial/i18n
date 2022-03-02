@@ -595,7 +595,7 @@
 		"officeCalendarHeading": "Migrated Outlook calendar",
 		"officeCalendarDescription": "If you want to make changes to the calendar, please remove it and add it again.",
 		"jiraCalendarHeading": "Migrated Jira calendar",
-		"jiraCalendarDescription": "If you want to make changes to the calendar, please remove it and add it again."
+		"jiraCalendarDescription": "If the calendar does not work as expected, please remove it and add it again."
 	},
 	"userSettingsScreen": {
 		"heading": "Microsoft 365 settings",
