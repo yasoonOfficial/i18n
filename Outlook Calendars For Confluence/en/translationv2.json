@@ -528,6 +528,8 @@
 		"gettingStartedFlagHeading": "Ready to use!",
 		"connectivityErrorFlagHeading": "Configuration required!",
 		"migrationErrorFlagHeading": "Migration required!",
+		"exchangeConnectionErrorFlagDescription": "We detected, that you had selected Exchange as your connection method in the previous version. This version of Outlook calendar for Confluence does not work with Microsoft Exchange. Only Microsoft 365 is supported. If you want to use Exchange, you need to install v1 again.",
+		"exchangeConnectionErrorFlagTitle": "Microsoft Exchange connection settings detected!",
 		"connectivityErrorFlagDescription": "Please check to connectivity tab for further information. The calendar won't work as intended right now.",
 		"migrationErrorFlagDescription": "Please check to migration tab for further information. The calendar won't work as intended right now.",
 		"gettingStartedFlagDescription": "Welcome to Outlook Calendars for Confluence. Go to any page and insert the calendar macro to get started!",
@@ -537,6 +539,17 @@
 		"migrationGuideText": "If you are migrating from Atlassian Team Calendars, there is an easy way to take over calendar events to your Outlook calendar. Check our migration guide for more details.",
 		"migrationGuideButton": "Migration guide",
 		"featureOverviewHeading": "Feature overview"
+	},
+	"adminServerMigrationTab": {
+		"migrationNotPossible": "Migration not possible right now. Check the connectivity tab first",
+		"migrationRequiredHeading": "Settings migration from v1 required",
+		"migrationRequiredDescription": "When you are ready to migrate the settings, hit the button down below. Depending on your instance size and the usage of the calendar, this can take up several minutes!",
+		"startMigrationButtonLabel": "Start migration",
+		"migrationRunningDescription": "The migration is running, do not close this browser window/tab until it is finished",
+		"userMigrationLabel": "User migration progress",
+		"spaceMigrationLabel": "User migration progress",
+		"macroMigrationLabel": "User migration progress",
+		"migrationSuccessfulDescription": "Settings migration successful"
 	},
 	"adminFeaturesOverview": {
 		"pageCalendarHeading": "Add Outlook calendars to Confluence pages or spaces",
