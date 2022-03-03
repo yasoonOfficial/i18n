@@ -215,6 +215,8 @@
     "errorMessages": {
         "outdatedData": "Diese Einstellungen wurden zwischenzeitig geändert. Bitte lade die Seite neu und versuche es noch einmal.",
         "generic": "Etwas ist schiefgelaufen",
+        "tooBigAttachmentsTitle": "Die Anhänge sind zu groß.",
+        "tooBigAttachmentsMessage": "Es ist momentan nur möglich, Anhänge bis zu einer Gesamtgröße von ca. 2.5MB zu versenden. Wir arbeiten daran, auch größere Anhänge zu ermöglichen.",
         "saveTitle": "Speichern der Einstellungen fehlgeschlagen"
     },
 

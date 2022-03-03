@@ -215,6 +215,8 @@
     "errorMessages": {
         "outdatedData": "The settings you are trying to save have been modified elsewhere. Please reload the page and try again.",
         "generic": "Something has gone wrong",
+        "tooBigAttachmentsTitle": "The attachments are too big.",
+        "tooBigAttachmentsMessage": "It is currently only supported to upload attachments of up to ~2.5MB in total. We are working to also support larger attachments.",
         "saveTitle": "Failed to save settings"
     },
     "unlinkConfirmationDropdown": {
