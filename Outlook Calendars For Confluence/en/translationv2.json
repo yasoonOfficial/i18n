@@ -44,6 +44,7 @@
 		"addCalendarButton": "+ Add calendar",
 		"loginButton": "Login",
 		"loginErrorMessage": "Login required",
+		"anonymousUserError": "Confluence User login required",
 		"filteringCategoriesOnlyLabel": "This calendar has been filtered events with categories {{categories}}.",
 		"filteringCategoryOnlyLabel": "This calendar has been filtered for events with category {{categories}}.",
 		"filteringShowAsOnlyLabel": "This calendar has been filtered for {{freeBusyStatus}} events.",
