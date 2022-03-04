@@ -480,6 +480,7 @@
 		"staticIPHelpText": "If you need to allow IPs in your firewall, please check out our {link1}",
 		"staticIPHelpTextLabel": "help on this",
 		"confluenceUrlHelpText": "This is the publicly reachable URL of your Confluence instance",
+		"registerInstanceErrorTitle": "Error trying to reach yasoon backend. See connectivity check",
 		"connect": "Connection required",
 		"connectButton": "Connect",
 		"connectDescription": "During the installation of the app, we tried to register the instance with our cloud infrastructure, which unfortunately failed. Please make sure that the Confluence instance can reach yasoon services and Microsoft 365.",
