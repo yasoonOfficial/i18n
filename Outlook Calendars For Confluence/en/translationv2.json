@@ -414,6 +414,8 @@
 		"issuetype": "Issuetype",
 		"reporter": "Reporter",
 		"dueDate": "Due date",
+		"status": "Status",
+		"resolution": "Resolution",
 		"assignee": "Assignee"
 	},
 	"headingInlineEditField": {
