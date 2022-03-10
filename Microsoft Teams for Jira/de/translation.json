@@ -66,14 +66,14 @@
         "login": "Login",
         "learnMore": "Mehr erfahren"
     },
-	"officeLoginMSALScreen": {
-		"heading": "Erneut mit Microsoft anmelden",
-		"descriptionFirstLine": "Du musst dich erneut anmelden. Dies wird wahrscheinlich von deinen Browsereinstellungen verursacht.",
-		"descriptionSecondLine": "{link}",
-		"docLink": "Zeig mir, wie ich das verhindern kann",
-		"loginDisabledHint": "Bitte zuerst in Jira anmelden",
-		"reAuthenticateButtonLabel": "Erneut anmelden"
-	},
+    "officeLoginMSALScreen": {
+        "heading": "Erneut mit Microsoft anmelden",
+        "descriptionFirstLine": "Du musst dich erneut anmelden. Dies wird wahrscheinlich von deinen Browsereinstellungen verursacht.",
+        "descriptionSecondLine": "{link}",
+        "docLink": "Zeig mir, wie ich das verhindern kann",
+        "loginDisabledHint": "Bitte zuerst in Jira anmelden",
+        "reAuthenticateButtonLabel": "Erneut anmelden"
+    },
     "search": {
         "placeholder": "Suchen..",
         "noResultsFor": "Keine Ergebnisse für '{{query}}'.",
@@ -223,8 +223,11 @@
         "teamsAppIcon": "Teams App Icon",
         "longTitlesCutoff": "Lange App Namen werden in Teams abgeschnitten dargestellt.",
         "longTitlesCutoffHelpText": "Namen mit mehr als 10 Buchstaben werden in der Teams Sidebar abgeschnitten.",
-        "customAppCompatibilityMode": "Custom App Kompatibilitätsmodus",
-        "customAppCompatibilityModeHelpText": "Dieser Modus ist empfehlenswert, wenn Custom Apps im Kunden Service-Portal aktiv sind, die die Darstellung der Formulare verändern.",
+        "customAppCompatibilityMode": "App Kompatibilitätsmodus",
+        "customAppCompatibilityModeHelpText": "Dieser Modus ist empfehlenswert, wenn Apps im Kunden Service-Portal aktiv sind, die die Darstellung der Formulare verändern.",
+        "nativeLookAndFeelMode": "Natives Portal Erscheinungsbild",
+        "nativeLookAndFeelModeLozenge": "Experimentell",
+        "nativeLookAndFeelModeHelpText": "Dieser Modus lässt das Portal in Teams ähnlicher aussehen, z.B. die Beschreibungen, Icons & Ankündigungen. Verwendet private Atlassian APIs.",
         "portalAppDownloadInstructions": "Klicke den Button um das .zip-Archiv der App herunterzuladen. Bitte ziehe die Anleitung zu Rate um herauszufinden, wie die App zu installieren ist.",
         "downloadApp": "App herunterladen",
         "jsmFirstVisit": "Bitte speichere die Konfiguration, lade die App herunter und installiere sie in Microsoft Teams.",

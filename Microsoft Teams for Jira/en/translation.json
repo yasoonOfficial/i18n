@@ -66,14 +66,14 @@
         "login": "Login",
         "learnMore": "Learn more"
     },
-	"officeLoginMSALScreen": {
-		"heading": "Re-authenticate Microsoft login",
-		"descriptionFirstLine": "You need to re-authenticate. This is probably caused by your browser settings.",
-		"descriptionSecondLine": "{link}",
-		"docLink": "Show me how to fix this",
-		"loginDisabledHint": "Please log-in to Jira first",
-		"reAuthenticateButtonLabel": "Re-authenticate"
-	},
+    "officeLoginMSALScreen": {
+        "heading": "Re-authenticate Microsoft login",
+        "descriptionFirstLine": "You need to re-authenticate. This is probably caused by your browser settings.",
+        "descriptionSecondLine": "{link}",
+        "docLink": "Show me how to fix this",
+        "loginDisabledHint": "Please log-in to Jira first",
+        "reAuthenticateButtonLabel": "Re-authenticate"
+    },
     "search": {
         "placeholder": "Search for common issues..",
         "noResultsFor": "No results found for '{{query}}'.",
@@ -225,6 +225,9 @@
         "longTitlesCutoffHelpText": "Titles longer than 10 characters will be truncated in the Teams sidebar. Please consider using a shorter title.",
         "customAppCompatibilityMode": "Custom app compatibility mode",
         "customAppCompatibilityModeHelpText": "Activate this if you have custom apps in your customer service portal.",
+        "nativeLookAndFeelMode": "Native portal look and feel",
+        "nativeLookAndFeelModeLozenge": "Experimental",
+        "nativeLookAndFeelModeHelpText": "Activate this if you need the portal to look closer to the Atlassian portal, e.g. icons & description texts. Requires use of private Atlassian APIs.",
         "portalAppDownloadInstructions": "Click the button below to download the app .zip-file. Please refer to the instructions on how to install / distribute the app.",
         "downloadApp": "Download app",
         "jsmFirstVisit": "Seems like this is your first visit. Please save your configuration, download the app and install it in Microsoft Teams.",
