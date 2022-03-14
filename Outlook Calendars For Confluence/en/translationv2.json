@@ -50,6 +50,7 @@
 		"filteringShowAsOnlyLabel": "This calendar has been filtered for {{freeBusyStatus}} events.",
 		"filteringCategoriesAndFreeBusyTypeLabel": "This calendar has been filtered for {{freeBusyStatus}} events with categories {{categories}}.",
 		"filteringCategoryAndFreeBusyTypeLabel": "This calendar has been filtered for {{freeBusyStatus}} events with category {{categories}}.",
+		"noFilterLabel": "The calendar has no filter criteria.",
 		"reauthenticateButton": "Re-authenticate",
 		"reauthenticateMessage": "Your browser has restrictive privacy settings, so you need to re-authenticate every 24 hours.",
 		"ewsLoginRequired": "EWS login required"
@@ -131,7 +132,9 @@
 		"startToEndDateSubHeading": "Display the Sprint as a timeframe",
 		"startToCompleteDateHeading": "Start to Complete date",
 		"startToCompleteDateSubHeading": "Display the Sprint as a timeframe",
-		"selectPlaceholder": "Choose option"
+		"selectPlaceholder": "Choose option",
+		"createdAt": "Created at",
+		"dueDate": "Due date"
 	},
 	"jiraCalendarSettingsScreen": {
 		"releases": "releases",
@@ -178,13 +181,16 @@
 		"ownCalendarsHeading": "Own calendars",
 		"loadingPlaceholderText": "Loading own calendars",
 		"textfieldPlaceholderText": "Type to search for calendars",
-		"backButton": "Back to templates"
+		"backButton": "Back to templates",
+		"calendarNameFallback": "Default Calendar Name"
 	},
 	"searchTeamsChannelCalendarScreen": {
 		"resultsLabel": "Outlook Teams",
 		"loadingPlaceholderText": "Loading teams and channel calendars",
 		"textfieldPlaceholderText": "Type to search for teams/channels",
-		"backButton": "Back to templates"
+		"backButton": "Back to templates",
+		"calendarDescription": "Channel calendar - {{channelName}} ({{teamName}})",
+		"calendarName": "Channel: {{channelName}}"
 	},
 	"generalViewSetting": {
 		"listViewHeading": "List view",
@@ -268,11 +274,27 @@
 		"categoryNoOptionsMessage": "Type to select category",
 		"formatCreateCategoryLabel": "Select category",
 		"categoryFilterWarning": "The calendar has been filtered for other criteria, so the event might not show up on this page",
-		"sendMeetingRequestHelper": "You'll send a meeting request to this calendar"
+		"sendMeetingRequestHelper": "You'll send a meeting request to this calendar",
+		"anErrorOccured": "An error occured",
+		"createEventSuccessFlagTitle": "Successfully created Event",
+		"createEventSuccessFlagDescription": "Your issue has been successfully copied to your personal calendar",
+		"copyReleaseEventSuccessFlagDescription": "The release has been successfully copied to your personal calendar",
+		"copySprintEventSuccessFlagDescription": "The Sprint has been successfully copied to your personal calendar"
+	},
+	"environment": {
+		"adminSettingsErrorFlagTitle": "Could no connect to yasoon",
+		"adminSettingsErrorFlagDescription": "It seems, that the yasoon backend can not be reached",
+		"genericErrorFlagTitle": "An unexpected error occured",
+		"genericErrorFlagDescription": "Sorry for the inconvenience. Our development team will be informed about this crash"
 	},
 	"createJqlScreen": {
 		"heading": "Back to templates",
-		"submitButton": "Add calendar"
+		"submitButton": "Add calendar",
+		"selectJiraInstance": "Please select a Jira instance",
+		"jiraInstanceNotSelected": "Jira instance not selected",
+		"confluenceUserNotLoaded": "Confluence user not loaded",
+		"gdprTransformNotPossible": "Could not transform to GDPR-JQL",
+		"jqlFrom": "JQL from ({{url}})"
 	},
 	"editJQLFieldScreen": {
 		"heading": "JQL:",
@@ -280,7 +302,10 @@
 	},
 	"editJQLScreen": {
 		"heading": "Back to calendars",
-		"submitLabel": "Save changes"
+		"submitLabel": "Save changes",
+		"selectJiraInstance": "Please select a Jira instance",
+		"jiraInstanceNotSelected": "Jira instance not selected",
+		"gdprTransformNotPossible": "Could not transform to GDPR-JQL"
 	},
 	"jiraEndDateFieldSetting": {
 		"heading": "End date",
@@ -294,6 +319,9 @@
 		"loadingPlaceholder": "Loading fields",
 		"placeholder": "Select a field"
 	},
+	"fullcalendar": {
+		"calendar": "Calendar"
+	},
 	"jiraSingleDateFieldSetting": {
 		"heading": "Display date",
 		"subHeading": "Select a field of the issue that should the date of the event",
@@ -304,6 +332,8 @@
 		"completedDateLabel": "Completed date",
 		"loadingLabel": "Loading all fields",
 		"loadingPlaceholder": "Loading fields",
+		"state": "State",
+		"goal": "Goal",
 		"placeholder": "Select a field"
 	},
 	"jiraStartDateFieldSetting": {
@@ -353,13 +383,18 @@
 	"searchJiraSprintsScreen": {
 		"heading": "Back to templates",
 		"resultsLabel": "Boards",
-		"noOptionsPlaceholder": "No boards found"
+		"noOptionsPlaceholder": "No boards found",
+		"calendarDescription": "Sprints of board: {{name}} ({{url}})"
 	},
 	"jiraSearchProjectsScreen": {
 		"heading": "Back to templates",
 		"resultsLabel": "Projects",
 		"defaultOptionsLabel": "Recent projects",
-		"noOptionsPlaceholder": "No projects found"
+		"noOptionsPlaceholder": "No projects found",
+		"calendarDescription": "Issues of project: {{description}} ({{url}})"
+	},
+	"jiraSearchScreenBase": {
+		"placeholderFallback": "Type to search"
 	},
 	"officeSearchGroupScreen": {
 		"heading": "Back to templates",
@@ -370,12 +405,20 @@
 		"heading": "Back to templates",
 		"resultsLabel": "Results",
 		"noOptionsPlaceholder": "No rooms found",
-		"textfieldPlaceholder": "Type to search"
+		"textfieldPlaceholder": "Type to search",
+		"noPermissionErrorFallback": "Sorry it seems like you don't have the permissions to access this calendar. Please ask the owner to add it.",
+		"calendarDescription": "Main Calendar - {{name}}"
 	},
 	"officeSearchUserScreen": {
 		"heading": "Back to templates",
 		"resultsLabel": "Results",
-		"noOptionsPlaceholder": "No users found"
+		"noOptionsPlaceholder": "No users found",
+		"textfieldPlaceholder": "Type to search",
+		"noPermissionErrorFallback": "Sorry it seems like you don't have the permissions to access this calendar. Please ask the owner to add it.",
+		"calendarDescription": "Main Calendar - {{name}}"
+	},
+	"officeSearchScreenBase": {
+		"searchPlaceholderFallback": "Type to search"
 	},
 	"attendeesField": {
 		"createOption": "Manually add"
@@ -405,6 +448,7 @@
 		"eventSuccessFlagDescription": "Succesfully created in your calendar",
 		"eventCopySuccessFlagDescription": "Succesfully copied event to your calendar",
 		"eventSuccessFlagTitle": "Success",
+		"noPermissionErrorDescription": "You might not have permissions",
 		"copyToOwnCalendarFailedFlagTitle": "Create event in own calendar failed"
 	},
 	"jiraEventHover": {
@@ -432,12 +476,26 @@
 	"calendarListScreen": {
 		"noCalendarSelectedMessage": "It seems that something went wrong. Please select a calendar on the left side"
 	},
+	"jiraReleaseEventHover": {
+		"released": "Released"
+	},
 	"loginScreenStateless": {
 		"loginButton": "Login"
 	},
+	"navigationModel": {
+		"unexpectedErrorFlagTitle": "Unexpected error occured",
+		"yasoonBackenNotReachableFlagTitle": "yasoon backend could not be reached",
+		"loginErrorFlagTitle": "Error during logging in",
+		"loginErrorFlagDescription": "If this issue is persistent please contact the support"
+	},
 	"loginScreenModel": {
+		"officeLoginFailedFlagTitle": "Office login failed",
 		"appLinkErrorDescription": "Application link not found or it has been removed by an admin",
 		"appLinkErrorTitle": "Error with application link"
+	},
+	"userModel": {
+		"toManyCalendarsFlagTitle": "Too many calendars",
+		"toManyCalendarsFlagDescription": "Not all calendars can be shown"
 	},
 	"editorComponent": {
 		"loadingText": "Loading editor..."
@@ -460,7 +518,9 @@
 		"sharingTabLabel": "Sharing",
 		"globalMailboxesTabLabel": "Shared mailboxes",
 		"generalSettingsTabLabel": "General settings",
-		"helpTabLabel": "Help"
+		"helpTabLabel": "Help",
+		"connectiviyTabLabel": "Connectivity",
+		"migrationTabLabel": "Migration"
 	},
 	"savingLozenge": {
 		"saving": "Saving Settings...",
@@ -610,7 +670,9 @@
 	},
 	"settingsError": {
 		"unknownError": "An unknown error occured while saving.",
-		"flagHeading": "Version mismatch."
+		"flagHeading": "Version mismatch.",
+		"genericError": "An error occured with reason: {{errorMessage}}",
+		"readOnlyErrorMessage": "Confluence is currently in read-only mode"
 	},
 	"secretRotation": {
 		"heading": "Secret rotation",
