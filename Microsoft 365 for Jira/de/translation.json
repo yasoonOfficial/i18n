@@ -139,6 +139,7 @@
     "adminSupportScreen": {
         "description": "Dies sind Support-Funktionen, die Sie bitte nur in Absprache mit dem Support-Team verwenden.",
         "saveButton": "Einstellung speichern",
-        "loadButton": "Einstellungen laden"
+        "loadButton": "Einstellungen laden",
+        "invalidPropertyKey": "Ungültige Einstellung"
     }
 }

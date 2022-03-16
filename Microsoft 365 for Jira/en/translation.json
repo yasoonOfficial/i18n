@@ -148,6 +148,7 @@
     "adminSupportScreen": {
         "description": "This are support features, please only use in consultation with the support team.",
         "saveButton": "Save property",
-        "loadButton": "Load property"
+        "loadButton": "Load property",
+        "invalidPropertyKey": "Invalid property key"
     }
 }
