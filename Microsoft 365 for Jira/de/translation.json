@@ -101,7 +101,10 @@
         "sendEmail": "Email schreiben",
         "raiseTicket": "Ticket erstellen",
         "bookMeeting": "Meeting buchen",
-        "callUs": "Anrufen"
+        "callUs": "Anrufen",
+        "supportToolsHeadline": "Support-Tools",
+        "supportToolsText": "Zusätzliche Konfigurationen, bitte nur in Absprache mit dem Support-Team verwenden",
+        "supportToosButton": "Support-Tools"
     },
     "gettingStarted": {
         "intro1": "Hi Admin!",
@@ -132,5 +135,10 @@
         "email": "E-Mail",
         "meetings": "Meetings",
         "todo": "Microsoft To Do"
+    },
+    "adminSupportScreen": {
+        "description": "Dies sind Support-Funktionen, die Sie bitte nur in Absprache mit dem Support-Team verwenden.",
+        "saveButton": "Einstellung speichern",
+        "loadButton": "Einstellungen laden"
     }
 }

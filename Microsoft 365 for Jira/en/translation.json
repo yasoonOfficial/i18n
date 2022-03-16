@@ -110,7 +110,10 @@
         "sendEmail": "Send an email",
         "raiseTicket": "Raise a ticket",
         "bookMeeting": "Book a meeting",
-        "callUs": "Call us"
+        "callUs": "Call us",
+        "supportToolsHeadline": "Support tools",
+        "supportToolsText": "Additional configurations, please only use in consultation with the support team.",
+        "supportToosButton": "Support tools"
     },
     "gettingStarted": {
         "intro1": "Hi Admin!",
@@ -141,5 +144,10 @@
         "email": "Email",
         "meetings": "Meetings",
         "todo": "Microsoft To Do"
+    },
+    "adminSupportScreen": {
+        "description": "This are support features, please only use in consultation with the support team.",
+        "saveButton": "Save property",
+        "loadButton": "Load property"
     }
 }
