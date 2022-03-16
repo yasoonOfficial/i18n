@@ -149,6 +149,10 @@
         "description": "This are support features, please only use in consultation with the support team.",
         "saveButton": "Save property",
         "loadButton": "Load property",
-        "invalidPropertyKey": "Invalid property key"
+        "invalidPropertyKey": "Invalid property key",
+        "loadPropertyFailedTitle": "Failed to fetch property",
+        "loadPropertyFailedMessage": "Something has gone wrong while trying to load. Reload the page and try again.",
+        "savePropertyFailedTitle": "Failed to save property",
+        "savePropertyFailedMessage": "Something has gone wrong while trying to save. Reload the page and try again."
     }
 }

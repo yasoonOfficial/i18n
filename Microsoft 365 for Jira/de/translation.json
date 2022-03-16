@@ -140,6 +140,10 @@
         "description": "Dies sind Support-Funktionen, die Sie bitte nur in Absprache mit dem Support-Team verwenden.",
         "saveButton": "Einstellung speichern",
         "loadButton": "Einstellungen laden",
-        "invalidPropertyKey": "Ungültige Einstellung"
+        "invalidPropertyKey": "Ungültige Einstellung",
+        "loadPropertyFailedTitle": "Laden der Einstellungen fehlgeschlagen",
+        "loadPropertyFailedMessage": "Hier ist etwas schiefgegangen. Bitte lade die Seite neu.",
+        "savePropertyFailedTitle": "Ändern fehlgeschlagen",
+        "savePropertyFailedMessage": "Hier ist etwas schiefgegangen. Bitte lade die Seite neu."
     }
 }
