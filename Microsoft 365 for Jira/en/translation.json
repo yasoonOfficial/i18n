@@ -87,6 +87,7 @@
     },
     "adminNavigation": {
         "gettingStarted": "Getting started",
+        "connectivity": "Connectivity",
         "help": "Help"
     },
     "wizard": {
@@ -132,6 +133,46 @@
         "activeInProject_plural": "Active in {{count}} projects",
         "productProjectException": "({{count}} Exception)",
         "productProjectException_plural": "({{count}} Exceptions)"
+    },
+    "adminConnectivityScreen": {
+        "yourJiraUrlPublic": "Your Jira URL (public)",
+        "okay": "Okay",
+        "cancel": "Cancel",
+        "headsUp": "Heads up",
+        "connectivityHelpText": "Please enter the URL under which your Jira system is reachable from the internet. If you change the existing public URL of your system, all users will be logged out of the current instance.",
+        "staticIPHelpText": "If you need to allow IPs in your firewall, please check out our {link1}",
+        "staticIPHelpTextLabel": "help on this",
+        "jiraUrlHelpText": "This is the publicly reachable URL of your Jira instance",
+        "registerInstanceErrorTitle": "Error trying to reach yasoon backend. See connectivity check",
+        "connect": "Connection required",
+        "connectButton": "Connect",
+        "connectDescription": "During the installation of the app, we tried to register the instance with our cloud infrastructure, which unfortunately failed. Please make sure that the Jira instance can reach yasoon services and Microsoft 365.",
+        "connected": "Connected",
+        "connectedDescription": "We were able to successfully establish a secure connection to the yasoon services. If you experience unexpected connectivity issues you can perform a connectivity check below.",
+        "yasoonConnectivity": "Yasoon connectivity",
+        "yasoonConnectivityDescription": "As the app deeply integrates with Microsoft 365, which is a cloud only solution, our app behaves a bit differently than “classic” Jira Server apps. Your Jira instance needs to connect to yasoon services as well as to Microsoft 365. {link1}",
+        "learnMore": "Learn more",
+        "staticIPHelpText2": "To use the app, your Jira system needs to be reachable by our servers. If your system is behind a firewall, you can allow access for the following IPs - all requests will come from these IPs.",
+        "noBaseUrlBanner": "App not configured correctly.",
+        "baseUrlMismatchBanner": "Your Jira url does not match the configured one below",
+        "baseUrlMismatch": "This might be intentional if e.g. you cloned your instance. Please adjust the url below.",
+        "noBaseUrlInSettings": "Connection to yasoon not possible. Please connect the public reachable Jira url. And do a connectivity-check afterwards to see if everything works as intended"
+    },
+    "secretRotation": {
+        "heading": "Secret rotation",
+        "description": "The app stores a shared secret to ensure a secure connection with our services. All Jira admins may have access to this secret. To avoid any malicious and unauthorized data access, we recommend to rotate the secret whenever you remove an admin from your instance",
+        "button": "Rotate secret",
+        "headsUp": "Heads up",
+        "headsUpText": "This action cannot be reversed.",
+        "okay": "Okay",
+        "cancel": "Cancel"
+    },
+    "connectivityCheck": {
+        "heading": "Connection settings overview",
+        "checkConnectivity": "Check connectivity",
+        "connectivityCheckHeading": "Connectivity check",
+        "connectivityCheckDescription": "Support tool to check and troubleshooting the connection to mandatory services. Only for analysis and won’t change any configuration.",
+        "introductionText": "Your data center/server environment needs to reach and also needs to be reachable from our servers. On this page, you can check, if your system does fulfill all our requirements to work properly."
     },
     "productDisplayNameCompact": {
         "teams": "Teams",
