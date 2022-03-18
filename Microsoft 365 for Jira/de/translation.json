@@ -12,8 +12,7 @@
         "changeProjectVisibilityErrorMessage": "Beim Speichern ist etwas schiefgegangen. Lade die Seite neu und versuche es noch einmal.",
         "removeProjectVisibilityErrorTitle": "Zurücksetzen fehlgeschlagen",
         "removeProjectVisibilityErrorMessage": "Beim Zurücksetzen ist etwas schiefgegangen. Lade die Seite neu und versuche es noch einmal.",
-        "saveSuccessTitle": "Einstellung gespeichert",
-        "saveSuccessMessage": ""
+        "saveSuccessTitle": "Einstellung gespeichert"
     },
     "visibilityOverviewScreen": {
         "heading": "Features aktivieren ",
@@ -51,6 +50,15 @@
         "findOutMore": "Mehr erfahren",
         "getInTouch": "Kontaktiere uns"
     },
+    "productDescription": {
+        "teams-cloud": "Bringe deine Microsoft Teams Konversationen und Chats zu deinen Jira Vorgängen und vice versa.",
+        "email-cloud": "Erstelle und bearbeite Vorgängen aus deinem Outlook Postfach. Verknüpfe Emails mit Jira Vorgängen und sende Emails aus Jira heraus.",
+        "meetings-cloud": "Buche Microsoft Teams und Outlook Termine in Jira. Siehe Verfügbarkeiten und sende Terminanfragen aus Jira.",
+        "todo-cloud": "Erstelle und finde persönliche To Dos in Jira Vorgängen oder synchronisiere deine Jira Vorgänge automatisch.",
+        "teams-server": "Bringe deine Microsoft Teams Konversationen und Chats zu deinen Jira Vorgängen und vice versa.",
+        "email-server": "Erstelle und bearbeite Vorgängen aus deinem Outlook Postfach mit unserem mächtigen Outlook Add-in.",
+        "meetings-server": "Buche Microsoft Teams und Outlook Termine in Jira. Siehe Verfügbarkeiten und sende Terminanfragen aus Jira."
+    },
     "disableProductDescription": {
         "teams": "Willst du das Microsoft Teams-Feature für alle Projekte deaktivieren? Projektspezifische Ausnahmen bleiben davon unbeeinflusst.",
         "email": "Willst du das E-Mail-Feature für alle Projekte deaktivieren? Projektspezifische Ausnahmen bleiben davon unbeeinflusst.",
@@ -78,6 +86,7 @@
     },
     "adminNavigation": {
         "gettingStarted": "Einstieg",
+        "connectivity": "Connectivity",
         "help": "Hilfe"
     },
     "wizard": {
@@ -110,19 +119,59 @@
         "intro1": "Hi Admin!",
         "intro2": "Hier ist Microsoft 365 for Jira",
         "intro3": "Verbinde Jira mit deinen Microsoft 365-Tools für eine nahtlose Teamarbeit. Aktiviere unten die benötigte Funktionalität.",
-        "teamsInfo": "Connect your Microsoft Teams conversations and chat to your Jira issues. Using Jira Service Management? Let customers create support tickets in Microsoft Teams.",
-        "emailInfo": "Create and update issues in your Outlook inbox and put emails in a Jira context. See whole email conversations in Jira and share, read or send emails right away.",
-        "meetingsInfo": "Schedule Microsoft Teams and Outlook meetings in your Jira issue: See availabilities of relevant users and send meeting requests directly in Jira.",
-        "todoInfo": "Sync all your Jira issues automatically with your chosen Microsoft To Do list and get a holistic overview of all your task.",
+        "teamsInfo": "Verknüpfe deine Microsoft Teams Konversationen und Chats mit deinen Jira Vorgängen. Oder verwendest du Jira Service Management? Dann ermögliche deinen Kunden Support Vorgänge direkt in Microsoft Teams zu erstellen.",
+        "emailInfo": "Erstelle und bearbeite Jira Vorgängen aus deinem Outlook Postfach und bringe Jira Vorgängen in den Jira Kontext. Verfolge gesamte Email Konversationen aus Jira und teile, lese oder sende Emails direkt aus Jira.",
+        "meetingsInfo": "Buche Microsoft Teams und Outlook Termine aus deinem Jira Vorgang: Sehe Verfügbarkeiten von relevanten Nutzern und versende Terminanfragen direkt aus Jira.",
+        "todoInfo": "Synchronisiere all deine Jira Vorgänge automatisch mit einer Microsoft To Do List deiner Wahl und erhalte einen ganzheitlichen Überblick über all deine Aufgaben.",
         "supportPortalHeadline": "Support",
         "supportPortalText": "Du hast eine Frage? Oder brauchst Hilfe? Wir freuen uns, dir zu helfen.",
         "securityHeadline": "Sicherheit",
-        "securityText": "Uberzeuge dich davon, dass deine Daten sicher sind. Wir sorgen dafür, dass die höchsten Sicherheitsstandards eingehalten werden.",
+        "securityText": "Überzeuge dich davon, dass deine Daten sicher sind. Wir sorgen dafür, dass die höchsten Sicherheitsstandards eingehalten werden.",
         "activeInAllProjects": "Aktiv in allen Projekten",
         "activeInProject": "Aktiv in {{count}} Projekt",
         "activeInProject_plural": "Aktiv in {{count}} Projekten",
         "productProjectException": "({{count}} Ausnahme)",
         "productProjectException_plural": "({{count}} Ausnahmen)"
+    },
+    "adminConnectivityScreen": {
+        "yourJiraUrlPublic": "Deine Jira URL (public)",
+        "okay": "Okay",
+        "cancel": "Abbrechen",
+        "headsUp": "Achtung",
+        "connectivityHelpText": "Bitte gib hier die URL ein unter welcher das System aus dem Internet erreichbar ist. Wenn du eine bereits existierende public URL änderst, müssen sich alle Nutzer erneut anmelden!",
+        "staticIPHelpText": "Wenn du Ausnahmen für IPs in deiner Firewall hinzufügen möchtest, findest du unter diesem link {link1}",
+        "staticIPHelpTextLabel": "Hilfe",
+        "jiraUrlHelpText": "Dies ist die URL, unter welcher deine Jira Instanz aus dem Internet erreichbar ist",
+        "registerInstanceErrorTitle": "Fehler beim Versuch den yasoon Server zu erreichen. Mehr Details unter Verbindungs-Check",
+        "connect": "Connection benötigt",
+        "connectButton": "Verbinde",
+        "connectDescription": "Während der Installation der App haben wir versucht diese Instanz mit unserer Cloud Infrastruktur zu registrieren. Dies hat leider nicht funktioniert. Bitte stelle sicher, dass die Jira Instanz die yasoon Services als auch Microsoft 365 erreichen kann.",
+        "connected": "Verbunden",
+        "connectedDescription": "Die sichere Verbindung zu den yasoon Services konnte erfolgreich hergestellt werden. Solltest du dennoch Verbindungsprobleme vorfinden, kannst du einen Verbindungs-Check ausführen",
+        "yasoonConnectivity": "yasoon Verbindung",
+        "yasoonConnectivityDescription": "Diese App ist eine tiefe Integration mit Microsoft 365, einem cloud-only Dienst. Daher unterscheidet sich unsere App ein wenig von den \"klassischen\" Jira Server Apps. Deine Jira Instanz muss sich mit den yasoon Services als auch Microsoft 365 verbinden können. {link1}",
+        "learnMore": "Weitere Infos",
+        "staticIPHelpText2": "Um die App nutzen zu können, muss dein Jira System von unseren Servern erreichbar sein. Sollte sich dein System hinter einer Firewall befinden, kannst du für folgende IPs Ausnahmen hinzufügen. Alle Anfragen kommen von diesen IPs.",
+        "noBaseUrlBanner": "Die App ist nicht korrekt konfiguriert.",
+        "baseUrlMismatchBanner": "Deine Jira URL stimmt nicht mit der unten konfigurierten überein.",
+        "baseUrlMismatch": "Möglicherweise ist das so gewollt. Solltest du ein Backup auf einem anderem System eingespielt haben, passe bitte die URL an.",
+        "noBaseUrlInSettings": "Verbindung zu yasoon nicht möglich. Bitte füge die URL ein, unter welche das Jira System aus dem Internet erreichbar ist und führe danach einen Verbindungs-Check durch, um zu prüfen ob alles wie gewünscht funktioniert."
+    },
+    "secretRotation": {
+        "heading": "Secret Rotation",
+        "description": "Die App verwendet ein Shared-Secret, um eine sichere Verbindung zu unseren Services zu gewährleisten. Alle Jira Administratoren haben möglicherweise Zugriff auf dieses Secret. Um böswilligen oder unerlaubten Datenzugriff zu verhindern, empfehlen wir das Secret zu rotieren, sobald ein Administrator von der Instanz entfernt wurde.",
+        "button": "Rotiere Secret",
+        "headsUp": "Achtung",
+        "headsUpText": "Diese Aktion kann nicht rückgängig gemacht werden.",
+        "okay": "Okay",
+        "cancel": "Abbrechen"
+    },
+    "connectivityCheck": {
+        "heading": "Übersicht für Verbindungseinstellungen",
+        "checkConnectivity": "Prüfe Verbindung",
+        "connectivityCheckHeading": "Verbindung Check",
+        "connectivityCheckDescription": "Support tool für die Fehlerbehebung und Prüfung der Verbindung zu obligatorischen Services. Dies wird keine Einstellungen ändern und dient nur der Analyse.",
+        "introductionText": "Dein Jira Data-Center/Server muss die yasoon Services erreichen als auch von diesen erreichbar sein. Auf dieser Seite kannst du überprüfen, ob dein System unsere Anforderungen erfüllt, um reibungslos zu funktionieren."
     },
     "productDisplayNameCompact": {
         "teams": "Teams",

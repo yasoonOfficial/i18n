@@ -12,8 +12,7 @@
         "changeProjectVisibilityErrorMessage": "Something has gone wrong while trying to save. Reload the page and try again.",
         "removeProjectVisibilityErrorTitle": "Failed to reset",
         "removeProjectVisibilityErrorMessage": "Something has gone wrong while trying to reset the visibility for this project to default. Reload the page and try again.",
-        "saveSuccessTitle": "Saved successfully",
-        "saveSuccessMessage": ""
+        "saveSuccessTitle": "Saved successfully"
     },
     "visibilityOverviewScreen": {
         "heading": "Activate features",
@@ -154,13 +153,13 @@
         "learnMore": "Learn more",
         "staticIPHelpText2": "To use the app, your Jira system needs to be reachable by our servers. If your system is behind a firewall, you can allow access for the following IPs - all requests will come from these IPs.",
         "noBaseUrlBanner": "App not configured correctly.",
-        "baseUrlMismatchBanner": "Your Jira url does not match the configured one below",
-        "baseUrlMismatch": "This might be intentional if e.g. you cloned your instance. Please adjust the url below.",
-        "noBaseUrlInSettings": "Connection to yasoon not possible. Please connect the public reachable Jira url. And do a connectivity-check afterwards to see if everything works as intended"
+        "baseUrlMismatchBanner": "Your Jira URL does not match the configured one below",
+        "baseUrlMismatch": "This might be intentional if e.g., you cloned your instance. Please adjust the URL below.",
+        "noBaseUrlInSettings": "Connection to yasoon not possible. Please connect the public reachable Jira URL. And do a connectivity-check afterwards to see if everything works as intended"
     },
     "secretRotation": {
         "heading": "Secret rotation",
-        "description": "The app stores a shared secret to ensure a secure connection with our services. All Jira admins may have access to this secret. To avoid any malicious and unauthorized data access, we recommend to rotate the secret whenever you remove an admin from your instance",
+        "description": "The app stores a shared secret to ensure a secure connection with our services. All Jira admins may have access to this secret. To avoid any malicious and unauthorized data access, we recommend rotating the secret whenever you remove an admin from your instance",
         "button": "Rotate secret",
         "headsUp": "Heads up",
         "headsUpText": "This action cannot be reversed.",
@@ -172,7 +171,7 @@
         "checkConnectivity": "Check connectivity",
         "connectivityCheckHeading": "Connectivity check",
         "connectivityCheckDescription": "Support tool to check and troubleshooting the connection to mandatory services. Only for analysis and won’t change any configuration.",
-        "introductionText": "Your data center/server environment needs to reach and also needs to be reachable from our servers. On this page, you can check, if your system does fulfill all our requirements to work properly."
+        "introductionText": "Your data center/server environment needs to reach and needs to be reachable from our servers. On this page, you can check, if your system does fulfill all our requirements to work properly."
     },
     "productDisplayNameCompact": {
         "teams": "Teams",
