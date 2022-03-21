@@ -700,5 +700,8 @@
 		"personalEdit": "Personal calendar settings",
 		"globalMailboxes": "Add global mailboxes",
 		"v2MigrationGuide": "V2 Migration guide"
+	},
+	"createDetailedButton": {
+		"createDetailedOfficeEventTooltip": "Create a new office event"
 	}
 }
