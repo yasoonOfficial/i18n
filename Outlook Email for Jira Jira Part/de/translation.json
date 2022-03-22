@@ -167,6 +167,7 @@
     },
     "messageDialog": {
         "to": "An: ",
+	"cc": "Cc: ",
         "attachments": "Anhänge"
     },
     "comment": {
