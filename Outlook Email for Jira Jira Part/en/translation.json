@@ -119,6 +119,7 @@
         "subjectLabel": "Subject",
         "replyPrefix": "RE: ",
         "recipientsLabel": "To",
+	"ccRecipientsLabel": "Cc",
         "recipientsPlaceholder": "Type to search...",
         "recipientsNoOptionsMessage": "No matching options",
         "regardingIssue": "Regarding {{issueKey}}",
