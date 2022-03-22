@@ -15,7 +15,7 @@
         "saveSuccessTitle": "Einstellung gespeichert"
     },
     "visibilityOverviewScreen": {
-        "heading": "Features aktivieren ",
+        "heading": "Features aktivieren",
         "headingDescription": "Aktiviere die passenden Microsoft 365 for Jira Features für deine Jira-Projekte.",
         "projectsSubHeading": "Projektspezifische Einstellung",
         "globalSubHeading": "Projektübergreifende Einstellung",
@@ -184,6 +184,10 @@
         "email": "E-Mail",
         "meetings": "Meetings",
         "todo": "Microsoft To Do"
+    },
+    "projectActivateFeaturesScreen": {
+        "heading": "Features aktivieren",
+        "headingDescription": "Aktiviere die passenden Microsoft 365 for Jira Features für dieses Projekt."
     },
     "adminSupportScreen": {
         "description": "Dies sind Support-Funktionen, die Sie bitte nur in Absprache mit dem Support-Team verwenden.",

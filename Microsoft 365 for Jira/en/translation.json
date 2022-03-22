@@ -185,6 +185,10 @@
         "meetings": "Meetings",
         "todo": "Microsoft To Do"
     },
+    "projectActivateFeaturesScreen": {
+        "heading": "Activate features",
+        "headingDescription": "Choose which features of Microsoft 365 for Jira should be active in this project."
+    },
     "adminSupportScreen": {
         "description": "This are support features, please only use in consultation with the support team.",
         "saveButton": "Save property",
