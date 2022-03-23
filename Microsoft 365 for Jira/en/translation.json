@@ -178,7 +178,7 @@
         "heading": "Connection settings overview",
         "checkConnectivity": "Check connectivity",
         "connectivityCheckHeading": "Connectivity check",
-        "connectivityCheckDescription": "Support tool to check and troubleshooting the connection to mandatory services. Only for analysis and won’t change any configuration.",
+        "connectivityCheckDescription": "Support tool to check and troubleshoot the connection to mandatory services. Only for analysis purposes, this won’t change any configuration.",
         "introductionText": "Your data center/server environment needs to reach and needs to be reachable from our servers. On this page, you can check, if your system does fulfill all our requirements to work properly."
     },
     "productDisplayNameCompact": {
