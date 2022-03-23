@@ -187,7 +187,8 @@
     },
     "projectActivateFeaturesScreen": {
         "heading": "Features aktivieren",
-        "headingDescription": "Aktiviere die passenden Microsoft 365 for Jira Features für dieses Projekt."
+        "headingDescription": "Aktiviere die passenden Microsoft 365 for Jira Features für dieses Projekt.",
+        "noProjectAdminEmptyState": "Du brauchst Projektadminberechtigungen um diese Seite zu sehen."
     },
     "adminSupportScreen": {
         "description": "Dies sind Support-Funktionen, die Sie bitte nur in Absprache mit dem Support-Team verwenden.",
