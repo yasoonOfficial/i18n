@@ -34,7 +34,9 @@
         "error": "Fehler beim Speichern"
     },
     "links": {
-        "contactUs": "Support kontaktieren"
+        "contactUs": "Support kontaktieren",
+        "openSupportTicket": "Öffne ein Supportticket",
+        "troubleshootIssues": "Vorgänge troubleshooten"
     },
     "productLozenge": {
         "active": "aktiv",
@@ -165,6 +167,12 @@
         "headsUpText": "Diese Aktion kann nicht rückgängig gemacht werden.",
         "okay": "Okay",
         "cancel": "Abbrechen"
+    },
+    "webhookConnection": {
+        "webhookSuccess": "Der Webhook wurde automatisch konfiguriert.",
+        "webhookStatusOk": "Webhook erfolgreich angelegt.",
+        "webhookStatusNotOk": "Webhook konnte nicht korrekt angelegt werden.",
+        "webhook": "Webhook"
     },
     "connectivityCheck": {
         "heading": "Übersicht für Verbindungseinstellungen",

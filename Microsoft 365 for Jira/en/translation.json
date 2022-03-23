@@ -34,7 +34,9 @@
         "error": "Error while saving"
     },
     "links": {
-        "contactUs": "Contact us"
+        "contactUs": "Contact us",
+        "openSupportTicket": "Open a support ticket",
+        "troubleshootIssues": "Troubleshoot issues"
     },
     "productLozenge": {
         "active": "enabled",
@@ -165,6 +167,12 @@
         "headsUpText": "This action cannot be reversed.",
         "okay": "Okay",
         "cancel": "Cancel"
+    },
+    "webhookConnection": {
+        "webhookSuccess": "The webhook was configured automatically.",
+        "webhookStatusOk": "Webhook set up correctly.",
+        "webhookStatusNotOk": "Webhook not set up correctly",
+        "webhook": "Webhook"
     },
     "connectivityCheck": {
         "heading": "Connection settings overview",
