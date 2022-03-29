@@ -138,7 +138,8 @@
     "sharing": {
         "private": "Private",
         "shared": "Shared",
-        "sharedAndAllowJoining": "Shared & allow joining"
+        "sharedAndAllowJoining": "Shared & allow joining",
+        "rememberUserChoice": "User choice"
     },
     "jira": {
         "loginWithAccountChooser": "Login with account chooser",
@@ -246,6 +247,7 @@
         "onlyMembersChat": "Only members of the chat can view it in Jira",
         "contextChatAccess": "{{group}} with issue access can view chat messages",
         "contextChatAllowJoining": "{{group}} with issue access can view and join the chat",
+        "contextChatUserChoice": "Remember last user choice",
         "agents": "Agents",
         "users": "Users",
         "linkedChat": "A chat linked to this issue",
@@ -381,7 +383,8 @@
         "internalShort": "Internal",
         "publicShort": "Public",
         "softwareAddCommentShort": "With comment",
-        "tooltipExplanation": "Choose if a notification comment should be added"
+        "tooltipExplanation": "Choose if a notification comment should be added",
+        "rememberUserChoice": "Remember last user choice"
     },
     "notificationSettings": {
         "headline": "Notifications in Teams",
@@ -395,5 +398,44 @@
         "issueFieldChanges": "Issue field changes",
         "assigneeChange": "Assignee changes",
         "dueDateChange": "Due date changes"
+    },
+    "projectSettings": {
+        "defaultsTabHeading": "Defaults",
+        "templatesTabHeading": "Templates"
+    },
+    "defaultsTab": {
+        "descriptionGlobal": "You can configure the settings that are selected by default when creating a chat or posting into a channel. These can be overwritten for each project.",
+        "descriptionProject": "You can configure the settings that are selected by default when creating a chat or posting into a channel for issues in this project.",
+        "chatHeader": "Chats",
+        "chatAccessIntro": "Chat Access",
+        "chatAccessHelpTextProject": "Who should be able to access chats in this project? This can be changed individually when creating a chat.",
+        "chatAccessHelpTextGlobal": "Who should be able to access chats by default? This can be changed individually when creating a chat.",
+        "chatAccessPrivateLabel": "Private chat",
+        "chatAccessShareLabel": "Users with issue access can view the chat",
+        "chatAccessShareAndJoinLabel": "Users with issue access can view and join the chat",
+        "commentVisibilityHeader": "Adding a comment",
+        "commentVisibilityChatIntro": "Comment visibility for chats",
+        "commentVisibilityChatHelpTextGlobal": "You can choose which comment visibility option should be selected initially when creating a chat.",
+        "commentVisibilityChatHelpTextProject": "You can choose which comment visibility option should be selected initially when creating a chat in this project.",
+        "commentVisibilityInternalLabel": "Internal comment",
+        "commentVisibilityPublicLabel": "Public comment",
+        "commentVisibilityNoneLabel": "No comment",
+        "commentVisibilityConversationIntro": "Comment visibility for channel conversations",
+        "commentVisibilityConversationHelpTextGlobal": "You can choose which comment visibility option should be selected initially when starting a Teams conversation.",
+        "commentVisibilityConversationHelpTextProject": "You can choose which comment visibility option should be selected initially when starting a Teams conversation in this project.",
+        "chatOrConversationHeader": "Chat or channel conversation",
+        "chatOrConversationIntro": "Initial selection",
+        "chatOrConversationConversationLabel": "Channel conversation",
+        "chatOrConversationChatLabel": "Chat",
+        "chatOrConversationHelpTextGlobal": "You can choose whether chat or channel conversation are initially selected when starting a Teams conversation.",
+        "chatOrConversationHelpTextProject": "You can choose whether chat or channel conversation are initially selected when starting a Teams conversation in this project.",
+        "disableOtherDescription": "Should creating {{type}} be disabled?",
+        "channelConversations": "channel conversations",
+        "chat": "a chat",
+        "disableOtherLabel": "Disable creating {{type}}"
+    },
+    "templatesTab": {
+        "subjectHeading": "Chat subject",
+        "subjectDescription": "You can adjust the template below to customize the chat title in Teams. You can use all available fields of the issue using the {{issue.field}} syntax. Please note that only a very limited set of HTML is supported."
     }
 }

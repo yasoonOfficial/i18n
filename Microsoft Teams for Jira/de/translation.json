@@ -138,7 +138,8 @@
     "sharing": {
         "private": "Privat",
         "shared": "Geteilt",
-        "sharedAndAllowJoining": "Geteilt & beitreten erlauben"
+        "sharedAndAllowJoining": "Geteilt & beitreten erlauben",
+        "rememberUserChoice": "Nutzerauswahl"
     },
     "jira": {
         "loginWithAccountChooser": "Login mit Account-Auswahl",
@@ -246,6 +247,7 @@
         "onlyMembersChat": "Nur Teilnehmer des Chats haben Zugang in Jira",
         "contextChatAccess": "{{group}} mit Zugang zum Vorgang können den Chat sehen",
         "contextChatAllowJoining": "{{group}} mit Zugang zum Vorgang können den Chat einsehen und beitreten",
+        "contextChatUserChoice": "Letzte Nutzerauswahl merken",
         "agents": "Agenten",
         "users": "Nutzer",
         "linkedChat": "Ein Chat der mit dem Vorgang verknüpft ist",
@@ -380,7 +382,8 @@
         "internalShort": "Intern",
         "publicShort": "Öffentlich",
         "softwareAddCommentShort": "Mit Kommentar",
-        "tooltipExplanation": "Wähle ob ein Kommentar zur Benachrichtigung erstellt wird"
+        "tooltipExplanation": "Wähle ob ein Kommentar zur Benachrichtigung erstellt wird",
+        "rememberUserChoice": "Letze Nutzerauswahl merken"
     },
     "notificationSettings": {
         "headline": "Benachrichtigungen in Teams",
@@ -394,5 +397,44 @@
         "issueFieldChanges": "Änderungen an Vorgangsfeldern",
         "assigneeChange": "Änderungen des Bearbeiters",
         "dueDateChange": "Änderungen des Fälligkeitsdatums"
+    },
+    "projectSettings": {
+        "defaultsTabHeading": "Voreinstellungen",
+        "templatesTabHeading": "Vorlagen"
+    },
+    "defaultsTab": {
+        "descriptionGlobal": "Du kannst die Einstellungen wählen, die voreingestellt sind, wenn ein Chat erstellt oder in einen Channel gepostet wird. Diese Einstellungen können in jedem Projekt überschrieben werden.",
+        "descriptionProject": "Du kannst die Einstellungen wählen, die voreingestellt sind, wenn in diesem Projekt ein Chat erstellt oder in einen Channel gepostet wird.",
+        "chatHeader": "Chats",
+        "chatAccessIntro": "Chatzugang",
+        "chatAccessHelpTextProject": "Wer sollte standardmäßig Zugang zu den Chats in diesem Projekt haben? Dies kann beim Erstellen jedes Chats individuell geändert werden.",
+        "chatAccessHelpTextGlobal": "Wer sollte standardmäßig Zugang zu den Chats haben? Dies kann beim Erstellen jedes Chats individuell geändert werden.",
+        "chatAccessPrivateLabel": "Privater Chat",
+        "chatAccessShareLabel": "Nutzer mit Zugang zum Vorgang können den Chat sehen",
+        "chatAccessShareAndJoinLabel": "Nutzer mit Zugang zum Vorgang können den Chat sehen und ihm beitreten",
+        "commentVisibilityHeader": "Kommentare hinzufügen",
+        "commentVisibilityChatIntro": "Sichtbarkeit der Kommentare für Chats",
+        "commentVisibilityChatHelpTextGlobal": "Du kannst wählen, welche Sichtbarkeit für Kommentare vorausgewählt sein soll, wenn ein Chat erstellt wird.",
+        "commentVisibilityChatHelpTextProject": "Du kannst wählen, welche Sichtbarkeit für Kommentare vorausgewählt sein soll, wenn in diesem Projekt ein Chat erstellt wird.",
+        "commentVisibilityInternalLabel": "Interner Kommentar",
+        "commentVisibilityPublicLabel": "Öffentlich zugänglicher Kommentar",
+        "commentVisibilityNoneLabel": "Kein Kommentar",
+        "commentVisibilityConversationIntro": "Sichtbarkeit der Kommentare für Kanalkonversationen",
+        "commentVisibilityConversationHelpTextGlobal": "Du kannst wählen, welche Sichtbarkeit für Kommentare vorausgewählt sein soll, wenn eine Kanalkonversation erstellt wird.",
+        "commentVisibilityConversationHelpTextProject": "Du kannst wählen, welche Sichtbarkeit für Kommentare vorausgewählt sein soll, wenn in diesem Projekt eine Kanalkonversation erstellt wird.",
+        "chatOrConversationHeader": "Chat oder Kanalkonversation",
+        "chatOrConversationIntro": "Auswahl beim Öffnen des Dialogs",
+        "chatOrConversationConversationLabel": "Kanalkonversation",
+        "chatOrConversationChatLabel": "Chat",
+        "chatOrConversationHelpTextGlobal": "Du kannst wählen, ob beim Öffnen des Erstelldialogs Chat oder Kanalkonversation ausgewählt ist.",
+        "chatOrConversationHelpTextProject": "Du kannst wählen, ob beim Öffnen des Erstelldialogs in diesem Projekt Chat oder Kanalkonversation ausgewählt ist.",
+        "disableOtherDescription": "Sollte das Erstellen von {{type}} gesperrt werden?",
+        "channelConversations": "Kanalkonversationen",
+        "chat": "Chats",
+        "disableOtherLabel": "Erstellen von {{type}} sperren"
+    },
+    "templatesTab": {
+        "subjectHeading": "Chattitel",
+        "subjectDescription": "Der Chattitel wird basierend auf dieser Vorlage generiert. Alle Felder des Vorgangs sind mithilfe der {{issue.field}} Syntax verfügbar. Bitte beachte, dass Microsoft Teams nur einen sehr begrenzten Teil von HTML unterstützt."
     }
 }
