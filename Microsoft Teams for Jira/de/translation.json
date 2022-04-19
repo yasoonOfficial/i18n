@@ -294,7 +294,15 @@
         "cardDesignerTemplateSet": "Custom Adaptive Card Template gesetzt.",
         "cardDesignerTemplateSaveHelp": "Zum Anwenden des Custom Adaptive Card Templates auf den 'Speichern' Button klicken.",
         "cardDesignerTemplateSave": "Custom Adaptive Card Template speichern",
-        "cardDesignerTemplateRestore": "Standard Adaptive Card Template wiederherstellen"
+        "cardDesignerTemplateRestore": "Standard Adaptive Card Template wiederherstellen",
+        "adminTabs": {
+            "Overview": "Übersicht",
+            "Settings": "Einstellungen",
+            "CustomerPortal": "Kunden-Portal",
+            "Automation": "Automation",
+            "Help": "Hilfe",
+            "CardDesigner": "Card Designer"
+        }
     },
     "teams": {
         "loadingIssues": "Lade Vorgänge...",

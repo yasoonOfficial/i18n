@@ -294,7 +294,15 @@
         "cardDesignerTemplateSet": "You have set a custom global card template.",
         "cardDesignerTemplateSaveHelp": "To apply your custom card payload, click on the save button below.",
         "cardDesignerTemplateSave": "Save custom card template",
-        "cardDesignerTemplateRestore": "Restore default card template"
+        "cardDesignerTemplateRestore": "Restore default card template",
+        "adminTabs": {
+            "Overview": "Overview",
+            "Settings": "Settings",
+            "CustomerPortal": "Customer portal",
+            "Automation": "Automation",
+            "Help": "Help",
+            "CardDesigner": "Card designer"
+        }
     },
     "teams": {
         "loadingIssues": "Loading issues...",
