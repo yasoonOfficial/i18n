@@ -136,6 +136,7 @@
         "productProjectException_plural": "({{count}} Ausnahmen)"
     },
     "adminConnectivityScreen": {
+        "heading": "Verbindungs-Einstellungen",
         "yourJiraUrlPublic": "Deine Jira URL (public)",
         "okay": "Okay",
         "cancel": "Abbrechen",
