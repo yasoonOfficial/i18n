@@ -40,7 +40,7 @@
         "loginWithMicrosoftInfo": "Please login with your Microsoft account to get started!",
         "loginWithMicrosoftButton": "Login",
         "invalidLicenseTitle": "License expired",
-        "invalidLicenseInfo": "You don't have a valid license, or it has expired. If you'd like to continue using our app, please get valid license!",
+        "invalidLicenseInfo": "You don't have a valid license, or it has expired. If you'd like to continue using our app, please get a valid license!",
         "createNewTaskInlineEditEditViewPlaceholder": "Create a new task",
         "createNewTaskInlineEditReadViewPlaceholder": "Add new task",
         "createNewTaskInlineEditEditViewTooltip": "To Do list for your new task",
@@ -87,7 +87,7 @@
         "syncTitle": "Jira Issue Synchronization",
         "syncInfo": "Besides adding To Do tasks manually, your users can also configure an automatic synchronization, based on certain criteria (e.g. issues assigned to them). For details, please refer to our documentation!",
         "invalidLicenseTitle": "License expired",
-        "invalidLicenseInfo": "You don't have a valid license, or it has expired. If you'd like to continue using our app, please get valid license!"
+        "invalidLicenseInfo": "You don't have a valid license, or it has expired. If you'd like to continue using our app, please get a valid license!"
     },
     "issueFilters": {
         "errorOopsUpdateSync": "Oops, error occurred!",
@@ -115,7 +115,7 @@
     "mainPage": {
         "productTitle": "Microsoft To Do For Jira",
         "invalidLicenseTitle": "License expired",
-        "invalidLicenseInfo": "You don't have a valid license, or it has expired. If you'd like to continue using our app, please get valid license!"
+        "invalidLicenseInfo": "You don't have a valid license, or it has expired. If you'd like to continue using our app, please get a valid license!"
     },
     "preferredResolveCriteria": {
         "autoResolved": "Automatically complete the task for resolved or deleted issues",
@@ -155,7 +155,7 @@
         "headline": "Set it up",
         "filterDescription": "Please select filters for those issues that you'd like to synchronize to your To Do list.",
         "selectListDescription": "Select or create the To Do list where your Jira issues should appear.",
-        "gotItButton":"Got it"
+        "gotItButton": "Got it"
     },
     "step1": {
         "headline": "Start with Microsoft To Do",
@@ -217,5 +217,4 @@
         "advancedConfigDescription": "Choose this if you already know your way around To Do and Jira very well. This lets you configure every single detail.",
         "startButton": "Start {{mode}}"
     }
-
 }

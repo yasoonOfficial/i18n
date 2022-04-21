@@ -97,7 +97,7 @@
         "learnMoreFlagTitle": "Ready to use!",
         "scheduleMeetingHeading": "Schedule a meeting",
         "scheduleMeetingDescription": "Schedule meetings from any issue using the button on top.",
-        "inValidLicenseText": "You don't have a valid license or it has expired. If you'd like to continue using our app, please get valid license!",
+        "inValidLicenseText": "You don't have a valid license or it has expired. If you'd like to continue using our app, please get a valid license!",
         "microsoftLoginChangeWarning": "Are you sure you want to change the way how to authenticate with Microsoft? This may impacts if users are able to login.",
         "removeCustomAppRegsitrationWarning": "Are you sure you want to remove the custom app registration? The app will fallback to the Yasoon standard app and it may impacts if users are able to login.",
         "yesButtonLabel": "Yes",
