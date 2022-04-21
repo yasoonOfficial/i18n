@@ -124,6 +124,8 @@
         "teamsInfo": "Verknüpfe deine Microsoft Teams Konversationen und Chats mit deinen Jira Vorgängen. Oder verwendest du Jira Service Management? Dann ermögliche deinen Kunden Support Vorgänge direkt in Microsoft Teams zu erstellen.",
         "emailInfo": "Erstelle und bearbeite Jira Vorgängen aus deinem Outlook Postfach und bringe Jira Vorgängen in den Jira Kontext. Verfolge gesamte Email Konversationen aus Jira und teile, lese oder sende Emails direkt aus Jira.",
         "meetingsInfo": "Buche Microsoft Teams und Outlook Termine aus deinem Jira Vorgang: Sehe Verfügbarkeiten von relevanten Nutzern und versende Terminanfragen direkt aus Jira.",
+        "licenseExpiredHeading": "Die Lizenz ist abgelaufen",
+        "inValidLicenseText": "Die Lizenz ist ungültig oder abgelaufen. Wenn du unsere App weiterhin nutzen möchtest, erneruere bitte die Lizenz!",
         "todoInfo": "Synchronisiere all deine Jira Vorgänge automatisch mit einer Microsoft To Do List deiner Wahl und erhalte einen ganzheitlichen Überblick über all deine Aufgaben.",
         "supportPortalHeadline": "Support",
         "supportPortalText": "Du hast eine Frage? Oder brauchst Hilfe? Wir freuen uns, dir zu helfen.",
