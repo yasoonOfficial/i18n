@@ -59,7 +59,8 @@
         "todo-cloud": "Erstelle und finde persönliche To Dos in Jira Vorgängen oder synchronisiere deine Jira Vorgänge automatisch.",
         "teams-server": "Bringe deine Microsoft Teams Konversationen und Chats zu deinen Jira Vorgängen und vice versa.",
         "email-server": "Erstelle und bearbeite Vorgängen aus deinem Outlook Postfach mit unserem mächtigen Outlook Add-in.",
-        "meetings-server": "Buche Microsoft Teams und Outlook Termine in Jira. Siehe Verfügbarkeiten und sende Terminanfragen aus Jira."
+        "meetings-server": "Buche Microsoft Teams und Outlook Termine in Jira. Siehe Verfügbarkeiten und sende Terminanfragen aus Jira.",
+        "calendar-cloud": "Füge einen Kalender zu Projekten hinzu und zeige Outlook und Jira Termine."
     },
     "disableProductDescription": {
         "teams": "Willst du das Microsoft Teams-Feature für alle Projekte deaktivieren? Projektspezifische Ausnahmen bleiben davon unbeeinflusst.",
@@ -188,7 +189,8 @@
         "teams": "Teams",
         "email": "E-Mail",
         "meetings": "Meetings",
-        "todo": "To Do"
+        "todo": "To Do",
+        "calendar": "Kalender"
     },
     "productDisplayName": {
         "teams": "Microsoft Teams",
