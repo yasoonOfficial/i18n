@@ -56,11 +56,12 @@
         "teams-cloud": "Bringe deine Microsoft Teams Konversationen und Chats zu deinen Jira Vorgängen und vice versa.",
         "email-cloud": "Erstelle und bearbeite Vorgängen aus deinem Outlook Postfach. Verknüpfe Emails mit Jira Vorgängen und sende Emails aus Jira heraus.",
         "meetings-cloud": "Buche Microsoft Teams und Outlook Termine in Jira. Siehe Verfügbarkeiten und sende Terminanfragen aus Jira.",
+        "calendar-cloud": "Füge einen Kalender zu Projekten hinzu und zeige Outlook und Jira Termine.",
         "todo-cloud": "Erstelle und finde persönliche To Dos in Jira Vorgängen oder synchronisiere deine Jira Vorgänge automatisch.",
         "teams-server": "Bringe deine Microsoft Teams Konversationen und Chats zu deinen Jira Vorgängen und vice versa.",
         "email-server": "Erstelle und bearbeite Vorgängen aus deinem Outlook Postfach mit unserem mächtigen Outlook Add-in.",
         "meetings-server": "Buche Microsoft Teams und Outlook Termine in Jira. Siehe Verfügbarkeiten und sende Terminanfragen aus Jira.",
-        "calendar-cloud": "Füge einen Kalender zu Projekten hinzu und zeige Outlook und Jira Termine."
+        "calendar-server": "Füge einen Kalender zu Projekten hinzu und zeige Outlook und Jira Termine an."
     },
     "disableProductDescription": {
         "teams": "Willst du das Microsoft Teams-Feature für alle Projekte deaktivieren? Projektspezifische Ausnahmen bleiben davon unbeeinflusst.",
@@ -125,6 +126,7 @@
         "teamsInfo": "Verknüpfe deine Microsoft Teams Konversationen und Chats mit deinen Jira Vorgängen. Oder verwendest du Jira Service Management? Dann ermögliche deinen Kunden Support Vorgänge direkt in Microsoft Teams zu erstellen.",
         "emailInfo": "Erstelle und bearbeite Jira Vorgängen aus deinem Outlook Postfach und bringe Jira Vorgängen in den Jira Kontext. Verfolge gesamte Email Konversationen aus Jira und teile, lese oder sende Emails direkt aus Jira.",
         "meetingsInfo": "Buche Microsoft Teams und Outlook Termine aus deinem Jira Vorgang: Sehe Verfügbarkeiten von relevanten Nutzern und versende Terminanfragen direkt aus Jira.",
+        "calendarInfo": "Füge einen Kalender zu Projekten hinzu und zeige Outlook und Jira Termine an.",
         "licenseExpiredHeading": "Die Lizenz ist abgelaufen",
         "inValidLicenseText": "Die Lizenz ist ungültig oder abgelaufen. Wenn du unsere App weiterhin nutzen möchtest, erneruere bitte die Lizenz!",
         "todoInfo": "Synchronisiere all deine Jira Vorgänge automatisch mit einer Microsoft To Do List deiner Wahl und erhalte einen ganzheitlichen Überblick über all deine Aufgaben.",
@@ -196,7 +198,8 @@
         "teams": "Microsoft Teams",
         "email": "E-Mail",
         "meetings": "Meetings",
-        "todo": "Microsoft To Do"
+        "todo": "Microsoft To Do",
+        "calendar": "Kalender"
     },
     "projectActivateFeaturesScreen": {
         "heading": "Features aktivieren",
