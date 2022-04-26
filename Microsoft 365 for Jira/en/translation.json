@@ -57,10 +57,11 @@
         "email-cloud": "Create and update issues from your Outlook inbox. Connect emails to Jira issues and send emails from Jira.",
         "meetings-cloud": "Schedule Microsoft Teams and Outlook meetings in Jira. See availabilities and send meeting requests from Jira.",
         "todo-cloud": "Create and see personal To Dos in your Jira issues or sync all your Jira issues automatically.",
+        "calendar-cloud": "Add a configurable Outlook calendar to display Outlook and Jira events in Jira projects.",
         "teams-server": "Bring your Microsoft Teams conversations and chats to your Jira issues and vice versa.",
         "email-server": "Create and update issues from your Outlook inbox, using the powerful Outlook add-in.",
         "meetings-server": "Schedule Microsoft Teams and Outlook meetings in Jira. See availabilities and send meeting requests from Jira.",
-        "calendar-cloud": "Add a configurable Outlook calendar to display Office and Jira events in Jira projects."
+        "calendar-server": "Add a configurable Outlook calendar to display Outlook and Jira events in Jira projects."
     },
     "disableProductDescription": {
         "teams": "You’re about to disable the Microsoft Teams feature for all projects by default. Project-specific settings won’t be affected by this choice.",
