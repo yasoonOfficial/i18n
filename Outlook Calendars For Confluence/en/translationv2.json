@@ -44,7 +44,7 @@
 		"addCalendarButton": "+ Add calendar",
 		"loginButton": "Login",
 		"loginErrorMessage": "Login required",
-		"anonymousUserError": "Confluence User login required",
+		"anonymousUserError": "{{atlassianProduct}} User login required",
 		"filteringCategoriesOnlyLabel": "This calendar has been filtered events with categories {{categories}}.",
 		"filteringCategoryOnlyLabel": "This calendar has been filtered for events with category {{categories}}.",
 		"filteringShowAsOnlyLabel": "This calendar has been filtered for {{freeBusyStatus}} events.",
@@ -65,7 +65,7 @@
 		"unsharedLabel": "Outlook permissions",
 		"unsharedDescription": "Users with existing permissions can access the calendar",
 		"sharedLabel": "Shared permissions",
-		"sharedDescription": "User with access to this page can access the calendar"
+		"sharedDescription": "User with access to this {{yasoonCalendarContextView}} can access the calendar"
 	},
 	"officeEditPermissionSettings": {
 		"editPermissionHeading": "Event editing",
@@ -108,7 +108,7 @@
 		"calendarSharingHeading": "Calendar access",
 		"calendarSharingSubHeading": "Choose who can view the {{calendarType}}",
 		"unsharedLabel": "Jira permissions",
-		"unsharedDescription": "User with access to this page can access the calendar",
+		"unsharedDescription": "User with access to this {{yasoonCalendarContextView}} can access the calendar",
 		"sharedLabel": "Shared permissions",
 		"sharedDescription": "Users with existing permissions can access the calendar"
 	},
@@ -167,12 +167,12 @@
 	"officeLoginScreen": {
 		"heading": "Microsoft login",
 		"subHeading": "To show Outlook calendars, please sign in with your Microsoft account.",
-		"loginDisabledHint": "Please log-in to Confluence first"
+		"loginDisabledHint": "Please log-in to {{atlassianProduct}} first"
 	},
 	"officeLoginMSALScreen": {
 		"heading": "Re-authenticate Microsoft login",
 		"subHeading": "Your browser has restrictive privacy settings, so you need to re-authenticate every 24 hours.",
-		"loginDisabledHint": "Please log-in to Confluence first",
+		"loginDisabledHint": "Please log-in to {{atlassianProduct}} first",
 		"reAuthenticateButtonLabel": "Re-authenticate"
 	},
 	"officeOwnCalendarScreen": {
@@ -245,11 +245,11 @@
 		"sidebarHeading": "Calendars",
 		"editButtonTooltip": "Click to edit the calendar",
 		"noSpaceEditPermissionTooltip": "It seems like you don't have space admin permissions",
-		"confluenceReadOnlyModeTooltip": "Confluence is in read-only mode"
+		"confluenceReadOnlyModeTooltip": "{{atlassianProduct}} is in read-only mode"
 	},
 	"sidbarEmptyState": {
-		"missingSpacePermissionEmptyStateText": "You don't have the permission to add calendars. Only Confluence space admins are allowed to edit.",
-		"readOnlyStateText": "Confluence is in read-only mode. Please wait until Confluence allows editing again.",
+		"missingSpacePermissionEmptyStateText": "You don't have the permission to add calendars. Only {{atlassianProduct}} space admins are allowed to edit.",
+		"readOnlyStateText": "{{atlassianProduct}} is in read-only mode. Please wait until {{atlassianProduct}} allows editing again.",
 		"emptyStateText": "It seems like you're the first one here.",
 		"addCalendarsButton": "Add calendars",
 		"gettingStartedButton": "Getting started"
@@ -269,11 +269,11 @@
 		"requiresLoginLozenge": "Requires additional login",
 		"myCalendarLabel": "My calendar",
 		"showAsLabel": "Show as",
-		"freeBusyStatusFilterWarning": "The calendar has been filtered for other criteria, so the event might not show up on this page",
+		"freeBusyStatusFilterWarning": "The calendar has been filtered for other criteria, so the event might not show up",
 		"categoryLabel": "Category",
 		"categoryNoOptionsMessage": "Type to select category",
 		"formatCreateCategoryLabel": "Select category",
-		"categoryFilterWarning": "The calendar has been filtered for other criteria, so the event might not show up on this page",
+		"categoryFilterWarning": "The calendar has been filtered for other criteria, so the event might not show up",
 		"sendMeetingRequestHelper": "You'll send a meeting request to this calendar",
 		"anErrorOccured": "An error occured",
 		"createEventSuccessFlagTitle": "Successfully created Event",
@@ -292,7 +292,7 @@
 		"submitButton": "Add calendar",
 		"selectJiraInstance": "Please select a Jira instance",
 		"jiraInstanceNotSelected": "Jira instance not selected",
-		"confluenceUserNotLoaded": "Confluence user not loaded",
+		"confluenceUserNotLoaded": "Atlassian user not loaded",
 		"gdprTransformNotPossible": "Could not transform to GDPR-JQL",
 		"jqlFrom": "JQL from ({{url}})"
 	},
@@ -507,13 +507,13 @@
 		"dismiss": "Dismiss"
 	},
 	"licenseCheck": {
-		"licenseDisabledBanner": "Your license for Outlook Calendars for Confluence has expired."
+		"licenseDisabledBanner": "Your license for {{yasoonProduct}} has expired."
 	},
 	"onPremiseV2Migration": {
 		"migrationRequiredBanner": "Migration required, please ask you administrator to migrate the app."
 	},
 	"adminScreen": {
-		"heading": "Outlook Calendars for Confluence",
+		"heading": "{{yasoonProduct}}",
 		"gettingStartedTabLabel": "Getting started",
 		"sharingTabLabel": "Sharing",
 		"globalMailboxesTabLabel": "Shared mailboxes",
@@ -535,28 +535,28 @@
 		"introductionText": "Your data center/server environment needs to reach and also needs to be reachable from our servers. On this page, you can check, if your system does fulfill all our requirements to work properly."
 	},
 	"adminConnectivityTab": {
-		"yourConfluenceUrlPublic": "Your Confluence URL (public)",
+		"yourConfluenceUrlPublic": "Your {{atlassianProduct}} URL (public)",
 		"okay": "Okay",
 		"cancel": "Cancel",
 		"headsUp": "Heads up",
-		"connectivityHelpText": "Please enter the URL under which your Confluence system is reachable from the internet. If you change the existing public URL of your system, all users will be logged out of the current instance.",
+		"connectivityHelpText": "Please enter the URL under which your {{atlassianProduct}} system is reachable from the internet. If you change the existing public URL of your system, all users will be logged out of the current instance.",
 		"staticIPHelpText": "If you need to allow IPs in your firewall, please check out our {link1}",
 		"staticIPHelpTextLabel": "help on this",
-		"confluenceUrlHelpText": "This is the publicly reachable URL of your Confluence instance",
+		"confluenceUrlHelpText": "This is the publicly reachable URL of your {{atlassianProduct}} instance",
 		"registerInstanceErrorTitle": "Error trying to reach yasoon backend. See connectivity check",
 		"connect": "Connection required",
 		"connectButton": "Connect",
-		"connectDescription": "During the installation of the app, we tried to register the instance with our cloud infrastructure, which unfortunately failed. Please make sure that the Confluence instance can reach yasoon services and Microsoft 365.",
+		"connectDescription": "During the installation of the app, we tried to register the instance with our cloud infrastructure, which unfortunately failed. Please make sure that the {{atlassianProduct}} instance can reach yasoon services and Microsoft 365.",
 		"connected": "Connected",
 		"connectedDescription": "We were able to successfully establish a secure connection to the yasoon services. If you experience unexpected connectivity issues you can perform a connectivity check below.",
 		"yasoonConnectivity": "Yasoon connectivity",
-		"yasoonConnectivityDescription": "As the app deeply integrates with Microsoft 365, which is a cloud only solution, our app behaves a bit differently than “classic” Confluence Server apps. Your Confluence instance needs to connect to yasoon services as well as to Microsoft 365. {link1}",
+		"yasoonConnectivityDescription": "As the app deeply integrates with Microsoft 365, which is a cloud only solution, our app behaves a bit differently than “classic” {{atlassianProduct}} Server apps. Your {{atlassianProduct}} instance needs to connect to yasoon services as well as to Microsoft 365. {link1}",
 		"learnMore": "Learn more",
-		"staticIPHelpText2": "To use the app, your Confluence system needs to be reachable by our servers. If your system is behind a firewall, you can allow access for the following IPs - all requests will come from these IPs.",
+		"staticIPHelpText2": "To use the app, your {{atlassianProduct}} system needs to be reachable by our servers. If your system is behind a firewall, you can allow access for the following IPs - all requests will come from these IPs.",
 		"noBaseUrlBanner": "App not configured correctly.",
-		"baseUrlMismatchBanner": "Your Confluence url does not match the configured one below",
+		"baseUrlMismatchBanner": "Your {{atlassianProduct}} url does not match the configured one below",
 		"baseUrlMismatch": "This might be intentional if e.g. you cloned your instance. Please adjust the url below.",
-		"noBaseUrlInSettings": "Connection to yasoon not possible. Please connect the public reachable Confluence url. And do a connectivity-check afterwards to see if everything works as intended"
+		"noBaseUrlInSettings": "Connection to yasoon not possible. Please connect the public reachable {{atlassianProduct}} url. And do a connectivity-check afterwards to see if everything works as intended"
 	},
 	"adminSharingTab": {
 		"sharingDescription": "This feature allows your users to share calendars with other users. Everyone will see the calendar the same way as the person that created it. Notice: if you change this setting later on, already shared calendars will still be shared!",
@@ -592,11 +592,11 @@
 		"gettingStartedFlagHeading": "Ready to use!",
 		"connectivityErrorFlagHeading": "Configuration required!",
 		"migrationErrorFlagHeading": "Migration required!",
-		"exchangeConnectionErrorFlagDescription": "We detected, that you had selected Exchange as your connection method in the previous version. This version of Outlook calendar for Confluence does not work with Microsoft Exchange. Only Microsoft 365 is supported. If you want to use Exchange, you need to install v1 again.",
+		"exchangeConnectionErrorFlagDescription": "We detected, that you had selected Exchange as your connection method in the previous version. This version of {{yasoonProduct}} does not work with Microsoft Exchange. Only Microsoft 365 is supported. If you want to use Exchange, you need to install v1 again.",
 		"exchangeConnectionErrorFlagTitle": "Microsoft Exchange connection settings detected!",
 		"connectivityErrorFlagDescription": "Please check to connectivity tab for further information. The calendar won't work as intended right now.",
 		"migrationErrorFlagDescription": "Please check to migration tab for further information. The calendar won't work as intended right now.",
-		"gettingStartedFlagDescription": "Welcome to Outlook Calendars for Confluence. Go to any page and insert the calendar macro to get started!",
+		"gettingStartedFlagDescription": "Welcome to {{yasoonProduct}}. Go to any page and insert the calendar macro to get started!",
 		"onClickConnectionTab": "Navigate to connectivity tab",
 		"onClickMigrationTab": "Navigate to migration tab",
 		"migrationGuideHeading": "Migrating from Team Calendars",
@@ -615,7 +615,7 @@
 		"macroMigrationLabel": "User migration progress",
 		"migrationSuccessfulDescription": "Settings migration successful"
 	},
-	"adminFeaturesOverview": {
+	"adminFeaturesOverviewConfluence": {
 		"pageCalendarHeading": "Add Outlook calendars to Confluence pages or spaces",
 		"pageCalendarText": "Use Outlook calendars as a fast, powerful, and secure way to work with calendars in Confluence. Benefit from real-time data from Microsoft 365, no sync is needed. Add new project meetings directly in Confluence.",
 		"learnMoreButton": "Learn more",
@@ -672,11 +672,11 @@
 		"unknownError": "An unknown error occured while saving.",
 		"flagHeading": "Version mismatch.",
 		"genericError": "An error occured with reason: {{errorMessage}}",
-		"readOnlyErrorMessage": "Confluence is currently in read-only mode"
+		"readOnlyErrorMessage": "{{atlassianProduct}} is currently in read-only mode"
 	},
 	"secretRotation": {
 		"heading": "Secret rotation",
-		"description": "The app stores a shared secret to ensure a secure connection with our services. All Confluence admins may have access to this secret. To avoid any malicious and unauthorized data access, we recommend to rotate the secret whenever you remove an admin from your instance",
+		"description": "The app stores a shared secret to ensure a secure connection with our services. All {{atlassianProduct}} admins may have access to this secret. To avoid any malicious and unauthorized data access, we recommend to rotate the secret whenever you remove an admin from your instance",
 		"button": "Rotate secret",
 		"headsUp": "Heads up",
 		"headsUpText": "This action cannot be reversed.",
@@ -698,10 +698,25 @@
 		"scheduleMeeting": "Schedule meeting",
 		"spaceEdit": "Space calendar settings",
 		"personalEdit": "Personal calendar settings",
+		"projectEdit": "Project calendar settings",
 		"globalMailboxes": "Add global mailboxes",
 		"v2MigrationGuide": "V2 Migration guide"
 	},
 	"createDetailedButton": {
 		"createDetailedOfficeEventTooltip": "Create a new office event"
+	},
+	"atlassianProduct": {
+		"jira": "Jira",
+		"confluence": "Confluence"
+	},
+	"yasoonProduct": {
+		"confluenceCalendar": "Outlook Calendars for Confluence",
+		"jiraCalendar": "Outlook Calendars for Jira"
+	},
+	"yasoonCalendarContextView": {
+		"macro": "Page",
+		"space": "Space",
+		"personal": "Page",
+		"project": "Project"
 	}
 }
