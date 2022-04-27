@@ -67,7 +67,8 @@
         "teams": "Willst du das Microsoft Teams-Feature für alle Projekte deaktivieren? Projektspezifische Ausnahmen bleiben davon unbeeinflusst.",
         "email": "Willst du das E-Mail-Feature für alle Projekte deaktivieren? Projektspezifische Ausnahmen bleiben davon unbeeinflusst.",
         "meetings": "Willst du das Meetings-Feature für alle Projekte deaktivieren? Projektspezifische Ausnahmen bleiben davon unbeeinflusst.",
-        "todo": "Willst du das Microsoft To Do-Feature für alle Projekte deaktivieren? Projektspezifische Ausnahmen bleiben davon unbeeinflusst."
+        "todo": "Willst du das Microsoft To Do-Feature für alle Projekte deaktivieren? Projektspezifische Ausnahmen bleiben davon unbeeinflusst.",
+        "calendar": "Willst du das Kalender-Feature für alle Projekte deaktivieren? Projektspezifische Ausnahmen bleiben davon unbeeinflusst."
     },
     "overrideCheckBox": {
         "disableLabel": "Auch in ausgenommenen Projekten aktivieren",
@@ -77,7 +78,8 @@
         "teams": "Willst du das Microsoft Teams-Feature für alle Projekte aktivieren? Projektspezifische Ausnahmen bleiben davon unbeeinflusst.",
         "email": "Willst du das E-Mail-Feature für alle Projekte aktivieren? Projektspezifische Ausnahmen bleiben davon unbeeinflusst.",
         "meetings": "Willst du das Meetings-Feature für alle Projekte aktivieren? Projektspezifische Ausnahmen bleiben davon unbeeinflusst.",
-        "todo": "Willst du das Microsoft To Do-Feature für alle Projekte aktivieren? Projektspezifische Ausnahmen bleiben davon unbeeinflusst."
+        "todo": "Willst du das Microsoft To Do-Feature für alle Projekte aktivieren? Projektspezifische Ausnahmen bleiben davon unbeeinflusst.",
+        "calendar": "Willst du das Kalender-Feature für alle Projekte aktivieren? Projektspezifische Ausnahmen bleiben davon unbeeinflusst."
     },
     "footer": {
         "poweredBy": "POWERED BY"

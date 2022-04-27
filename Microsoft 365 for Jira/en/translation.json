@@ -67,7 +67,8 @@
         "teams": "You’re about to disable the Microsoft Teams feature for all projects by default. Project-specific settings won’t be affected by this choice.",
         "email": "You’re about to disable the email feature for all projects by default. Project-specific settings won’t be affected by this choice.",
         "meetings": "You’re about to disable the meetings feature for all projects by default. Project-specific settings won’t be affected by this choice.",
-        "todo": "You’re about to disable the Microsoft To Do feature for all projects by default. Project-specific settings won’t be affected by this choice."
+        "todo": "You’re about to disable the Microsoft To Do feature for all projects by default. Project-specific settings won’t be affected by this choice.",
+        "calendar": "You’re about to disable the calendar feature for all projects by default. Project-specific settings won’t be affected by this choice."
     },
     "overrideCheckBox": {
         "disableLabel": "Overwrite project-specific settings",
@@ -77,7 +78,8 @@
         "teams": "You’re about to enable the Microsoft Teams feature for all projects by default. Project-specific settings won’t be affected by this choice.",
         "email": "You’re about to enable the email feature for all projects by default. Project-specific settings won’t be affected by this choice.",
         "meetings": "You’re about to enable the meetings feature for all projects by default. Project-specific settings won’t be affected by this choice.",
-        "todo": "You’re about to enable the Microsoft To Do feature for all projects by default. Project-specific settings won’t be affected by this choice."
+        "todo": "You’re about to enable the Microsoft To Do feature for all projects by default. Project-specific settings won’t be affected by this choice.",
+        "calendar": "You’re about to enable the calendar feature for all projects by default. Project-specific settings won’t be affected by this choice."
     },
     "footer": {
         "poweredBy": "POWERED BY"
