@@ -294,7 +294,8 @@
 		"jiraInstanceNotSelected": "Jira instance not selected",
 		"confluenceUserNotLoaded": "Atlassian user not loaded",
 		"gdprTransformNotPossible": "Could not transform to GDPR-JQL",
-		"jqlFrom": "JQL from ({{url}})"
+		"jqlFrom": "JQL from ({{url}})",
+		"jqlErrorFallback": "Error in Jql"
 	},
 	"editJQLFieldScreen": {
 		"heading": "JQL:",
@@ -305,7 +306,8 @@
 		"submitLabel": "Save changes",
 		"selectJiraInstance": "Please select a Jira instance",
 		"jiraInstanceNotSelected": "Jira instance not selected",
-		"gdprTransformNotPossible": "Could not transform to GDPR-JQL"
+		"gdprTransformNotPossible": "Could not transform to GDPR-JQL",
+		"jqlErrorFallback": "Error in Jql"
 	},
 	"jiraEndDateFieldSetting": {
 		"heading": "End date",
@@ -394,7 +396,9 @@
 		"calendarDescription": "Issues of project: {{description}} ({{url}})"
 	},
 	"jiraSearchScreenBase": {
-		"placeholderFallback": "Type to search"
+		"placeholderFallback": "Type to search",
+		"voteForJiraFilterApi": "Searching filters not supported by Atlassian. Please {link} to bring it to their attention!",
+		"voteHereLinkLabel": "vote here"
 	},
 	"officeSearchGroupScreen": {
 		"heading": "Back to templates",
