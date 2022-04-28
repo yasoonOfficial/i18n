@@ -722,5 +722,9 @@
 		"space": "Space",
 		"personal": "Page",
 		"project": "Project"
+	},
+	"defaultJiraData": {
+		"projectCalendarDescription": "Issues of project: {{description}} ({{url}})",
+		"projectCalendarName": "Due date of {{projectKey}}"
 	}
 }
