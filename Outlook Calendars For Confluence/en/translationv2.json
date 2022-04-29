@@ -457,6 +457,7 @@
 	},
 	"jiraEventHover": {
 		"openInJiraText": "Open in Jira",
+		"openText": "Open",
 		"copyToOwnCalendar": "Copy to own calendar",
 		"createdBy": "Created by",
 		"issuetype": "Issuetype",
@@ -505,7 +506,8 @@
 		"loadingText": "Loading editor..."
 	},
 	"calendarOptionBase": {
-		"readOnlyLabel": "Read Only"
+		"readOnlyLabel": "Read Only",
+		"currentLabel": "Current project"
 	},
 	"notification": {
 		"dismiss": "Dismiss"
@@ -524,7 +526,8 @@
 		"generalSettingsTabLabel": "General settings",
 		"helpTabLabel": "Help",
 		"connectiviyTabLabel": "Connectivity",
-		"migrationTabLabel": "Migration"
+		"migrationTabLabel": "Migration",
+		"settingsTabLabel": "Settings"
 	},
 	"savingLozenge": {
 		"saving": "Saving Settings...",
@@ -725,6 +728,6 @@
 	},
 	"defaultJiraData": {
 		"projectCalendarDescription": "Issues of project: {{description}} ({{url}})",
-		"projectCalendarName": "Due date of {{projectKey}}"
+		"projectCalendarName": "Due dates"
 	}
 }
