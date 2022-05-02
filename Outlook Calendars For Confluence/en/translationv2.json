@@ -507,7 +507,7 @@
 	},
 	"calendarOptionBase": {
 		"readOnlyLabel": "Read Only",
-		"currentLabel": "Current project"
+		"currentLabel": "Current"
 	},
 	"notification": {
 		"dismiss": "Dismiss"
@@ -729,5 +729,10 @@
 	"defaultJiraData": {
 		"projectCalendarDescription": "Issues of project: {{description}} ({{url}})",
 		"projectCalendarName": "Due dates"
+	},
+	"jiraPersonalCalendarSettingsTab": {
+		"heading": "Personal calendar",
+		"description": "Select if the Personal calendar should be visible",
+		"toggleLabel": "Personal calendar visible"
 	}
 }
