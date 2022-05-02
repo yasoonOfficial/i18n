@@ -618,8 +618,8 @@
 		"startMigrationButtonLabel": "Start migration",
 		"migrationRunningDescription": "The migration is running, do not close this browser window/tab until it is finished",
 		"userMigrationLabel": "User migration progress",
-		"spaceMigrationLabel": "User migration progress",
-		"macroMigrationLabel": "User migration progress",
+		"spaceMigrationLabel": "Space migration progress",
+		"macroMigrationLabel": "Macro migration progress",
 		"migrationSuccessfulDescription": "Settings migration successful"
 	},
 	"adminFeaturesOverviewConfluence": {
