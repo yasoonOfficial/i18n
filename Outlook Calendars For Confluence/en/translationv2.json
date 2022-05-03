@@ -728,7 +728,9 @@
 	},
 	"defaultJiraData": {
 		"projectCalendarDescription": "Issues of project: {{description}} ({{url}})",
-		"projectCalendarName": "Due dates"
+		"projectCalendarName": "Due dates",
+		"myDueIssuesCalendarDescription": "Due issues assigned to me: {{description}} ({{url}})",
+		"myDueIssuesCalendar": "My due issues"
 	},
 	"jiraPersonalCalendarSettingsTab": {
 		"heading": "Personal calendar",
