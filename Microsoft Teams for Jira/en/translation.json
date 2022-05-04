@@ -301,7 +301,9 @@
             "CustomerPortal": "Customer portal",
             "Automation": "Automation",
             "Help": "Help",
-            "CardDesigner": "Card designer"
+            "CardDesigner": "Card designer",
+            "Defaults": "Defaults",
+            "Templates": "Templates"
         }
     },
     "teams": {

@@ -301,7 +301,9 @@
             "CustomerPortal": "Kunden-Portal",
             "Automation": "Automation",
             "Help": "Hilfe",
-            "CardDesigner": "Card Designer"
+            "CardDesigner": "Card Designer",
+            "Defaults": "Voreinstellungen",
+            "Templates": "Vorlagen"
         }
     },
     "teams": {
