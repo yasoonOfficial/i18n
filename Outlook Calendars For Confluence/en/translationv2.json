@@ -114,7 +114,7 @@
 	},
 	"jiraDateRangeOptionSettings": {
 		"dateRangeOptionHeading": "{{calendarType}} display",
-		"dateRangeOptionSubHeading": "Choose how the releases appear in the calendar",
+		"dateRangeOptionSubHeading": "Choose how the {{jiraObj}} appear in the calendar",
 		"startToReleaseDateHeading": "Start to release date",
 		"startToReleaseDateSubHeading": "Display the release as a timeframe",
 		"createdToDueDateHeading": "Created to due date",
@@ -139,6 +139,8 @@
 	"jiraCalendarSettingsScreen": {
 		"releases": "releases",
 		"projects": "projects",
+		"sprints": "sprints",
+		"issues": "issues",
 		"jql": "jql",
 		"filters": "filters",
 		"removeCalendar": "Remove calendar"
