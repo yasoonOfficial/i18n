@@ -304,7 +304,12 @@
             "CardDesigner": "Card Designer",
             "Defaults": "Voreinstellungen",
             "Templates": "Vorlagen"
-        }
+        },
+        "unlinkChat": "Chat entknüpft",
+        "unlinkChatFailed": "Chat entknüpfung ist fehlgeschlagen",
+        "unlinkChatBodyFailed": "Die entknüpfung des Chats zu diesem Vorgang ist fehlgeschlagen.",
+        "unlinkChatSuccess": "Chat erfolgreich entknüpft",
+        "unlinkChatSuccessMessage": "Andere Benutzer können die Chatnachrichten in Jira nicht mehr sehen. Der Chat bleibt jedoch in Microsoft Teams erhalten."
     },
     "teams": {
         "loadingIssues": "Lade Vorgänge...",
