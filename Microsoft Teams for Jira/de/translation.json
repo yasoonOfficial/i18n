@@ -310,7 +310,15 @@
         "unlinkChatBodyFailed": "Die entknüpfung des Chats zu diesem Vorgang ist fehlgeschlagen.",
         "unlinkChatSuccess": "Chat erfolgreich entknüpft",
         "unlinkChatSuccessMessage": "Andere Benutzer können die Chatnachrichten in Jira nicht mehr sehen. Der Chat bleibt jedoch in Microsoft Teams erhalten.",
-        "editedChatMessage": "Bearbeitet"
+        "editedChatMessage": "Bearbeitet",
+        "chatMessageReaction": {
+            "like": "Gefällt mir-Reaktion",
+            "heart": "Herz-Reaktion",
+            "laugh": "Lachen-Reaktion",
+            "surprised": "Überrascht-Reaktion",
+            "sad": "Traurig-Reaktion",
+            "angry": "Zornig-Reaktion"
+        }
     },
     "teams": {
         "loadingIssues": "Lade Vorgänge...",
