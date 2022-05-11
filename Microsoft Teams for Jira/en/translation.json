@@ -309,7 +309,8 @@
         "unlinkChatFailed": "Chat unlinking failed",
         "unlinkChatBodyFailed": "Unlinking of the chat on this issue has failed.",
         "unlinkChatSuccess": "Chat successfully unlinked",
-        "unlinkChatSuccessMessage": "Other users can no longer see the chat messages within this ticket. However, the chat remains in Microsoft Teams."
+        "unlinkChatSuccessMessage": "Other users can no longer see the chat messages within this ticket. However, the chat remains in Microsoft Teams.",
+        "editedChatMessage": "Edited"
     },
     "teams": {
         "loadingIssues": "Loading issues...",
