@@ -622,6 +622,7 @@
 		"userMigrationLabel": "User migration progress",
 		"spaceMigrationLabel": "Space migration progress",
 		"macroMigrationLabel": "Macro migration progress",
+		"macroMigrationErrorsHeading": "Not all pages could be migrated! See the errors to identify what to do",
 		"migrationSuccessfulDescription": "Settings migration successful"
 	},
 	"adminFeaturesOverviewConfluence": {
