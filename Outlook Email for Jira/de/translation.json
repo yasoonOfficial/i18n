@@ -365,7 +365,7 @@
         "nfeedRequiredDependentTitle": "Vorgang konnte nicht bearbeitet werden",
         "nfeedRequiredDependentDescription": "Ein schreibgeschütztes oder Pflichtfeld ist abhängig von diesem Feld. Dies wird momentan nicht unterstützt. Bitte bearbeite den Vorgang {link}.",
         "inactiveFeatureTitle": "Feature deaktiviert",
-        "inactiveFeatureDescription": "Das E-Mail-Feature wurde in dieser Instanz für alle Projekte deaktiviert.",
+        "inactiveFeatureDescription": "Das E-Mail-Feature wurde in dieser Instanz für alle Projekte deaktiviert. {link}",
         "xDomainTimeoutTitle": "Warte auf Serverantwort",
         "xDomainTimeoutDescription": "Dein Jira-Server benötigt lange für eine Antwort. Wenn das häufiger auftritt, kontaktiere deinen Jira-Admin.",
         "noSDSupportTitle": "Service Management nicht unterstützt",
@@ -473,6 +473,7 @@
         "ssoError": "benötigten Schritte",
         "helpOnAPITokens": "Hilfe zu API Tokens",
         "troubleshootingArticle": "Support-Artikel",
+        "activateFeatures": "Wie kann das Feature aktiviert werden?",
         "TLS": "TLS",
         "marketplaceApp": "Marketplace app",
         "directlyInJira": "direkt in Jira"
