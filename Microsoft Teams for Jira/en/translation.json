@@ -461,5 +461,11 @@
     "templatesTab": {
         "subjectHeading": "Chat subject",
         "subjectDescription": "You can adjust the template below to customize the chat title in Teams. You can use all available fields of the issue using the {{issue.field}} syntax. Please note that only a very limited set of HTML is supported."
+    },
+    "systemMessages": {
+        "chatRenamedEvent": "{{initiator}} changed the group name to {{chatName}}.",
+        "membersAddedEvent": "{{initiator}} added {{members}} to the chat.",
+        "membersDeletedEvent": "{{initiator}} removed {{members}} from the chat.",
+        "membersLeftEvent": "{{members}} left the chat."
     }
 }
