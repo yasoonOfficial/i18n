@@ -450,6 +450,7 @@
         "chatOrConversationIntro": "Auswahl beim Öffnen des Dialogs",
         "chatOrConversationConversationLabel": "Kanalkonversation",
         "chatOrConversationChatLabel": "Chat",
+        "rememberUserChoiceLabel": "Letze Nutzerauswahl merken",
         "chatOrConversationHelpTextGlobal": "Du kannst wählen, ob beim Öffnen des Erstelldialogs Chat oder Kanalkonversation ausgewählt ist.",
         "chatOrConversationHelpTextProject": "Du kannst wählen, ob beim Öffnen des Erstelldialogs in diesem Projekt Chat oder Kanalkonversation ausgewählt ist.",
         "disableOtherDescription": "Sollte das Erstellen von {{type}} gesperrt werden?",

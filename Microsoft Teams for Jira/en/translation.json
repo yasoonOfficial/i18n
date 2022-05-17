@@ -451,6 +451,7 @@
         "chatOrConversationIntro": "Initial selection",
         "chatOrConversationConversationLabel": "Channel conversation",
         "chatOrConversationChatLabel": "Chat",
+        "rememberUserChoiceLabel": "Remember last user choice",
         "chatOrConversationHelpTextGlobal": "You can choose whether chat or channel conversation are initially selected when starting a Teams conversation.",
         "chatOrConversationHelpTextProject": "You can choose whether chat or channel conversation are initially selected when starting a Teams conversation in this project.",
         "disableOtherDescription": "Should creating {{type}} be disabled?",
