@@ -453,10 +453,12 @@
         "rememberUserChoiceLabel": "Letze Nutzerauswahl merken",
         "chatOrConversationHelpTextGlobal": "Du kannst wählen, ob beim Öffnen des Erstelldialogs Chat oder Kanalkonversation ausgewählt ist.",
         "chatOrConversationHelpTextProject": "Du kannst wählen, ob beim Öffnen des Erstelldialogs in diesem Projekt Chat oder Kanalkonversation ausgewählt ist.",
-        "disableOtherDescription": "Sollte das Erstellen von {{type}} gesperrt werden?",
+        "disableOtherDescription": "Sollte das Erstellen von Chats oder Kanalkonversationen gesperrt werden?",
         "channelConversations": "Kanalkonversationen",
         "chat": "Chats",
-        "disableOtherLabel": "Erstellen von {{type}} sperren"
+        "disableNoneLabel": "Erstellen von Chats und Kanalkonversationen erlauben",
+        "disableChatLabel": "Erstellen von Chats sperren",
+        "disableConversationLabel": "Erstellen von Kanalkonversationen sperren"
     },
     "templatesTab": {
         "subjectHeading": "Chattitel",

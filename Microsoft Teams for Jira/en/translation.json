@@ -454,10 +454,12 @@
         "rememberUserChoiceLabel": "Remember last user choice",
         "chatOrConversationHelpTextGlobal": "You can choose whether chat or channel conversation are initially selected when starting a Teams conversation.",
         "chatOrConversationHelpTextProject": "You can choose whether chat or channel conversation are initially selected when starting a Teams conversation in this project.",
-        "disableOtherDescription": "Should creating {{type}} be disabled?",
+        "disableOtherDescription": "Should creating chats or channel conversations be disabled?",
         "channelConversations": "channel conversations",
         "chat": "a chat",
-        "disableOtherLabel": "Disable creating {{type}}"
+        "disableNoneLabel": "Allow both creating chats and channel conversations",
+        "disableChatLabel": "Disable creating chats",
+        "disableConversationLabel": "Disable creating channel conversations"
     },
     "templatesTab": {
         "subjectHeading": "Chat subject",
