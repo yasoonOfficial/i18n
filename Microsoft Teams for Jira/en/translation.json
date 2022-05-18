@@ -459,7 +459,8 @@
         "chat": "a chat",
         "disableNoneLabel": "Allow both, creating chats and channel conversations",
         "disableChatLabel": "Disable creating chats",
-        "disableConversationLabel": "Disable creating channel conversations"
+        "disableConversationLabel": "Disable creating channel conversations",
+        "disableChatOrConversationHelpText": "Choose to disable chats or conversations, or allow both."
     },
     "templatesTab": {
         "subjectHeading": "Chat subject",

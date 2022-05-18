@@ -458,7 +458,8 @@
         "chat": "Chats",
         "disableNoneLabel": "Erstellen von Chats und Kanalkonversationen erlauben",
         "disableChatLabel": "Erstellen von Chats deaktivieren",
-        "disableConversationLabel": "Erstellen von Kanalkonversationen deaktivieren"
+        "disableConversationLabel": "Erstellen von Kanalkonversationen deaktivieren",
+        "disableChatOrConversationHelpText": "Wähe aus, ob Chats oder Konversationen deaktiviert werden sollen, oder erlaube beides."
     },
     "templatesTab": {
         "subjectHeading": "Chattitel",
