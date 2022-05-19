@@ -464,5 +464,13 @@
     "templatesTab": {
         "subjectHeading": "Chattitel",
         "subjectDescription": "Der Chattitel wird basierend auf dieser Vorlage generiert. Alle Felder des Vorgangs sind mithilfe der {{issue.field}} Syntax verfügbar. Bitte beachte, dass Microsoft Teams nur einen sehr begrenzten Teil von HTML unterstützt."
+    },
+    "systemMessages": {
+        "chatRenamedEvent": "{{initiator}} hat den Gruppennamen zu {{chatName}} geändert.",
+        "membersAddedEvent": "{{initiator}} hat {members} zum Chat hinzugefügt.",
+        "membersDeletedEvent": "{{initiator}} removed {members} from the chat.",
+        "membersLeftEvent": "{{members}} hat den Chat verlassen.",
+        "callStartedEvent": "{{time}} Anruf begonnen",
+        "callEndedEvent": "{{time}} Anruf beendet"
     }
 }
