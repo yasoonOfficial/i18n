@@ -468,8 +468,10 @@
     },
     "systemMessages": {
         "chatRenamedEvent": "{{initiator}} changed the group name to {{chatName}}.",
-        "membersAddedEvent": "{{initiator}} added {{members}} to the chat.",
-        "membersDeletedEvent": "{{initiator}} removed {{members}} from the chat.",
-        "membersLeftEvent": "{{members}} left the chat."
+        "membersAddedEvent": "{{initiator}} added  {members}  to the chat.",
+        "membersDeletedEvent": "{{initiator}} removed  {members}  from the chat.",
+        "membersLeftEvent": "{{members}} left the chat.",
+        "callStartedEvent": "{{time}} Call started",
+        "callEndedEvent": "{{time}} Call ended {{callDuration}}"
     }
 }
