@@ -287,6 +287,8 @@
 		"adminSettingsErrorFlagTitle": "Could no connect to yasoon",
 		"adminSettingsErrorFlagDescription": "It seems, that the yasoon backend can not be reached",
 		"genericErrorFlagTitle": "An unexpected error occured",
+		"macroSettingsErrorFlagTitle": "Could not load macro settings",
+		"macroSettingsErrorFlagDescription": "It might be, that either the macro was corrupted by another app/user or you do not have the permissions to watch it",
 		"genericErrorFlagDescription": "Sorry for the inconvenience. Our development team will be informed about this crash"
 	},
 	"createJqlScreen": {
