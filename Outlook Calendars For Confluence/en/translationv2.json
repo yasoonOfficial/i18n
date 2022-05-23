@@ -671,6 +671,10 @@
 		"jiraCalendarHeading": "Migrated Jira calendar",
 		"jiraCalendarDescription": "If the calendar does not work as expected, please remove it and add it again."
 	},
+	"unshareableCalendarFlag": {
+		"heading": "Heads up",
+		"description": "Note: Other users wont be able to see this calendar. Please select Calendar access: 'Shared permissions' or use another template."
+	},
 	"userSettingsScreen": {
 		"heading": "Microsoft 365 settings",
 		"loginHeading": "Microsoft account",
