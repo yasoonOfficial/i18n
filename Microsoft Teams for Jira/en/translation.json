@@ -38,7 +38,9 @@
         "add": "Add",
         "learnWhy": "Learn why",
         "searchIssues": "Search issues",
-        "openInTeams": "Open in Teams"
+        "openInTeams": "Open in Teams",
+        "showMore": "Show more",
+        "showFewer": "Show fewer"
     },
     "error": {
         "serverNotSupported": "Jira Server is not supported yet",

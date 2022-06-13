@@ -38,7 +38,9 @@
         "add": "Hinzufügen",
         "learnWhy": "Lerne wieso",
         "searchIssues": "Vorgänge durchsuchen",
-        "openInTeams": "In Teams öffnen"
+        "openInTeams": "In Teams öffnen",
+        "showMore": "Mehr anzeigen",
+        "showFewer": "Weniger anzeigen"
     },
     "error": {
         "serverNotSupported": "Jira Server wird noch nicht unterstützt",
