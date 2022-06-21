@@ -247,7 +247,9 @@
             "createTeamsBackupTitle": "Backup Teams messages",
             "createTeamsBackupDescription": "This is a placeholder for a more descriptive description.",
             "createOutlookMeetingTitle": "Create Outlook meeting",
-            "createOutlookMeetingDescription": "This is a placeholder for a more descriptive description."
+            "createOutlookMeetingDescription": "This is a placeholder for a more descriptive description.",
+            "sentTeamsBotTitle": "Send bot message",
+            "sentTeamsBotDescription": "This is a placeholder for a more descriptive description."
         },
         "trigger": {
             "heading": "Create trigger",
