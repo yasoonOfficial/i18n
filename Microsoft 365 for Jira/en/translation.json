@@ -227,9 +227,23 @@
         }
     },
     "actionScreen": {
+        "actionNameHeader": "Action",
+        "descriptionHeader": "Description",
+        "actionIdHeader": "Action ID",
+        "actionUserHeader": "Microsoft user",
+        "detailsHeader": "Details",
+        "moreButton": "Show more",
+        "editButton": "Edit action",
         "createButton": "Create action"
     },
     "triggerScreen": {
+        "triggerNameHeader": "Trigger",
+        "descriptionHeader": "Description",
+        "triggerIdHeader": "Trigger ID",
+        "webhookUrlHeader": "Webhook URL",
+        "detailsHeader": "Details",
+        "moreButton": "Show more",
+        "editButton": "Edit trigger",
         "createButton": "Create trigger"
     },
     "templateScreen": {
@@ -270,5 +284,71 @@
         "createButton": "Create action",
         "microsoftUserLabel": "Microsoft user",
         "microsoftUserButtonLabel": "Login with Microsoft 365 account"
+    },
+    "createTriggerScreen": {
+        "titleLabel": "Trigger name",
+        "descriptionLabel": "Description",
+        "backButton": "Back to overview",
+        "createButton": "Create trigger"
+    },
+    "createChatScreen": {
+        "chatTitle": "Chat title",
+        "chatMessage": "Chat message",
+        "chatAccess": "Chat access"
+    },
+    "backupTeamsMessagesScreen": {
+        "chatsMessages": "Backup all Teams chats",
+        "conversationMessages": "Backup all Teams conversations"
+    },
+    "createOutlookEventScreen": {
+        "meetingSubject": "Subject",
+        "meetingLocation": "Location",
+        "teamsMeetingToggle": "Teams meeting",
+        "meetingDescription": "Description",
+        "startDateType": "Start date",
+        "byField": "By field",
+        "byDate": "By date",
+        "startDateField": "Start date field",
+        "endDateType": "End date",
+        "endDateField": "End date field",
+        "timezoneField": "Timezone"
+    },
+    "createConversationScreen": {
+        "conversationMessage": "Conversation message"
+    },
+    "replyTeamsConversationScreen": {
+        "conversationMessage": "Conversation message"
+    },
+    "createSendBotMessageScreen": {
+        "botMessageLabel": "Bot message"
+    },
+    "chatCreated": {
+        "webhookField": "Webhook URL"
+    },
+    "teamsConversationCreated": {
+        "webhookField": "Webhook URL"
+    },
+    "teamsBackupCreated": {
+        "webhookField": "Webhook URL"
+    },
+    "outlookEventCreated": {
+        "webhookField": "Webhook URL"
+    },
+    "auditLogScreen": {
+        "dateHeader": "Date",
+        "actionNameHeader": "Action",
+        "statusHeader": "Status",
+        "userHeader": "Microsoft user",
+        "durationHeader": "Duration",
+        "moreButton": "Show more"
+    },
+    "chatAccess": {
+        "chooseChatPermissions": "Choose who should be able to view this chat in Jira",
+        "private": "Private",
+        "shared": "Shared",
+        "sharedAndAllowJoining": "Shared & allow joining",
+        "onlyMembersChat": "Only members of the chat can view it in Jira",
+        "contextChatAccess": "Users with issue access can view chat messages",
+        "contextChatAllowJoining": "Users with issue access can view and join the chat"
     }
 }
