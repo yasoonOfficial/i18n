@@ -40,7 +40,8 @@
         "searchIssues": "Search issues",
         "openInTeams": "Open in Teams",
         "showMore": "Show more",
-        "showFewer": "Show fewer"
+        "showFewer": "Show fewer",
+        "areYouSure": "Are you sure?"
     },
     "error": {
         "serverNotSupported": "Jira Server is not supported yet",
@@ -307,6 +308,8 @@
             "Defaults": "Defaults",
             "Templates": "Templates"
         },
+        "unlink": "Unlink",
+        "unlinkChatWarning": "You are about to remove this chat from the current issue.",
         "unlinkChat": "Unlink chat",
         "unlinkChatFailed": "Chat unlinking failed",
         "unlinkChatBodyFailed": "Unlinking of the chat on this issue has failed.",

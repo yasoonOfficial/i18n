@@ -40,7 +40,8 @@
         "searchIssues": "Vorgänge durchsuchen",
         "openInTeams": "In Teams öffnen",
         "showMore": "Mehr anzeigen",
-        "showFewer": "Weniger anzeigen"
+        "showFewer": "Weniger anzeigen",
+        "areYouSure": "Bist du sicher?"
     },
     "error": {
         "serverNotSupported": "Jira Server wird noch nicht unterstützt",
@@ -307,9 +308,11 @@
             "Defaults": "Voreinstellungen",
             "Templates": "Vorlagen"
         },
+        "unlink": "Entknüpfen",
         "unlinkChat": "Chat entknüpft",
-        "unlinkChatFailed": "Chat entknüpfung ist fehlgeschlagen",
-        "unlinkChatBodyFailed": "Die entknüpfung des Chats zu diesem Vorgang ist fehlgeschlagen.",
+        "unlinkChatWarning": "Du bist dabei diesen Chat vom aktuellen Vorgang zu entfernen.",
+        "unlinkChatFailed": "Chat konnte nicht entknüpft werden",
+        "unlinkChatBodyFailed": "Die Entknüpfung des Chats zu diesem Vorgang ist fehlgeschlagen.",
         "unlinkChatSuccess": "Chat erfolgreich entknüpft",
         "unlinkChatSuccessMessage": "Andere Benutzer können die Chatnachrichten in Jira nicht mehr sehen. Der Chat bleibt jedoch in Microsoft Teams erhalten.",
         "editedChatMessage": "Bearbeitet",
