@@ -338,7 +338,8 @@
         "allIssues": "Tous les tickets",
         "searchResultFor": "Résultats de recherche pour",
         "goToIssueChooser": "Recherche avancée",
-        "placeholder": "Sélectionne un ticket"
+        "placeholder": "Sélectionne un ticket",
+        "customer": "Client"
     },
     "epicField": {
         "suggestions": "Suggestions",

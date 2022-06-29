@@ -399,7 +399,8 @@
         "searchResultFor": "Search result for",
         "goToIssueChooser": "Advanced Search",
         "noOptionsMessage": "No issues found - try searching with a wildcard *",
-        "placeholder": "Select an issue"
+        "placeholder": "Select an issue",
+        "customer": "Customer"
     },
     "epicField": {
         "suggestions": "Suggestions",

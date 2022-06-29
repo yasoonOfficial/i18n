@@ -304,7 +304,8 @@
         "comment": "Kommentar",
         "attachment": "Anhänge",
         "genericPlaceholder": "Wähle {{fieldName}}",
-        "typeToSearch": "Bitte ein paar Zeichen eingeben..."
+        "typeToSearch": "Bitte ein paar Zeichen eingeben...",
+        "customer": "Kunde"
     },
     "groupField": {
         "placeholder": "Suche eine Gruppe"
