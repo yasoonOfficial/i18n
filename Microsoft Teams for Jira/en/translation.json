@@ -319,6 +319,7 @@
         "unlinkChatBodyFailed": "Unlinking of the chat on this issue has failed.",
         "unlinkChatSuccess": "Chat successfully unlinked",
         "unlinkChatSuccessMessage": "Other users can no longer see the chat messages within this ticket. However, the chat remains in Microsoft Teams.",
+        "changeChatAccess": "Change chat access",
         "editedChatMessage": "Edited",
         "chatMessageReaction": {
             "like": "Like reaction",
