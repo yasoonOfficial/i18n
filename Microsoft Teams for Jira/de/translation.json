@@ -392,7 +392,7 @@
         "selectTargetStatus": "Zielstatus auswählen",
         "adjustColumnOrder": "Sortierung der Spalten anpassen",
         "necessaryForBusinessBoards": "Dies wird nur bei Business Boards benötigt",
-        "columnOrderPriority": "Spalten werden nach nach Sortierreihenfolge angezeigt",
+        "columnOrderPriority": "Status per Drag & Drop in die Reihenfolge bringen, in der sie auf dem Board angezeigt werden sollen",
         "configureLoginRequired": "Um dieses Board zu konfigurieren ist ein Login mit Jira notwendig.",
         "configureBoardView": "Board View konfigurieren",
         "selectBoard": "Jira Board auswählen",

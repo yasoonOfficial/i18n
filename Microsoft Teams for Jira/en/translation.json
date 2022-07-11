@@ -392,7 +392,7 @@
         "selectTargetStatus": "Select target status",
         "adjustColumnOrder": "Adjust column order",
         "necessaryForBusinessBoards": "This is only necessary for business boards",
-        "columnOrderPriority": "Columns will be ordered by importance from top to bottom",
+        "columnOrderPriority": "Drag and drop statuses in the order you want to see them on the board",
         "configureLoginRequired": "To configure this board, a login with Jira is required.",
         "configureBoardView": "Configure Board View",
         "selectBoard": "Select Jira Board",
