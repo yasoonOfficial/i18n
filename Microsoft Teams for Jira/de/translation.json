@@ -401,6 +401,7 @@
         "nonJiraUserPermissions": "Nutzer ohne Jira Account dürfen",
         "allowNonJiraUsersForBoard": "dieses Board sehen",
         "allowNonJiraUsersTransitions": "den Status von Vorgängen ändern",
+        "loginRequiredForTransitions": "Für Statusänderungen wird ein Login benötigt.",
         "loginWithJira": "Mit Jira einloggen",
         "assignToMe": "Mir zuweisen",
         "changeStatus": "Status ändern",

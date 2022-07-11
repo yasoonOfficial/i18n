@@ -401,6 +401,7 @@
         "nonJiraUserPermissions": "Allow users without Jira account",
         "allowNonJiraUsersForBoard": "to see this board",
         "allowNonJiraUsersTransitions": "to perform issue status transitions",
+        "loginRequiredForTransitions": "To perform issue status transitions, a login is required.",
         "loginWithJira": "Login with Jira",
         "assignToMe": "Assign to me",
         "changeStatus": "Change status",
