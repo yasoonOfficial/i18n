@@ -398,7 +398,7 @@
         "selectBoard": "Select Jira Board",
         "searchBoards": "Search boards...",
         "noBoardsFound": "No matching boards found.",
-        "nonJiraUserPermissions": "Allow users without Jira Account",
+        "nonJiraUserPermissions": "Allow users without Jira account",
         "allowNonJiraUsersForBoard": "to see this board",
         "allowNonJiraUsersTransitions": "to perform issue status transitions",
         "loginWithJira": "Login with Jira",
