@@ -425,7 +425,8 @@
         "loginWithButtonBelow": "Use the button below to connect to your Jira account.",
         "loginToCreateIssue": "You need to login to create issues",
         "loginToAssignIssue": "You need to login to assign issues",
-        "loginToTransitionIssue": "You need to login to change the status of issues"
+        "loginToTransitionIssue": "You need to login to change the status of issues",
+        "createBacklogIssue": "Create backlog issue"
     },
     "support": {
         "faq": "FAQ",

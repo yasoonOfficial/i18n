@@ -425,7 +425,8 @@
         "loginWithButtonBelow": "Verbinde dich mit deinem Jira Account.",
         "loginToCreateIssue": "Du musst dich einloggen um Vorgänge zu erstellen",
         "loginToAssignIssue": "Du musst dich einloggen um Vorgänge zuzuweisen",
-        "loginToTransitionIssue": "Du musst dich einloggen um den Status von Vorgängen zu ändern"
+        "loginToTransitionIssue": "Du musst dich einloggen um den Status von Vorgängen zu ändern",
+        "createBacklogIssue": "Backlog-Vorgang erstellen"
     },
     "support": {
         "faq": "FAQ",
