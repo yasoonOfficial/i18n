@@ -192,6 +192,7 @@
         "externalUser": "External user",
         "external": "External",
         "selectUserToStartChat": "Select at least one participant to start a chat..",
+        "chatTitleTooLong": "Chat title too long (250+)",
         "typeEmailOrNameToSearch": "Type an email address or name to search...",
         "onlyChatMembersCanReply": "Only chat members can reply.",
         "joinChatNow": "Join now",
