@@ -71,7 +71,8 @@
         "heading": "Connect to Jira",
         "instruction": "Please connect your Jira account.",
         "login": "Login",
-        "learnMore": "Learn more"
+        "learnMore": "Learn more",
+        "notLoggedIn": "You are not logged in."
     },
     "officeLoginMSALScreen": {
         "heading": "Re-authenticate Microsoft login",
@@ -401,7 +402,7 @@
         "nonJiraUserPermissions": "Allow users without Jira account",
         "allowNonJiraUsersForBoard": "to see this board",
         "allowNonJiraUsersTransitions": "to perform issue status transitions",
-        "loginRequiredForTransitions": "To perform issue status transitions, a login is required.",
+        "loginRequiredForTransitions": "To perform issue status transitions, a login is required",
         "loginWithJira": "Login with Jira",
         "assignToMe": "Assign to me",
         "changeStatus": "Change status",
@@ -420,7 +421,11 @@
         "sprintDaysRemaining": "days remaining",
         "noIssuesOnBoard": "Looks like there are no issues on your board.",
         "viewBoardLoginRequired": "To see this board, a login with Jira is required.",
-        "boardLoginRequired": "You'll need to login to use this app."
+        "boardLoginRequired": "You'll need to login to use this app.",
+        "loginWithButtonBelow": "Use the button below to connect to your Jira account.",
+        "loginToCreateIssue": "You need to login to create issues",
+        "loginToAssignIssue": "You need to login to assign issues",
+        "loginToTransitionIssue": "You need to login to change the status of issues"
     },
     "support": {
         "faq": "FAQ",

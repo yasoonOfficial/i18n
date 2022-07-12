@@ -71,7 +71,8 @@
         "heading": "Mit Jira verbinden",
         "instruction": "Bitte mit Jira Account verbinden.",
         "login": "Login",
-        "learnMore": "Mehr erfahren"
+        "learnMore": "Mehr erfahren",
+        "notLoggedIn": "Du bist nicht eingeloggt."
     },
     "officeLoginMSALScreen": {
         "heading": "Erneut mit Microsoft anmelden",
@@ -401,7 +402,7 @@
         "nonJiraUserPermissions": "Nutzer ohne Jira Account dürfen",
         "allowNonJiraUsersForBoard": "dieses Board sehen",
         "allowNonJiraUsersTransitions": "den Status von Vorgängen ändern",
-        "loginRequiredForTransitions": "Für Statusänderungen wird ein Login benötigt.",
+        "loginRequiredForTransitions": "Für Statusänderungen wird ein Login benötigt",
         "loginWithJira": "Mit Jira einloggen",
         "assignToMe": "Mir zuweisen",
         "changeStatus": "Status ändern",
@@ -420,7 +421,11 @@
         "sprintDaysRemaining": "Tage verbleibend",
         "noIssuesOnBoard": "Noch keine Vorgänge auf diesem Board.",
         "viewBoardLoginRequired": "Um dieses Board sehen zu können ist ein Login mit Jira notwendig.",
-        "boardLoginRequired": "Um diese App benutzen zu können ist ein Login mit Jira notwendig."
+        "boardLoginRequired": "Um diese App benutzen zu können ist ein Login mit Jira notwendig.",
+        "loginWithButtonBelow": "Verbinde dich mit deinem Jira Account.",
+        "loginToCreateIssue": "Du musst dich einloggen um Vorgänge zu erstellen",
+        "loginToAssignIssue": "Du musst dich einloggen um Vorgänge zuzuweisen",
+        "loginToTransitionIssue": "Du musst dich einloggen um den Status von Vorgängen zu ändern"
     },
     "support": {
         "faq": "FAQ",
