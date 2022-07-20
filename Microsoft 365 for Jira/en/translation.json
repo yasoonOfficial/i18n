@@ -252,18 +252,18 @@
     "template": {
         "action": {
             "heading": "Create action",
-            "createTeamsChatTitle": "Create Teams chat",
-            "createTeamsChatDescription": "This is a placeholder for a more descriptive description.",
-            "createTeamsConversationTitle": "Create Teams conversation",
-            "createTeamsConversationDescription": "This is a placeholder for a more descriptive description.",
-            "replyTeamsConversationTitle": "Reply Teams conversation",
-            "replyTeamsConversationDescription": "This is a placeholder for a more descriptive description.",
-            "createTeamsBackupTitle": "Backup Teams messages",
-            "createTeamsBackupDescription": "This is a placeholder for a more descriptive description.",
-            "createOutlookMeetingTitle": "Create Outlook meeting",
-            "createOutlookMeetingDescription": "This is a placeholder for a more descriptive description.",
-            "sentTeamsBotTitle": "Send bot message",
-            "sentTeamsBotDescription": "This is a placeholder for a more descriptive description."
+            "create-chatTitle": "Create Teams chat",
+            "create-chatDescription": "This is a placeholder for a more descriptive description.",
+            "create-conversationTitle": "Create Teams conversation",
+            "create-conversationDescription": "This is a placeholder for a more descriptive description.",
+            "reply-conversationsTitle": "Reply Teams conversation",
+            "reply-conversationsDescription": "This is a placeholder for a more descriptive description.",
+            "create-teams-backupTitle": "Backup Teams messages",
+            "create-teams-backupDescription": "This is a placeholder for a more descriptive description.",
+            "create-meetingTitle": "Create Outlook meeting",
+            "create-meetingDescription": "This is a placeholder for a more descriptive description.",
+            "send-bot-messageTitle": "Send bot message",
+            "send-bot-messageDescription": "This is a placeholder for a more descriptive description."
         },
         "trigger": {
             "heading": "Create trigger",
@@ -294,7 +294,8 @@
     "createChatScreen": {
         "chatTitle": "Chat title",
         "chatMessage": "Chat message",
-        "chatAccess": "Chat access"
+        "chatAccess": "Chat access",
+        "chatMember": "Chat member"
     },
     "backupTeamsMessagesScreen": {
         "chatsMessages": "Backup all Teams chats",
@@ -311,7 +312,8 @@
         "startDateField": "Start date field",
         "endDateType": "End date",
         "endDateField": "End date field",
-        "timezoneField": "Timezone"
+        "timezoneField": "Timezone",
+        "templateStringField": "By date template"
     },
     "createConversationScreen": {
         "conversationMessage": "Conversation message"
@@ -340,7 +342,8 @@
         "statusHeader": "Status",
         "userHeader": "Microsoft user",
         "durationHeader": "Duration",
-        "moreButton": "Show more"
+        "moreButton": "Show more",
+        "titleHeader": "Action/Trigger name"
     },
     "chatAccess": {
         "chooseChatPermissions": "Choose who should be able to view this chat in Jira",
@@ -350,5 +353,17 @@
         "onlyMembersChat": "Only members of the chat can view it in Jira",
         "contextChatAccess": "Users with issue access can view chat messages",
         "contextChatAllowJoining": "Users with issue access can view and join the chat"
+    },
+    "channelSelect": {
+        "noChannelSelectOptions": "No channels found. You can only find channels which have 'Smart Connect for Jira' installed.",
+        "noChannelSelectOptionsHelp": "Can't find your channel?",
+        "selectChannel": "Select channel",
+        "privateChannelNotSupported": "Private channels are not supported currently",
+        "appNotInstalledInTeam": "The app is not installed in this team yet."
+    },
+    "officeLoginScreen": {
+        "loginButtonLabel": "Log in with Microsoft 365",
+        "heading": "Welcome to Microsoft 365 automations",
+        "description": "Looks like you're using the app for the very first time. Please log in with your Microsoft 365 account to get started!"
     }
 }
