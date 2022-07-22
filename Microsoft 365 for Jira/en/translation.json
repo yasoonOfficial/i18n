@@ -227,14 +227,15 @@
         }
     },
     "actionScreen": {
-        "actionNameHeader": "Action",
+        "actionNameHeader": "Name",
         "descriptionHeader": "Description",
-        "actionIdHeader": "Action ID",
+        "actionIdHeader": "Action id",
         "actionUserHeader": "Microsoft user",
         "detailsHeader": "Details",
         "moreButton": "Show more",
         "editButton": "Edit action",
-        "createButton": "Create action"
+        "createButton": "Create action",
+        "deleteButton": "Delete action"
     },
     "triggerScreen": {
         "triggerNameHeader": "Trigger",
@@ -244,7 +245,8 @@
         "detailsHeader": "Details",
         "moreButton": "Show more",
         "editButton": "Edit trigger",
-        "createButton": "Create trigger"
+        "createButton": "Create trigger",
+        "deleteButton": "Delete trigger"
     },
     "templateScreen": {
         "backButton": "Back to overview"
@@ -267,14 +269,14 @@
         },
         "trigger": {
             "heading": "Create trigger",
-            "teamsChatCreatedTitle": "Teams chat created",
-            "teamsChatCreatedDescription": "This is a placeholder for a more descriptive description.",
-            "teamsConversationCreatedTitle": "Teams conversation created",
-            "teamsConversationCreatedDescription": "This is a placeholder for a more descriptive description.",
-            "teamsBackupCreatedTitle": "Teams backup created",
-            "teamsBackupCreatedDescription": "This is a placeholder for a more descriptive description.",
-            "outlookMeetingTitle": "Outlook meeting created",
-            "outlookMeetingDescription": "This is a placeholder for a more descriptive description."
+            "chat-createdTitle": "Teams chat created",
+            "chat-createdDescription": "This is a placeholder for a more descriptive description.",
+            "conversation-createdTitle": "Teams conversation created",
+            "conversation-createdDescription": "This is a placeholder for a more descriptive description.",
+            "teams-backup-createdTitle": "Teams backup created",
+            "teams-backup-createdDescription": "This is a placeholder for a more descriptive description.",
+            "meeting-createdTitle": "Outlook meeting created",
+            "meeting-createdDescription": "This is a placeholder for a more descriptive description."
         }
     },
     "createActionScreen": {
@@ -313,7 +315,9 @@
         "endDateType": "End date",
         "endDateField": "End date field",
         "timezoneField": "Timezone",
-        "templateStringField": "By date template"
+        "timezoneFieldPlaceholder": "Select timezone (defaults to Jira instance TZ)",
+        "templateStringField": "By date template",
+        "jiraFieldPlaceholder": "Select Jira field"
     },
     "createConversationScreen": {
         "conversationMessage": "Conversation message"
