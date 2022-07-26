@@ -231,8 +231,9 @@
         "descriptionHeader": "Description",
         "actionIdHeader": "Action id",
         "actionUserHeader": "Microsoft user",
+        "webhookUrlHeader": "Webhook url",
         "detailsHeader": "Details",
-        "moreButton": "Show more",
+        "moreButton": "More",
         "editButton": "Edit action",
         "createButton": "Create action",
         "deleteButton": "Delete action"
@@ -243,7 +244,7 @@
         "triggerIdHeader": "Trigger ID",
         "webhookUrlHeader": "Webhook URL",
         "detailsHeader": "Details",
-        "moreButton": "Show more",
+        "moreButton": "More",
         "editButton": "Edit trigger",
         "createButton": "Create trigger",
         "deleteButton": "Delete trigger"
@@ -315,7 +316,7 @@
         "endDateType": "End date",
         "endDateField": "End date field",
         "timezoneField": "Timezone",
-        "timezoneFieldPlaceholder": "Select timezone (defaults to Jira instance TZ)",
+        "timezoneFieldPlaceholder": "Select timezone (defaults to Jira instance timezone)",
         "templateStringField": "By date template",
         "jiraFieldPlaceholder": "Select Jira field"
     },
@@ -346,7 +347,7 @@
         "statusHeader": "Status",
         "userHeader": "Microsoft user",
         "durationHeader": "Duration",
-        "moreButton": "Show more",
+        "moreButton": "More",
         "titleHeader": "Action/Trigger name"
     },
     "chatAccess": {
@@ -369,5 +370,11 @@
         "loginButtonLabel": "Log in with Microsoft 365",
         "heading": "Welcome to Microsoft 365 automations",
         "description": "Looks like you're using the app for the very first time. Please log in with your Microsoft 365 account to get started!"
+    },
+    "userPicker": {
+        "staticUser": "Static user",
+        "jiraField": "Jira field",
+        "textfieldPlaceholder": "Type to search",
+        "placeholder": "Type to search"
     }
 }
