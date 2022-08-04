@@ -528,6 +528,7 @@
         "membersDeletedEvent": "{{initiator}} removed {members} from the chat.",
         "membersLeftEvent": "{{members}} hat den Chat verlassen.",
         "callStartedEvent": "{{time}} Anruf begonnen",
-        "callEndedEvent": "{{time}} Anruf beendet"
+        "callEndedEvent": "{{time}} Anruf beendet",
+        "unknownUser": "Unbekannter Benutzer"
     }
 }

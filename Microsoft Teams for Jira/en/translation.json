@@ -529,6 +529,7 @@
         "membersDeletedEvent": "{{initiator}} removed {members} from the chat.",
         "membersLeftEvent": "{{members}} left the chat.",
         "callStartedEvent": "{{time}} Call started",
-        "callEndedEvent": "{{time}} Call ended"
+        "callEndedEvent": "{{time}} Call ended",
+        "unknownUser": "Unknown user"
     }
 }
