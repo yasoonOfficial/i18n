@@ -429,6 +429,17 @@
         "loginToTransitionIssue": "You need to login to change the status of issues",
         "createBacklogIssue": "Create backlog issue"
     },
+    "addBoardToTeams": {
+        "addBoardToTeams": "Board zu Teams hinzufügen",
+        "couldNotAdd": "Board konnte nicht zu Teams hinzugefügt werden",
+        "addToTeams": "Zu Teams hinzufügen",
+        "missingGrantsHelpText1": "Du benutzt eine ältere Version von 'Smart Connect for Jira'.",
+        "missingGrantsHelpText2": "Bitte deinen Teams Admin oder Team Owner, die App zu upgraden.",
+        "manageAppsInTeams": "Apps in Teams verwalten",
+        "hasBeenAddedToChannel": "Das Board wurde zu Teams hinzugefügt im Kanal",
+        "viewInTeams": "Board in Teams anzeigen",
+        "addToAnotherChannel": "Zu einem weiteren Kanal hinzufügen"
+    },
     "support": {
         "faq": "FAQ",
         "contactUs": "Contact us",
