@@ -429,6 +429,17 @@
         "loginToTransitionIssue": "You need to login to change the status of issues",
         "createBacklogIssue": "Create backlog issue"
     },
+    "addBoardToTeams": {
+        "addBoardToTeams": "Add board to Teams",
+        "couldNotAdd": "Could not add board to Teams",
+        "addToTeams": "Add to Teams",
+        "missingGrantsHelpText1": "You're using an older version of 'Smart Connect for Jira'.",
+        "missingGrantsHelpText2": "To use this feature, please ask your Teams admin or team owner to upgrade the app.",
+        "manageAppsInTeams": "Manage apps in Teams",
+        "hasBeenAddedToChannel": "Board has been added to Teams in channel",
+        "viewInTeams": "View board in Teams",
+        "addToAnotherChannel": "Add to another channel"
+    },
     "support": {
         "faq": "FAQ",
         "contactUs": "Contact us",
