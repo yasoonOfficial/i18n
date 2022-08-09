@@ -227,21 +227,21 @@
         }
     },
     "actionScreen": {
-        "actionNameHeader": "Name",
+        "nameHeader": "Name",
         "descriptionHeader": "Description",
-        "actionIdHeader": "Action id",
-        "actionUserHeader": "Microsoft user",
+        "idHeader": "Id",
         "webhookUrlHeader": "Webhook url",
         "detailsHeader": "Details",
+        "statusHeader": "Status",
         "moreButton": "More",
         "editButton": "Edit action",
         "createButton": "Create action",
         "deleteButton": "Delete action"
     },
     "triggerScreen": {
-        "triggerNameHeader": "Trigger",
+        "idHeader": "Id",
+        "nameHeader": "Name",
         "descriptionHeader": "Description",
-        "triggerIdHeader": "Trigger ID",
         "webhookUrlHeader": "Webhook URL",
         "detailsHeader": "Details",
         "moreButton": "More",
@@ -284,7 +284,7 @@
         "titleLabel": "Action name",
         "descriptionLabel": "Description",
         "backButton": "Back to overview",
-        "createButton": "Create action",
+        "submitButton": "Authorize action",
         "microsoftUserLabel": "Microsoft user",
         "microsoftUserButtonLabel": "Login with Microsoft 365 account"
     },
@@ -292,7 +292,23 @@
         "titleLabel": "Trigger name",
         "descriptionLabel": "Description",
         "backButton": "Back to overview",
-        "createButton": "Create trigger"
+        "createButton": "Create trigger",
+        "webhookField": "Webhook URL"
+    },
+    "editActionScreen": {
+        "titleLabel": "Action name",
+        "descriptionLabel": "Description",
+        "backButton": "Back to overview",
+        "submitButton": "Edit action",
+        "microsoftUserLabel": "Microsoft user",
+        "microsoftUserButtonLabel": "Login with Microsoft 365 account"
+    },
+    "editTriggerScreen": {
+        "titleLabel": "Trigger name",
+        "descriptionLabel": "Description",
+        "backButton": "Back to overview",
+        "submitButton": "Edit trigger",
+        "webhookField": "Webhook URL"
     },
     "createChatScreen": {
         "chatTitle": "Chat title",
@@ -321,7 +337,8 @@
         "jiraFieldPlaceholder": "Select Jira field"
     },
     "createConversationScreen": {
-        "conversationMessage": "Conversation message"
+        "conversationMessage": "Conversation message",
+        "channelChooser": "Chonversation channel"
     },
     "replyTeamsConversationScreen": {
         "conversationMessage": "Conversation message"
@@ -329,23 +346,11 @@
     "createSendBotMessageScreen": {
         "botMessageLabel": "Bot message"
     },
-    "chatCreated": {
-        "webhookField": "Webhook URL"
-    },
-    "teamsConversationCreated": {
-        "webhookField": "Webhook URL"
-    },
-    "teamsBackupCreated": {
-        "webhookField": "Webhook URL"
-    },
-    "outlookEventCreated": {
-        "webhookField": "Webhook URL"
-    },
     "auditLogScreen": {
-        "dateHeader": "Date",
-        "actionNameHeader": "Action",
+        "timeHeader": "Time",
+        "nameHeader": "Action",
         "statusHeader": "Status",
-        "userHeader": "Microsoft user",
+        "idHeader": "Id",
         "durationHeader": "Duration",
         "moreButton": "More",
         "titleHeader": "Action/Trigger name"
