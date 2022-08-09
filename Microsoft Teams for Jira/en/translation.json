@@ -438,7 +438,8 @@
         "manageAppsInTeams": "Manage apps in Teams",
         "hasBeenAddedToChannel": "Board has been added to Teams in channel",
         "viewInTeams": "View board in Teams",
-        "addToAnotherChannel": "Add to another channel"
+        "addToAnotherChannel": "Add to another channel",
+        "setup": "Set up"
     },
     "support": {
         "faq": "FAQ",
