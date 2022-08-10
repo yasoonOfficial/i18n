@@ -31,6 +31,7 @@
         "close": "Close",
         "save": "Save",
         "comingSoon": "Coming soon",
+        "cloudNudge": "This feature is already available for Jira cloud, and will be available for server soon.",
         "settings": "Settings",
         "notSure": "Not sure",
         "ok": "OK",
