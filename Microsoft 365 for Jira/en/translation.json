@@ -236,7 +236,8 @@
         "moreButton": "More",
         "editButton": "Edit action",
         "createButton": "Create action",
-        "deleteButton": "Delete action"
+        "deleteButton": "Delete action",
+        "authorizeButton": "Authorize"
     },
     "triggerScreen": {
         "idHeader": "Id",
@@ -284,7 +285,7 @@
         "titleLabel": "Action name",
         "descriptionLabel": "Description",
         "backButton": "Back to overview",
-        "submitButton": "Authorize action",
+        "submitButton": "Create action",
         "microsoftUserLabel": "Microsoft user",
         "microsoftUserButtonLabel": "Login with Microsoft 365 account"
     },
@@ -381,5 +382,12 @@
         "jiraField": "Jira field",
         "textfieldPlaceholder": "Type to search",
         "placeholder": "Type to search"
+    },
+    "actionSuccess": {
+        "header": "Action created",
+        "description": "The action with the name {{name}} has been created successfully. You can already copy the webhook url to the Jira Automation. Please note that the action needs to be authorized by the desired Microsoft user (this might be the administrator).",
+        "authorizeButton": "Authorize action",
+        "authorizeLaterButton": "Authorize later",
+        "learnMore": "Learn more"
     }
 }
