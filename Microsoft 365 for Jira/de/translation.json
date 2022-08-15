@@ -217,5 +217,40 @@
         "loadPropertyFailedMessage": "Hier ist etwas schiefgegangen. Bitte lade die Seite neu.",
         "savePropertyFailedTitle": "Ändern fehlgeschlagen",
         "savePropertyFailedMessage": "Hier ist etwas schiefgegangen. Bitte lade die Seite neu."
+    },
+    "userSettingsScreen": {
+        "settingsHeader": "Microsoft 365 Einstellungen",
+        "connectedAccountsHeader": "Verbundene Accounts",
+        "disconnectAll": "Alle Verbindungen trennen",
+        "msalMissingFlagTitle": "Microsoft Login teilweise fehlgeschlagen. Bitte re-authentifizieren.",
+        "officeLoginFailedFlagTitle": "Microsoft Login fehlgeschlagen"
+    },
+    "officeLoginButton": {
+        "login": "Login",
+        "loginAs": "Login als",
+        "loginWithAccountChooser": "Login mit Account-Auswahl"
+    },
+    "connectedApp": {
+        "connectionExpired": "Verbindung abgelaufen"
+    },
+    "accountMenu": {
+        "connectedAccountSectionTitle": "Verbundener Account",
+        "otherAccountsSectionTitle": "Weitere Accounts",
+        "switchAccountButton": "Wechsel zu",
+        "logoutButton": "Logout",
+        "sectionMessage": {
+            "accountMismatchTitle": "Accountdiskrepanz",
+            "accountMismatchMessage": "Du bist mit einem anderen Jira Account aus Teams heraus verbunden",
+            "connectionExpiredTitle": "Login abgelaufen",
+            "connectionExpiredMessage": "Login abgelaufen, bitte neu einloggen",
+            "connectionExpiredLoginButton": "Login",
+            "instanceMismatchTitle": "Instanzdiskrepanz",
+            "instanceMismatchMessage": "Du bist mit einer anderen Jira Instanz aus Teams heraus verbunden",
+            "missingConnectionTitle": "Fehlende Verbindung",
+            "missingConnectionMessage": "Du bist nicht mit einem Jira Account aus Teams heraus verbunden. Bitte wechsel zu Teams, um die fehlende Verbindung herzustellen.",
+            "msalTitle": "Re-Authentifizierung notwendig",
+            "msalMessage": "Bitte re-authentifiziere dich mit MSAL, um den Login zu vervollständigen.",
+            "msalLoginButton": "Authentifizieren"
+        }
     }
 }
