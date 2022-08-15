@@ -237,7 +237,10 @@
         "editButton": "Edit action",
         "createButton": "Create action",
         "deleteButton": "Delete action",
-        "authorizeButton": "Authorize"
+        "authorizeButton": "Authorize",
+        "emptyStateHeading": "You haven't configured any actions yet.",
+        "emptyStateDescription": "You haven't configured any actions yet.",
+        "learnMore": "Learn more"
     },
     "triggerScreen": {
         "idHeader": "Id",
@@ -315,11 +318,14 @@
         "chatTitle": "Chat title",
         "chatMessage": "Chat message",
         "chatAccess": "Chat access",
-        "chatMember": "Chat member"
+        "chatMember": "Chat member",
+        "multipleRuns": "Allow the action to run multiple times",
+        "withoutIssueContext": "Allow the action to run without a Jira issue context."
     },
     "backupTeamsMessagesScreen": {
         "chatsMessages": "Backup all Teams chats",
-        "conversationMessages": "Backup all Teams conversations"
+        "conversationMessages": "Backup all Teams conversations",
+        "multipleRuns": "Allow the action to run multiple times"
     },
     "createOutlookEventScreen": {
         "meetingSubject": "Subject",
@@ -335,17 +341,24 @@
         "timezoneField": "Timezone",
         "timezoneFieldPlaceholder": "Select timezone (defaults to Jira instance timezone)",
         "templateStringField": "By date template",
-        "jiraFieldPlaceholder": "Select Jira field"
+        "jiraFieldPlaceholder": "Select Jira field",
+        "multipleRuns": "Allow the action to run multiple times",
+        "withoutIssueContext": "Allow the action to run without a Jira issue context."
     },
     "createConversationScreen": {
         "conversationMessage": "Conversation message",
-        "channelChooser": "Chonversation channel"
+        "channelChooser": "Conversation channel",
+        "multipleRuns": "Allow the action to run multiple times",
+        "withoutIssueContext": "Allow the action to run without a Jira issue context."
     },
     "replyTeamsConversationScreen": {
-        "conversationMessage": "Conversation message"
+        "conversationMessage": "Conversation message",
+        "multipleRuns": "Allow the action to run multiple times"
     },
     "createSendBotMessageScreen": {
-        "botMessageLabel": "Bot message"
+        "botMessageLabel": "Bot message",
+        "multipleRuns": "Allow the action to run multiple times",
+        "withoutIssueContext": "Allow the action to run without a Jira issue context."
     },
     "auditLogScreen": {
         "timeHeader": "Time",
@@ -354,7 +367,9 @@
         "idHeader": "Id",
         "durationHeader": "Duration",
         "moreButton": "More",
-        "titleHeader": "Action/Trigger name"
+        "titleHeader": "Action/Trigger name",
+        "actionButtonLabel": "Action runs",
+        "triggerButtonLabel": "Trigger runs"
     },
     "chatAccess": {
         "chooseChatPermissions": "Choose who should be able to view this chat in Jira",
@@ -389,5 +404,10 @@
         "authorizeButton": "Authorize action",
         "authorizeLaterButton": "Authorize later",
         "learnMore": "Learn more"
+    },
+    "actorField": {
+        "placeholder": "Choose a Microsoft user",
+        "noOptions": "No options",
+        "typeToSearch": "Type to search"
     }
 }
