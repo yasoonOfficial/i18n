@@ -459,7 +459,8 @@
         "connectedAccountsHeader": "Connected Accounts",
         "disconnectAll": "Disconnect all accounts",
         "msalMissingFlagTitle": "Microsoft login failed partially. Please re-authenticate.",
-        "officeLoginFailedFlagTitle": "Microsoft login failed"
+        "officeLoginFailedFlagTitle": "Microsoft login failed",
+        "showDebugInformation": "Show debug information"
     },
     "officeLoginButton": {
         "login": "Login",
