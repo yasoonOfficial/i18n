@@ -409,5 +409,23 @@
         "placeholder": "Choose a Microsoft user",
         "noOptions": "No options",
         "typeToSearch": "Type to search"
+    },
+    "actorLogin": {
+        "header": "Autorize action",
+        "generalDescription": "The Jira user {{user}} ({{email}}) wants to get access to Microsoft 365 to create the following automation.",
+        "inBehalfOf": "To act on behalf of the Microsoft 365 user {{user}}, he needs the following Microsoft Graph permissions.",
+        "authorize": "Autorize",
+        "redirect": "Authorizing will redirect to https://login.microsoft.com",
+        "poweredBy": "Powered by",
+        "noToken": "The url contains no or an invalid token. Please restart the login and make sure you copy the whole url if you forward it.",
+        "expiredToken": "The token has expired, please restart the login."
+    },
+    "actionName": {
+        "create-chat": "Create Teams chat",
+        "create-conversation": "Create Teams conversation",
+        "reply-conversations": "Reply to Teams conversation",
+        "create-teams-backup": "Create Teams backup",
+        "create-meeting": "Create Outlook meeting",
+        "send-bot-message": "Send bot message to Teams channel"
     }
 }
