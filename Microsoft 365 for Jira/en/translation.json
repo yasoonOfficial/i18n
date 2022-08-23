@@ -227,29 +227,29 @@
         }
     },
     "actionScreen": {
-        "nameHeader": "Name",
-        "descriptionHeader": "Description",
+        "description": "Actions in Microsoft 365 are fired, if a specific condition is met in Jira.",
+        "actionTypeHeader": "Action type",
+        "nameHeader": "Action name",
         "idHeader": "Id",
-        "webhookUrlHeader": "Webhook url",
+        "creatorHeader": "Creator",
         "detailsHeader": "Details",
         "statusHeader": "Status",
-        "moreButton": "More",
         "editButton": "Edit action",
         "createButton": "Create action",
         "deleteButton": "Delete action",
+        "copyButton": "Copy webhook url",
         "authorizeButton": "Authorize",
         "emptyStateHeading": "You haven't configured any actions yet.",
         "emptyStateDescription": "You haven't configured any actions yet.",
         "learnMore": "Learn more"
     },
     "triggerScreen": {
+        "description": "Triggers from Microsoft 365 are fired to Jira, if a specific condition is met either manually or automated.",
         "idHeader": "Id",
-        "nameHeader": "Name",
-        "descriptionHeader": "Description",
-        "webhookUrlHeader": "Webhook URL",
-        "detailsHeader": "Details",
-        "moreButton": "More",
-        "editButton": "Edit trigger",
+        "typeHeader": "Trigger type",
+        "nameHeader": "Trigger name",
+        "creatorHeader": "Creator",
+        "statusHeader": "Status",
         "createButton": "Create trigger",
         "deleteButton": "Delete trigger"
     },
@@ -260,33 +260,33 @@
         "action": {
             "heading": "Create action",
             "create-chatTitle": "Create Teams chat",
-            "create-chatDescription": "This is a placeholder for a more descriptive description.",
+            "create-chatDescription": "Send a message in a Teams chat and include the participants of your choice.",
             "create-conversationTitle": "Create Teams conversation",
-            "create-conversationDescription": "This is a placeholder for a more descriptive description.",
+            "create-conversationDescription": "Post a message in a Teams channel of your choice.",
             "reply-conversationsTitle": "Reply Teams conversation",
-            "reply-conversationsDescription": "This is a placeholder for a more descriptive description.",
+            "reply-conversationsDescription": "Add a comment to all Teams conversations linked to the issue the user has access to.",
             "create-teams-backupTitle": "Backup Teams messages",
-            "create-teams-backupDescription": "This is a placeholder for a more descriptive description.",
+            "create-teams-backupDescription": "Add a backup file for each chat and channel conversation to the Jira issue.",
             "create-meetingTitle": "Create Outlook meeting",
-            "create-meetingDescription": "This is a placeholder for a more descriptive description.",
+            "create-meetingDescription": "Send a meeting to the participants of your choice.",
             "send-bot-messageTitle": "Send bot message",
-            "send-bot-messageDescription": "This is a placeholder for a more descriptive description."
+            "send-bot-messageDescription": "Send a bot message to a user, who has installed the bot."
         },
         "trigger": {
             "heading": "Create trigger",
             "chat-createdTitle": "Teams chat created",
-            "chat-createdDescription": "This is a placeholder for a more descriptive description.",
+            "chat-createdDescription": "Fired when a chat was created in an issue.",
             "conversation-createdTitle": "Teams conversation created",
-            "conversation-createdDescription": "This is a placeholder for a more descriptive description.",
+            "conversation-createdDescription": "Fired when a conversation was created in an issue.",
             "teams-backup-createdTitle": "Teams backup created",
-            "teams-backup-createdDescription": "This is a placeholder for a more descriptive description.",
+            "teams-backup-createdDescription": "Fired when a backup of Teams chat and channel conversations was created in an issue.",
             "meeting-createdTitle": "Outlook meeting created",
-            "meeting-createdDescription": "This is a placeholder for a more descriptive description."
+            "meeting-createdDescription": "Fired when a meeting was created in an issue."
         }
     },
     "createActionScreen": {
         "titleLabel": "Action name",
-        "descriptionLabel": "Description",
+        "descriptionLabel": "Action description",
         "backButton": "Back to overview",
         "submitButton": "Create action",
         "microsoftUserLabel": "Microsoft user",
@@ -294,44 +294,34 @@
     },
     "createTriggerScreen": {
         "titleLabel": "Trigger name",
-        "descriptionLabel": "Description",
+        "descriptionLabel": "Trigger description",
         "backButton": "Back to overview",
-        "createButton": "Create trigger",
+        "submitButton": "Create trigger",
         "webhookField": "Webhook URL"
     },
     "editActionScreen": {
         "titleLabel": "Action name",
-        "descriptionLabel": "Description",
+        "descriptionLabel": "Action description",
         "backButton": "Back to overview",
         "submitButton": "Edit action",
         "microsoftUserLabel": "Microsoft user",
         "microsoftUserButtonLabel": "Login with Microsoft 365 account"
     },
-    "editTriggerScreen": {
-        "titleLabel": "Trigger name",
-        "descriptionLabel": "Description",
-        "backButton": "Back to overview",
-        "submitButton": "Edit trigger",
-        "webhookField": "Webhook URL"
-    },
     "createChatScreen": {
         "chatTitle": "Chat title",
         "chatMessage": "Chat message",
         "chatAccess": "Chat access",
-        "chatMember": "Chat member",
-        "multipleRuns": "Allow the action to run multiple times",
-        "withoutIssueContext": "Allow the action to run without a Jira issue context."
+        "chatMember": "Add chat member"
     },
     "backupTeamsMessagesScreen": {
         "chatsMessages": "Backup all Teams chats",
-        "conversationMessages": "Backup all Teams conversations",
-        "multipleRuns": "Allow the action to run multiple times"
+        "conversationMessages": "Backup all Teams conversations"
     },
     "createOutlookEventScreen": {
-        "meetingSubject": "Subject",
-        "meetingLocation": "Location",
+        "meetingSubject": "Meeting subject",
+        "meetingLocation": "Meeting location",
         "teamsMeetingToggle": "Teams meeting",
-        "meetingDescription": "Description",
+        "meetingDescription": "Meeting body text",
         "startDateType": "Start date",
         "byField": "By field",
         "byDate": "By date",
@@ -341,35 +331,34 @@
         "timezoneField": "Timezone",
         "timezoneFieldPlaceholder": "Select timezone (defaults to Jira instance timezone)",
         "templateStringField": "By date template",
-        "jiraFieldPlaceholder": "Select Jira field",
-        "multipleRuns": "Allow the action to run multiple times",
-        "withoutIssueContext": "Allow the action to run without a Jira issue context."
+        "jiraFieldPlaceholder": "Select Jira field"
     },
     "createConversationScreen": {
         "conversationMessage": "Conversation message",
-        "channelChooser": "Conversation channel",
-        "multipleRuns": "Allow the action to run multiple times",
-        "withoutIssueContext": "Allow the action to run without a Jira issue context."
+        "channelChooser": "Conversation channel"
     },
     "replyTeamsConversationScreen": {
-        "conversationMessage": "Conversation message",
-        "multipleRuns": "Allow the action to run multiple times"
+        "conversationMessage": "Conversation message"
     },
     "createSendBotMessageScreen": {
-        "botMessageLabel": "Bot message",
-        "multipleRuns": "Allow the action to run multiple times",
-        "withoutIssueContext": "Allow the action to run without a Jira issue context."
+        "botMessageLabel": "Bot message"
     },
     "auditLogScreen": {
-        "timeHeader": "Time",
-        "nameHeader": "Action",
+        "dateHeader": "Date",
         "statusHeader": "Status",
-        "idHeader": "Id",
-        "durationHeader": "Duration",
-        "moreButton": "More",
-        "titleHeader": "Action/Trigger name",
+        "actionTypeHeader": "Action type",
+        "actionIdHeader": "Action id",
+        "actionNameHeader": "Action name",
+        "triggerTypeHeader": "Trigger type",
+        "triggerIdHeader": "Trigger id",
+        "triggerNameHeader": "Trigger name",
         "actionButtonLabel": "Action runs",
-        "triggerButtonLabel": "Trigger runs"
+        "triggerButtonLabel": "Trigger runs",
+        "status": {
+            "failed": "Failed",
+            "retrying": "Retrying",
+            "success": "Success"
+        }
     },
     "chatAccess": {
         "chooseChatPermissions": "Choose who should be able to view this chat in Jira",
@@ -403,10 +392,11 @@
         "description": "The action with the name {{name}} has been created successfully. You can already copy the webhook url to the Jira Automation. Please note that the action needs to be authorized by the desired Microsoft user (this might be the administrator).",
         "authorizeButton": "Authorize action",
         "authorizeLaterButton": "Authorize later",
-        "learnMore": "Learn more"
+        "learnMore": "Learn more",
+        "error": "Something went wrong, please try again."
     },
     "actorField": {
-        "placeholder": "Choose a Microsoft user",
+        "placeholder": "Choose a Microsoft actor",
         "noOptions": "No options",
         "typeToSearch": "Type to search"
     },
@@ -427,5 +417,12 @@
         "create-teams-backup": "Create Teams backup",
         "create-meeting": "Create Outlook meeting",
         "send-bot-message": "Send bot message to Teams channel"
+    },
+    "automationPageHeading": "Automation",
+    "advancedActionSettings": {
+        "expand": "Advanced settings",
+        "minimize": "Minimize",
+        "withoutIssueContext": "Allow the action to run without a Jira issue context.",
+        "multipleRuns": "Allow the action to run multiple times"
     }
 }
