@@ -76,6 +76,7 @@
         "messageConfirm": "E-Mail entknüpfen",
         "conversationConfirm": "{{amount}} E-Mails entknüpfen",
         "sendMail": "Abschicken",
+        "sendMailLater": "Später abschicken",
         "sendToSender": "Email an den Absender",
         "sendToAll": "Email an alle Beteiligten",
         "resetToDefault": "Auf Werkseinstellungen zurücksetzen",
@@ -118,7 +119,8 @@
         "subjectPlaceholder": "Betreff eingeben",
         "subjectLabel": "Betreff",
         "recipientsLabel": "An",
-	"ccRecipientsLabel": "Cc",
+        "ccRecipientsLabel": "Cc",
+        "bccRecipientsLabel": "Bcc",
         "replyPrefix": "AW: ",
         "regardingIssue": "Betreffend {{issueKey}}",
         "recipientsPlaceholder": "Keine Ergebnisse",
@@ -162,6 +164,7 @@
         "noMailEmptyStateDescription": "Der Vorgang hat keine - oder keine für dich sichtbaren - verknüpften E-Mails."
     },
     "messageComponent": {
+        "sendLaterDate": "Diese Nachricht soll gesendet werden am ",
         "sharedIconTooltip": "Diese E-Mail wurde direkt geteilt",
         "attachmentsIconTooltip": "Diese E-Mail hat Anhänge"
     },
@@ -171,6 +174,7 @@
         "attachments": "Anhänge"
     },
     "comment": {
+        "cc": "Cc: ",
         "to": "An: ",
         "subject": "Betreff: ",
         "attachments": "Anhänge: ",

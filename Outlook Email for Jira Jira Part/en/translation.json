@@ -76,6 +76,7 @@
         "messageConfirm": "Unlink this email",
         "conversationConfirm": "Unlink {{amount}} emails",
         "sendMail": "Send",
+        "sendMailLater": "Send later",
         "sendToSender": "Email sender",
         "sendToAll": "Email all",
         "resetToDefault": "Reset to default",
@@ -119,7 +120,8 @@
         "subjectLabel": "Subject",
         "replyPrefix": "RE: ",
         "recipientsLabel": "To",
-	"ccRecipientsLabel": "Cc",
+        "ccRecipientsLabel": "Cc",
+        "bccRecipientsLabel": "Bcc",
         "recipientsPlaceholder": "Type to search...",
         "recipientsNoOptionsMessage": "No matching options",
         "regardingIssue": "Regarding {{issueKey}}",
@@ -162,6 +164,7 @@
         "noMailEmptyStateDescription": "This issue has no related emails or none you are allowed to see."
     },
     "messageComponent": {
+        "sendLaterDate": "This message is scheduled to send on ",
         "sharedIconTooltip": "This email was shared directly",
         "attachmentsIconTooltip": "This email has attachments"
     },
@@ -171,6 +174,7 @@
         "attachments": "Attachments"
     },
     "comment": {
+        "cc": "Cc: ",
         "to": "To: ",
         "subject": "Subject: ",
         "attachments": "Attachments: ",
