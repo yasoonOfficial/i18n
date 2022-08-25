@@ -261,16 +261,28 @@
             "heading": "Create action",
             "create-chatTitle": "Create Teams chat",
             "create-chatDescription": "Send a message in a Teams chat and include the participants of your choice.",
+            "create-chatConfigDescription": "Chat settings",
+            "create-chatDescriptionPlaceholder": "This action creates a chat in Teams when (...).\nCreated by: {{atlassianUser}}\nUsed in project: (...)",
             "create-conversationTitle": "Create Teams conversation",
             "create-conversationDescription": "Post a message in a Teams channel of your choice.",
+            "create-conversationConfigDescription": "Channel conversation settings",
+            "create-conversationDescriptionPlaceholder": "This action creates a conversation in Teams when (...).\nCreated by: {{atlassianUser}}\nUsed in project: (...)",
             "reply-conversationsTitle": "Reply Teams conversation",
             "reply-conversationsDescription": "Add a comment to all Teams conversations linked to the issue the user has access to.",
+            "reply-conversationsConfigDescription": "Channel conversation settings",
+            "reply-conversationsDescriptionPlaceholder": "This action replies to a conversation in Teams when (...).\nCreated by: {{atlassianUser}}\nUsed in project: (...)",
             "create-teams-backupTitle": "Backup Teams messages",
             "create-teams-backupDescription": "Add a backup file for each chat and channel conversation to the Jira issue.",
+            "create-teams-backupConfigDescription": "Backup settings",
+            "create-teams-backupDescriptionPlaceholder": "This action creates a backup from linked chats and/or conversations in Teams when (...).\nCreated by: {{atlassianUser}}\nUsed in project: (...)",
             "create-meetingTitle": "Create Outlook meeting",
             "create-meetingDescription": "Send a meeting to the participants of your choice.",
+            "create-meetingConfigDescription": "Meeting settings",
+            "create-meetingDescriptionPlaceholder": "This action creates a Outlook meeting when (...).\nCreated by: {{atlassianUser}}\nUsed in project: (...)",
             "send-bot-messageTitle": "Send bot message",
-            "send-bot-messageDescription": "Send a bot message to a user, who has installed the bot."
+            "send-bot-messageDescription": "Send a bot message to a user, who has installed the bot.",
+            "send-bot-messageConfigDescription": "Bot message settings",
+            "send-bot-messageDescriptionPlaceholder": "This action sends a bot message in Teams when (...).\nCreated by: {{atlassianUser}}\nUsed in project: (...)"
         },
         "trigger": {
             "heading": "Create trigger",
@@ -322,17 +334,18 @@
         "meetingLocation": "Meeting location",
         "teamsMeetingToggle": "Teams meeting",
         "meetingDescription": "Meeting body text",
-        "startDateType": "Start date",
+        "startDateType": "Start time",
         "byField": "From field",
-        "byDate": "Relative",
+        "byDate": "By duration",
         "byEndDate": "Relative to start date",
-        "startDateField": "Start date field",
-        "endDateType": "End date",
-        "endDateField": "End date field",
+        "startDateField": "Start time field",
+        "endDateType": "End time",
+        "endDateField": "End time field",
         "timezoneField": "Timezone",
         "timezoneFieldPlaceholder": "Select timezone (defaults to Jira instance timezone)",
         "templateStringField": "By date template",
-        "jiraFieldPlaceholder": "Select Jira field"
+        "jiraFieldPlaceholder": "Select Jira field",
+        "isAllDayToggleField": "Is all-day event"
     },
     "createConversationScreen": {
         "conversationMessage": "Conversation message",
@@ -425,5 +438,21 @@
         "minimize": "Minimize",
         "withoutIssueContext": "Allow the action to run without a Jira issue context.",
         "multipleRuns": "Allow the action to run multiple times"
+    },
+    "userField": {
+        "microsoftUser": "Microsoft user",
+        "jiraField": "Jira field",
+        "jiraUser": "Jira user"
+    },
+    "editorField": {
+        "actions": {
+            "trigger": "Jira details",
+            "issueKey": "Issue key",
+            "issueKeyDescription": "Adds the Jira issue key",
+            "issueSubject": "Issue subject",
+            "issueSubjectDescription": "Adds the Jira issue subject",
+            "issueDueDate": "Issue due date",
+            "issueDueDateDescription": "Adds the Jira issue due date"
+        }
     }
 }
