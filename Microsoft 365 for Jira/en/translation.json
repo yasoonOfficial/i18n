@@ -401,7 +401,7 @@
         "textfieldPlaceholder": "Type to search",
         "placeholder": "Type to search"
     },
-    "actionSuccess": {
+   "actionSuccess": {
         "header": "Action created",
         "description": "The action with the name {{name}} has been created successfully. You can already copy the webhook url to the Jira Automation. Please note that the action needs to be authorized by the desired Microsoft user (this might be the administrator).",
         "authorizeButton": "Authorize action",
@@ -454,5 +454,39 @@
             "issueDueDate": "Issue due date",
             "issueDueDateDescription": "Adds the Jira issue due date"
         }
-    }
+    "userSettingsScreen": {
+        "settingsHeader": "Microsoft 365 Settings",
+        "connectedAccountsHeader": "Connected Accounts",
+        "disconnectAll": "Disconnect all accounts",
+        "msalMissingFlagTitle": "Microsoft login failed partially. Please re-authenticate.",
+        "officeLoginFailedFlagTitle": "Microsoft login failed",
+        "showDebugInformation": "Show debug information"
+    },
+    "officeLoginButton": {
+        "login": "Login",
+        "loginAs": "Login as",
+        "loginWithAccountChooser": "Login with account chooser"
+    },
+    "connectedApp": {
+        "connectionExpired": "Connection expired"
+    },
+    "accountMenu": {
+        "connectedAccountSectionTitle": "Connected account",
+        "otherAccountsSectionTitle": "Other accounts",
+        "switchAccountButton": "Switch to",
+        "logoutButton": "Logout",
+        "sectionMessage": {
+            "accountMismatchTitle": "Account mismatch",
+            "accountMismatchMessage": "You are connected to different Jira account from Teams",
+            "connectionExpiredTitle": "Login expired",
+            "connectionExpiredMessage": "Login expired, please re-login",
+            "connectionExpiredLoginButton": "Login",
+            "instanceMismatchTitle": "Instance mismatch",
+            "instanceMismatchMessage": "You are connected to different Jira instance from Teams",
+            "missingConnectionTitle": "Missing connection",
+            "missingConnectionMessage": "You are not connected to a Jira account from Teams. Please switch to Teams to establish the missing connection.",
+            "msalTitle": "Re-Authentication required",
+            "msalMessage": "",
+            "msalLoginButton": "Authenticate"
+        }
 }
