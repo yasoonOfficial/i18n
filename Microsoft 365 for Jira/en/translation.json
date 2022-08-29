@@ -401,7 +401,7 @@
         "textfieldPlaceholder": "Type to search",
         "placeholder": "Type to search"
     },
-   "actionSuccess": {
+    "actionSuccess": {
         "header": "Action created",
         "description": "The action with the name {{name}} has been created successfully. You can already copy the webhook url to the Jira Automation. Please note that the action needs to be authorized by the desired Microsoft user (this might be the administrator).",
         "authorizeButton": "Authorize action",
@@ -454,13 +454,16 @@
             "issueDueDate": "Issue due date",
             "issueDueDateDescription": "Adds the Jira issue due date"
         }
+    },
     "userSettingsScreen": {
         "settingsHeader": "Microsoft 365 Settings",
         "connectedAccountsHeader": "Connected Accounts",
         "disconnectAll": "Disconnect all accounts",
         "msalMissingFlagTitle": "Microsoft login failed partially. Please re-authenticate.",
         "officeLoginFailedFlagTitle": "Microsoft login failed",
-        "showDebugInformation": "Show debug information"
+        "showDebugInformation": "Show debug information",
+        "fetchConnectionsFlagErrorTitle": "Failed to load connections",
+        "fetchConnectionsFlagErrorMessage": "Something has gone wrong while trying to load the connections. Reload the page and try again."
     },
     "officeLoginButton": {
         "login": "Login",
@@ -489,4 +492,5 @@
             "msalMessage": "",
             "msalLoginButton": "Authenticate"
         }
+    }
 }
