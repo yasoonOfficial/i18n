@@ -268,7 +268,7 @@
             "create-conversationConfigDescription": "Channel conversation settings",
             "create-conversationDescriptionPlaceholder": "This action creates a conversation in Teams when (...).\nCreated by: {{atlassianUser}}\nUsed in project: (...)",
             "reply-conversationsTitle": "Reply Teams conversation",
-            "reply-conversationsDescription": "Add a comment to all Teams conversations linked to the issue the user has access to.",
+            "reply-conversationsDescription": "Add a comment to all Teams conversations linked to the issue.",
             "reply-conversationsConfigDescription": "Channel conversation settings",
             "reply-conversationsDescriptionPlaceholder": "This action replies to a conversation in Teams when (...).\nCreated by: {{atlassianUser}}\nUsed in project: (...)",
             "create-teams-backupTitle": "Backup Teams messages",
@@ -288,12 +288,19 @@
             "heading": "Create trigger",
             "chat-createdTitle": "Teams chat created",
             "chat-createdDescription": "Fired when a chat was created in an issue.",
+            "chat-createdDescriptionPlaceholder": "This trigger is executed when a chat is created in Teams using the Microsoft 365 for Jira app (...).\nCreated by: {{atlassianUser}}\nUsed in project: (...)",
             "conversation-createdTitle": "Teams conversation created",
             "conversation-createdDescription": "Fired when a conversation was created in an issue.",
+            "conversation-createdDescriptionPlaceholder": "This trigger is executed when a conversation is created in Teams using the Microsoft 365 for Jira app (...).\nCreated by: {{atlassianUser}}\nUsed in project: (...)",
             "teams-backup-createdTitle": "Teams backup created",
-            "teams-backup-createdDescription": "Fired when a backup of Teams chat and channel conversations was created in an issue.",
+            "teams-backup-createdDescription": "Fired when a backup of Teams chat or channel conversations was created.",
+            "teams-backup-createdDescriptionPlaceholder": "This trigger is executed when a backup is created in Jira (...).\nCreated by: {{atlassianUser}}\nUsed in project: (...)",
             "meeting-createdTitle": "Outlook meeting created",
-            "meeting-createdDescription": "Fired when a meeting was created in an issue."
+            "meeting-createdDescription": "Fired when a meeting was created in an issue.",
+            "meeting-createdDescriptionPlaceholder": "This trigger is executed when a Outlook meeting is created in Jira (...).\nCreated by: {{atlassianUser}}\nUsed in project: (...)",
+            "teams-global-regexTitle": "Teams bot message recived",
+            "teams-global-regexDescription": "Fired when the Teams bot recieves a message with the configured keyword.",
+            "teams-global-regexDescriptionPlaceholder": "This trigger is executed when a replied to a conversation in Teams with keyword (...).\nCreated by: {{atlassianUser}}\nUsed in project: (...)"
         }
     },
     "createActionScreen": {
