@@ -237,6 +237,9 @@
         "editButton": "Edit action",
         "createButton": "Create action",
         "deleteButton": "Delete action",
+        "deleteAction": "Delete action",
+        "cancelButton": "Cancel",
+        "deleteActionWarning": "Please make sure this action is not used in any Jira automation, as these will not work anymore.",
         "copyButton": "Copy webhook url",
         "authorizeButton": "Authorize",
         "emptyStateHeading": "You haven't configured any actions yet.",
@@ -499,5 +502,15 @@
             "msalMessage": "",
             "msalLoginButton": "Authenticate"
         }
+    },
+    "globalRegexConfigScreen": {
+        "regexField": "Regex",
+        "messageTypeField": "Message type"
+    },
+    "globalRegexMessageTypes": {
+        "all": "All messages",
+        "topLevelOnly": "Only top level conversation messages",
+        "linkedReplyOnly": "Only when replying to a linked conversation",
+        "replyOnly": "Only when replying to a conversation"
     }
 }
