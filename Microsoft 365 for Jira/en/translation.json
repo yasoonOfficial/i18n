@@ -432,7 +432,8 @@
         "redirect": "Authorizing will redirect to https://login.microsoft.com",
         "poweredBy": "Powered by",
         "noToken": "The url contains no or an invalid token. Please restart the login and make sure you copy the whole url if you forward it.",
-        "expiredToken": "The token has expired, please restart the login."
+        "expiredToken": "The token has expired, please restart the login.",
+        "loginSuccessfull": "Login successfull, you can close this window."
     },
     "actionName": {
         "create-chat": "Create Teams chat",
