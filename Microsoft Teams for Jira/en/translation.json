@@ -45,7 +45,8 @@
         "areYouSure": "Are you sure?",
         "submit": "Submit",
         "submitting": "Submitting",
-        "dismiss": "Dismiss"
+        "dismiss": "Dismiss",
+        "wrongSystem": "Incompatible Jira instance"
     },
     "error": {
         "serverNotSupported": "Jira Server is not supported yet",
@@ -428,7 +429,11 @@
         "loginToCreateIssue": "You need to login to create issues",
         "loginToAssignIssue": "You need to login to assign issues",
         "loginToTransitionIssue": "You need to login to change the status of issues",
-        "createBacklogIssue": "Create backlog issue"
+        "createBacklogIssue": "Create backlog issue",
+        "wrongInstance1": "The Jira instance you are logged in to is different from the one this board belongs to, and no sharing was configured.",
+        "wrongInstance2": "Please log out using the user menu in the top right corner, then log in to the correct Jira instance to view this board.",
+        "yourInstance": "Your current Jira instance",
+        "boardInstance": "This boards Jira instance"
     },
     "addBoardToTeams": {
         "addBoardToTeams": "Add board to Teams",
