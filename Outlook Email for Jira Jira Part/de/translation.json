@@ -222,6 +222,8 @@
         "loading": "Lädt"
     },
     "errorMessages": {
+        "createDraftTitle": "Erstellen des Entwurfs fehlgeschlagen",
+        "createDraftMessage": "Dieses Feature benötigt eine Mailbox in Exchange Online. Wenn du dich in einer hybriden Umgebung befindest, stelle bitte sicher, dass deine Mailbox bereits nach Exchange Online migriert wurde",
         "outdatedData": "Diese Einstellungen wurden zwischenzeitig geändert. Bitte lade die Seite neu und versuche es noch einmal.",
         "generic": "Etwas ist schiefgelaufen",
         "tooBigAttachmentsTitle": "Die Anhänge sind zu groß.",
