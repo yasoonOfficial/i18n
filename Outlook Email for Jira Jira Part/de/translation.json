@@ -118,6 +118,7 @@
     "sendMailDialog": {
         "subjectPlaceholder": "Betreff eingeben",
         "subjectLabel": "Betreff",
+        "fromLabel": "Von",
         "recipientsLabel": "An",
         "ccRecipientsLabel": "Cc",
         "bccRecipientsLabel": "Bcc",
@@ -165,12 +166,14 @@
     },
     "messageComponent": {
         "sendLaterDate": "Diese Nachricht soll gesendet werden am ",
+        "onBehalfOf": "{{sender}} im Namen von {{from}}",
         "sharedIconTooltip": "Diese E-Mail wurde direkt geteilt",
         "attachmentsIconTooltip": "Diese E-Mail hat Anhänge"
     },
     "messageDialog": {
         "to": "An: ",
-	"cc": "Cc: ",
+        "cc": "Cc: ",
+        "onBehalfOfSpacer": " im Namen von ",
         "attachments": "Anhänge"
     },
     "comment": {

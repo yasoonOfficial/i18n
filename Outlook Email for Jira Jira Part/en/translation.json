@@ -119,6 +119,7 @@
         "subjectPlaceholder": "Enter a subject",
         "subjectLabel": "Subject",
         "replyPrefix": "RE: ",
+        "fromLabel": "From",
         "recipientsLabel": "To",
         "ccRecipientsLabel": "Cc",
         "bccRecipientsLabel": "Bcc",
@@ -165,12 +166,14 @@
     },
     "messageComponent": {
         "sendLaterDate": "This message is scheduled to send on ",
+        "onBehalfOf": "{{sender}} on behalf of {{from}}",
         "sharedIconTooltip": "This email was shared directly",
         "attachmentsIconTooltip": "This email has attachments"
     },
     "messageDialog": {
         "to": "To: ",
-	"cc": "Cc: ",
+        "cc": "Cc: ",
+        "onBehalfOfSpacer": " on behalf of ",
         "attachments": "Attachments"
     },
     "comment": {
