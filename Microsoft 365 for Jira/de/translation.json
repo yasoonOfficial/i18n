@@ -226,7 +226,8 @@
         "officeLoginFailedFlagTitle": "Microsoft Login fehlgeschlagen",
         "showDebugInformation": "Debug Informationen anzeigen",
         "fetchConnectionsFlagErrorTitle": "Laden der Verbindungen fehlgeschlagen.",
-        "fetchConnectionsFlagErrorMessage": "Beim Laden der Verbindungen ist etwas schiefgegangen. Lade die Seite neu und versuche es noch einmal."
+        "fetchConnectionsFlagErrorMessage": "Beim Laden der Verbindungen ist etwas schiefgegangen. Lade die Seite neu und versuche es noch einmal.",
+        "noAppsEnabled": "Du bist noch nicht eingeloggt."
     },
     "officeLoginButton": {
         "login": "Login",
