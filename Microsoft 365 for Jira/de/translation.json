@@ -256,5 +256,53 @@
             "msalMessage": "Bitte re-authentifiziere dich mit MSAL, um den Login zu vervollständigen.",
             "msalLoginButton": "Authentifizieren"
         }
+    },
+    "templateListScreen": {
+        "deleteSuccessTitle": "Vorlage gelöscht",
+        "deleteSuccessMessage": "Die Vorlage wurde erfolgreich gelöscht.",
+        "pageHeading": "Vorlagen",
+        "description": "Verwalte Vorlagen zur bequemen Verwendung in Kommunikationsdialogen.",
+        "active": "Aktiv",
+        "displayName": "Vorlagenname",
+        "createButton": "Erstellen",
+        "viewButton": "Anzeigen",
+        "editButton": "Ändern",
+        "deleteButton": "Löschen",
+        "cancelButton": "Abbrechen"
+    },
+    "templateSingle": {
+        "createSuccessTitle": "Vorlage erstellt",
+        "createSuccessMessage": "Die Vorlage wurde erfolgreich erstellt.",
+        "updateSuccessTitle": "Vorlage gespeichert",
+        "updateSuccessMessage": "Die Vorlage wurde erfolgreich gespeichert.",
+        "pageHeading": "Templates",
+        "createHeading": "Erstellen",
+        "editHeading": "Ändern",
+        "viewHeading": "Anzeigen",
+        "deActivateTemplate": "(De-)Aktivieren",
+        "nameLabel": "Vorlagenname",
+        "namePlaceholder": "Klicke, um einen Vorlagennamen einzugeben",
+        "descriptionLabel": "Beschreibung",
+        "descriptionPlaceholder": "Klicke, um eine Beschreibung einzugeben",
+        "subjectLabel": "Betreff",
+        "subjectPlaceholder": "Klicke, um einen Betreff einzugeben",
+        "body": "Inhalt",
+        "invalidFormTooltip": "Bitte fülle die Pflichtfelder aus.",
+        "backButton": "Zurück zur Übersicht",
+        "cancelButton": "Abbrechen",
+        "saveButton": "Speichern"
+    },
+    "selectCreateTemplateType": {
+        "heading": "Create template",
+        "email": "E-Mail",
+        "teams": "Teams",
+        "cancelButton": "Abbrechen"
+    },
+    "templateEditor": {
+        "actions": {
+            "trigger": "Jira Details",
+            "issueKey": "Issue Schlüssel",
+            "issueKeyDescription": "Fügt den Jira Issue Schlüssel hinzu"
+        }
     }
 }

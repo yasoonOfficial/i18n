@@ -514,5 +514,53 @@
         "topLevelOnly": "Only top level conversation messages",
         "linkedReplyOnly": "Only when replying to a linked conversation",
         "replyOnly": "Only when replying to a conversation"
+    },
+    "templateListScreen": {
+        "deleteSuccessTitle": "Template deleted",
+        "deleteSuccessMessage": "The template has been deleted successfully.",
+        "pageHeading": "Templates",
+        "description": "Manage templates to be used for convenience in communication dialogs.",
+        "active": "Active",
+        "displayName": "Template name",
+        "createButton": "Create",
+        "viewButton": "View",
+        "editButton": "Edit",
+        "deleteButton": "Delete",
+        "cancelButton": "Cancel"
+    },
+    "templateSingle": {
+        "createSuccessTitle": "Template created",
+        "createSuccessMessage": "The template has been created successfully.",
+        "updateSuccessTitle": "Template updated",
+        "updateSuccessMessage": "The template has been saved successfully.",
+        "pageHeading": "Templates",
+        "createHeading": "Create",
+        "editHeading": "Edit",
+        "viewHeading": "View",
+        "deActivateTemplate": "(De-)activate",
+        "nameLabel": "Template name",
+        "namePlaceholder": "Click to enter a template name",
+        "descriptionLabel": "Description",
+        "descriptionPlaceholder": "Click to enter a description",
+        "subjectLabel": "Subject",
+        "subjectPlaceholder": "Click to enter a subject",
+        "body": "Body",
+        "invalidFormTooltip": "Please fill out the required fields.",
+        "backButton": "Back to overview",
+        "cancelButton": "Cancel",
+        "saveButton": "Save"
+    },
+    "selectCreateTemplateType": {
+        "heading": "Create template",
+        "email": "E-Mail",
+        "teams": "Teams",
+        "cancelButton": "Cancel"
+    },
+    "templateEditor": {
+        "actions": {
+            "trigger": "Jira details",
+            "issueKey": "Issue key",
+            "issueKeyDescription": "Adds the Jira issue key"
+        }
     }
 }
