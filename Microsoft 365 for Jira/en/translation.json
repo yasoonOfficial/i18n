@@ -526,7 +526,9 @@
         "viewButton": "View",
         "editButton": "Edit",
         "deleteButton": "Delete",
-        "cancelButton": "Cancel"
+        "cancelButton": "Cancel",
+        "deleteTemplate": "Delete template",
+        "deleteTemplateWarning": "This will delete the template permanently. Are you sure you want to delete this template?"
     },
     "templateSingle": {
         "createSuccessTitle": "Template created",
