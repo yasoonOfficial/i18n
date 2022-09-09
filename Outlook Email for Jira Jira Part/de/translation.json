@@ -6,10 +6,19 @@
         "technicalSettingsTabHeading": "Einstellungen",
         "sharingSettingsTabHeading": "E-Mail Freigabe",
         "overviewTabHeading": "Übersicht",
+        "delegatedMailboxesTabHeading": "Delegierte Postfachberechtigungen",
         "helpTabHeading": "Hilfe"
     },
     "projectSettings": {
         "userNotificationsTabHeading": "Outlook Nutzerinformation"
+    },
+    "delegatedMailboxesTab": {
+        "projectHeading": "Vordefinierte delegierte Postfächer",
+        "projectDescription": "Hier konfigurierte Postfächer können vom Nutzer beim Senden einer E-Mail als Absender gewählt werden.",
+        "globalHeading": "Vordefinierte delegierte Postfächer",
+        "globalDescription": "Hier konfigurierte Postfächer können vom Nutzer beim Senden einer E-Mail als Absender gewählt werden.",
+        "adminSettingOnlyTooltip": "Dieses Postfach kann nur auf der Adminseite angepasst werden",
+        "addMailboxButton": "Weiteres Postfach hinzufügen"
     },
     "sharingSettingsTab": {
         "sharingUserDefaultsHeading": "Anwenderstandards einstellen",

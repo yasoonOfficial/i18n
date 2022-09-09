@@ -6,10 +6,19 @@
         "technicalSettingsTabHeading": "Settings",
         "sharingSettingsTabHeading": "Email sharing",
         "overviewTabHeading": "Getting started",
+        "delegatedMailboxesTabHeading": "Delegated mailboxes",
         "helpTabHeading": "Help"
     },
     "projectSettings": {
         "userNotificationsTabHeading": "Outlook user notification"
+    },
+    "delegatedMailboxesTab": {
+        "projectHeading": "Predefined delegated mailboxes",
+        "projectDescription": "Mailboxes configured here can be selected as a sender when sending an email.",
+        "globalHeading": "Predefined delegated mailboxes",
+        "globalDescription": "Mailboxes configured here can be selected as a sender when sending an email.",
+        "adminSettingOnlyTooltip": "This mailbox can only be edited in the admin settings",
+        "addMailboxButton": "Add another mailbox"
     },
     "sharingSettingsTab": {
         "sharingUserDefaultsHeading": "Configure user defaults",
