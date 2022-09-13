@@ -20,6 +20,30 @@
         "adminSettingOnlyTooltip": "Dieses Postfach kann nur auf der Adminseite angepasst werden",
         "addMailboxButton": "Weiteres Postfach hinzufügen"
     },
+    "commentVisibility": {
+        "choose": "Wähle, ob ein Kommentar am Vorgang erstellt werden soll",
+        "none": "Kein Kommentar",
+        "internal": "Interner Kommentar",
+        "public": "Kunden Kommentar",
+        "softwareAddComment": "Kommentar hinzufügen",
+        "internalShort": "Intern",
+        "publicShort": "Öffentlich",
+        "softwareAddCommentShort": "Mit Kommentar",
+        "tooltipExplanation": "Wähle, ob ein Kommentar erstellt wird",
+        "rememberUserChoice": "Letze Nutzerauswahl merken"
+    },
+    "sharing": {
+        "privateLabel": "Privat",
+        "azureTenantLabel": "Organisation",
+        "atlassianCloudLabel": "Vorgangszugriff",
+        "privateDescription": "Nur ich kann diese Konversation sehen",
+        "agent": "Agent",
+        "user": "Nutzer",
+        "azureTenantDescription": "Jeder {{user}} in meiner Organisation kann diese Konversation sehen",
+        "atlassianCloudDescription": "Jeder {{user}} mit Zugriff auf diesen Vorgang kann diese Konversation sehen",
+        "sectionTitle": "Wähle, wer diese Konversation sehen können soll",
+        "triggerTooltip": "Wähle, wer diese Konversation sehen können soll"
+    },
     "sharingSettingsTab": {
         "sharingUserDefaultsHeading": "Anwenderstandards einstellen",
         "sharingUserDefaultsDescription": "Welche Standardeinstellung sollen Nutzer erhalten, die sich neu mit dieser Instanz verbinden? Die Nutzer können diese anschließend ändern.",
@@ -85,7 +109,7 @@
         "messageConfirm": "E-Mail entknüpfen",
         "conversationConfirm": "{{amount}} E-Mails entknüpfen",
         "sendMail": "Abschicken",
-        "sendMailLater": "Später abschicken",
+        "sendMailLater": "Am {{date}} abschicken",
         "sendToSender": "Email an den Absender",
         "sendToAll": "Email an alle Beteiligten",
         "resetToDefault": "Auf Werkseinstellungen zurücksetzen",

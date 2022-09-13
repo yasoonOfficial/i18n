@@ -20,6 +20,30 @@
         "adminSettingOnlyTooltip": "This mailbox can only be edited in the admin settings",
         "addMailboxButton": "Add another mailbox"
     },
+    "commentVisibility": {
+        "choose": "Choose if a comment should be added to the issue",
+        "none": "No comment",
+        "internal": "Internal comment",
+        "public": "Customer comment",
+        "softwareAddComment": "Add comment",
+        "internalShort": "Internal",
+        "publicShort": "Public",
+        "softwareAddCommentShort": "With comment",
+        "tooltipExplanation": "Choose if a comment should be added",
+        "rememberUserChoice": "Remember last user choice"
+    },
+    "sharing": {
+        "privateLabel": "Private",
+        "azureTenantLabel": "Organization",
+        "atlassianCloudLabel": "Issue access",
+        "privateDescription": "Only I can see this conversation",
+        "agent": "agent",
+        "user": "user",
+        "azureTenantDescription": "Every {{user}} in my organization can see this conversation",
+        "atlassianCloudDescription": "Every {{user}} with access to this issue can see this conversation",
+        "sectionTitle": "Choose who should be able to see this conversation",
+        "triggerTooltip": "Choose who should be able to see this conversation"
+    },
     "sharingSettingsTab": {
         "sharingUserDefaultsHeading": "Configure user defaults",
         "sharingUserDefaultsDescription": "Which settings should users newly connecting to this instance get by default? They can change this later.",
@@ -85,7 +109,7 @@
         "messageConfirm": "Unlink this email",
         "conversationConfirm": "Unlink {{amount}} emails",
         "sendMail": "Send",
-        "sendMailLater": "Send later",
+        "sendMailLater": "Send at {{date}}",
         "sendToSender": "Email sender",
         "sendToAll": "Email all",
         "resetToDefault": "Reset to default",
