@@ -187,6 +187,8 @@
         "startNewTeamsConversation": "Neue Teams Konversation starten...",
         "unlinkConversation": "Konversation entknüpfen",
         "startConversation": "Konversation beginnen",
+        "startNewConversation": "Neue Konversation beginnen",
+        "replyInConversation": "In Konversation antworten",
         "noRelatedTeamsMessages": "Keine zugehörigen Teams Nachrichten",
         "noChatsOrConversations": "Noch keine Teams Chats oder Konversationen mit Vorgang verknüpft. Starte jetzt!",
         "welcomeToTeamsForJira": "Willkommen zu Microsoft Teams for Jira",

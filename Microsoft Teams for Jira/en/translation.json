@@ -187,6 +187,8 @@
         "startNewTeamsConversation": "Start a new Teams conversation...",
         "unlinkConversation": "Unlink conversation",
         "startConversation": "Start a conversation",
+        "startNewConversation": "Start new conversation",
+        "replyInConversation": "Reply in conversation",
         "noRelatedTeamsMessages": "No related Teams messages",
         "noChatsOrConversations": "There are no Teams chats or conversations linked to this issue yet. Start one now!",
         "welcomeToTeamsForJira": "Welcome to {{appName}}",
