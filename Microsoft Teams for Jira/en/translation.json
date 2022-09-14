@@ -189,6 +189,7 @@
         "startConversation": "Start a conversation",
         "startNewConversation": "Start new conversation",
         "replyInConversation": "Reply in conversation",
+        "replyInConversationTooltip": "This issue was already posted to this channel, you can reply in the existing conversation.",
         "noRelatedTeamsMessages": "No related Teams messages",
         "noChatsOrConversations": "There are no Teams chats or conversations linked to this issue yet. Start one now!",
         "welcomeToTeamsForJira": "Welcome to {{appName}}",

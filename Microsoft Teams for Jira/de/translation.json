@@ -189,6 +189,7 @@
         "startConversation": "Konversation beginnen",
         "startNewConversation": "Neue Konversation beginnen",
         "replyInConversation": "In Konversation antworten",
+        "replyInConversationTooltip": "Dieser Vorgang wurde bereits in den Kanal gepostet, du kannst in der bestehenden Konversation antworten.",
         "noRelatedTeamsMessages": "Keine zugehörigen Teams Nachrichten",
         "noChatsOrConversations": "Noch keine Teams Chats oder Konversationen mit Vorgang verknüpft. Starte jetzt!",
         "welcomeToTeamsForJira": "Willkommen zu Microsoft Teams for Jira",
