@@ -14,9 +14,12 @@
     },
     "delegatedMailboxesTab": {
         "projectHeading": "Vordefinierte delegierte Postfächer",
-        "projectDescription": "Hier konfigurierte Postfächer können vom Nutzer beim Senden einer E-Mail als Absender gewählt werden.",
+        "projectDescription": "Hier konfigurierte Postfächer können vom Nutzer beim Senden einer E-Mail als Absender gewählt werden. Dies beruht auf der gleichen Logik, die auch Outlook verwendet, wenn man das \"Von\"-Feld ändert und benötigt die entsprechenden Berechtigungen.",
+        "projectOnBehalfOfExplanation": "Weitere Informationen zu den Berechtigungen findest du in {link}.",
+        "microsoftDocLink": "der offiziellen Dokumentation von Microsoft",
         "globalHeading": "Vordefinierte delegierte Postfächer",
-        "globalDescription": "Hier konfigurierte Postfächer können vom Nutzer beim Senden einer E-Mail als Absender gewählt werden.",
+        "globalDescription": "Hier konfigurierte Postfächer können vom Nutzer beim Senden einer E-Mail als Absender gewählt werden. Dies beruht auf der gleichen Logik, die auch Outlook verwendet, wenn man das \"Von\"-Feld ändert und benötigt die entsprechenden Berechtigungen.",
+        "globalOnBehalfOfExplanation": "Weitere Informationen zu den Berechtigungen findest du in {link}.",
         "adminSettingOnlyTooltip": "Dieses Postfach kann nur auf der Adminseite angepasst werden",
         "addMailboxButton": "Weiteres Postfach hinzufügen"
     },
