@@ -1,23 +1,21 @@
 {
     "adminScreen": {
-        "templatesTabHeading": "Vorlagen",
-        "userDefaultsTabHeading": "Outlook Standardeinstellungen",
-        "userNotificationsTabHeading": "Outlook Nutzerinformation",
-        "technicalSettingsTabHeading": "Einstellungen",
-        "sharingSettingsTabHeading": "E-Mail Freigabe",
+        "templatesTabHeading": "Outlook Add-in Vorlagen",
+        "userNotificationsTabHeading": "Outlook Add-in Banner",
+        "outlookAddInSettingsTabHeading": "Outlook Add-in Einstellungen",
         "overviewTabHeading": "Übersicht",
-        "delegatedMailboxesTabHeading": "Delegierte Postfachberechtigungen",
+        "delegatedMailboxesTabHeading": "E-Mail-Versandeinstellungen",
         "helpTabHeading": "Hilfe"
     },
     "projectSettings": {
-        "userNotificationsTabHeading": "Outlook Nutzerinformation"
+        "userNotificationsTabHeading": "Outlook Add-in Banner"
     },
     "delegatedMailboxesTab": {
-        "projectHeading": "Vordefinierte delegierte Postfächer",
+        "projectHeading": "\"Im Namen von\"-Postfächer",
         "projectDescription": "Hier konfigurierte Postfächer können vom Nutzer beim Senden einer E-Mail als Absender gewählt werden. Dies beruht auf der gleichen Logik, die auch Outlook verwendet, wenn man das \"Von\"-Feld ändert und benötigt die entsprechenden Berechtigungen.",
         "projectOnBehalfOfExplanation": "Weitere Informationen zu den Berechtigungen findest du in {link}.",
         "microsoftDocLink": "der offiziellen Dokumentation von Microsoft",
-        "globalHeading": "Vordefinierte delegierte Postfächer",
+        "globalHeading": "\"Im Namen von\"-Postfächer",
         "globalDescription": "Hier konfigurierte Postfächer können vom Nutzer beim Senden einer E-Mail als Absender gewählt werden. Dies beruht auf der gleichen Logik, die auch Outlook verwendet, wenn man das \"Von\"-Feld ändert und benötigt die entsprechenden Berechtigungen.",
         "globalOnBehalfOfExplanation": "Weitere Informationen zu den Berechtigungen findest du in {link}.",
         "adminSettingOnlyTooltip": "Dieses Postfach kann nur auf der Adminseite angepasst werden",
@@ -55,8 +53,7 @@
         "triggerTooltip": "Wähle, wer diese Konversation sehen können soll"
     },
     "sharingSettingsTab": {
-        "sharingUserDefaultsHeading": "Anwenderstandards einstellen",
-        "sharingUserDefaultsDescription": "Welche Standardeinstellung sollen Nutzer erhalten, die sich neu mit dieser Instanz verbinden? Die Nutzer können diese anschließend ändern.",
+        "sharingUserDefaultsHeading": "E-Mail Freigabe",
         "sharingDescription": "Die Nutzer können ihre Konversationen aus Outlook freigeben und für Jira Benutzer verfügbar machen.",
         "visibilityHeading": "Freigabe von E-Mails aktivieren",
         "visibilityDescription": "Diese Funktion benötigt Microsoft 365.",

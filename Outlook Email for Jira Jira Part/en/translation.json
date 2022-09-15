@@ -1,23 +1,21 @@
 {
     "adminScreen": {
-        "templatesTabHeading": "Templates",
-        "userDefaultsTabHeading": "Outlook default settings",
-        "userNotificationsTabHeading": "Outlook user notification",
-        "technicalSettingsTabHeading": "Settings",
-        "sharingSettingsTabHeading": "Email sharing",
+        "templatesTabHeading": "Outlook add-in templates",
+        "userNotificationsTabHeading": "Outlook add-in banner",
+        "outlookAddInSettingsTabHeading": "Outlook add-in settings",
         "overviewTabHeading": "Getting started",
-        "delegatedMailboxesTabHeading": "Delegated mailboxes",
+        "delegatedMailboxesTabHeading": "Send email settings",
         "helpTabHeading": "Help"
     },
     "projectSettings": {
-        "userNotificationsTabHeading": "Outlook user notification"
+        "userNotificationsTabHeading": "Outlook add-in banner"
     },
     "delegatedMailboxesTab": {
-        "projectHeading": "Predefined delegated mailboxes",
+        "projectHeading": "\"on behalf of\" accounts",
         "projectDescription": "Mailboxes configured here can be selected as a sender when sending an email. This uses the same logic as if the \"From\" field is changed in Outlook and requires the correct permissions to be granted.",
         "projectOnBehalfOfExplanation": "For more information on these permissions see {link}.",
         "microsoftDocLink": "the official Microsoft documentation",
-        "globalHeading": "Predefined delegated mailboxes",
+        "globalHeading": "\"on behalf of\" accounts",
         "globalDescription": "Mailboxes configured here can be selected as a sender when sending an email. This uses the same logic as if the \"From\" field is changed in Outlook and requires the correct permissions to be granted.",
         "globalOnBehalfOfExplanation": "For more information on these permissions see {link}.",
         "adminSettingOnlyTooltip": "This mailbox can only be edited in the admin settings",
@@ -55,8 +53,7 @@
         "triggerTooltip": "Choose a time for the email to be sent"
     },
     "sharingSettingsTab": {
-        "sharingUserDefaultsHeading": "Configure user defaults",
-        "sharingUserDefaultsDescription": "Which settings should users newly connecting to this instance get by default? They can change this later.",
+        "sharingUserDefaultsHeading": "Email sharing",
         "sharingDescription": "Your users can share their Outlook conversations and make them accessible within the Jira issue.",
         "visibilityHeading": "Enable email & conversation sharing",
         "visibilityDescription": "This feature requires Microsoft 365.",
