@@ -265,13 +265,13 @@
         "active": "Aktiv",
         "displayName": "Vorlagenname",
         "createButton": "Erstellen",
-        "viewButton": "Anzeigen",
-        "editButton": "Ändern",
         "deleteButton": "Löschen",
         "cancelButton": "Abbrechen",
         "deleteTemplate": "Vorlage löschen",
         "deleteTemplateWarning": "Dies löscht die Vorlage unwiederruflich. Bist du sicher, dass du diese Vorlage löschen möchtest?",
-        "creator": "Ersteller"
+        "creator": "Ersteller",
+        "createEmail": "E-Mail",
+        "createTeams": "Teams (coming soon)"
     },
     "templateSingle": {
         "createSuccessTitle": "Vorlage erstellt",
@@ -281,7 +281,6 @@
         "pageHeading": "Templates",
         "createHeading": "Erstellen",
         "editHeading": "Ändern",
-        "viewHeading": "Anzeigen",
         "deActivateTemplate": "(De-)Aktivieren",
         "nameLabel": "Vorlagenname",
         "namePlaceholder": "Klicke, um einen Vorlagennamen einzugeben",
@@ -295,17 +294,14 @@
         "cancelButton": "Abbrechen",
         "saveButton": "Speichern"
     },
-    "selectCreateTemplateType": {
-        "heading": "Create template",
-        "email": "E-Mail",
-        "teams": "Teams",
-        "cancelButton": "Abbrechen"
-    },
     "templateEditor": {
         "actions": {
             "trigger": "Jira Details",
             "issueKey": "Issue Schlüssel",
             "issueKeyDescription": "Fügt den Jira Issue Schlüssel hinzu"
         }
+    },
+    "emojiPicker": {
+        "remove": "Emoji entfernen"
     }
 }
