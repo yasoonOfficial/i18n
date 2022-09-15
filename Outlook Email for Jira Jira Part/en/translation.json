@@ -50,6 +50,7 @@
     },
     "sendLater": {
         "sectionTitle": "Choose a time for the email to be sent",
+        "timePickerPlaceholder": "Please select a time",
         "description": "You can decide to send the email at a later time. It will be saved as a draft and sent at the specified time automatically by Outlook.",
         "triggerTooltip": "Choose a time for the email to be sent"
     },

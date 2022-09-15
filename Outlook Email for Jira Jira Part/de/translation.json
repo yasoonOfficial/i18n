@@ -38,6 +38,7 @@
     },
     "sendLater": {
         "sectionTitle": "Wähle, wann die E-Mail gesendet werden soll",
+        "timePickerPlaceholder": "Bitte wähle eine Zeit",
         "description": "Du kannst entscheiden, dass die E-Mail erst zu einem späteren Zeitpunkt verschickt werden soll. Die E-Mail wird dann als Entwurf gespeichert und zur gewählten Zeit automatisch von Outlook versendet.",
         "triggerTooltip": "Wähle, wann die E-Mail gesendet werden soll"
     },
