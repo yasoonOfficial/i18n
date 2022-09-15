@@ -12,11 +12,11 @@
     },
     "delegatedMailboxesTab": {
         "projectHeading": "\"Im Namen von\"-Postfächer",
-        "projectDescription": "Hier konfigurierte Postfächer können vom Nutzer beim Senden einer E-Mail als Absender gewählt werden. Dies beruht auf der gleichen Logik, die auch Outlook verwendet, wenn man das \"Von\"-Feld ändert und benötigt die entsprechenden Berechtigungen.",
-        "projectOnBehalfOfExplanation": "Weitere Informationen zu den Berechtigungen findest du in {link}.",
+        "projectDescription": "Hier konfigurierte Postfächer können vom Nutzer beim Senden einer E-Mail als Absender gewählt werden.",
+        "projectOnBehalfOfExplanation": "Dies beruht auf der gleichen Logik, die auch Outlook verwendet, wenn man das \"Von\"-Feld ändert und benötigt die entsprechenden Berechtigungen. Weitere Informationen zu den Berechtigungen findest du in {link}.",
         "microsoftDocLink": "der offiziellen Dokumentation von Microsoft",
         "globalHeading": "\"Im Namen von\"-Postfächer",
-        "globalDescription": "Hier konfigurierte Postfächer können vom Nutzer beim Senden einer E-Mail als Absender gewählt werden. Dies beruht auf der gleichen Logik, die auch Outlook verwendet, wenn man das \"Von\"-Feld ändert und benötigt die entsprechenden Berechtigungen.",
+        "globalDescription": "Dies beruht auf der gleichen Logik, die auch Outlook verwendet, wenn man das \"Von\"-Feld ändert und benötigt die entsprechenden Berechtigungen. Hier konfigurierte Postfächer können vom Nutzer beim Senden einer E-Mail als Absender gewählt werden.",
         "globalOnBehalfOfExplanation": "Weitere Informationen zu den Berechtigungen findest du in {link}.",
         "adminSettingOnlyTooltip": "Dieses Postfach kann nur auf der Adminseite angepasst werden",
         "addMailboxButton": "Postfach hinzufügen",
@@ -104,6 +104,7 @@
     },
     "actions": {
         "save": "Speichern",
+        "makeDefault": "Als Default verwenden",
         "cancel": "Abbrechen",
         "clear": "Löschen",
         "close": "Schließen",
