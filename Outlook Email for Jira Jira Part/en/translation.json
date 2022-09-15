@@ -44,6 +44,11 @@
         "sectionTitle": "Choose who should be able to see this conversation",
         "triggerTooltip": "Choose who should be able to see this conversation"
     },
+    "sendLater": {
+        "sectionTitle": "Choose a time for the email to be sent",
+        "description": "You can decide to send the email at a later time. It will be saved as a draft and sent at the specified time automatically by Outlook.",
+        "triggerTooltip": "Choose a time for the email to be sent"
+    },
     "sharingSettingsTab": {
         "sharingUserDefaultsHeading": "Configure user defaults",
         "sharingUserDefaultsDescription": "Which settings should users newly connecting to this instance get by default? They can change this later.",
@@ -98,6 +103,7 @@
     "actions": {
         "save": "Save",
         "cancel": "Cancel",
+        "clear": "Clear",
         "close": "Close",
         "login": "Login",
         "logout": "Logout",

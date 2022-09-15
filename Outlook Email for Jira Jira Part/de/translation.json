@@ -32,6 +32,11 @@
         "tooltipExplanation": "Wähle, ob ein Kommentar erstellt wird",
         "rememberUserChoice": "Letze Nutzerauswahl merken"
     },
+    "sendLater": {
+        "sectionTitle": "Wähle, wann die E-Mail gesendet werden soll",
+        "description": "Du kannst entscheiden, dass die E-Mail erst zu einem späteren Zeitpunkt verschickt werden soll. Die E-Mail wird dann als Entwurf gespeichert und zur gewählten Zeit automatisch von Outlook versendet.",
+        "triggerTooltip": "Wähle, wann die E-Mail gesendet werden soll"
+    },
     "sharing": {
         "privateLabel": "Privat",
         "azureTenantLabel": "Organisation",
@@ -98,6 +103,7 @@
     "actions": {
         "save": "Speichern",
         "cancel": "Abbrechen",
+        "clear": "Löschen",
         "close": "Schließen",
         "login": "Anmelden",
         "logout": "Abmelden",
