@@ -21,7 +21,8 @@
         "globalDescription": "Mailboxes configured here can be selected as a sender when sending an email. This uses the same logic as if the \"From\" field is changed in Outlook and requires the correct permissions to be granted.",
         "globalOnBehalfOfExplanation": "For more information on these permissions see {link}.",
         "adminSettingOnlyTooltip": "This mailbox can only be edited in the admin settings",
-        "addMailboxButton": "Add another mailbox"
+        "addMailboxButton": "Add mailbox",
+        "addAnotherMailboxButton": "Add another mailbox"
     },
     "commentVisibility": {
         "choose": "Choose if a comment should be added to the issue",

@@ -21,7 +21,8 @@
         "globalDescription": "Hier konfigurierte Postfächer können vom Nutzer beim Senden einer E-Mail als Absender gewählt werden. Dies beruht auf der gleichen Logik, die auch Outlook verwendet, wenn man das \"Von\"-Feld ändert und benötigt die entsprechenden Berechtigungen.",
         "globalOnBehalfOfExplanation": "Weitere Informationen zu den Berechtigungen findest du in {link}.",
         "adminSettingOnlyTooltip": "Dieses Postfach kann nur auf der Adminseite angepasst werden",
-        "addMailboxButton": "Weiteres Postfach hinzufügen"
+        "addMailboxButton": "Postfach hinzufügen",
+        "addAnotherMailboxButton": "Weiteres Postfach hinzufügen"
     },
     "commentVisibility": {
         "choose": "Wähle, ob ein Kommentar am Vorgang erstellt werden soll",
