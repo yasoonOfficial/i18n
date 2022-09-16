@@ -327,6 +327,10 @@
         "tooBigAttachmentsMessage": "It is currently only supported to upload attachments of up to ~2.5MB in total. We are working to also support larger attachments.",
         "saveTitle": "Failed to save settings"
     },
+    "flag": {
+        "successTitle": "Success",
+        "saveSuccessMessage": "Settings saved"
+    },
     "unlinkConfirmationDropdown": {
         "unlinkConversationDescription": "Unlink currently {{amount}} emails and all future replies.",
         "unlinkConversationDescriptionSingle": "Unlink currently 1 email and all future replies.",
