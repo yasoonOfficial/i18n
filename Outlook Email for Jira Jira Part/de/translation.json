@@ -10,6 +10,55 @@
     "projectSettings": {
         "userNotificationsTabHeading": "Outlook Add-in Banner"
     },
+    "templatesTab": {
+        "heading": "Vorlagen konfigurieren",
+        "descriptionP1": "Mit Outlook add-in Vorlagen kannst du bestimmen, welches Attribut der E-Mail in welches Feld des \"Neuen Vorgang erstellen\"-Dialogs in Outlook geladen wird.",
+        "descriptionP2": "Wenn du mehr Flexibilität benötigst, kannst du multiple Kontexte aktivieren, z.B. für einzelne Projekte.",
+        "enableContexts": "Kontexte aktivieren (für Experten)"
+    },
+    "fieldTemplate": {
+        "heading": "Vorlagen",
+        "variables": "Variablen",
+        "columnFieldName": "Feldname",
+        "columnMapping": "Verknüpfung",
+        "columnMoreActions": "Aktionen",
+        "addNewFieldPlaceholder": "Neues Feld hinzufügen"
+    },
+    "appLink": {
+        "configureHeading": "Anwendungsverknüpfungen konfigurieren",
+        "description": "Um dem Outlook Add-in eine sichere Verbindung zu Jira zu ermöglichen, empfehlen wir nachdrücklich, eine Anwendungsverknüpfung zu verwenden. Falls hierbei Zweifel aufkommen sollten, oder du Hilfe benötigst, findest du diese in unserer Dokumentation.",
+        "configuredCorrectly": "Die Anwendungsverknüpfung ist korrekt konfiguriert.",
+        "notConfiguredCorrectly": "Die Anwendungsverknüpfung ist nicht korrekt konfiguriert!",
+        "copyUrlText": "Bitte kopiere die folgende URL und verwende sie um eine neue Anwendungsverknüpfung zu erstellen.",
+        "step1": "1. URL der Anwendungsverknüpfung kopieren",
+        "step2": "2. Anwendungsverknüpfung erstellen",
+        "create": "Anwendungsverknüpfung erstellen"
+    },
+    "addInInstructions": {
+        "heading": "Outlook Add-in Anleitung",
+        "description": "Diese App stellt euch zwei verschiedene Typen von Outlook Add-ins zur Verfügung, die auf verschiedenen Technologien und Voraussetzungen basieren. Um aus Outlook heraus Jira-Funktionalitäten verwenden zu können, musst du eines der beiden folgenden Add-ins in Outlook installieren.",
+        "helpMeChoose": "Hilf mir bei der Auswahl",
+        "featureComparison": "Feature-Vergleich",
+        "dialogHeading": "Add-in Kompatibilität prüfen",
+        "dialogDescription": "Bitte wähle deine Outlookumgebung, damit wir das für dich am besten passende Add-in bestimmen können."
+    },
+    "standardAddin": {
+        "officeAddIn": "Office Add-in",
+        "recommended": "Empfohlen",
+        "description": "Das Office Add-in läuft in allen modernen Versionen von Outlook auf allen Geräten - Windows, MacOS, Web & Mobile. Es ist einfacher auszurollen und stabiler - funktioniert am besten mit Office 365 / Microsoft 365. Bitte prüfe die Dokumentation für detaillierte technische Voraussetzungen.",
+        "appSource": "Von AppSource erhalten",
+        "compatibleDescription": "Deine Outlookumgebung sollte kompatibel sein.",
+        "probablyCompatibleDescription": "Gemäß Microsoft sollte deine Outlookumgebung kompatibel sein, aber wir hatten auch schon Kunden, die in dieser Umgebung Problemen hatten. Unser Ratschlag: Versuche, ob es funktioniert, ansonsten nimm das andere Add-in.",
+        "moreOptions": "Zeige mir weitere Bereitstellungsoptionen"
+    },
+    "comAddin": {
+        "comAddin": "COM Add-in",
+        "windowsOnly": "Nur für Windows",
+        "description": "Die klassische Version unseres Add-ins. Es verwendet native Technologien und ist nur verfügbar für Windows. es ist eine .exe/.msi die auf jedem Computer installiert werden muss. Es enthält alle Features des Office Add-ins, aber unterstützt auch ältere Outlook-Versionen (2010 und neuer).",
+        "downloadInstallerExe": "Installer (.exe) herunterladen",
+        "compatibleDescription": "Deine Outlookumgebung sollte kompatibel sein.",
+        "moreOptions": "Weitere Optionen"
+    },
     "delegatedMailboxesTab": {
         "projectHeading": "\"Im Namen von\"-Postfächer",
         "projectDescription": "Hier konfigurierte Postfächer können vom Nutzer beim Senden einer E-Mail als Absender gewählt werden.",
@@ -53,15 +102,15 @@
         "triggerTooltip": "Wähle, wer diese Konversation sehen können soll"
     },
     "sharingSettingsTab": {
-        "sharingUserDefaultsHeading": "E-Mail Freigabe",
-        "sharingDescription": "Die Nutzer können ihre Konversationen aus Outlook freigeben und für Jira Benutzer verfügbar machen.",
-        "visibilityHeading": "Freigabe von E-Mails aktivieren",
+        "sharingUserDefaultsHeading": "E-Mails in Jira",
+        "sharingDescription": "Die Nutzer können E-Mails aus Jira versenden und ihre Konversationen aus Outlook freigeben.",
+        "visibilityHeading": "E-Mails in Jira",
         "visibilityDescription": "Diese Funktion benötigt Microsoft 365.",
         "activate": "Manuell aktivieren",
         "deactivate": "Automatische Erkennung deaktivieren",
         "autoDetected": "Sie wurde automatisch aktiviert, da wir Microsoft 365 erkannt haben.",
         "readyForAutoDetect": "Sie wird automatisch aktiviert, sobald wir Microsoft 365 erkennen.",
-        "globalVisibilityLabel": "Freigabe von E-Mails erlaubt"
+        "globalVisibilityLabel": "Freigabe und Versand von E-Mails erlauben"
     },
     "userDefaultsTab": {
         "heading": "Outlook Standardeinstellungen konfigurieren",
@@ -104,7 +153,13 @@
     },
     "actions": {
         "save": "Speichern",
-        "makeDefault": "Als Default verwenden",
+        "makeDefault": "Als Projektstandard verwenden",
+        "learnMore": "Mehr erfahren",
+        "goToConfiguration": "Zu den Einstellungen",
+        "detailedInstructions": "Detaillierte Anleitung",
+        "showInstructions": "Anleitung anzeigen",
+        "checkAgain": "Erneut prüfen",
+        "apply": "Anwenden",
         "cancel": "Abbrechen",
         "clear": "Löschen",
         "close": "Schließen",

@@ -10,6 +10,55 @@
     "projectSettings": {
         "userNotificationsTabHeading": "Outlook add-in banner"
     },
+    "templatesTab": {
+        "heading": "Configure templates",
+        "descriptionP1": "With Outlook add-in templates you can define which email attribute will be mapped to which field of the \"Create new issue\" screen in Outlook.",
+        "descriptionP2": "If you need more flexibility, you can enable multiple contexts e.g. for specific projects.",
+        "enableContexts": "Enable contexts (advanced)"
+    },
+    "fieldTemplate": {
+        "heading": "Templates",
+        "variables": "variables",
+        "columnFieldName": "Field name",
+        "columnMapping": "Mapping",
+        "columnMoreActions": "More actions",
+        "addNewFieldPlaceholder": "Add new field"
+    },
+    "appLink": {
+        "configureHeading": "Configure Application Link",
+        "description": "To allow the Outlook add-in to connect to Jira in a secure way, it is strongly recommended to use an Application Link. Please check our documentation, in case you have doubts or need help.",
+        "configuredCorrectly": "The Application Link is configured correctly.",
+        "notConfiguredCorrectly": "The Application Link is not configured correctly!",
+        "copyUrlText": "Please copy the following URL and use it to create a new Application Link.",
+        "step1": "1. Copy Application Link URL",
+        "step2": "2. Create Application Link",
+        "create": "Create Application Link"
+    },
+    "addInInstructions": {
+        "heading": "Outlook add-in instructions",
+        "description": "The app provides two different types of Outlook add-ins based on different technologies and requirements. To use Jira functionality in Outlook, you'll need to install one of the following add-ins in your Outlook.",
+        "helpMeChoose": "Help me choose",
+        "featureComparison": "Feature comparison",
+        "dialogheading": "Check add-in compatibility",
+        "dialogDescription": "Please choose your environment to determine the most fitting Outlook add-in version."
+    },
+    "standardAddin": {
+        "officeAddIn": "Office add-in",
+        "recommended": "Recommended",
+        "description": "The Office add-in works on all modern versions of Outlook, across all devices - Windows, MacOS, Web & mobile. It's easier to deploy and more stable - works best with Office 365 / Microsoft 365. Please check the documentation for detailed technical requirements.",
+        "appSource": "Get it from AppSource",
+        "compatibleDescription": "Your environment should be compatible.",
+        "probablyCompatibleDescription": "According to Microsoft, your environment should be compatible, but we have customers who had issues with it. Our advice: Just try if it works, otherwise please use the other add-in.",
+        "moreOptions": "Show more deployment options"
+    },
+    "comAddin": {
+        "comAddin": "COM add-in",
+        "windowsOnly": "Windows only",
+        "description": "The classic version of our add-in. It uses a native technology and is only available for Windows. It is a .exe/.msi that needs to be installed on every computer. It contains all of the features of the Office add-in, but supports older Outlook versions as well (2010 and later).",
+        "downloadInstallerExe": "Download Installer (.exe)",
+        "compatibleDescription": "Your environment should be compatible.",
+        "moreOptions": "More options"
+    },
     "delegatedMailboxesTab": {
         "projectHeading": "\"On behalf of\" accounts",
         "projectDescription": "Mailboxes configured here can be selected as a sender when sending an email.",
@@ -53,15 +102,15 @@
         "triggerTooltip": "Choose a time for the email to be sent"
     },
     "sharingSettingsTab": {
-        "sharingUserDefaultsHeading": "Email sharing",
-        "sharingDescription": "Your users can share their Outlook conversations and make them accessible within the Jira issue.",
-        "visibilityHeading": "Enable email & conversation sharing",
+        "sharingUserDefaultsHeading": "Emails in Jira",
+        "sharingDescription": "Your users can send emails from Jira and share their Outlook conversations.",
+        "visibilityHeading": "Emails in Jira",
         "visibilityDescription": "This feature requires Microsoft 365.",
         "activate": "Enable manually",
         "deactivate": "Turn off auto-detect",
         "autoDetected": "It has been automatically enabled, as we detected you are using Microsoft 365.",
         "readyForAutoDetect": "It will be enabled automatically when we detect Microsoft 365.",
-        "globalVisibilityLabel": "Allow email sharing"
+        "globalVisibilityLabel": "Allow email sending & sharing"
     },
     "userDefaultsTab": {
         "heading": "Configure user defaults",
@@ -104,7 +153,13 @@
     },
     "actions": {
         "save": "Save",
-        "makeDefault": "Make default",
+        "makeDefault": "Make project default",
+        "learnMore": "Learn more",
+        "goToConfiguration": "Go to configuration",
+        "detailedInstructions": "Detailed instructions",
+        "showInstructions": "Show instructions",
+        "checkAgain": "Check again",
+        "apply": "Apply",
         "cancel": "Cancel",
         "clear": "Clear",
         "close": "Close",
