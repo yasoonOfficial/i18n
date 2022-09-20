@@ -154,6 +154,7 @@
     "actions": {
         "save": "Save",
         "makeDefault": "Make project default",
+        "removeDefault": "Remove project default",
         "learnMore": "Learn more",
         "goToConfiguration": "Go to configuration",
         "detailedInstructions": "Detailed instructions",

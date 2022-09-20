@@ -154,6 +154,7 @@
     "actions": {
         "save": "Speichern",
         "makeDefault": "Als Projektstandard verwenden",
+        "removeDefault": "Projektstandard entfernen",
         "learnMore": "Mehr erfahren",
         "goToConfiguration": "Zu den Einstellungen",
         "detailedInstructions": "Detaillierte Anleitung",
