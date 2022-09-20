@@ -292,13 +292,28 @@
         "invalidFormTooltip": "Bitte fülle die Pflichtfelder aus.",
         "backButton": "Zurück zur Übersicht",
         "cancelButton": "Abbrechen",
-        "saveButton": "Speichern"
+        "saveButton": "Speichern",
+        "subjectTooltip": "Handlebar-Syntax kann verwendet werden. (z.B. {{issue.key}})"
     },
     "templateEditor": {
         "actions": {
-            "trigger": "Jira Details",
+            "trigger": "Issue Details",
             "issueKey": "Issue Schlüssel",
-            "issueKeyDescription": "Fügt den Jira Issue Schlüssel hinzu"
+            "issueKeyDescription": "Fügt den Issue Schlüssel hinzu",
+            "issueSummary": "Issue Zusammenfassung",
+            "issueSummaryDescription": "Fügt die Issue Zusammenfassung hinzu",
+            "issueCreatedDate": "Issue Erstelldatum",
+            "issueCreatedDateDescription": "Fügt das Issue Erstelldatum hinzu",
+            "issueDueDate": "Issue Fälligkeitsdatum",
+            "issueDueDateDescription": "Fügt das Issue Fälligkeitsdatum hinzu",
+            "issueCreator": "Issue Ersteller",
+            "issueCreatorDescription": "Fügt den Namen des Issue Erstellers hinzu",
+            "issueReporter": "Issue Reporter",
+            "issueReporterDescription": "Fügt den Namen des Issue Reporters hinzu",
+            "issueAssignee": "Issue Bearbeiter",
+            "issueAssigneeDescription": "Fügt den Namen des Issue Bearbeiters hinzu",
+            "browseUrl": "Browse URL",
+            "browseUrlDescription": "Fügt eine URL zum Issue hinzu"
         }
     },
     "emojiPicker": {

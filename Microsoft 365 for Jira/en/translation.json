@@ -550,13 +550,28 @@
         "invalidFormTooltip": "Please fill out the required fields.",
         "backButton": "Back to overview",
         "cancelButton": "Cancel",
-        "saveButton": "Save"
+        "saveButton": "Save",
+        "subjectTooltip": "Handlebar syntax can be used. (e.g. {{issue.key}})"
     },
     "templateEditor": {
         "actions": {
-            "trigger": "Jira details",
+            "trigger": "Issue details",
             "issueKey": "Issue key",
-            "issueKeyDescription": "Adds the Jira issue key"
+            "issueKeyDescription": "Adds the issue key",
+            "issueSummary": "Issue summary",
+            "issueSummaryDescription": "Adds the issue summary",
+            "issueCreatedDate": "Issue created date",
+            "issueCreatedDateDescription": "Adds the issue created date",
+            "issueDueDate": "Issue due date",
+            "issueDueDateDescription": "Adds the issue due date",
+            "issueCreator": "Issue creator",
+            "issueCreatorDescription": "Adds the issue creator's name",
+            "issueReporter": "Issue reporter",
+            "issueReporterDescription": "Adds the issue reporter's name",
+            "issueAssignee": "Issue assignee",
+            "issueAssigneeDescription": "Adds the issue assignee's name",
+            "browseUrl": "Browse URL",
+            "browseUrlDescription": "Adds a URL to the issue"
         }
     },
     "emojiPicker": {

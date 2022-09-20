@@ -204,14 +204,14 @@
         "description": "Looks like you are using this feature for the very first time. Please login with your Microsoft 365 account to get started!",
         "bundleHeader": "Welcome to Microsoft 365 for Jira"
     },
-	"officeLoginMSALScreen": {
-		"heading": "Re-authenticate Microsoft login",
-		"descriptionFirstLine": "You need to re-authenticate. This is probably caused by your browser settings.",
-		"descriptionSecondLine": "{link}",
-		"docLink": "Show me how to fix this",
-		"loginDisabledHint": "Please log-in to Jira first",
-		"reAuthenticateButtonLabel": "Re-authenticate"
-	},
+    "officeLoginMSALScreen": {
+        "heading": "Re-authenticate Microsoft login",
+        "descriptionFirstLine": "You need to re-authenticate. This is probably caused by your browser settings.",
+        "descriptionSecondLine": "{link}",
+        "docLink": "Show me how to fix this",
+        "loginDisabledHint": "Please log-in to Jira first",
+        "reAuthenticateButtonLabel": "Re-authenticate"
+    },
     "sendMailDialog": {
         "subjectPlaceholder": "Enter a subject",
         "subjectLabel": "Subject",
@@ -354,5 +354,12 @@
         "sendMailDoc": "Documentation",
         "contactUs": "Contact us",
         "getOutlookAddIn": "Get the Outlook add-in"
+    },
+    "templatePicker": {
+        "recents": "Recents",
+        "others": "Others",
+        "templateButton": "Templates",
+        "noTemplatesGlobalAdminTooltip": "No templates have been configured yet. You can create new templates in the global app settings or project settings.",
+        "noTemplatesProjectAdminTooltip": "No templates have been configured yet. You can create new templates for your project in the project settings."
     }
 }
