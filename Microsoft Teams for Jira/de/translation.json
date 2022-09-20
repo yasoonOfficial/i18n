@@ -335,7 +335,9 @@
             "surprised": "Überrascht-Reaktion",
             "sad": "Traurig-Reaktion",
             "angry": "Zornig-Reaktion"
-        }
+        },
+        "soloChatHeader": "Du bist allein in diesem Chat.",
+        "soloChatDetails": "Scheint so als konnten manche Teilnehmer nicht hinzugefügt werden."
     },
     "teams": {
         "loadingIssues": "Lade Vorgänge...",

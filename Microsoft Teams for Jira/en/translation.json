@@ -335,7 +335,9 @@
             "surprised": "Surprised reaction",
             "sad": "Sad reaction",
             "angry": "Angry reaction"
-        }
+        },
+        "soloChatHeader": "You are alone in this chat.",
+        "soloChatDetails": "Seems like some members could not be added."
     },
     "teams": {
         "loadingIssues": "Loading issues...",
