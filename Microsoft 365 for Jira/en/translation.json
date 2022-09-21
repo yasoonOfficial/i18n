@@ -528,7 +528,7 @@
         "deleteTemplate": "Delete template",
         "deleteTemplateWarning": "This will delete the template permanently. Are you sure you want to delete this template?",
         "creator": "Creator",
-        "createEmail": "E-Mail",
+        "createEmail": "Email",
         "createTeams": "Teams (coming soon)"
     },
     "templateSingle": {
@@ -551,7 +551,7 @@
         "backButton": "Back to overview",
         "cancelButton": "Cancel",
         "saveButton": "Save",
-        "subjectTooltip": "Handlebar syntax can be used. (e.g. {{issue.key}})"
+        "subjectTooltip": "Handlebar syntax can be used, e.g. {{issue.key}}"
     },
     "templateEditor": {
         "actions": {

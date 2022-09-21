@@ -293,7 +293,7 @@
         "backButton": "Zurück zur Übersicht",
         "cancelButton": "Abbrechen",
         "saveButton": "Speichern",
-        "subjectTooltip": "Handlebar-Syntax kann verwendet werden. (z.B. {{issue.key}})"
+        "subjectTooltip": "Handlebar-Syntax kann verwendet werden, z.B. {{issue.key}}"
     },
     "templateEditor": {
         "actions": {
