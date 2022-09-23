@@ -260,6 +260,7 @@
     "templateListScreen": {
         "deleteSuccessTitle": "Vorlage gelöscht",
         "deleteSuccessMessage": "Die Vorlage wurde erfolgreich gelöscht.",
+        "deleteErrorTitle": "Vorlage konnte nicht gelöscht werden",
         "pageHeading": "Vorlagen",
         "description": "Verwalte Vorlagen zur bequemen Verwendung in Kommunikationsdialogen.",
         "active": "Aktiv",
@@ -271,13 +272,18 @@
         "deleteTemplateWarning": "Dies löscht die Vorlage unwiederruflich. Bist du sicher, dass du diese Vorlage löschen möchtest?",
         "creator": "Ersteller",
         "createEmail": "E-Mail",
-        "createTeams": "Teams (coming soon)"
+        "createTeams": "Teams (coming soon)",
+        "fetchErrorTitle": "Vorlagen konnte nicht geladen werden",
+        "changeActiveErrorTitle": "Vorlage konnte nicht geändert werden"
     },
     "templateSingle": {
+        "fetchErrorTitle": "Vorlage konnte nicht geladen werden",
         "createSuccessTitle": "Vorlage erstellt",
         "createSuccessMessage": "Die Vorlage wurde erfolgreich erstellt.",
+        "createErrorTitle": "Vorlage konnte nicht erstellt werden",
         "updateSuccessTitle": "Vorlage gespeichert",
         "updateSuccessMessage": "Die Vorlage wurde erfolgreich gespeichert.",
+        "updateErrorTitle": "Vorlage konnte nicht gespeichert werden",
         "pageHeading": "Templates",
         "createHeading": "Erstellen",
         "editHeading": "Ändern",
