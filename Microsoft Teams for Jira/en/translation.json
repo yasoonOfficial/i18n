@@ -450,7 +450,9 @@
         "hasBeenAddedToChannel": "Board has been added to Teams in channel",
         "viewInTeams": "View board in Teams",
         "addToAnotherChannel": "Add to another channel",
-        "setup": "Set up"
+        "setup": "Set up",
+        "instructions1": "You can add this board view to Teams as a tab via 'Smart Connect for Jira'.",
+        "instructions2": "Select a Teams channel and configure the tab to start using boards in Teams."
     },
     "support": {
         "faq": "FAQ",
