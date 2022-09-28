@@ -46,7 +46,9 @@
         "submit": "Submit",
         "submitting": "Submitting",
         "dismiss": "Dismiss",
-        "wrongSystem": "Incompatible Jira instance"
+        "wrongSystem": "Incompatible Jira instance",
+        "decline": "Decline",
+        "approve": "Approve"
     },
     "error": {
         "serverNotSupported": "Jira Server is not supported yet",
@@ -143,7 +145,8 @@
         "raisedThis": "raised this",
         "relatedChats": "Related chats",
         "optionalComment": "Optional comment",
-        "attachmentsNotice": "See attachments below"
+        "attachmentsNotice": "See attachments below",
+        "approvalRequired": "This request requires your approval"
     },
     "sharing": {
         "private": "Private",

@@ -46,7 +46,9 @@
         "submit": "Erstellen",
         "submitting": "Erstellen",
         "dismiss": "Nicht mehr anzeigen",
-        "wrongSystem": "Inkompatible Jira Instanz"
+        "wrongSystem": "Inkompatible Jira Instanz",
+        "decline": "Ablehnen",
+        "approve": "Genehmigen"
     },
     "error": {
         "serverNotSupported": "Jira Server wird noch nicht unterstützt",
@@ -143,7 +145,8 @@
         "raisedThis": "hat diese Anfrage gestellt: ",
         "relatedChats": "Verknüpfte Chats",
         "optionalComment": "Optionales Kommentar",
-        "attachmentsNotice": "Dateianhänge unten einsehbar"
+        "attachmentsNotice": "Dateianhänge unten einsehbar",
+        "approvalRequired": "Diese Anfrage benötigt deine Genehmigung"
     },
     "sharing": {
         "private": "Privat",
