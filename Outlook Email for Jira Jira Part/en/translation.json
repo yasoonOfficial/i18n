@@ -174,7 +174,7 @@
         "messageConfirm": "Unlink this email",
         "conversationConfirm": "Unlink {{amount}} emails",
         "sendMail": "Send",
-        "sendMailLater": "Send at {{date}}",
+        "sendMailLater": "Send {{date}}",
         "sendToSender": "Email sender",
         "sendToAll": "Email all",
         "resetToDefault": "Reset to default",
