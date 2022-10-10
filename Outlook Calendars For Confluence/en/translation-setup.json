@@ -7,5 +7,6 @@
     "atlassianConnect.configureOutlookCalendars": "Configure outlook calendars",
     "atlassianConnect.outlookCalendar": "Outlook calendar",
     "atlassianConnect.pageCalendarSettings": "Page calendar settings",
-    "atlassianConnect.addMacroDescription": "Adds a configurable Outlook calendar to display Office and Jira calendars within the current page."
+    "atlassianConnect.addMacroDescription": "Adds a configurable Outlook calendar to display Office and Jira calendars within the current page.",
+    "atlassianConnect.addMacroDescriptionOld": "Please do not use it anymore. Use the new calendar macro instead."
 }

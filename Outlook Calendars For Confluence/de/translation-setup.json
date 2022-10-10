@@ -7,5 +7,6 @@
     "atlassianConnect.configureOutlookCalendars": "Konfiguriere Outlook Calendars",
     "atlassianConnect.outlookCalendar": "Outlook Kalender",
     "atlassianConnect.pageCalendarSettings": "Makro-Kalender Einstellungen",
-    "atlassianConnect.addMacroDescription": "Fuegt einen konfigurierbaren Outlook Kalender hinzu, um Office und Jira-Kalender auf der aktuellen Seite anzuzeigen."
+    "atlassianConnect.addMacroDescription": "Fuegt einen konfigurierbaren Outlook Kalender hinzu, um Office und Jira-Kalender auf der aktuellen Seite anzuzeigen.",
+    "atlassianConnect.addMacroDescriptionOld": "Bitte nicht mehr verwenden. Nutze stattdessen das neue Kalender Makro."
 }
