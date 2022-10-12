@@ -279,7 +279,7 @@
         "to": "To: ",
         "subject": "Subject: ",
         "attachments": "Attachments: ",
-        "imageRemoved": "Please open the email to see this image",
+        "imageRemoved": "[Image Removed - Open the email to see this image]",
         "emailAddedPhrase": "An email has been sent for this issue:"
     },
     "helpTab": {

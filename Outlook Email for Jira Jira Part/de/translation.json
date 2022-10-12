@@ -279,7 +279,7 @@
         "to": "An: ",
         "subject": "Betreff: ",
         "attachments": "Anhänge: ",
-        "imageRemoved": "Um dieses Bild zu sehen, öffne bitte die E-Mail",
+        "imageRemoved": "[Bild entfernt - Öffne bitte die E-Mail um dieses Bild zu sehen]",
         "emailAddedPhrase": "Zu diesem Vorgang wurde eine E-Mail gesendet:"
     },
     "helpTab": {
