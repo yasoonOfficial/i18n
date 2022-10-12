@@ -254,7 +254,10 @@
         "creatorHeader": "Creator",
         "statusHeader": "Status",
         "createButton": "Create trigger",
-        "deleteButton": "Delete trigger"
+        "deleteButton": "Delete trigger",
+        "emptyStateHeading": "You haven't configured any triggers yet.",
+        "emptyStateDescription": "You haven't configured any triggers yet.",
+        "learnMore": "Learn more"
     },
     "templateScreen": {
         "backButton": "Back to overview"
@@ -382,7 +385,8 @@
             "failed": "Failed",
             "retrying": "Retrying",
             "success": "Success"
-        }
+        },
+        "emptyState": "No action/trigger runs yet."
     },
     "chatAccess": {
         "chooseChatPermissions": "Choose who should be able to view this chat in Jira",
