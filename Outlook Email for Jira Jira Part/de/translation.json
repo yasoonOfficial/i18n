@@ -116,7 +116,7 @@
         "heading": "Outlook Standardeinstellungen konfigurieren",
         "generalSettingsHeading": "Allgemeine Einstellungen",
         "language": "Sprache",
-        "languageSelectPlaceholder": "Auswählen...",
+        "languageSelectPlaceholder": "Auswählen ...",
         "remoteDebug": "Bildschirm aufnehmen (für Support)",
         "descriptionSettingsHeading": "Vorgangsbeschreibung",
         "addToIssueDescription": "Was soll beim Hinzufügen zu einem Vorgang in den Kommentar eingefügt werden?",
@@ -223,7 +223,7 @@
         "replyPrefix": "AW: ",
         "regardingIssue": "Betreffend {{issueKey}}",
         "recipientsPlaceholder": "Keine Ergebnisse",
-        "recipientsNoOptionsMessage": "Zum Suchen tippen...",
+        "recipientsNoOptionsMessage": "Zum Suchen tippen ...",
         "replyHeading": "Auf diese E-Mail antworten",
         "replyBodyLabel": "Antwort",
         "bodyLabel": "E-Mail",
@@ -243,7 +243,7 @@
     },
     "shareItemSettings": {
         "heading": "Sharing-Einstellungen",
-        "learnMore": "Mehr erfahren...",
+        "learnMore": "Mehr erfahren ...",
         "saveAsDefault": "Als Standard übernehmen"
     },
     "sharePermissionTypeSettings": {

@@ -88,7 +88,7 @@
     },
     "userAvatarList": {
         "configureParticipantsLabel": "Teilnehmer*innen konfigurieren",
-        "configureButtonLabel": "Konfigurieren...",
+        "configureButtonLabel": "Konfigurieren ...",
         "noUsersPlaceholder": "Teilnehmer*innen auswählen, um Verfügbarkeiten zu sehen."
     },
     "adminSettingsScreen": {
@@ -105,7 +105,7 @@
         "advancedSettingsHeading": "Erweiterte Verbindungseinstellungen",
         "customADAppHeading": "Benutzerdefinierte AzureAD App-Registrierung",
         "customADAppDescription": "Mit dieser Einstellung kannst du eine benutzerdefinierte, selbst gehostete AzureAD Enterprise App-Registrierung verwenden",
-        "customADAppLinkLabel": "More...",
+        "customADAppLinkLabel": "More ...",
         "clientIdFieldLabel": "Client Id",
         "clientIdFieldPlaceholder": "Geben Sie die Client Id ein",
         "tenantIdFieldLabel": "Tenant Id",
@@ -187,7 +187,7 @@
         "additionalInvalidNoJson": "Zusätzliche Konfiguration muss im JSON Format sein",
         "additionalInvalidNoArray": "Zusätzliche Konfiguration muss im Array Format sein",
         "saveButtonLabel": "Speichern",
-        "statusLozengeInprogress": "Speichern der Einstellungen...",
+        "statusLozengeInprogress": "Speichern der Einstellungen ...",
         "statusLozengeSuccess": "Einstellungen gespeichert",
         "statusLozengeRemoved": "Fehler beim Speichern"
     },

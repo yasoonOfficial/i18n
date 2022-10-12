@@ -1,6 +1,6 @@
 {
 	"loadingScreen": {
-		"loading": "Loading..."
+		"loading": "Loading ..."
 	},
 	"addInstanceScreen": {
 		"heading": "Connect to Confluence",
@@ -161,7 +161,7 @@
 		"recentTemplates": "Recent Templates"
 	},
 	"agendaItem": {
-		"addTitle": "Add a title..."
+		"addTitle": "Add a title ..."
 	},
 	"durationPicker": {
 		"duration": "Duration",
@@ -220,25 +220,25 @@
 		"readyToUse": "Ready to use",
 		"errorMessage": "Something went wrong",
 		"troubleshootIssues": "Troubleshoot issues",
-		"publicBaseUrl": "Public Base Url",
-		"externalServerUID": "External Server ID",
+		"publicBaseUrl": "Public base url",
+		"externalServerUID": "External server ID",
 		"connectivityTitle": "Connectivity",
 		"confirmModalText": "Please enter the url under which your Confluence system is reachable from the internet. If you change the existing public base url of your system, all users will be logged out of the current instance.",
 		"confirmModalHeading": "Heads up 👋",
 		"connectPublicUrlButton": "Connect",
 		"applyButton": "Okay",
 		"cancelButton": "Cancel",
-		"loadingFlagButton": "Taking to long?",
+		"loadingFlagButton": "Taking too long?",
 		"loadingHeader": "Checking if the app is functioning properly",
 		"loadingMessage": "Sit back and let us do the work, or get yourself a coffee ☕️",
 		"publicUrlTooltip": "This is the public reachable url of you Confluence Server instance"
 	},
 	"meetingAgendaMacro": {
 		"title": "Title",
-		"addTitle": "Add Title...",
+		"addTitle": "Add title ...",
 		"description": "Description",
-		"addDescription": "Add Description...",
-		"addAgendaItem": "Add a agenda item...",
+		"addDescription": "Add description ...",
+		"addAgendaItem": "Add a agenda item ...",
 		"noItemsMessage": "This meeting notes page has no items. You can add items by editing the macro. If you need futher help ",
 		"documentationLink": " have a look at our documentation"
 	},
@@ -251,9 +251,9 @@
 		"helpText": "Need help?"
 	},
 	"instanceChooser": {
-		"heading": "Confluence Instance",
-		"subHeading": "Please select the Confluence Instance you would like to connect to.",
-		"instanceLabel": "Select Confluence Instance",
+		"heading": "Confluence instance",
+		"subHeading": "Please select the Confluence instance you would like to connect to.",
+		"instanceLabel": "Select Confluence instance",
 		"addInstanceButton": "Add another",
 		"disabledTooltip": "Please install the corresponding Confluence app first.",
 		"activeTooltip": "Click to connect"

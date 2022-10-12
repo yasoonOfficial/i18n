@@ -116,7 +116,7 @@
         "heading": "Configure user defaults",
         "generalSettingsHeading": "General settings",
         "language": "Language",
-        "languageSelectPlaceholder": "Select...",
+        "languageSelectPlaceholder": "Select ...",
         "remoteDebug": "Record screen (for remote debug purposes)",
         "descriptionSettingsHeading": "Description",
         "addToIssueDescription": "When adding to an issue, what should be filled into the comment?",
@@ -221,7 +221,7 @@
         "recipientsLabel": "To",
         "ccRecipientsLabel": "Cc",
         "bccRecipientsLabel": "Bcc",
-        "recipientsPlaceholder": "Type to search...",
+        "recipientsPlaceholder": "Type to search ...",
         "recipientsNoOptionsMessage": "No matching options",
         "regardingIssue": "Regarding {{issueKey}}",
         "replyHeading": "Reply to this mail",
@@ -243,7 +243,7 @@
     },
     "shareItemSettings": {
         "heading": "Sharing settings",
-        "learnMore": "Learn more...",
+        "learnMore": "Learn more ...",
         "saveAsDefault": "Save this as default"
     },
     "sharePermissionTypeSettings": {

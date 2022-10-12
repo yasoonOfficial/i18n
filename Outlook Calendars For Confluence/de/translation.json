@@ -128,7 +128,7 @@
         "successFlagTitle": "Konfiguration erfolgreich erkannt",
         "notWorking": "Sollte etwas schiefgegangen sein, melde dich einfach bei uns!",
         "errorIconLabel": "Info",
-        "determineErrorFlagDescription": "Wir konnten deine Konfiguration nicht erfolgreich ermitteln...",
+        "determineErrorFlagDescription": "Wir konnten deine Konfiguration nicht erfolgreich ermitteln ...",
         "unsupportedExchangeErrorFlagDescription": "Leider verwendest du einen nicht kompatiblem Exchange Server!",
         "invalidCredentialsErrorFlagDescription": "Eventuell hast du eine ungültige Kombination aus E-Mail-Adresse, Benutzername und Passwort eingegeben!",
         "tryAgainLabel": "Erneut versuchen",
@@ -342,7 +342,7 @@
         "jqlTextareaPlaceholder": "Bitte füge hier eine JQL-Anfrage ein",
         "jqlIsValidatingMessage": "Prüfe JQL-Status",
         "jqlIsInvalidMessage": "JQL ungültig!",
-        "jiraJQLHelpLink": "...mehr",
+        "jiraJQLHelpLink": "... mehr",
         "jqlIsValidMessage": "JQL ist gültig",
         "projectsName": "Vorgänge von {{name}}"
     },
@@ -585,7 +585,7 @@
     },
     "officeAttendeePicker": {
         "noOptionsMessage": "Keine Ergebnisse",
-        "typeToSearchPlaceholder": "Zum Suchen tippen...",
+        "typeToSearchPlaceholder": "Zum Suchen tippen ...",
         "manualEntry": "(manuelle Eingabe)",
         "searchPlaceHolder": "Teilnehmer hinzufügen"
     },
@@ -596,7 +596,7 @@
     },
     "officeGroupPicker": {
         "noOptionsMessage": "Keine Ergebnisse",
-        "typeToSearchPlaceholder": "Zum Suchen tippen...",
+        "typeToSearchPlaceholder": "Zum Suchen tippen ...",
         "manualEntry": "(manuelle Eingabe)",
         "searchPlaceholder": "Suche nach Gruppen"
     },
@@ -622,13 +622,13 @@
         "onLabel": "Jeder"
     },
     "officeSharedMailboxPicker": {
-        "searchPlaceholder": "Suche nach Shared Mailboxen..."
+        "searchPlaceholder": "Suche nach Shared Mailboxen ..."
     },
     "officeUserPicker": {
         "noOptionsMessage": "Keine Ergebnisse",
-        "typeToSearchPlaceholder": "Zum Suchen tippen...",
+        "typeToSearchPlaceholder": "Zum Suchen tippen ...",
         "manualEntry": "(manuelle Eingabe)",
-        "searchPlaceholder": "Suche nach Personen..."
+        "searchPlaceholder": "Suche nach Personen ..."
     },
     "officeUpdateSeriesScreen": {
         "occurenceButton": "Vorkommen",
@@ -748,7 +748,7 @@
     },
     "officePersonTab": {
         "openCalendarsDescription": "Eigene Kalender oder die deiner Kollegen öffnen.",
-        "searchPlaceholder": "Suche nach Personen..."
+        "searchPlaceholder": "Suche nach Personen ..."
     },
     "officeGroupsTab": {
         "openGroupsDescription": "Öffne Outlook-Gruppen aus deinem Unternehmen."
@@ -757,7 +757,7 @@
         "openSharedMailboxesDescription": "Öffne Shared Mailboxes aus deinem Unternehmen."
     },
     "yasoonDateTimePicker": {
-        "placeholder": "Datum auswählen..."
+        "placeholder": "Datum auswählen ..."
     },
     "welcomeTour": {
         "gettingStartedHeading": "Erste Schritte",

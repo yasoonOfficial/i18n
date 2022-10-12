@@ -1,6 +1,6 @@
 {
 	"loadingScreen": {
-		"loading": "Lädt..."
+		"loading": "Lädt ..."
 	},
 	"addInstanceScreen": {
 		"heading": "Mit Confluence verbinden",
@@ -161,7 +161,7 @@
 		"recentTemplates": "Zuletzt verwendete Vorlagen"
 	},
 	"agendaItem": {
-		"addTitle": "Gebe einen Titel ein..."
+		"addTitle": "Gebe einen Titel ein ..."
 	},
 	"durationPicker": {
 		"duration": "Duration",
@@ -235,9 +235,9 @@
 	},
 	"meetingAgendaMacro": {
 		"title": "Titel",
-		"addTitle": "Titel hinzufügen...",
+		"addTitle": "Titel hinzufügen ...",
 		"description": "Beschreibung",
-		"addDescription": "Beschreibung hinzufügen...",
+		"addDescription": "Beschreibung hinzufügen ...",
 		"addAgendaItem": "Agenda Eintrag hinzufügen",
 		"noItemsMessage": "Diese Seite der Besprechungsnotizen enthält keine Einträge. Du kannst Elemente hinzufügen, indem du das Makro bearbeitest.",
 		"documentationLink": " schaue in unserer Dokumentation nach."

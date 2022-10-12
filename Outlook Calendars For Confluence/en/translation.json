@@ -128,7 +128,7 @@
         "successFlagTitle": "Successfully Detected Configuration",
         "notWorking": "Not working? Please contact us!",
         "errorIconLabel": "Info",
-        "determineErrorFlagDescription": "We couldn't determine your configuration...",
+        "determineErrorFlagDescription": "We couldn't determine your configuration ...",
         "unsupportedExchangeErrorFlagDescription": "You are running an unsupported Exchange server!",
         "invalidCredentialsErrorFlagDescription": "You may have entered an invalid email, username or password!",
         "tryAgainLabel": "Try Again",
@@ -342,7 +342,7 @@
         "jqlTextareaPlaceholder": "Please insert JQL query here",
         "jqlIsValidatingMessage": "Checking JQL status",
         "jqlIsInvalidMessage": "JQL not valid!",
-        "jiraJQLHelpLink": "...more",
+        "jiraJQLHelpLink": "... more",
         "jqlIsValidMessage": "JQL is valid",
         "projectsName": "Issues of {{name}}"
     },
@@ -430,7 +430,7 @@
         "discardButton": "Discard"
     },
     "officeCategoryPicker": {
-        "placeholder": "Search for categories..."
+        "placeholder": "Search for categories ..."
     },
     "cloudSpacePropertySettingProvider": {
         "noUpdatePermissionErrorMessageTitle": "No permission to update on this page!",
@@ -585,9 +585,9 @@
     },
     "officeAttendeePicker": {
         "noOptionsMessage": "No results",
-        "typeToSearchPlaceholder": "Type to search...",
+        "typeToSearchPlaceholder": "Type to search ...",
         "manualEntry": "(manual entry)",
-        "searchPlaceHolder": "Search..."
+        "searchPlaceHolder": "Search ..."
     },
     "officeEventCalendarPicker": {
         "outlookCalendarsLabel": "Outlook Calendars",
@@ -596,7 +596,7 @@
     },
     "officeGroupPicker": {
         "noOptionsMessage": "No results",
-        "typeToSearchPlaceholder": "Type to search...",
+        "typeToSearchPlaceholder": "Type to search ...",
         "manualEntry": "(manual entry)",
         "searchPlaceholder": "Search for groups"
     },
@@ -622,11 +622,11 @@
         "onLabel": "On"
     },
     "officeSharedMailboxPicker": {
-        "searchPlaceholder": "Search..."
+        "searchPlaceholder": "Search ..."
     },
     "officeUserPicker": {
         "noOptionsMessage": "No results",
-        "typeToSearchPlaceholder": "Type to search...",
+        "typeToSearchPlaceholder": "Type to search ...",
         "manualEntry": "(manual entry)",
         "searchPlaceholder": "Search for users"
     },
@@ -748,7 +748,7 @@
     },
     "officePersonTab": {
         "openCalendarsDescription": "Open your own calendars or those of your co-workers.",
-        "searchPlaceholder": "Search for persons..."
+        "searchPlaceholder": "Search for persons ..."
     },
     "officeGroupsTab": {
         "openGroupsDescription": "Open Outlook Groups within your company."
@@ -757,7 +757,7 @@
         "openSharedMailboxesDescription": "Open Outlook Groups within your company."
     },
     "yasoonDateTimePicker": {
-        "placeholder": "Select a date..."
+        "placeholder": "Select a date ..."
     },
     "welcomeTour": {
         "gettingStartedHeading": "Getting Started",

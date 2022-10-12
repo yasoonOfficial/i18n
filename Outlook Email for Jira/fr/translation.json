@@ -54,7 +54,7 @@
         "back": "Retour",
         "generalSettingsHeading": "Paramètres généraux",
         "language": "Langue",
-        "languageSelectPlaceholder": "Sélectionner...",
+        "languageSelectPlaceholder": "Sélectionner ...",
         "remoteDebug": "Capture d'écran (pour aide à distance en cas de problème)",
         "addAttachmentsByDefault": "Sélectionner toutes les pièces-jointes",
         "addEmailAsFile": "Sélectionner / télécharger l'email (.msg)",
@@ -197,7 +197,7 @@
         "saveChanges": "Valider les changements"
     },
     "initialLoadingScreen": {
-        "loading": "Chargement..."
+        "loading": "Chargement ..."
     },
     "welcomeScreen": {
         "aboutUsLinks": "{link1} - {link2}",

@@ -507,7 +507,7 @@
 		"toManyCalendarsFlagDescription": "Not all calendars can be shown"
 	},
 	"editorComponent": {
-		"loadingText": "Loading editor..."
+		"loadingText": "Loading editor ..."
 	},
 	"calendarOptionBase": {
 		"readOnlyLabel": "Read Only",
@@ -534,7 +534,7 @@
 		"settingsTabLabel": "Settings"
 	},
 	"savingLozenge": {
-		"saving": "Saving Settings...",
+		"saving": "Saving Settings ...",
 		"saved": "Settings Saved",
 		"error": "Error while saving"
 	},
@@ -654,7 +654,7 @@
 	},
 	"generalSettingsTab": {
 		"heading": "General Settings",
-		"description": "This is a descriptive text...",
+		"description": "This is a descriptive text ...",
 		"spaceSettingsLabel": "Space Calendar settings",
 		"spaceEditSettingDescription": "By default, space calendar settings can only be edited by space administrators. You can allow all users with space view permissions to change the space calendar here.",
 		"spaceEditSettingLabel": "Allow non space admins to edit the space calendar"

@@ -55,7 +55,7 @@
         "back": "Back",
         "generalSettingsHeading": "General",
         "language": "Language",
-        "languageSelectPlaceholder": "Select...",
+        "languageSelectPlaceholder": "Select ...",
         "remoteDebug": "Record screen (for remote debug purposes)",
         "remoteDebugDeactivated": "Record screen (for remote debug purposes) (disabled by your Jira admin)",
         "addAttachmentsByDefault": "Select all attachments by default",
@@ -173,7 +173,7 @@
         "insertFailedMessage": "Sorry, something went wrong while inserting the text."
     },
     "editorField": {
-        "loading": "Loading...",
+        "loading": "Loading ...",
         "sharingActiveDefaultText": "An email was shared with this issue"
     },
     "timetracking": {
@@ -244,7 +244,7 @@
         "saveChanges": "Save Changes"
     },
     "initialLoadingScreen": {
-        "loading": "Loading..."
+        "loading": "Loading ..."
     },
     "welcomeScreen": {
         "aboutUsLinks": "{link1} - {link2}",
@@ -303,7 +303,7 @@
         "comment": "Comment",
         "attachment": "Attachments",
         "genericPlaceholder": "Select {{fieldName}}",
-        "typeToSearch": "Type to search..."
+        "typeToSearch": "Type to search ..."
     },
     "groupField": {
         "placeholder": "Search a group"
@@ -560,19 +560,19 @@
     },
     "shareItemSettings": {
         "heading": "Sharing settings",
-        "learnMore": "Learn more...",
+        "learnMore": "Learn more ...",
         "saveAsDefault": "Save this as default"
     },
     "shareItemLogin": {
         "heading": "Share this conversation!",
-        "learnMore": "Learn more...",
+        "learnMore": "Learn more ...",
         "firstParagraph": "You can allow other users to see this mail/conversation live within Jira. To use this feature, you only need to connect your Microsoft account with your Jira account.",
         "secondParagraph": "Each time you want to share you can choose whether everybody with access to the issue can view that mail/conversation or only those in your company. ",
         "loginButton": "Login with Microsoft and Jira",
         "multiInstance": " You will need to do this once for each of your connected Jira instances."
     },
     "onboarding": {
-        "learnMore": "Learn more...",
+        "learnMore": "Learn more ...",
         "shareItemHeading": "New feature!",
         "shareItemText": "You can now share your whole conversation and see all replies in Jira."
     },

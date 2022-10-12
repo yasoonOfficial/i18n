@@ -11,7 +11,7 @@
         "emptySenderHeading": "Keine Vorgänge gefunden",
         "attachments": "Anhänge",
         "noAttachments": "Bisher keine Anhänge angefügt 💾",
-        "addCommentPlaceholder": "Kommentar hinzufügen...",
+        "addCommentPlaceholder": "Kommentar hinzufügen ...",
         "writeCommentMotivation": "Sei der erste, der einen Kommentar schreibt! 😊",
         "shareWithCustomer": "Öffentlich kommentieren",
         "commentInterally": "Intern kommentieren",
@@ -55,7 +55,7 @@
         "back": "Zurück",
         "generalSettingsHeading": "Allgemein",
         "language": "Sprache",
-        "languageSelectPlaceholder": "Auswählen...",
+        "languageSelectPlaceholder": "Auswählen ...",
         "remoteDebug": "Bildschirm aufnehmen (für Support)",
         "remoteDebugDeactivated": "Bildschirm aufnehmen (für Support) (vom Jira-Admin gesperrt)",
         "createAddIssueHeading": "Dialog Einstellungen",
@@ -173,7 +173,7 @@
         "insertFailedMessage": "Entschuldigung, beim Einfügen des Textes ist etwas schiefgegangen."
     },
     "editorField": {
-        "loading": "Lädt...",
+        "loading": "Lädt ...",
         "sharingActiveDefaultText": "Eine E-Mail wurde mit diesem Vorgang geteilt"
     },
     "timetracking": {
@@ -245,7 +245,7 @@
         "saveChanges": "Änderungen speichern"
     },
     "initialLoadingScreen": {
-        "loading": "Lädt..."
+        "loading": "Lädt ..."
     },
     "welcomeScreen": {
         "aboutUsLinks": "{link1} - {link2}",
@@ -304,7 +304,7 @@
         "comment": "Kommentar",
         "attachment": "Anhänge",
         "genericPlaceholder": "Wähle {{fieldName}}",
-        "typeToSearch": "Bitte ein paar Zeichen eingeben...",
+        "typeToSearch": "Bitte ein paar Zeichen eingeben ...",
         "customer": "Kunde"
     },
     "groupField": {
@@ -561,19 +561,19 @@
     },
     "shareItemSettings": {
         "heading": "Sharing-Einstellungen",
-        "learnMore": "Mehr erfahren...",
+        "learnMore": "Mehr erfahren ...",
         "saveAsDefault": "Als Standard übernehmen"
     },
     "shareItemLogin": {
         "heading": "Teile die Konversation!",
-        "learnMore": "Mehr erfahren...",
+        "learnMore": "Mehr erfahren ...",
         "firstParagraph": "Du kannst es anderen Nutzern erlauben, diese Mail/Konversation live in Jira zu sehen. Um diese Funktion nutzen zu können, musst du nur einmalig deinen Microsoft- mit deinem Jira-Account verknüpfen.",
         "secondParagraph": "Beim Teilen kannst du dann jedes Mal entscheiden, ob du die Mail/Konversation mit allen Nutzern, die Zugriff auf den Vorgang haben teilen möchtest, oder nur mit Nutzern aus deinem Unternehmen. ",
         "loginButton": "Mit Microsoft and Jira anmelden",
         "multiInstance": "Dies muss einmalig für jede deiner verbundenen Jira-Instanzen ausgeführt werden."
     },
     "onboarding": {
-        "learnMore": "Mehr erfahren...",
+        "learnMore": "Mehr erfahren ...",
         "shareItemHeading": "Neues Feature!",
         "shareItemText": "Du kannst jetzt die ganze Konversation teilen und alle Antworten in Jira sehen"
     },

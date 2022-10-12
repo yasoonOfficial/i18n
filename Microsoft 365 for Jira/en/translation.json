@@ -29,7 +29,7 @@
         "resetToDefault": "Remove exception"
     },
     "savingLozenge": {
-        "saving": "Saving Settings...",
+        "saving": "Saving Settings ...",
         "saved": "Settings Saved",
         "error": "Error while saving"
     },
@@ -389,13 +389,13 @@
         "emptyState": "No action/trigger runs yet."
     },
     "chatAccess": {
-        "chooseChatPermissions": "Choose who should be able to view this chat in Jira",
+        "chooseChatPermissions": "Only participants of the chat have access to it in Jira.",
         "private": "Private",
         "shared": "Shared",
         "sharedAndAllowJoining": "Shared & allow joining",
         "onlyMembersChat": "Only members of the chat can view it in Jira",
-        "contextChatAccess": "Users with issue access can view chat messages",
-        "contextChatAllowJoining": "Users with issue access can view and join the chat"
+        "contextChatAccess": "Users with issue access can view the chat.",
+        "contextChatAllowJoining": "Users with issue access can view and join the chat."
     },
     "channelSelect": {
         "noChannelSelectOptions": "No channels found. You can only find channels which have 'Smart Connect for Jira' installed.",

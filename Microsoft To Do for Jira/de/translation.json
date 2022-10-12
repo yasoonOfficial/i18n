@@ -48,7 +48,7 @@
         "dropdownItemGetStarted": "Loslegen",
         "dropdownItemGroupOptionsTitle": "Einstellungen",
         "dropdownItemMyTasks": "\"Meine Aufgaben\" immer anzeigen",
-        "selectFolderPlaceholder": "Auswählen..."
+        "selectFolderPlaceholder": "Auswählen ..."
     },
     "disableMicrosoftWebhooksModal": {
         "areYouSureYouWantToDisableWebhooksInfo": "Bist du sicher, dass du die Microsoft-Benachrichtigungen blockieren möchtest? Dies würde auch das automatische Erledigen von Vorgängen deaktivieren.",
@@ -143,7 +143,7 @@
         "step4StartStopSync": "4. Synchronisierung starten / stoppen",
         "disableSyncButton": "Synchronisierung deaktivieren",
         "startSyncButton": "Aufgaben-Synchronisierung starten",
-        "savingLozenge": "Speichern..."
+        "savingLozenge": "Speichern ..."
     },
     "simpleConfig": {
         "headline": "Der einfache Modus ist ausgewählt!",
@@ -201,7 +201,7 @@
     },
     "taskFolder": {
         "selectList": "Zielliste in To Do",
-        "selectPlaceholder": "Auswählen..."
+        "selectPlaceholder": "Auswählen ..."
     },
     "taskItem": {
         "inlineEditReadViewPlaceholder": "Hier klicken, um einen Wert einzugeben",

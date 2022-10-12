@@ -48,7 +48,7 @@
         "dropdownItemGetStarted": "Get Started",
         "dropdownItemGroupOptionsTitle": "Options",
         "dropdownItemMyTasks": "Always show \"My Tasks\"",
-        "selectFolderPlaceholder": "Select..."
+        "selectFolderPlaceholder": "Select ..."
     },
     "disableMicrosoftWebhooksModal": {
         "areYouSureYouWantToDisableWebhooksInfo": "Are you sure you want to disable Microsoft notifications? This action will disable automatic issues resolving.",
@@ -201,7 +201,7 @@
     },
     "taskFolder": {
         "selectList": "Target To Do list",
-        "selectPlaceholder": "Select..."
+        "selectPlaceholder": "Select ..."
     },
     "taskItem": {
         "inlineEditReadViewPlaceholder": "Click to enter value",
