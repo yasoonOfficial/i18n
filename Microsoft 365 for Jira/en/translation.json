@@ -536,7 +536,16 @@
         "createEmail": "Email",
         "createTeams": "Teams (coming soon)",
         "fetchErrorTitle": "Could not fetch templates",
-        "changeActiveErrorTitle": "Could not update template"
+        "changeActiveErrorTitle": "Could not update template",
+        "defaultTemplateHeading": "Default template",
+        "defaultTemplateTooltip": "If a default template is configured, it will be loaded automatically without the user having to it select manually. The user will still be able to select a different template afterwards.",
+        "defaultTemplateEmail": "Email",
+        "templateHeading": "Templates",
+        "activeDefaultTooltip": "This template is currently being used as default. Deactivating it will also remove it as default.",
+        "systemTemplateTooltip": "System templates can be used as default but will not be available for manual selection by a user.",
+        "changedDefaultWarningTitle": "Default changed",
+        "changedDefaultWarningMessage": "Your current default is no longer active and has been de-selected.",
+        "removingDefaultErrorTitle": "Could not remove default template"
     },
     "templateSingle": {
         "fetchErrorTitle": "Could not fetch template",
@@ -547,8 +556,9 @@
         "updateSuccessMessage": "The template has been saved successfully.",
         "updateErrorTitle": "Could not update template",
         "pageHeading": "Templates",
-        "createHeading": "Create template",
-        "editHeading": "Edit template",
+        "createHeadingEmail": "Create email template",
+        "viewHeadingEmail": "View email template",
+        "editHeadingEmail": "Edit email template",
         "deActivateTemplate": "Active",
         "nameLabel": "Template name",
         "namePlaceholder": "Click to enter a template name",
@@ -561,7 +571,9 @@
         "backButton": "Back to overview",
         "cancelButton": "Cancel",
         "saveButton": "Save",
-        "subjectTooltip": "Handlebar syntax can be used, e.g. {{issue.key}}"
+        "subjectTooltip": "Handlebar syntax can be used, e.g. {{issue.key}}",
+        "content": "Template content",
+        "inactiveTooltip": "Inactive templates will not be available for selection."
     },
     "templateEditor": {
         "actions": {
@@ -586,5 +598,17 @@
     },
     "emojiPicker": {
         "remove": "Remove Emoji"
+    },
+    "defaultTemplatePicker": {
+        "global": "Global",
+        "project": "Project",
+        "placeholder": "No default template selected",
+        "inheritedTooltip": "The default template is inherited from global default template settings and must not be removed."
+    },
+    "systemTemplate": {
+        "email": {
+            "displayName": "Default Email Template",
+            "detailDescription": "Default template for emails. It will fill the subject with an issue's summary."
+        }
     }
 }

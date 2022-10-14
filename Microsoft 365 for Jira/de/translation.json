@@ -274,7 +274,16 @@
         "createEmail": "E-Mail",
         "createTeams": "Teams (coming soon)",
         "fetchErrorTitle": "Vorlagen konnte nicht geladen werden",
-        "changeActiveErrorTitle": "Vorlage konnte nicht geändert werden"
+        "changeActiveErrorTitle": "Vorlage konnte nicht geändert werden",
+        "defaultTemplateHeading": "Standardvorlage",
+        "defaultTemplateTooltip": "Wenn eine Standardvorlage konfiguriert ist, wird sie automatisch geladen, ohne dass der Benutzer sie selbst auswählen muss. Der Benutzer kann im Anschluss weiterhin eine andere Vorlage auswählen.",
+        "defaultTemplateEmail": "E-Mail",
+        "templateHeading": "Vorlagen",
+        "activeDefaultTooltip": "Diese Vorlage ist derzeit als Standard konfiguriert. Ein Deaktivieren wird sie als Standardvorlage entfernen.",
+        "systemTemplateTooltip": "Systemvorlagen können als Standardvorlagen verwendet werden; aber sie stehen nicht zur manuellen Auswahl durch Benutzer zur Verfügung.",
+        "changedDefaultWarningTitle": "Standardvorlage geändert",
+        "changedDefaultWarningMessage": "Die aktuelle Standardvorlage ist nicht länger aktiv und wurde deshalb deselektiert.",
+        "removingDefaultErrorTitle": "Entfernen der Standardvorlage fehlgeschlagen."
     },
     "templateSingle": {
         "fetchErrorTitle": "Vorlage konnte nicht geladen werden",
@@ -285,8 +294,9 @@
         "updateSuccessMessage": "Die Vorlage wurde erfolgreich gespeichert.",
         "updateErrorTitle": "Vorlage konnte nicht gespeichert werden",
         "pageHeading": "Templates",
-        "createHeading": "Vorlage erstellen",
-        "editHeading": "Vorlage ändern",
+        "createHeadingEmail": "E-Mail Vorlage erstellen",
+        "viewHeadingEmail": "E-Mail Vorlage ansehen",
+        "editHeadingEmail": "E-Mail Vorlage ändern",
         "deActivateTemplate": "Aktiv",
         "nameLabel": "Vorlagenname",
         "namePlaceholder": "Klicke, um einen Vorlagennamen einzugeben",
@@ -299,7 +309,9 @@
         "backButton": "Zurück zur Übersicht",
         "cancelButton": "Abbrechen",
         "saveButton": "Speichern",
-        "subjectTooltip": "Handlebar-Syntax kann verwendet werden, z.B. {{issue.key}}"
+        "subjectTooltip": "Handlebar-Syntax kann verwendet werden, z.B. {{issue.key}}",
+        "content": "Inhalt der Vorlage",
+        "inactiveTooltip": "Inaktive Vorlagen stehen können nicht ausgewählt werden."
     },
     "templateEditor": {
         "actions": {
@@ -324,5 +336,17 @@
     },
     "emojiPicker": {
         "remove": "Emoji entfernen"
+    },
+    "defaultTemplatePicker": {
+        "global": "Global",
+        "project": "Projekt",
+        "placeholder": "Keine Standardvorlage ausgewählt",
+        "inheritedTooltip": "Die Standardvorlage ist aus den globalen Einstellungen übernommen und darf nicht entfernt werden."
+    },
+    "systemTemplate": {
+        "email": {
+            "displayName": "Standardvorlage E-Mail",
+            "detailDescription": "Standardvorlage für E-Mails. Sie befüllt den Betreff mit der Zusammenfassung des Issues."
+        }
     }
 }
