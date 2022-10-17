@@ -280,7 +280,15 @@
 	  "workingElsewhere": "Working elsewhere"
 	},
 	"fullcalendar": {
-	  "calendar": "Calendar"
+	  "calendar": "Calendar",
+	  "day": "day",
+	  "workWeek": "workweek",
+	  "week": "week",
+	  "month": "month",
+	  "next7Days": "7 days",
+	  "7days": "7 days",
+	  "30days": "30 days",
+	  "90days": "90 days"
 	},
 	"generalSettingsTab": {
 	  "description": "This is a descriptive text ...",
@@ -336,7 +344,7 @@
 	  "createdToDueDateSubHeading": "Display the issues as a timeframe",
 	  "customGroupHeading": "Custom",
 	  "customRangeHeading": "Custom",
-	  "customRangeSubHeading": "Customize how the release is displayed",
+	  "customRangeSubHeading": "Customized view",
 	  "dateRangeGroupHeading": "Date ranges",
 	  "dateRangeOptionHeading": "{{calendarType}} display",
 	  "dateRangeOptionSubHeading": "Choose how the {{jiraObj}} appear in the calendar",

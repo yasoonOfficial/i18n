@@ -163,9 +163,9 @@
     "readOnlyLabel": "Nur lesen"
   },
   "calendarToolbar": {
-    "gotToTimeUnitTooltip": "Weiter zu {{unit}}",
-    "nextTimeUnitTooltip": "Nächste {{unit}}",
-    "previousTimeUnitTooltip": "Vorherige {{unit}}",
+    "gotToTimeUnitTooltip": "Zu heute springen ({{unit}})",
+    "nextTimeUnitTooltip": "{{unit}} vor",
+    "previousTimeUnitTooltip": "{{unit}} zurück",
     "refreshTooltip": "Aktualisieren",
     "todayButtonLabel": "Heute"
   },
@@ -280,7 +280,15 @@
     "workingElsewhere": "An anderem Ort tätig\""
   },
   "fullcalendar": {
-    "calendar": "Kalender"
+    "calendar": "Kalender",
+    "day": "Tag",
+    "workWeek": "Arbeitswoche",
+    "week": "Woche",
+    "month": "Monat",
+    "next7Days": "7 Tage",
+    "7days": "7 Tage",
+    "30days": "30 Tage",
+    "90days": "90 Tage"
   },
   "generalSettingsTab": {
     "description": "Beschreibungstext",
@@ -336,7 +344,7 @@
     "createdToDueDateSubHeading": "Vorgänge als Zeitspanne anzeigen",
     "customGroupHeading": "Benutzerdefiniert",
     "customRangeHeading": "Benutzerdefiniert",
-    "customRangeSubHeading": "Benutzerdefinierte Versionsansicht",
+    "customRangeSubHeading": "Benutzerdefinierte Ansicht",
     "dateRangeGroupHeading": "Zeitspanne",
     "dateRangeOptionHeading": "{{calendarType}} Ansicht",
     "dateRangeOptionSubHeading": "Wähle die Kalenderdarstellung von {{jiraObj}}",
@@ -385,7 +393,7 @@
   "jiraJqlScreen": {
     "textareaPlaceholder": "Projekt = acme",
     "textfieldPlaceholder": "JQL Kalendername",
-    "validMessage": "JQL valide",
+    "validMessage": "JQL gültig",
     "validatingMessage": "JQL wird validiert"
   },
   "jiraLoginInitialScreen": {
@@ -437,7 +445,7 @@
     "heading": "Datum Anzeigen",
     "loadingLabel": "All Felder werden geladen",
     "loadingPlaceholder": "Lade Felder",
-    "placeholder": "Feld wählen",
+    "placeholder": "Wähle ein Feld",
     "releaseDateLabel": "Veröffentlicht",
     "startDateLabel": "Start",
     "state": "Zustand",
@@ -450,7 +458,7 @@
     "heading": "Start Datum",
     "loadingLabel": "Lade alle Felder",
     "loadingPlaceholder": "Lade Felder",
-    "placeholder": "Feld wählen",
+    "placeholder": "Wähle ein Feld",
     "releaseDateLabel": "Veröffentlicht",
     "startDateLabel": "Start",
     "subHeading": "Wähle ein Feld, nach welchem der Vorgang angezeigt wird"
