@@ -199,6 +199,8 @@
         "firstUseLoginInfo": "Looks like you are using the app for the very first time. Please login with your Microsoft 365 account to get started!",
         "externalUser": "External user",
         "external": "External",
+        "guest": "Guest",
+        "guestUser": "Guest user",
         "selectUserToStartChat": "Select participants to start a chat ...",
         "chatTitleTooLong": "Chat title too long (250+)",
         "typeEmailOrNameToSearch": "Type an email address or name to search ...",

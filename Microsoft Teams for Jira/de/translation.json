@@ -199,6 +199,8 @@
         "firstUseLoginInfo": "Es sieht so aus als würdest du die App zum ersten Mal nutzen. Bitte melde dich mit deinem Microsoft 365-Konto an.",
         "externalUser": "Externer Benutzer",
         "external": "Extern",
+        "guest": "Gast",
+        "guestUser": "Gast-Benutzer",
         "selectUserToStartChat": "Füge Teilnehmer hinzu, um den Chat zu starten ...",
         "chatTitleTooLong": "Titel des Chats zu lang (250+)",
         "typeEmailOrNameToSearch": "Email oder Name eingeben zum Suchen ...",
