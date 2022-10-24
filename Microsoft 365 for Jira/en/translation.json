@@ -306,7 +306,7 @@
             "meeting-createdTitle": "Outlook meeting created",
             "meeting-createdDescription": "Fired when a meeting was created in an issue.",
             "meeting-createdDescriptionPlaceholder": "This trigger is executed when a Outlook meeting is created in Jira (...).\nCreated by: {{atlassianUser}}\nUsed in project: (...)",
-            "teams-global-regexTitle": "Teams bot message recived",
+            "teams-global-regexTitle": "Teams bot message received",
             "teams-global-regexDescription": "Fired when the Teams bot recieves a message with the configured keyword.",
             "teams-global-regexDescriptionPlaceholder": "This trigger is executed when a replied to a conversation in Teams with keyword (...).\nCreated by: {{atlassianUser}}\nUsed in project: (...)"
         }
@@ -410,7 +410,7 @@
     "officeLoginScreen": {
         "loginButtonLabel": "Log in with Microsoft 365",
         "heading": "Welcome to Microsoft 365 automations",
-        "description": "Looks like you're using the app for the very first time. Please log in with your Microsoft 365 account to get started!",
+        "description": "Please log in with your Microsoft 365 account to get started!",
         "backButtonLabel": "Back"
     },
     "officeLoginMSALScreen": {
@@ -447,7 +447,7 @@
         "poweredBy": "Powered by",
         "noToken": "The url contains no or an invalid token. Please restart the login and make sure you copy the whole url if you forward it.",
         "expiredToken": "The token has expired, please restart the login.",
-        "loginSuccessfull": "Login successfull, you can close this window."
+        "loginSuccessfull": "Login successful, you can close this window."
     },
     "actionName": {
         "create-chat": "Create Teams chat",
@@ -474,8 +474,8 @@
             "trigger": "Jira details",
             "issueKey": "Issue key",
             "issueKeyDescription": "Adds the Jira issue key",
-            "issueSubject": "Issue subject",
-            "issueSubjectDescription": "Adds the Jira issue subject",
+            "issueSummary": "Issue summary",
+            "issueSummaryDescription": "Adds the Jira issue summary",
             "issueDueDate": "Issue due date",
             "issueDueDateDescription": "Adds the Jira issue due date"
         }
