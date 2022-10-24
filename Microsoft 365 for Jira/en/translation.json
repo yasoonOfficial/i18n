@@ -373,22 +373,31 @@
         "botMessageLabel": "Bot message"
     },
     "auditLogScreen": {
-        "dateHeader": "Date",
-        "statusHeader": "Status",
-        "actionTypeHeader": "Action type",
-        "actionIdHeader": "Action id",
-        "actionNameHeader": "Action name",
-        "triggerTypeHeader": "Trigger type",
-        "triggerIdHeader": "Trigger id",
-        "triggerNameHeader": "Trigger name",
-        "actionButtonLabel": "Action runs",
-        "triggerButtonLabel": "Trigger runs",
+        "action": {
+            "typeHeader": "Action type",
+            "idHeader": "Action id",
+            "nameHeader": "Action name",
+            "statusHeader": "Status",
+            "dateHeader": "Date",
+            "buttonLabel": "Action runs",
+            "emptyState": "No action runs yet.",
+            "dataHeader": "Data"
+        },
+        "trigger": {
+            "typeHeader": "Trigger type",
+            "idHeader": "Trigger id",
+            "nameHeader": "Trigger name",
+            "statusHeader": "Status",
+            "dateHeader": "Date",
+            "buttonLabel": "Trigger runs",
+            "emptyState": "No trigger runs yet.",
+            "dataHeader": "Data"
+        },
         "status": {
             "failed": "Failed",
             "retrying": "Retrying",
             "success": "Success"
-        },
-        "emptyState": "No action/trigger runs yet."
+        }
     },
     "chatAccess": {
         "chooseChatPermissions": "Only participants of the chat have access to it in Jira.",
@@ -439,10 +448,10 @@
         "typeToSearch": "Type to search"
     },
     "actorLogin": {
-        "header": "Autorize action",
+        "header": "Authorize action",
         "generalDescription": "The Jira user {{user}} ({{email}}) wants to get access to Microsoft 365 to create the following automation.",
         "inBehalfOf": "To act on behalf of the Microsoft 365 user {{user}}, he needs the following Microsoft Graph permissions.",
-        "authorize": "Autorize",
+        "authorize": "Authorize",
         "redirect": "Authorizing will redirect to https://login.microsoft.com",
         "poweredBy": "Powered by",
         "noToken": "The url contains no or an invalid token. Please restart the login and make sure you copy the whole url if you forward it.",
