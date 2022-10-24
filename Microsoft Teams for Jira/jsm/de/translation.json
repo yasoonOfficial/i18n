@@ -1,0 +1,171 @@
+{
+    "general": {
+        "back": "Zurück",
+        "create": "Erstellen",
+        "cancel": "Abbrechen",
+        "refresh": "Neu laden",
+        "remove": "Entfernen",
+        "browse": "Durchsuchen",
+        "loadMore": "Mehr laden",
+        "more": "Weitere",
+        "learnHow": "Lerne wie",
+        "reply": "Antworten",
+        "sendReply": "Antwort senden",
+        "newIssue": "Neuer Vorgang",
+        "someone": "Jemand",
+        "learnMore": "Erfahre mehr",
+        "showFullEditor": "Vollständigen Editor anzeigen",
+        "noAccess": "Kein Zugriff",
+        "today": "Heute",
+        "okay": "Okay",
+        "headsUp": "Aufgepasst! 👋",
+        "connect": "Verbinden",
+        "live": "Live",
+        "connecting": "Verbinde ...",
+        "quickLinks": "Quick-Links",
+        "preview": "Vorschau",
+        "actionRequired": "Handlung erforderlich",
+        "logout": "Logout",
+        "loading": "Lade ...",
+        "link": "Verknüpfen",
+        "close": "Schließen",
+        "save": "Speichern",
+        "comingSoon": "Coming soon",
+        "cloudNudge": "Dieses Feature gibt es schon für Jira Cloud und kommt bald auch für Server.",
+        "settings": "Einstellungen",
+        "notSure": "Nicht sicher",
+        "ok": "OK",
+        "dontShowAgain": "Nicht erneut anzeigen",
+        "add": "Hinzufügen",
+        "learnWhy": "Lerne wieso",
+        "searchIssues": "Vorgänge durchsuchen",
+        "openInTeams": "In Teams öffnen",
+        "showMore": "Mehr anzeigen",
+        "showFewer": "Weniger anzeigen",
+        "areYouSure": "Bist du sicher?",
+        "submit": "Erstellen",
+        "submitting": "Erstellen",
+        "dismiss": "Nicht mehr anzeigen",
+        "wrongSystem": "Inkompatible Jira Instanz",
+        "decline": "Ablehnen",
+        "approve": "Genehmigen"
+    },
+    "error": {
+        "serverNotSupported": "Jira Server wird noch nicht unterstützt",
+        "microsoftLogin": "Microsoft login fehlgeschlagen. Bitte neu laden.",
+        "atlassianLogin": "Atlassian login fehlgeschlagen. Bitte erneut versuchen.",
+        "yasoonLogin": "Beim Login ist ein Fehler aufgetreten. Das yasoon team wurde benachrichtigt.",
+        "createIssue": "Vorgang konnte nicht angelegt werden, bitte Felder überprüfen!",
+        "boardQuickCreateIssue": "Vorgang konnte nicht angelegt werden.",
+        "fileUpload": "Upload fehlgeschlagen. Bitte Dateien überprüfen",
+        "noUserFound": "Es wurde kein Benutzer mit der E-Mail-Adresse {{email}} in diesem Service-Portal gefunden.",
+        "somethingWentWrong": "Entwas ist schief gelaufen",
+        "invalidLicense": "Die Lizenz für diese App ist ungültig, oder sie ist abgelaufen. Bitte überprüfe die Lizenz unter 'Apps verwalten'.",
+        "portalSettingsSaveError": "Portal-Einstellungen konnten nicht gespeichert werden.",
+        "downloadJsmAppError": "App konnte nicht heruntergeladen werden.",
+        "missingExpiredLicense": "Lizenz fehlt oder ungültig",
+        "missingExpiredLicenseHelptext": "Um das Produkt weiterhin nutzen zu können, erneuere bitte die Lizenz.",
+        "chatCreationFailed": "Chat konnte nicht angelegt werden.",
+        "chatCreationFailedExternal": "Chat konnte nicht angelegt werden. Externe Empfänger konnten nicht gefunden werden.",
+        "conversationCreationFailed": "Konversation konnte nicht angelegt werden.",
+        "externalUsersNotFound": "Externe Empfänger konnten nicht gefunden werden: ",
+        "fetchTeamsMessages": "Fehler beim Laden von Teams-Nachrichten."
+    },
+    "login": {
+        "heading": "Mit Jira verbinden",
+        "instruction": "Bitte mit Jira Account verbinden.",
+        "login": "Login",
+        "learnMore": "Mehr erfahren",
+        "notLoggedIn": "Du bist nicht eingeloggt."
+    },
+    "officeLoginMSALScreen": {
+        "heading": "Erneut mit Microsoft anmelden",
+        "descriptionFirstLine": "Du musst dich erneut anmelden. Dies wird wahrscheinlich von deinen Browsereinstellungen verursacht.",
+        "descriptionSecondLine": "{link}",
+        "docLink": "Zeig mir, wie ich das verhindern kann",
+        "loginDisabledHint": "Bitte zuerst in Jira anmelden",
+        "reAuthenticateButtonLabel": "Erneut anmelden"
+    },
+    "search": {
+        "placeholder": "Suchen..",
+        "noResultsFor": "Keine Ergebnisse für '{{query}}'.",
+        "articles": "Artikel",
+        "requestTypes": "Sende eine Anfrage bezüglich"
+    },
+    "chooseDesk": {
+        "heading": "Servicedesk auswählen",
+        "subHeading": "Willkommen! Wähle einen Servicedesk aus und stelle deine Supportanfrage."
+    },
+    "chooseGroup": {
+        "heading": "Kontaktiere uns"
+    },
+    "welcomeChooseInfo": "Willkommen! Du kannst eine Anfrage in {{serviceDeskName}} stellen, in dem Du eine der Optionen auswählst.",
+    "createTicket": {
+        "typeChooserLabel": "Wobei können wir helfen?",
+        "typeChooserPlaceholder": "Wähle eine Kategorie",
+        "submitSuccess": "Deine Supportanfrage {{issueKey}} wurde übermittelt."
+    },
+    "fieldErrorBoundary": {
+        "errorMessage": "Komponente fehlerhaft.",
+        "reportInstruction": "Feedback senden"
+    },
+    "jiraUserContextMenu": {
+        "myRequests": "Meine Anfragen",
+        "openJira": "Jira öffnen",
+        "logout": "Logout"
+    },
+    "suggestions": {
+        "heading": "Vorgeschlagene Artikel"
+    },
+    "fields": {
+        "dropzoneHelptext": "Wähle Dateien aus oder lade sie via Drag and Drop hoch.",
+        "userFieldLoading": "Lade Benutzer ...",
+        "userFieldPlaceholder": "Benutzer auswählen",
+        "userFieldNoResults": "Keine passenden Benutzer gefunden.",
+        "issueFieldPreFilledTooltip": "Der Vorgang wurde vorausgewählt basierend auf bereits mit dieser Konversation verknüpften Vorgängen."
+    },
+    "myRequests": {
+        "heading": "Meine Anfragen",
+        "newRequest": "Neue Anfrage",
+        "tableHeader": {
+            "type": "Art",
+            "reference": "Referrenz",
+            "summary": "Zusammenfassung",
+            "status": "Status",
+            "serviceProject": "Serviceprojekt"
+        },
+        "noSummary": "Keine Zusammenfassung",
+        "activity": "Aktivität",
+        "editorPlaceholder": "Was willst du sagen?",
+        "requestType": "Anfrageart",
+        "status": "Status",
+        "viewInJira": "In Jira anzeigen",
+        "viewMoreInJira": "Mehr in Jira anzeigen",
+        "showMore": "{{amount}} mehr anzeigen",
+        "raisedThis": "hat diese Anfrage gestellt: ",
+        "relatedChats": "Verknüpfte Chats",
+        "optionalComment": "Optionales Kommentar",
+        "attachmentsNotice": "Dateianhänge unten einsehbar",
+        "approvalRequired": "Diese Anfrage benötigt deine Genehmigung"
+    },
+    "support": {
+        "faq": "FAQ",
+        "contactUs": "Kontaktiere uns",
+        "contactUsHelpText": "Wir helfen dir gern bei individuellen technischen Fragen oder wenn du mehr über unser Produkt erfahren möchtest.",
+        "contactLinks": "Kontakt-Links",
+        "gettingStarted": "Einstieg",
+        "initialSetup": "Initiales Setup",
+        "troubleshootIssues": "Vorgänge troubleshooten",
+        "openSupportTicket": "Erstelle ein Support Ticket",
+        "checkDocumentation": "Du brauchst Hilfe?",
+        "checkDocumentationHelpText": "In der App-Dokumentation haben wir alles Wichtige für dich zusammengestellt. Mehr findest du unter den Quick-Links.",
+        "sendEmail": "Schicke eine Email",
+        "raiseTicket": "Erstelle ein Ticket",
+        "bookMeeting": "Buche ein Meeting",
+        "callUs": "Ruf uns an",
+        "documentation": "Dokumentation",
+        "getHelp": "Hilfe bekommen",
+        "help": "Hilfe",
+        "useCasesHelpText": "Wir haben eine Liste an Use Cases zusammengestellt, mit der du direkt starten kannst."
+    }
+}

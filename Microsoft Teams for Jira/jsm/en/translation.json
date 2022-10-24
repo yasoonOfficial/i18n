@@ -1,0 +1,171 @@
+{
+    "general": {
+        "back": "Back",
+        "create": "Create",
+        "cancel": "Cancel",
+        "refresh": "Refresh",
+        "remove": "Remove",
+        "browse": "Browse",
+        "loadMore": "Load more",
+        "more": "more",
+        "learnHow": "Learn how",
+        "reply": "Reply",
+        "sendReply": "Send reply",
+        "newIssue": "New issue",
+        "someone": "Someone",
+        "learnMore": "Learn more",
+        "showFullEditor": "Show full editor",
+        "noAccess": "No access",
+        "today": "Today",
+        "okay": "Okay",
+        "headsUp": "Heads up 👋",
+        "connect": "Connect",
+        "live": "Live",
+        "connecting": "Connecting ...",
+        "quickLinks": "Quick links",
+        "preview": "Preview",
+        "actionRequired": "Action required",
+        "logout": "Sign out",
+        "loading": "Loading ...",
+        "link": "Link",
+        "close": "Close",
+        "save": "Save",
+        "comingSoon": "Coming soon",
+        "cloudNudge": "This feature is already available for Jira cloud, and will be available for server soon.",
+        "settings": "Settings",
+        "notSure": "Not sure",
+        "ok": "OK",
+        "dontShowAgain": "Don't show again",
+        "add": "Add",
+        "learnWhy": "Learn why",
+        "searchIssues": "Search issues",
+        "openInTeams": "Open in Teams",
+        "showMore": "Show more",
+        "showFewer": "Show fewer",
+        "areYouSure": "Are you sure?",
+        "submit": "Submit",
+        "submitting": "Submitting",
+        "dismiss": "Dismiss",
+        "wrongSystem": "Incompatible Jira instance",
+        "decline": "Decline",
+        "approve": "Approve"
+    },
+    "error": {
+        "serverNotSupported": "Jira Server is not supported yet",
+        "microsoftLogin": "Could not verify Microsoft login. Please refresh and try again.",
+        "atlassianLogin": "Atlassian login failed. Please try again.",
+        "yasoonLogin": "Encountered an error while processing your login. The yasoon team has been notified.",
+        "createIssue": "Couldn't create issue, please check fields!",
+        "boardQuickCreateIssue": "We couldn't create the issue.",
+        "fileUpload": "Some of your files appear to be invalid.",
+        "noUserFound": "A user with email address {{email}} was not found in this service portal.",
+        "somethingWentWrong": "Something went wrong",
+        "invalidLicense": "You don't have a license for this app, or it is expired. Please check the license status in the 'Manage Apps' section.",
+        "portalSettingsSaveError": "Could not save portal settings. Please try again later.",
+        "downloadJsmAppError": "Could not download the app. Please try again later.",
+        "missingExpiredLicense": "Missing or expired license",
+        "missingExpiredLicenseHelptext": "To continue usage of this product, please renew your license.",
+        "chatCreationFailed": "Failed to create chat.",
+        "chatCreationFailedExternal": "Failed to create chat. Try removing external users.",
+        "conversationCreationFailed": "Failed to create conversation.",
+        "externalUsersNotFound": "Could not find external users: ",
+        "fetchTeamsMessages": "Error fetching Teams messages."
+    },
+    "login": {
+        "heading": "Connect to Jira",
+        "instruction": "Please connect your Jira account.",
+        "login": "Login",
+        "learnMore": "Learn more",
+        "notLoggedIn": "You are not logged in."
+    },
+    "officeLoginMSALScreen": {
+        "heading": "Re-authenticate Microsoft login",
+        "descriptionFirstLine": "You need to re-authenticate. This is probably caused by your browser settings.",
+        "descriptionSecondLine": "{link}",
+        "docLink": "Show me how to fix this",
+        "loginDisabledHint": "Please log-in to Jira first",
+        "reAuthenticateButtonLabel": "Re-authenticate"
+    },
+    "search": {
+        "placeholder": "Search for common issues..",
+        "noResultsFor": "No results found for '{{query}}'.",
+        "articles": "Articles",
+        "requestTypes": "Send a request about"
+    },
+    "chooseDesk": {
+        "heading": "Choose a service desk",
+        "subHeading": "Welcome! Choose a service desk and raise your support request."
+    },
+    "chooseGroup": {
+        "heading": "Contact us about"
+    },
+    "welcomeChooseInfo": "Welcome! Raise a service request for {{serviceDeskName}} from the options provided.",
+    "createTicket": {
+        "typeChooserLabel": "What can we help you with?",
+        "typeChooserPlaceholder": "Select a request type",
+        "submitSuccess": "Your request {{issueKey}} has been submitted."
+    },
+    "fieldErrorBoundary": {
+        "errorMessage": "This field has crashed.",
+        "reportInstruction": "Send feedback"
+    },
+    "jiraUserContextMenu": {
+        "myRequests": "My requests",
+        "openJira": "Open Jira",
+        "logout": "Logout"
+    },
+    "suggestions": {
+        "heading": "Suggested articles"
+    },
+    "fields": {
+        "dropzoneHelptext": "Drop files or click to select",
+        "userFieldLoading": "Loading users ...",
+        "userFieldPlaceholder": "Select a user",
+        "userFieldNoResults": "We couldn't find a matching user.",
+        "issueFieldPreFilledTooltip": "This issue was selected based on issues already linked to this conversation."
+    },
+    "myRequests": {
+        "heading": "My requests",
+        "newRequest": "New request",
+        "tableHeader": {
+            "type": "Type",
+            "reference": "Reference",
+            "summary": "Summary",
+            "status": "Status",
+            "serviceProject": "Service project"
+        },
+        "noSummary": "No summary",
+        "activity": "Activity",
+        "editorPlaceholder": "What do you want to say?",
+        "requestType": "Request type",
+        "status": "Status",
+        "viewInJira": "View in Jira",
+        "viewMoreInJira": "View more in Jira",
+        "showMore": "Show {{amount}} more",
+        "raisedThis": "raised this",
+        "relatedChats": "Related chats",
+        "optionalComment": "Optional comment",
+        "attachmentsNotice": "See attachments below",
+        "approvalRequired": "This request requires your approval"
+    },
+    "support": {
+        "faq": "FAQ",
+        "contactUs": "Contact us",
+        "contactUsHelpText": "If you have a specific technical problem or want to learn about our app, we're happy to help.",
+        "contactLinks": "Contact links",
+        "gettingStarted": "Getting started",
+        "initialSetup": "Initial setup",
+        "troubleshootIssues": "Troubleshoot issues",
+        "openSupportTicket": "Open a support ticket",
+        "checkDocumentation": "Need help?",
+        "checkDocumentationHelpText": "We've collected everything important for you in the app support portal. Use the quick links below.",
+        "sendEmail": "Send an email",
+        "raiseTicket": "Raise a ticket",
+        "bookMeeting": "Book a meeting",
+        "callUs": "Call us (timezone: CET)",
+        "documentation": "Documentation",
+        "getHelp": "Get help",
+        "help": "Help",
+        "useCasesHelpText": "We have compiled a list of use cases to give you a head start."
+    }
+}
