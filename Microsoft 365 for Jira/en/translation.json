@@ -404,12 +404,20 @@
         "noChannelSelectOptionsHelp": "Can't find your channel?",
         "selectChannel": "Select channel",
         "privateChannelNotSupported": "Private channels are not supported currently",
-        "appNotInstalledInTeam": "The app is not installed in this team yet."
+        "appNotInstalledInTeam": "The app is not installed in this team yet.",
+        "learnWhy": "Learn why."
     },
     "officeLoginScreen": {
         "loginButtonLabel": "Log in with Microsoft 365",
         "heading": "Welcome to Microsoft 365 automations",
-        "description": "Looks like you're using the app for the very first time. Please log in with your Microsoft 365 account to get started!"
+        "description": "Looks like you're using the app for the very first time. Please log in with your Microsoft 365 account to get started!",
+        "backButtonLabel": "Back"
+    },
+    "officeLoginMSALScreen": {
+        "heading": "Re-authenticate",
+        "subHeading": "Your browser has restrictive privacy settings, so you need to re-authenticate every 24 hours.",
+        "reAuthenticateButtonLabel": "Re-authenticate",
+        "backButtonLabel": "Back"
     },
     "userPicker": {
         "staticUser": "Static user",
