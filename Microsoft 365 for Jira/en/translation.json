@@ -363,11 +363,18 @@
         "isAllDayToggleField": "Is all-day event"
     },
     "createConversationScreen": {
+        "issueCard": "Issue card",
+        "customMessage": "Custom message",
+        "conversationType": "Message type",
         "conversationMessage": "Conversation message",
         "channelChooser": "Conversation channel"
     },
     "replyTeamsConversationScreen": {
-        "conversationMessage": "Conversation message"
+        "conversationMessage": "Conversation message",
+        "singleConversation": "Single conversation",
+        "specificConversation": "Single conversation",
+        "linkedConversations": "All linked conversations",
+        "conversationType": "Conversation type"
     },
     "createSendBotMessageScreen": {
         "botMessageLabel": "Bot message"
@@ -414,7 +421,7 @@
         "selectChannel": "Select channel",
         "privateChannelNotSupported": "Private channels are not supported currently",
         "appNotInstalledInTeam": "The app is not installed in this team yet.",
-        "learnWhy": "Learn why."
+        "learnWhy": "Learn why"
     },
     "officeLoginScreen": {
         "loginButtonLabel": "Log in with Microsoft 365",
