@@ -280,7 +280,8 @@
         "subject": "Subject: ",
         "attachments": "Attachments: ",
         "imageRemoved": "[Image Removed - Open the email to see this image]",
-        "emailAddedPhrase": "An email has been sent for this issue:"
+        "emailAddedPhrase": "An email has been sent for this issue:",
+        "tooLongMessage": "[The body of the email is too long to be included in the comment. It was removed from the comment intentionally]"
     },
     "helpTab": {
         "pageHeader": "Get help & support",

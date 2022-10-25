@@ -280,7 +280,8 @@
         "subject": "Betreff: ",
         "attachments": "Anhänge: ",
         "imageRemoved": "[Bild entfernt - Öffne bitte die E-Mail um dieses Bild zu sehen]",
-        "emailAddedPhrase": "Zu diesem Vorgang wurde eine E-Mail gesendet:"
+        "emailAddedPhrase": "Zu diesem Vorgang wurde eine E-Mail gesendet:",
+        "tooLongMessage": "[Der Inhalt der E-Mail ist zu lang für einen Kommentar in Jira und wurde bewusst entfernt.]"
     },
     "helpTab": {
         "pageHeader": "Hilfe und Support",
