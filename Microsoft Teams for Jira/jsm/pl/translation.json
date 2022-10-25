@@ -1,0 +1,75 @@
+{
+    "general": {
+        "create": "Stwórz",
+        "cancel": "Anuluj",
+        "remove": "Usuń",
+        "loadMore": "Dodaj więcej",
+        "learnMore": "Dowiedz się więcej",
+        "showMore": "Pokaż więcej",
+        "showFewer": "Pokaż mniej",
+        "decline": "Odrzuć",
+        "approve": "Zaakceptowane"
+    },
+    "error": {
+        "microsoftLogin": "Nie można zweryfikować logowania Microsoft. Odswież stronę i spróbuj ponownie.",
+        "createIssue": "Nie mozna stworzyć zgłoszenia, sprawdź pola!",
+        "fileUpload": "Niektóre twoje pliki są niewłaściwe.",
+        "noUserFound": "Użytkownik o takim adresie email {{email}} nie został znaleziony na tym portalu."
+    },
+    "search": {
+        "placeholder": "Szukaj częstych problemów ...",
+        "noResultsFor": "Nie znaleziono wyników dla '{{query}}'.",
+        "articles": "Artykuły",
+        "requestTypes": "Wyślij zapytanie o"
+    },
+    "chooseDesk": {
+        "heading": "Wybierz punkt obsługi",
+        "subHeading": "Wybierz punkt obsługi i zgłoś swoje żądnie wsparcia.",
+        "typeChooserPlaceholder": "Wybierz punkt obsługi"
+    },
+    "welcomeChooseInfo": "Witamy! Wyślij zgłoszenie serwisowe dla {{serviceDeskName}} korzystając z dostępnych opcji.",
+    "createTicket": {
+        "typeChooserLabel": "W czym możemy Ci pomóc?",
+        "submitSuccess": "Twój wniosek {{issueKey}} został złożony."
+    },
+    "fieldErrorBoundary": {
+        "errorMessage": "To pole uległo awarii.",
+        "reportInstruction": "Wyślij informację zwrotną"
+    },
+    "jiraUserContextMenu": {
+        "openJira": "Otwórz Jira"
+    },
+    "suggestions": {
+        "heading": "Proponowane artykuły"
+    },
+    "fields": {
+        "dropzoneHelptext": "Przeciągnij plik tutaj lub kliknij, aby wybrać",
+        "userFieldLoading": "Ładowanie użytkowników ...",
+        "userFieldPlaceholder": "Wybierz użytkownika",
+        "userFieldNoResults": "Nie udało się znaleźć pasującego użytkownika."
+    },
+    "myRequests": {
+        "heading": "Moje wnioski",
+        "newRequest": "Nowy wniosek",
+        "tableHeader": {
+            "type": "Typ",
+            "reference": "Odnośnik",
+            "summary": "Reference",
+            "status": "Status",
+            "serviceProject": "Projekt usługowy"
+        },
+        "noSummary": "Brak podsumowania",
+        "activity": "Działanie",
+        "editorPlaceholder": "Co chcesz powiedzieć?",
+        "requestType": "Rodzaj wniosku",
+        "status": "Status",
+        "viewInJira": "Zobacz w aplikacji Jira",
+        "viewMoreInJira": "Zobacz więcej w aplikacji Jira",
+        "showMore": "Pokaż {{amount) więcej",
+        "raisedThis": "podnieś to",
+        "relatedChats": "Powiązane czaty",
+        "optionalComment": "Komentarz opcjonalny",
+        "attachmentsNotice": "Patrz załączniki poniżej",
+        "approvalRequired": "Ta prośba wymaga Twojej zgody"
+    }
+}
