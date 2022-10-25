@@ -8,7 +8,9 @@
         "showMore": "Mehr anzeigen",
         "showFewer": "Weniger anzeigen",
         "decline": "Ablehnen",
-        "approve": "Genehmigen"
+        "approve": "Genehmigen",
+        "loading": "Lade ...",
+        "selectOption": "Wähle eine Option"
     },
     "error": {
         "microsoftLogin": "Microsoft login fehlgeschlagen. Bitte neu laden.",

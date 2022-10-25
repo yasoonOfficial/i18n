@@ -8,7 +8,9 @@
         "showMore": "Pokaż więcej",
         "showFewer": "Pokaż mniej",
         "decline": "Odrzuć",
-        "approve": "Zaakceptowane"
+        "approve": "Zaakceptowane",
+        "loading": "Ładowanie ...",
+        "selectOption": "Wybierz opcję"
     },
     "error": {
         "microsoftLogin": "Nie można zweryfikować logowania Microsoft. Odswież stronę i spróbuj ponownie.",

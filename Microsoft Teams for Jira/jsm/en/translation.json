@@ -8,7 +8,9 @@
         "showMore": "Show more",
         "showFewer": "Show fewer",
         "decline": "Decline",
-        "approve": "Approve"
+        "approve": "Approve",
+        "loading": "Loading ...",
+        "selectOption": "Select an option"
     },
     "error": {
         "microsoftLogin": "Could not verify Microsoft login. Please refresh and try again.",
