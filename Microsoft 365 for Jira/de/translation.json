@@ -277,7 +277,6 @@
         "changeActiveErrorTitle": "Vorlage konnte nicht geändert werden",
         "defaultTemplateHeading": "Standardvorlage",
         "defaultTemplateTooltip": "Wenn eine Standardvorlage konfiguriert ist, wird sie automatisch geladen, ohne dass der Benutzer sie selbst auswählen muss. Der Benutzer kann im Anschluss weiterhin eine andere Vorlage auswählen.",
-        "defaultTemplateEmail": "E-Mail",
         "templateHeading": "Vorlagen",
         "activeDefaultTooltip": "Diese Vorlage ist derzeit als Standard konfiguriert. Ein Deaktivieren wird sie als Standardvorlage entfernen.",
         "systemTemplateTooltip": "Systemvorlagen können als Standardvorlagen verwendet werden; aber sie stehen nicht zur manuellen Auswahl durch Benutzer zur Verfügung.",

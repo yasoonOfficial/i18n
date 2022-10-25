@@ -558,7 +558,6 @@
         "changeActiveErrorTitle": "Could not update template",
         "defaultTemplateHeading": "Default template",
         "defaultTemplateTooltip": "If a default template is configured, it will be loaded automatically without the user having to it select manually. The user will still be able to select a different template afterwards.",
-        "defaultTemplateEmail": "Email",
         "templateHeading": "Templates",
         "activeDefaultTooltip": "This template is currently being used as default. Deactivating it will also remove it as default.",
         "systemTemplateTooltip": "System templates can be used as default but will not be available for manual selection by a user.",
