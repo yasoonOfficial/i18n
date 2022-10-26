@@ -377,7 +377,8 @@
         "conversationType": "Conversation type"
     },
     "createSendBotMessageScreen": {
-        "botMessageLabel": "Bot message"
+        "botMessageLabel": "Bot message",
+        "usersLabel": "Users"
     },
     "auditLogScreen": {
         "action": {
