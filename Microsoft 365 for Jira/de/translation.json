@@ -265,6 +265,7 @@
         "description": "Erstelle und editiere Vorlagen für Microsoft 365 (E-Mail, Meetings, Teams).\nAktive Vorlagen können dann ausgewählt und benutzt werden, um die korrespondierenden Felder vorzubefüllen.",
         "active": "Aktiv",
         "displayName": "Vorlagenname",
+        "detailDescription": "Beschreibung",
         "createButton": "Erstellen",
         "deleteButton": "Löschen",
         "cancelButton": "Abbrechen",

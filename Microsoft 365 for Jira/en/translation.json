@@ -556,6 +556,7 @@
         "description": "Create and edit templates for Microsoft 365 (Email, Meetings, Teams).\nActive templates may then be selected and used to prefill the corresponding fields.",
         "active": "Active",
         "displayName": "Template name",
+        "detailDescription": "Description",
         "createButton": "Create",
         "deleteButton": "Delete",
         "cancelButton": "Cancel",
