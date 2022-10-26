@@ -347,5 +347,13 @@
             "displayName": "Standardvorlage E-Mail",
             "detailDescription": "Standardvorlage für E-Mails. Sie befüllt den Betreff mit der Zusammenfassung des Issues."
         }
+    },
+    "userPicker": {
+        "staticUser": "Statischer Benutzer",
+        "jiraField": "Jira-Feld",
+        "textfieldPlaceholder": "Tippe zum suchen",
+        "placeholder": "Tippe zum suchen",
+        "preferGuestUsers": "Gast-Benutzer vor externen Benutzern vorziehen",
+        "preferGuestUsersExplainer": "Wenn es für eine gegebene Email-Addresse einen Gast-Benutzer gibt, präferriere diesen."
     }
 }
