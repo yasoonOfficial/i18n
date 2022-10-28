@@ -409,5 +409,10 @@
         "callStartedEvent": "{{time}} Call started",
         "callEndedEvent": "{{time}} Call ended",
         "unknownUser": "Unknown user"
+    },
+    "addBoardView": {
+        "nonJiraUserPermissions": "Allow users without Jira account",
+        "allowNonJiraUsersForBoard": "to see this board",
+        "allowNonJiraUsersTransitions": "to perform issue status transitions"
     }
 }

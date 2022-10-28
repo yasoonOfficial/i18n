@@ -409,5 +409,10 @@
         "callStartedEvent": "{{time}} Anruf begonnen",
         "callEndedEvent": "{{time}} Anruf beendet",
         "unknownUser": "Unbekannter Benutzer"
+    },
+    "addBoardView": {
+        "nonJiraUserPermissions": "Nutzer ohne Jira Account dürfen",
+        "allowNonJiraUsersForBoard": "dieses Board sehen",
+        "allowNonJiraUsersTransitions": "den Status von Vorgängen ändern"
     }
 }
