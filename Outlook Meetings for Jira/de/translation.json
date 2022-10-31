@@ -220,6 +220,7 @@
         "free": "Verfügbar",
         "busy": "Beschäftigt",
         "noAvailabilityFor7Days": "In den nächsten 7 Tagen nicht verfügbar.",
-        "freeAt": "Verfügbar um"
+        "freeAt": "Verfügbar um",
+        "oof": "Außer Haus"
     }
 }
