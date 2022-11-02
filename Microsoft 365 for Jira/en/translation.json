@@ -365,7 +365,10 @@
         "timezoneFieldPlaceholder": "Select timezone (defaults to Jira instance timezone)",
         "templateStringField": "By date template",
         "jiraFieldPlaceholder": "Select Jira field",
-        "isAllDayToggleField": "Is all-day event"
+        "isAllDayToggleField": "Is all-day event",
+        "minutesLength": "Minutes",
+        "hoursLength": "Hours",
+        "daysLength": "Days"
     },
     "createConversationScreen": {
         "issueCard": "Issue card",
