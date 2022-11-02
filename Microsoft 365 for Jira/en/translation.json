@@ -449,6 +449,8 @@
         "jiraField": "Jira field",
         "textfieldPlaceholder": "Type to search",
         "placeholder": "Type to search",
+        "noOptions": "No options",
+        "typeToSearch": "Type to search",
         "preferGuestUsers": "Use guest users over external",
         "preferGuestUsersExplainer": "In case there is a guest user for a selected email, prefer that user over trying to add an external user."
     },
