@@ -496,7 +496,8 @@
     "userField": {
         "microsoftUser": "Microsoft user",
         "jiraField": "Jira field",
-        "jiraUser": "Jira user"
+        "jiraUser": "Jira user",
+        "emailAddress": "Email address"
     },
     "editorField": {
         "actions": {
