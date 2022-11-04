@@ -413,7 +413,8 @@
             "failed": "Failed",
             "retrying": "Retrying",
             "success": "Success"
-        }
+        },
+        "refreshItems": "Refresh"
     },
     "chatAccess": {
         "chooseChatPermissions": "Only participants of the chat have access to it in Jira.",
