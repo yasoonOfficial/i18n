@@ -228,7 +228,7 @@
         "logout": "Logout"
     },
     "links": {
-        "sendMailDoc": "Documentation",
+        "meetingsDoc": "Documentation",
         "contactUs": "Contact us"
     },
     "templatePicker": {
