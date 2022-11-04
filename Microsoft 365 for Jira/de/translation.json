@@ -257,12 +257,17 @@
             "msalLoginButton": "Authentifizieren"
         }
     },
-    "templateListScreen": {
+    "templateOverviewScreen": {
+        "emailTabname": "E-Mail",
+        "meetingsTabname": "Meetings",
+        "description": "Erstelle und editiere Vorlagen für Microsoft 365 (E-Mail, Meetings, Teams).\nAktive Vorlagen können dann ausgewählt und benutzt werden, um die korrespondierenden Felder vorzubefüllen.",
+        "pageHeading": "Vorlagen",
+        "missingPermission": "Du hast keine Berechtigung zum Anzeigen dieser Seite."
+    },
+    "templateTab": {
         "deleteSuccessTitle": "Vorlage gelöscht",
         "deleteSuccessMessage": "Die Vorlage wurde erfolgreich gelöscht.",
         "deleteErrorTitle": "Vorlage konnte nicht gelöscht werden",
-        "pageHeading": "Vorlagen",
-        "description": "Erstelle und editiere Vorlagen für Microsoft 365 (E-Mail, Meetings, Teams).\nAktive Vorlagen können dann ausgewählt und benutzt werden, um die korrespondierenden Felder vorzubefüllen.",
         "active": "Aktiv",
         "displayName": "Vorlagenname",
         "detailDescription": "Beschreibung",
@@ -297,6 +302,9 @@
         "createHeadingEmail": "E-Mail Vorlage erstellen",
         "viewHeadingEmail": "E-Mail Vorlage ansehen",
         "editHeadingEmail": "E-Mail Vorlage ändern",
+        "createHeadingMeetings": "Meetings Vorlage erstellen",
+        "viewHeadingMeetings": "Meetings Vorlage ansehen",
+        "editHeadingMeetings": "Meetings Vorlage ändern",
         "deActivateTemplate": "Aktiv",
         "nameLabel": "Vorlagenname",
         "namePlaceholder": "Klicke, um einen Vorlagennamen einzugeben",
@@ -304,12 +312,15 @@
         "descriptionPlaceholder": "Klicke, um eine Beschreibung einzugeben",
         "subjectLabel": "Betreff",
         "subjectPlaceholder": "Klicke, um einen Betreff einzugeben",
+        "subjectTooltip": "Handlebar-Syntax kann verwendet werden, z.B. {{issue.key}}",
+        "titleLabel": "Titel",
+        "titlePlaceholder": "Klicke, um einen Titel einzugeben",
+        "titleTooltip": "Handlebar-Syntax kann verwendet werden, z.B. {{issue.key}}",
         "body": "Inhalt",
         "invalidFormTooltip": "Bitte fülle die Pflichtfelder aus.",
         "backButton": "Zurück zur Übersicht",
         "cancelButton": "Abbrechen",
         "saveButton": "Speichern",
-        "subjectTooltip": "Handlebar-Syntax kann verwendet werden, z.B. {{issue.key}}",
         "content": "Inhalt der Vorlage",
         "inactiveTooltip": "Inaktive Vorlagen stehen können nicht ausgewählt werden."
     },
@@ -347,6 +358,10 @@
         "email": {
             "displayName": "Standardvorlage E-Mail",
             "detailDescription": "Standardvorlage für E-Mails. Sie befüllt den Betreff mit der Zusammenfassung des Issues."
+        },
+        "meetings": {
+            "displayName": "Standardvorlage Meetings",
+            "detailDescription": "Standardvorlage für Meetings. Sie befüllt den Title mit dem Key und der Zusammenfassung des Issues."
         }
     },
     "userPicker": {
