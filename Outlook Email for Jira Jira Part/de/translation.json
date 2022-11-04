@@ -359,7 +359,7 @@
         "getOutlookAddIn": "Hol dir das Outlook add-in"
     },
     "templatePicker": {
-        "recents": "Zulext verwendet",
+        "recents": "Zuletzt verwendet",
         "others": "Weitere",
         "templateButton": "Vorlagen",
         "noTemplatesGlobalAdminTooltip": "Es sind noch keine Vorlagen konfiguriert. Du kannst in den globalen App Einstellungen oder im Projekteinstellungsmenü neue Vorlagen erstellen.",

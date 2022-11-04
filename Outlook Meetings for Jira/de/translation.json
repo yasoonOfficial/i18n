@@ -24,22 +24,22 @@
         "notAvailableLabel": "Nicht verfügbar",
         "availableLabel": "Verfügbar",
         "unknownLabel": "Unbekannt",
-        "ownLocationLabel": "Eigener Ort"
+        "ownLocationLabel": "Eigener Ort",
+        "titleLabel": "Titel"
     },
     "azureLogin": {
         "dropdownItemLoginAccountChooser": "Anmelden mit Konto-Auswahl"
     },
-    "commentVisibilityDropdown": {
-        "commentLabel": "Kommentar",
-        "addCommentLabel": "Einen Kommentar hinzufügen",
-        "publicCommentLabel": "Kunden antworten",
-        "addPublicCommentLabel": "Einen Kommentar hinzufügen",
-        "internalCommentLabel": "Internen Hinweis hinzufügen",
-        "addInternalCommentLabel": "Einen Kommentar hinzufügen",
-        "noCommentLabel": "Kein Kommentar",
-        "addNoCommentLabel": "Keinen Kommentar hinzufügen",
-        "chooseCommentLabel": "Auswählen",
-        "itemGroupLabel": "Meeting als Kommentar hinzufügen"
+    "commentVisibility": {
+        "choose": "Wähle, ob ein Kommentar am Vorgang erstellt werden soll",
+        "none": "Kein Kommentar",
+        "internal": "Interner Kommentar",
+        "public": "Kunden Kommentar",
+        "softwareAddComment": "Kommentar hinzufügen",
+        "internalShort": "Intern",
+        "publicShort": "Öffentlich",
+        "softwareAddCommentShort": "Mit Kommentar",
+        "tooltipExplanation": "Wähle, ob ein Kommentar erstellt wird"
     },
     "dateTimePickerForm": {
         "occurInPastTooltip": "Diese Besprechung würde in der Vergangenheit stattfinden",
@@ -73,8 +73,9 @@
         "cancelButtonLabel": "Abbrechen"
     },
     "scheduleMeetingDialogHeader": {
-        "settingsLabel": "Einstellungen",
-        "closeLabel": "Schließen"
+        "closeLabel": "Schließen",
+        "help": "Hilfe",
+        "heading": ""
     },
     "timezonePicker": {
         "selectPlaceholder": "Zeitzone auswählen"
@@ -222,5 +223,19 @@
         "noAvailabilityFor7Days": "In den nächsten 7 Tagen nicht verfügbar.",
         "freeAt": "Verfügbar um",
         "oof": "Außer Haus"
+    },
+    "actions": {
+        "logout": "Abmelden"
+    },
+    "links": {
+        "sendMailDoc": "Dokumentation",
+        "contactUs": "Kontakt"
+    },
+    "templatePicker": {
+        "recents": "Zuletzt verwendet",
+        "others": "Weitere",
+        "templateButton": "Vorlagen",
+        "noTemplatesGlobalAdminTooltip": "Es sind noch keine Vorlagen konfiguriert. Du kannst in den globalen App Einstellungen oder im Projekteinstellungsmenü neue Vorlagen erstellen.",
+        "noTemplatesProjectAdminTooltip": "Es sind noch keine Vorlagen konfiguriert. Du kannst im Projekteinstellungsmenü neue Vorlagen für dein Projekt erstellen."
     }
 }

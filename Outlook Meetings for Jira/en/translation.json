@@ -24,22 +24,22 @@
         "notAvailableLabel": "Not Available",
         "availableLabel": "Available",
         "unknownLabel": "Unknown",
-        "ownLocationLabel": "Own Location"
+        "ownLocationLabel": "Own Location",
+        "titleLabel": "Title"
     },
     "azureLogin": {
         "dropdownItemLoginAccountChooser": "Log in with account chooser "
     },
-    "commentVisibilityDropdown": {
-        "commentLabel": "Comment",
-        "addCommentLabel": "Add comment",
-        "publicCommentLabel": "Public comment",
-        "addPublicCommentLabel": "Add public comment",
-        "internalCommentLabel": "Internal comment",
-        "addInternalCommentLabel": "Add internal comment",
-        "noCommentLabel": "No comment",
-        "addNoCommentLabel": "Don't add comment",
-        "chooseCommentLabel": "Choose",
-        "itemGroupLabel": "Add meeting as issue comment"
+    "commentVisibility": {
+        "choose": "Choose if a comment should be added to the issue",
+        "none": "No comment",
+        "internal": "Internal comment",
+        "public": "Customer comment",
+        "softwareAddComment": "Add comment",
+        "internalShort": "Internal",
+        "publicShort": "Public",
+        "softwareAddCommentShort": "With comment",
+        "tooltipExplanation": "Choose if a comment should be added"
     },
     "dateTimePickerForm": {
         "occurInPastTooltip": "This meeting would occur in the past",
@@ -73,8 +73,9 @@
         "cancelButtonLabel": "Cancel"
     },
     "scheduleMeetingDialogHeader": {
-        "settingsLabel": "Settings",
-        "closeLabel": "Close"
+        "closeLabel": "Close",
+        "help": "Help",
+        "heading": "Schedule new meeting"
     },
     "timezonePicker": {
         "selectPlaceholder": "Choose a timezone"
@@ -222,5 +223,19 @@
         "noAvailabilityFor7Days": "Not available for the next 7 days.",
         "freeAt": "Free at",
         "oof": "Out of office"
+    },
+    "actions": {
+        "logout": "Logout"
+    },
+    "links": {
+        "sendMailDoc": "Documentation",
+        "contactUs": "Contact us"
+    },
+    "templatePicker": {
+        "recents": "Recents",
+        "others": "Others",
+        "templateButton": "Templates",
+        "noTemplatesGlobalAdminTooltip": "No templates have been configured yet. You can create new templates in the global app settings or project settings.",
+        "noTemplatesProjectAdminTooltip": "No templates have been configured yet. You can create new templates for your project in the project settings."
     }
 }
