@@ -207,10 +207,6 @@
         "licenseExpiredWarning": "Your license is expired",
         "scheduleMeetingLabel": "Schedule meeting"
     },
-    "userSettings": {
-        "heading": "Microsoft 365 account",
-        "logoutButtonLabel": "Logout"
-    },
     "helperLabels": {
         "assignee": "Assignee",
         "reporter": "Reporter",

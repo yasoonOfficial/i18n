@@ -207,10 +207,6 @@
         "licenseExpiredWarning": "Die Lizenz ist abgelaufen",
         "scheduleMeetingLabel": "Besprechung planen"
     },
-    "userSettings": {
-        "heading": "Microsoft 365-Konto",
-        "logoutButtonLabel": "Abmelden"
-    },
     "helperLabels": {
         "assignee": "Bearbeiter",
         "reporter": "Autor",
