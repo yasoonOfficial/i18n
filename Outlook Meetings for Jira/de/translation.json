@@ -75,7 +75,7 @@
     "scheduleMeetingDialogHeader": {
         "closeLabel": "Schließen",
         "help": "Hilfe",
-        "heading": ""
+        "heading": "Neues Meeting planen"
     },
     "timezonePicker": {
         "selectPlaceholder": "Zeitzone auswählen"
