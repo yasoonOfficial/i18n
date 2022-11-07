@@ -216,5 +216,13 @@
         "advancedConfigName": "Advanced",
         "advancedConfigDescription": "Choose this if you already know your way around To Do and Jira very well. This lets you configure every single detail.",
         "startButton": "Start {{mode}}"
-    }
+    },
+    "officeLoginMSALScreen": {
+        "heading": "Re-authenticate Microsoft login",
+        "descriptionFirstLine": "You need to re-authenticate. This is probably caused by your browser settings.",
+        "descriptionSecondLine": "{link}",
+        "docLink": "Show me how to fix this",
+        "loginDisabledHint": "Please log-in to Jira first",
+        "reAuthenticateButtonLabel": "Re-authenticate"
+    },
 }
