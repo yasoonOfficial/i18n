@@ -224,5 +224,5 @@
         "docLink": "Show me how to fix this",
         "loginDisabledHint": "Please log-in to Jira first",
         "reAuthenticateButtonLabel": "Re-authenticate"
-    },
+    }
 }
