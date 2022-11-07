@@ -93,7 +93,9 @@
 	  "helpTabLabel": "Help",
 	  "migrationTabLabel": "Migration",
 	  "settingsTabLabel": "Settings",
-	  "sharingTabLabel": "Sharing"
+	  "sharingTabLabel": "Sharing",
+	  "licenseExpiredHeading":"Your license is expired",
+	  "inValidLicenseText":"You don't have a valid license or it has expired. If you'd like to continue using our app, please get a valid license!"
 	},
 	"adminServerMigrationTab": {
 	  "macroMigrationErrorsHeading": "Not all pages could be migrated! See the errors to identify what to do",

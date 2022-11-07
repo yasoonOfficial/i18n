@@ -8,7 +8,7 @@
     "connectButton": "Verbinde",
     "connectDescription": "Während der Installation der App haben wir versucht deine Instanz auf unserer Cloud Infrastruktur zu registrieren, was leider fehlgeschlagen ist. Stelle bitte sicher, dass deine {{atlassianProduct}} Instanz die Services von yasoon und Microsoft 365 erreichen kann",
     "connected": "Verbunden",
-    "connectedDescription": "Wir konnten eine erfolgreich eine sichere Verbindung mit den yasoon Services herstellen. Solltest du unerwartet Verbindungsprobleme haben, kannst du unten eine Fehlerdiagnose starten.",
+    "connectedDescription": "Wir konnten erfolgreich eine sichere Verbindung mit den yasoon Services herstellen. Solltest du unerwartet Verbindungsprobleme haben, kannst du unten eine Fehlerdiagnose starten.",
     "connectivityHelpText": "Bitte füge die URL ein unter welcher deine {{atlassianProduct}} Instanz aus dem Internet erreichbar ist. Solltest du die existierende URL deines Systems ändern, werden alle Nutzer dieser Instanz ausgelogged.",
     "headsUp": "Achtung",
     "learnMore": "Erfahre mehr",
@@ -25,14 +25,14 @@
   },
   "adminFeaturesOverviewConfluence": {
     "addCalendarsWithTemplatesHeading": "Nutze Templates, um schnell Kalender hinzuzufügen",
-    "addCalendarsWithTemplatesText": "Füge Kalender über Templates hinzu in unserer neuen Bearbeiten-screen. Jedes dieser Templates verfügt über Standardeinstellungen, die es dir vereinfachen mit deinen Kalendern in Confluence zu arbeiten",
+    "addCalendarsWithTemplatesText": "Füge Kalender über Templates hinzu mit unserem neuen Bearbeiten-screen. Jedes dieser Templates verfügt über Standardeinstellungen, die es dir vereinfachen mit deinen Kalendern in Confluence zu arbeiten",
     "layoutOptionsHeading": "Wähle zwischen verschiedenen Layouts",
-    "layoutOptionsText": "Passe dein Layout an die Kalender an, die du teilen möchtest. Jira Versionen oder Sprints eignen sich z.B. eher in einer Timeline Ansicht, wohingegen Outlook Kalender eher eine Agenda Sicht dargestellt werden sollten.",
+    "layoutOptionsText": "Passe dein Layout an die Kalender an, die du teilen möchtest. Jira Versionen oder Sprints eignen sich z.B. eher in einer Timeline Ansicht, wohingegen Outlook Kalender eher in einer Agenda Sicht dargestellt werden sollten.",
     "learnMoreButton": "Erfahre mehr",
     "managePermissionsHeading": "Verwalte Kalenderberechtigungen (Outlook & Jira)",
     "managePermissionsText": "Dies gilt sowohl für Outlook Kalender als auch Jira Daten! Verwalte deine Kalenderberechtigungen selbst. Wähle, wer deine Kalender in Confluence sehen oder bearbeiten kann. Entscheide, ob jeder mit Zugriff auf Bereiche/Seiten deine Kalender sehen kann oder ob zusätzlich noch ein Microsoft 365/Jira Login benötigt wird.",
     "nextButton": "Weiter",
-    "pageCalendarHeading": "Füge Outlook Kalender zu Confluence Seiten/Spaces hinzu",
+    "pageCalendarHeading": "Füge Outlook Kalender zu Confluence Seiten/Bereichen hinzu",
     "pageCalendarText": "Nutze dieses Produkt um sicher, einfach und schnell mit Kalendern in Confluence zu arbeiten. Profitiere von Echtzeit Daten aus Microsoft 365, ohne weitere Synchronisation. Erstelle neue Projekt-meetings direkt in Confluence.",
     "previousButton": "Zurück",
     "scheduleMeetingsHeading": "Buche Outlook & Microsoft Teams Meetings",
@@ -78,8 +78,8 @@
     "migrationErrorFlagDescription": "Prüfe bitte den Migration Tab für weitere Informationen. Der Kalender wird nicht wie gewünscht funktionieren.",
     "migrationErrorFlagHeading": "Migration erforderlich!",
     "migrationGuideButton": "Migrationsguide",
-    "migrationGuideHeading": "Migrieren von Team Calendars",
-    "migrationGuideText": "Wenn du von Atlassian Team Calendars migrierst, kannst du einfach deine Kalenderereignisse in Outlook Kalender übertragen. Siehe hierzu unseren Migrationsguide für weitere Details.",
+    "migrationGuideHeading": "Migration von Team Calendars",
+    "migrationGuideText": "Wenn du von Atlassian Team Calendars migrierst, kannst du einfach deine Kalenderereignisse nach Outlook übertragen. Siehe hierzu unseren Migrationsguide für weitere Details.",
     "onClickConnectionTab": "Zu Connectivity Tab navigieren",
     "onClickMigrationTab": "Navigiere zu Migration Tab",
     "viewPersonalCalendarAction": "Zum Persönlichen Kalender"
@@ -93,7 +93,9 @@
     "helpTabLabel": "Hilfe",
     "migrationTabLabel": "Migration",
     "settingsTabLabel": "Einstellungen",
-    "sharingTabLabel": "Sharing"
+    "sharingTabLabel": "Sharing",
+	  "licenseExpiredHeading":"Die Lizenz ist abgelaufen",
+	  "inValidLicenseText":"Die Lizenz ist ungültig oder abgelaufen. Wenn du unsere App weiterhin nutzen möchtest, erneuere bitte die Lizenz!"
   },
   "adminServerMigrationTab": {
     "macroMigrationErrorsHeading": "Nicht alle Seiten konnten migriert werden! Die Fehler zeigen dir, was gemacht werden muss",
@@ -110,7 +112,7 @@
   "adminSharingTab": {
     "anonymousSharingDescription": "Standardmäßig können anonyme Benutzer nicht auf shared Kalender zugreifen. Solltest du Kalender auf öffentlichen Seiten zur Verfügung stellen wollen, aktiviere diese Einstellung.",
     "anonymousSharingHeading": "Anonymes Kalender sharing",
-    "anonymousSharingToggleLabel": "Erlaube nutzen öffentlich Daten zu teilen",
+    "anonymousSharingToggleLabel": "Erlaube Nutzern Daten öffentlich zu teilen",
     "heading": "Kalender sharing Einstellungen",
     "jiraSharingToggleLabel": "Erlaube sharing von Jira Daten",
     "outlookSharingToggleLabel": "Erlaube sharing von Outlook Kalendern",
@@ -118,7 +120,7 @@
     "sharingOptions": "Sharing Optionen"
   },
   "adminSupportScreen": {
-    "description": "Dies sind Support Features. Bitte nur nach dem Kontakt mit dem yasoon Tean verwenden.",
+    "description": "Support Features. Bitte nur nach dem Kontakt mit dem yasoon Tean verwenden.",
     "loadButton": "Einstellung Laden",
     "saveButton": "Einstellung speichern"
   },
@@ -331,10 +333,10 @@
     "unsharedLabel": "Jira Berechtigungen"
   },
   "jiraConnectivity": {
-    "description": "Diese App benutzt existierende Applikationslinks zwischen Jira und Confluence um Jira Kalender anzuzeigen.",
+    "description": "Diese App benutzt existierende Anwendungsverknüpfungen zwischen Jira und Confluence um Jira Kalender anzuzeigen.",
     "existingApplinks": "Folgende Instanzen können verwendet werden:",
     "heading": "Jira Connectivity",
-    "noApplinks": "Es wurden keine Applikationslinks zwischen Jira und Confluence gefunden."
+    "noApplinks": "Es wurden keine Anwendungsverknüpfungen zwischen Jira und Confluence gefunden."
   },
   "jiraDateRangeOptionSettings": {
     "completeDateOnlyHeading": "Nur abgeschlossen",
