@@ -363,7 +363,8 @@
         "chatTitle": "Chat title",
         "chatMessage": "Chat message",
         "chatAccess": "Chat access",
-        "chatMember": "Add chat member"
+        "chatMember": "Add chat member",
+        "chatMembersPlaceholder": "Choose chat members"
     },
     "backupTeamsMessagesScreen": {
         "chatsMessages": "Backup all Teams chats",
@@ -383,9 +384,10 @@
         "endDateType": "End time",
         "endDateField": "End time field",
         "timezoneField": "Timezone",
-        "timezoneFieldPlaceholder": "Select timezone (defaults to Jira instance timezone)",
+        "timezoneFieldPlaceholder": "Choose event timezone",
         "templateStringField": "By date template",
-        "jiraFieldPlaceholder": "Select Jira field",
+        "jiraFieldPlaceholder": "Choose Jira field",
+        "attendeesPlaceholder": "Choose meeting attendees",
         "isAllDayToggleField": "Is all-day event",
         "minutesLength": "Minutes",
         "hoursLength": "Hours",
@@ -407,7 +409,8 @@
     },
     "createSendBotMessageScreen": {
         "botMessageLabel": "Bot message",
-        "usersLabel": "Users"
+        "usersLabel": "Users",
+        "usersPlaceholder": "Choose message recipients"
     },
     "auditLogScreen": {
         "action": {
