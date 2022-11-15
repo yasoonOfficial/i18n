@@ -12,7 +12,8 @@
         "approve": "Genehmigen",
         "loading": "Lade ...",
         "selectOption": "Wähle eine Option",
-        "share": "Teilen"
+        "share": "Teilen",
+        "Add": "Hinzufügen"
     },
     "error": {
         "microsoftLogin": "Microsoft login fehlgeschlagen. Bitte neu laden.",

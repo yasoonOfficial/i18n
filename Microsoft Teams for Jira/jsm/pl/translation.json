@@ -12,7 +12,8 @@
         "approve": "Zaakceptowane",
         "loading": "Ładowanie ...",
         "selectOption": "Wybierz opcję",
-        "share": "Dzielić"
+        "share": "Dzielić",
+        "add": "Dodaj"
     },
     "error": {
         "microsoftLogin": "Nie można zweryfikować logowania Microsoft. Odswież stronę i spróbuj ponownie.",

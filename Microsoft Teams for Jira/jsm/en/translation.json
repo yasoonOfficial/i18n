@@ -12,7 +12,8 @@
         "approve": "Approve",
         "loading": "Loading ...",
         "selectOption": "Select an option",
-        "share": "Share"
+        "share": "Share",
+        "add": "Add"
     },
     "error": {
         "microsoftLogin": "Could not verify Microsoft login. Please refresh and try again.",
