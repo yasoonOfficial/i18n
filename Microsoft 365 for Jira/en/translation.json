@@ -239,7 +239,7 @@
             },
             "actions": {
                 "heading": "Actions",
-                "description": "Actions are fired in a Microsoft 365 tool, if a specific condition is met in Jira. You can create and configure an action via template.",
+                "description": "Actions are fired in a Microsoft 365 tool if a specific condition is met in Jira. You can create and configure an action via template.",
                 "button": "Find out more"
             }
         },
@@ -248,7 +248,7 @@
         "exploreButton": "Inspire me"
     },
     "actionScreen": {
-        "description": "Actions in Microsoft 365 are fired, if a specific condition is met in Jira.",
+        "description": "Actions in Microsoft 365 are fired if a specific condition is met in Jira.",
         "actionTypeHeader": "Action type",
         "nameHeader": "Action name",
         "idHeader": "Id",
@@ -269,7 +269,7 @@
         "learnMore": "Learn more"
     },
     "triggerScreen": {
-        "description": "Triggers from Microsoft 365 are fired to Jira, if a specific condition is met either manually or automated.",
+        "description": "Triggers from Microsoft 365 are fired to Jira if a specific condition is met either manually or automated.",
         "idHeader": "Id",
         "typeHeader": "Trigger type",
         "nameHeader": "Trigger name",
