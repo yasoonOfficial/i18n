@@ -11,7 +11,8 @@
         "decline": "Odrzuć",
         "approve": "Zaakceptowane",
         "loading": "Ładowanie ...",
-        "selectOption": "Wybierz opcję"
+        "selectOption": "Wybierz opcję",
+        "share": "Dzielić"
     },
     "error": {
         "microsoftLogin": "Nie można zweryfikować logowania Microsoft. Odswież stronę i spróbuj ponownie.",
@@ -73,6 +74,10 @@
         "relatedChats": "Powiązane czaty",
         "optionalComment": "Komentarz opcjonalny",
         "attachmentsNotice": "Patrz załączniki poniżej",
-        "approvalRequired": "Ta prośba wymaga Twojej zgody"
+        "approvalRequired": "Ta prośba wymaga Twojej zgody",
+        "sharedWith": "Współdzielone z",
+        "creator": "Twórca",
+        "selectRequestParticipants": "Wybierz uczestników żądania",
+        "requestParticipantsNotAllAdded": "Nie wszyscy uczestnicy mogli zostać dodani."
     }
 }

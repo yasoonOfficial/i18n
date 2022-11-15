@@ -11,7 +11,8 @@
         "decline": "Ablehnen",
         "approve": "Genehmigen",
         "loading": "Lade ...",
-        "selectOption": "Wähle eine Option"
+        "selectOption": "Wähle eine Option",
+        "share": "Teilen"
     },
     "error": {
         "microsoftLogin": "Microsoft login fehlgeschlagen. Bitte neu laden.",
@@ -73,6 +74,10 @@
         "relatedChats": "Verknüpfte Chats",
         "optionalComment": "Optionales Kommentar",
         "attachmentsNotice": "Dateianhänge unten einsehbar",
-        "approvalRequired": "Diese Anfrage benötigt deine Genehmigung"
+        "approvalRequired": "Diese Anfrage benötigt deine Genehmigung",
+        "sharedWith": "Geteilt mit",
+        "creator": "Ersteller",
+        "selectRequestParticipants": "Wähle Teilnehmer",
+        "requestParticipantsNotAllAdded": "Nicht alle Teilnehmer konnten hinzugefügt werden."
     }
 }

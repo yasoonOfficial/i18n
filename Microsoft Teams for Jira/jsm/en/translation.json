@@ -11,7 +11,8 @@
         "decline": "Decline",
         "approve": "Approve",
         "loading": "Loading ...",
-        "selectOption": "Select an option"
+        "selectOption": "Select an option",
+        "share": "Share"
     },
     "error": {
         "microsoftLogin": "Could not verify Microsoft login. Please refresh and try again.",
@@ -73,6 +74,10 @@
         "relatedChats": "Related chats",
         "optionalComment": "Optional comment",
         "attachmentsNotice": "See attachments below",
-        "approvalRequired": "This request requires your approval"
+        "approvalRequired": "This request requires your approval",
+        "sharedWith": "Shared with",
+        "creator": "Creator",
+        "selectRequestParticipants": "Select request participants",
+        "requestParticipantsNotAllAdded": "Not all participants could be added."
     }
 }
