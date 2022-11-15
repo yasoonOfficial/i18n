@@ -230,7 +230,7 @@
     "gettingStartedScreen": {
         "heading": " Connect the power of Jira automation with Microsoft 365",
         "overviewSubheading": "Getting started",
-        "overviewDescription": "Jira automation offers you a vast variety of technology-driven processes.  By adding Microso 365 tools to Jira automation you can spin your processes even further. This can reach from smaller automation, to whole new workflows that can be configured individually to your needs.",
+        "overviewDescription": "Jira automation offers you a vast variety of technology-driven processes. By adding Microsoft 365 tools to Jira automation you can spin your processes even further. This can reach from smaller automation, to whole new workflows that can be configured individually to your needs.",
         "card": {
             "triggers": {
                 "heading": "Triggers",
