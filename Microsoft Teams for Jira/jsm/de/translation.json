@@ -78,6 +78,7 @@
         "sharedWith": "Geteilt mit",
         "creator": "Ersteller",
         "selectRequestParticipants": "Wähle Teilnehmer",
-        "requestParticipantsNotAllAdded": "Nicht alle Teilnehmer konnten hinzugefügt werden."
+        "requestParticipantsNotAllAdded": "Nicht alle Teilnehmer konnten hinzugefügt werden.",
+        "participantsNoResults": "Kein Ergebnis"
     }
 }
