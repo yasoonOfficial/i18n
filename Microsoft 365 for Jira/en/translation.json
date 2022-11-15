@@ -334,7 +334,8 @@
             "teams-global-regexTitle": "Teams bot message received",
             "teams-global-regexDescription": "Fired when the Teams bot recieves a message with the configured keyword.",
             "teams-global-regexDescriptionPlaceholder": "This trigger is executed when a replied to a conversation in Teams with keyword (...).\nCreated by: {{atlassianUser}}\nUsed in project: (...)"
-        }
+        },
+        "comingSoon": "Coming soon"
     },
     "createActionScreen": {
         "titleLabel": "Action name",
