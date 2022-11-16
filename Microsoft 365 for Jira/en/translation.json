@@ -442,7 +442,7 @@
         "refreshItems": "Refresh"
     },
     "chatAccess": {
-        "chooseChatPermissions": "Only participants of the chat have access to it in Jira.",
+        "chooseChatPermissions": "Choose who should have access to this chat in Jira",
         "private": "Private",
         "shared": "Shared",
         "sharedAndAllowJoining": "Shared & allow joining",
