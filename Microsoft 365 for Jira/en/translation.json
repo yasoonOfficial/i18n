@@ -583,7 +583,8 @@
         "messageTypeField": "Channel message",
         "botMessageType": "Message type",
         "personal": "Personal bot message",
-        "channel": "Channel message"
+        "channel": "Channel message",
+        "limitToChannel": "Limit to channel"
     },
     "globalRegexMessageTypes": {
         "all": "All messages",
