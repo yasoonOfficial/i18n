@@ -592,17 +592,12 @@
         "linkedReplyOnly": "Only when replying to a linked conversation",
         "replyOnly": "Only when replying to a conversation"
     },
-    "templateOverviewScreen": {
-        "emailTabname": "Email",
-        "meetingsTabname": "Meetings",
-        "description": "Create and edit templates for Microsoft 365 (Email, Meetings, Teams).\nActive templates may then be selected and used to prefill the corresponding fields.",
-        "pageHeading": "Templates",
-        "missingPermission": "You don't have the permissions to view this site."
-    },
-    "templateTab": {
+    "templateListScreen": {
         "deleteSuccessTitle": "Template deleted",
         "deleteSuccessMessage": "The template has been deleted successfully.",
         "deleteErrorTitle": "Could not delete template",
+        "pageHeading": "Templates",
+        "description": "Create and edit templates for Microsoft 365 (Email, Meetings, Teams).\nActive templates may then be selected and used to prefill the corresponding fields.",
         "active": "Active",
         "displayName": "Template name",
         "detailDescription": "Description",
@@ -637,9 +632,6 @@
         "createHeadingEmail": "Create email template",
         "viewHeadingEmail": "View email template",
         "editHeadingEmail": "Edit email template",
-        "createHeadingMeetings": "Create meetings template",
-        "viewHeadingMeetings": "View Meetings template",
-        "editHeadingMeetings": "Edit Meetings template",
         "deActivateTemplate": "Active",
         "nameLabel": "Template name",
         "namePlaceholder": "Click to enter a template name",
@@ -647,17 +639,15 @@
         "descriptionPlaceholder": "Click to enter a description",
         "subjectLabel": "Subject",
         "subjectPlaceholder": "Click to enter a subject",
-        "subjectTooltip": "Handlebar syntax can be used, e.g. {{issue.key}}",
-        "titleLabel": "Title",
-        "titlePlaceholder": "Click to enter a title",
-        "titleTooltip": "Handlebar syntax can be used, e.g. {{issue.key}}",
         "body": "Body",
         "invalidFormTooltip": "Please fill out the required fields.",
         "backButton": "Back to overview",
         "cancelButton": "Cancel",
         "saveButton": "Save",
+        "subjectTooltip": "Handlebar syntax can be used, e.g. {{issue.key}}",
         "content": "Template content",
-        "inactiveTooltip": "Inactive templates will not be available for selection."
+        "inactiveTooltip": "Inactive templates will not be available for selection.",
+        "learnMore": "Learn more"
     },
     "templateEditor": {
         "actions": {
