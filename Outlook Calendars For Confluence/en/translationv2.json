@@ -242,8 +242,19 @@
 	  "personalEdit": "Personal calendar settings",
 	  "projectEdit": "Project calendar settings",
 	  "scheduleMeeting": "Schedule meeting",
+	  "editMeeting": "Edit meeting",
 	  "spaceEdit": "Space calendar settings",
 	  "v2MigrationGuide": "V2 Migration guide"
+	},
+	"editEventScreen":{
+		"editDescriptionLabel": "Edit",
+		"discard": "Discard",
+		"cancel": "Cancel event",
+		"decline": "Decline event",
+		"delete": "Delete event",
+		"submit": "Create event",
+		"sendUpdate": "Send update",
+		"save": "Save"
 	},
 	"editJQLFieldScreen": {
 	  "heading": "JQL:",
@@ -570,7 +581,8 @@
 	  "openInOutlookFlagAction": "Open in Outlook",
 	  "openInOutlookText": "Open",
 	  "openInOutlookTooltip": "Open in outlook",
-	  "youAreOrganizerText": "You're the organizer"
+	  "youAreOrganizerText": "You're the organizer",
+	  "editButtonText": "Edit"
 	},
 	"officeLoginMSALScreen": {
 	  "heading": "Re-authenticate Microsoft login",
