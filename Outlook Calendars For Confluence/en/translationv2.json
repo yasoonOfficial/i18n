@@ -246,6 +246,9 @@
 	  "spaceEdit": "Space calendar settings",
 	  "v2MigrationGuide": "V2 Migration guide"
 	},
+	"dialogFooter": {
+		"submit": "Submit"
+	},
 	"editEventScreen":{
 		"editDescriptionLabel": "Edit",
 		"discard": "Discard",
@@ -254,7 +257,10 @@
 		"delete": "Delete event",
 		"submit": "Create event",
 		"sendUpdate": "Send update",
-		"save": "Save"
+		"save": "Save",
+		"close": "Close",
+		"deleteEventConfirmation": "Confirm deletion",
+		"cancelEventConfirmation": "Confirm cancelation"
 	},
 	"editJQLFieldScreen": {
 	  "heading": "JQL:",
@@ -582,7 +588,8 @@
 	  "openInOutlookText": "Open",
 	  "openInOutlookTooltip": "Open in outlook",
 	  "youAreOrganizerText": "You're the organizer",
-	  "editButtonText": "Edit"
+	  "editButtonText": "Edit",
+	  "editButtonDisabledTooltip": "This event is not editable"
 	},
 	"officeLoginMSALScreen": {
 	  "heading": "Re-authenticate Microsoft login",
