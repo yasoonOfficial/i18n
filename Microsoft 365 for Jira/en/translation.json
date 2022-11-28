@@ -456,7 +456,7 @@
     "channelSelect": {
         "noChannelSelectOptions": "No channels found. You can only find channels which have 'Smart Connect for Jira' installed.",
         "noChannelSelectOptionsHelp": "Can't find your channel?",
-        "selectChannel": "Select channel",
+        "selectChannel": "Select Teams channel",
         "privateChannelNotSupported": "Private channels are not supported currently",
         "appNotInstalledInTeam": "The app is not installed in this team yet.",
         "learnWhy": "Learn why"
