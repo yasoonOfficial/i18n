@@ -331,11 +331,11 @@
             "meeting-createdTitle": "Outlook meeting created",
             "meeting-createdDescription": "Fired when a meeting was created in an issue.",
             "meeting-createdDescriptionPlaceholder": "This trigger is executed when a Outlook meeting is created in Jira (...).\nCreated by: {{atlassianUser}}\nUsed in project: (...)",
-            "teams-channel-regexTitle": "Teams bot message received",
-            "teams-channel-regexDescription": "Fired when the Teams bot recieves a message with the configured keyword.",
+            "teams-channel-regexTitle": "Teams channel message received",
+            "teams-channel-regexDescription": "Fired when the Teams bot recieves a message with the configured keyword in a channel.",
             "teams-channel-regexDescriptionPlaceholder": "This trigger is executed when a replied to a conversation in Teams with keyword (...).\nCreated by: {{atlassianUser}}\nUsed in project: (...)",
             "teams-personal-regexTitle": "Teams bot message received",
-            "teams-personal-regexDescription": "Fired when the Teams bot recieves a message with the configured keyword.",
+            "teams-personal-regexDescription": "Fired when the Teams bot recieves a personal message with the configured keyword.",
             "teams-personal-regexDescriptionPlaceholder": "This trigger is executed when a replied to a conversation in Teams with keyword (...).\nCreated by: {{atlassianUser}}\nUsed in project: (...)"
         },
         "comingSoon": "Coming soon"
@@ -578,15 +578,15 @@
             "msalLoginButton": "Authenticate"
         }
     },
-    "globalRegexConfigScreen": {
-        "regexField": "Regex",
-        "messageTypeField": "Channel message",
-        "botMessageType": "Message type",
-        "personal": "Personal bot message",
-        "channel": "Channel message",
+    "channelRegexConfigScreen": {
+        "regexField": "Message pattern",
+        "messageTypeField": "Message type",
         "limitToChannel": "Limit to channel"
     },
-    "globalRegexMessageTypes": {
+    "personalRegexConfigScreen": {
+        "regexField": "Message pattern"
+    },
+    "channelMessageTypes": {
         "all": "All messages",
         "topLevelOnly": "Only top level conversation messages",
         "linkedReplyOnly": "Only when replying to a linked conversation",
