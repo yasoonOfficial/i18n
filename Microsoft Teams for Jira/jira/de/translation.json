@@ -414,5 +414,9 @@
         "nonJiraUserPermissions": "Nutzer ohne Jira Account dürfen",
         "allowNonJiraUsersForBoard": "dieses Board sehen",
         "allowNonJiraUsersTransitions": "den Status von Vorgängen ändern"
+    },
+    "jsmPortalConfig": {
+        "portalIcon": "Icon",
+        "portalName": "Portal Name"
     }
 }
