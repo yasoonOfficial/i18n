@@ -315,7 +315,11 @@
             "send-bot-messageTitle": "Send bot message",
             "send-bot-messageDescription": "Send a bot message to a user, who has installed the bot.",
             "send-bot-messageConfigDescription": "Bot message settings",
-            "send-bot-messageDescriptionPlaceholder": "This action sends a bot message in Teams when (...).\nCreated by: {{atlassianUser}}\nUsed in project: (...)"
+            "send-bot-messageDescriptionPlaceholder": "This action sends a bot message in Teams when (...).\nCreated by: {{atlassianUser}}\nUsed in project: (...)",
+            "send-emailTitle": "Send email",
+            "send-emailDescription": "Send a email to the recipients of your choice.",
+            "send-emailConfigDescription": "Email settings",
+            "send-emailDescriptionPlaceholder": "This action sends a email when (...).\nCreated by: {{atlassianUser}}\nUsed in project: (...)"
         },
         "trigger": {
             "heading": "Create trigger",
@@ -336,7 +340,10 @@
             "teams-channel-regexDescriptionPlaceholder": "This trigger is executed when a replied to a conversation in Teams with keyword (...).\nCreated by: {{atlassianUser}}\nUsed in project: (...)",
             "teams-personal-regexTitle": "Teams bot message received",
             "teams-personal-regexDescription": "Fired when the Teams bot recieves a personal message with the configured keyword.",
-            "teams-personal-regexDescriptionPlaceholder": "This trigger is executed when a replied to a conversation in Teams with keyword (...).\nCreated by: {{atlassianUser}}\nUsed in project: (...)"
+            "teams-personal-regexDescriptionPlaceholder": "This trigger is executed when a replied to a conversation in Teams with keyword (...).\nCreated by: {{atlassianUser}}\nUsed in project: (...)",
+            "email-sentTitle": "Email sent",
+            "email-sentDescription": "Fired when a email was sent in an issue.",
+            "email-sentDescriptionPlaceholder": "This trigger is executed when a email is sent in Jira (...).\nCreated by: {{atlassianUser}}\nUsed in project: (...)"
         },
         "comingSoon": "Coming soon"
     },
