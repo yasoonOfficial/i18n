@@ -1,778 +1,778 @@
 {
-	"adminConnectivityTab": {
-	  "baseUrlMismatch": "This might be intentional if e.g. you cloned your instance. Please adjust the url below.",
-	  "baseUrlMismatchBanner": "Your {{atlassianProduct}} url does not match the configured one below",
-	  "cancel": "Cancel",
-	  "confluenceUrlHelpText": "This is the publicly reachable URL of your {{atlassianProduct}} instance",
-	  "connect": "Connection required",
-	  "connectButton": "Connect",
-	  "connectDescription": "During the installation of the app, we tried to register the instance with our cloud infrastructure, which unfortunately failed. Please make sure that the {{atlassianProduct}} instance can reach yasoon services and Microsoft 365.",
-	  "connected": "Connected",
-	  "connectedDescription": "We were able to successfully establish a secure connection to the yasoon services. If you experience unexpected connectivity issues you can perform a connectivity check below.",
-	  "connectivityHelpText": "Please enter the URL under which your {{atlassianProduct}} system is reachable from the internet. If you change the existing public URL of your system, all users will be logged out of the current instance.",
-	  "headsUp": "Heads up",
-	  "learnMore": "Learn more",
-	  "noBaseUrlBanner": "App not configured correctly.",
-	  "noBaseUrlInSettings": "Connection to yasoon not possible. Please connect the public reachable {{atlassianProduct}} url. Then, do a connectivity-check afterwards to see if everything works as intended",
-	  "okay": "Okay",
-	  "registerInstanceErrorTitle": "Error trying to reach yasoon backend. See connectivity check",
-	  "staticIPHelpText": "If you need to allow IPs in your firewall, please check out our {link1}",
-	  "staticIPHelpText2": "To use the app, your {{atlassianProduct}} system needs to be reachable by our servers. If your system is behind a firewall, you can allow access for the following IPs - all requests will come from these IPs.",
-	  "staticIPHelpTextLabel": "help on this",
-	  "yasoonConnectivity": "Yasoon connectivity",
-	  "yasoonConnectivityDescription": "As the app deeply integrates with Microsoft 365, which is a cloud only solution, our app behaves a bit differently than “classic” {{atlassianProduct}} Server apps. Your {{atlassianProduct}} instance needs to connect to yasoon services as well as to Microsoft 365. {link1}",
-	  "yourConfluenceUrlPublic": "Your {{atlassianProduct}} URL (public)"
-	},
-	"adminFeaturesOverviewConfluence": {
-	  "addCalendarsWithTemplatesHeading": "Add calendars easily with templates",
-	  "addCalendarsWithTemplatesText": "Add calendars by selecting from the calendar templates available in our (new) edit screen. Every single calendar template provides default settings to make it easier for you to start working with your calendars in Confluence.",
-	  "layoutOptionsHeading": "Choose between different layout options",
-	  "layoutOptionsText": "Change the calendar layout depending on the calendar dates you share. Jira dates might better be displayed in a timeline view (e.g. Jira releases or sprints) while shared Outlook dates will better be shown in a calendar view (e.g. holidays or user calendar’s).",
-	  "learnMoreButton": "Learn more",
-	  "managePermissionsHeading": "Manage calendar permissions (Outlook & Jira)",
-	  "managePermissionsText": "This goes for both Outlook calendar and Jira dates! Manage calendar permissions easily yourself. Choose who can see or edit calendars in Confluence. Decide if everyone with access to the Confluence space or page can view the data shared or if it should only be those with a Microsoft 365 or Jira Log-in.",
-	  "nextButton": "Next",
-	  "pageCalendarHeading": "Add Outlook calendars to Confluence pages or spaces",
-	  "pageCalendarText": "Use Outlook calendars as a fast, powerful, and secure way to work with calendars in Confluence. Benefit from real-time data from Microsoft 365, no sync is needed. Add new project meetings directly in Confluence.",
-	  "previousButton": "Prev",
-	  "scheduleMeetingsHeading": "Schedule Outlook & Microsoft Teams meetings",
-	  "scheduleMeetingsText": "Schedule Outlook and Microsoft Teams meetings directly in Confluence. Even decide on whose behalf you’d like to schedule the meeting. View meeting details with a single click after sending out the invite."
-	},
-	"adminGlobalMailboxesTab": {
-	  "addMailboxButton": "Add another",
-	  "description": "Add pre-existing shared mailboxes to make them available for the \"Global calendars\" template. This is a legacy feature - we recommend using Outlook Group calendars or Microsoft Teams channel calendars going forward. ",
-	  "desctiptionLearnMoreButton": "Learn more",
-	  "emptyStateAddButton": " Add shared mailbox",
-	  "emptyStateDescription": "You don't have any shared mailboxes configured yet.",
-	  "emptyStateHeading": "Shared mailboxes",
-	  "emptyStateLearnMoreButton": "Learn more",
-	  "heading": "Shared mailboxes"
-	},
-	"adminHelpTab": {
-	  "bookMeetingButton": "Book a meeting",
-	  "callUsButton": "Call us (timezone: CET)",
-	  "contactDescription": "In case you need technical help or just want to learn about our product, we are happy to help!",
-	  "contactHeading": "Contact us",
-	  "contactLinksHeading": "Contact links",
-	  "documentationDescription": "It's always a good idea to check out our documentation first, we try to answer common questions there. Use the quick links below to get started!",
-	  "documentationHeading": "Check our documentation",
-	  "faqButton": "FAQ",
-	  "featuresButton": "Features",
-	  "gettingStartedButton": "Getting started",
-	  "quickLinksLabel": "Quick links",
-	  "raiseTicketButton": "Raise a ticket",
-	  "sendMailButton": "Send an email",
-	  "supportToolsButton": "Go to support tools",
-	  "supportToolsDescription": "Additional configurations, please only use in consultation with the support team.",
-	  "supportToolsHeading": "Support tools"
-	},
-	"adminOverviewTab": {
-	  "connectivityErrorFlagDescription": "Please check to connectivity tab for further information. The calendar won't work as intended right now.",
-	  "connectivityErrorFlagHeading": "Configuration required!",
-	  "exchangeConnectionErrorFlagDescription": "We detected, that you had selected Exchange as your connection method in the previous version. This version of {{yasoonProduct}} does not work with Microsoft Exchange. Only Microsoft 365 is supported. If you want to use Exchange, you need to install v1 again.",
-	  "exchangeConnectionErrorFlagTitle": "Microsoft Exchange connection settings detected!",
-	  "featureOverviewHeading": "Feature overview",
-	  "gettingStartedFlagDescription": "Welcome to {{yasoonProduct}}. Go to any page and insert the calendar macro to get started!",
-	  "gettingStartedFlagHeading": "Ready to use!",
-	  "learnMoreAction": "Learn more",
-	  "migrationErrorFlagDescription": "Please check the migration tab for further information. The calendar won't work as intended right now.",
-	  "migrationErrorFlagHeading": "Migration required!",
-	  "migrationGuideButton": "Migration guide",
-	  "migrationGuideHeading": "Migrating from Team Calendars",
-	  "migrationGuideText": "If you are migrating from Atlassian Team Calendars, there is an easy way to take over calendar events to your Outlook calendar. Check our migration guide for more details.",
-	  "onClickConnectionTab": "Navigate to connectivity tab",
-	  "onClickMigrationTab": "Navigate to migration tab",
-	  "viewPersonalCalendarAction": "View your personal calendar"
-	},
-	"adminScreen": {
-	  "connectiviyTabLabel": "Connectivity",
-	  "generalSettingsTabLabel": "General settings",
-	  "gettingStartedTabLabel": "Getting started",
-	  "globalMailboxesTabLabel": "Shared mailboxes",
-	  "heading": "{{yasoonProduct}}",
-	  "helpTabLabel": "Help",
-	  "migrationTabLabel": "Migration",
-	  "settingsTabLabel": "Settings",
-	  "sharingTabLabel": "Sharing",
-	  "licenseExpiredHeading":"Your license is expired",
-	  "inValidLicenseText":"You don't have a valid license or it has expired. If you'd like to continue using our app, please get a valid license!"
-	},
-	"adminServerMigrationTab": {
-	  "macroMigrationErrorsHeading": "Not all pages could be migrated! See the errors to identify what to do",
-	  "macroMigrationLabel": "Macro migration progress",
-	  "migrationNotPossible": "Migration not possible right now. Check the connectivity tab first",
-	  "migrationRequiredDescription": "When you are ready to migrate the settings, hit the button down below. Depending on your instance size and the usage of the calendar, this can take up several minutes!",
-	  "migrationRequiredHeading": "Settings migration from v1 required",
-	  "migrationRunningDescription": "The migration is running, do not close this browser window/tab until it is finished",
-	  "migrationSuccessfulDescription": "Settings migration successful",
-	  "spaceMigrationLabel": "Space migration progress",
-	  "startMigrationButtonLabel": "Start migration",
-	  "userMigrationLabel": "User migration progress"
-	},
-	"adminSharingTab": {
-	  "anonymousSharingDescription": "By default shared calendars can’t be accessed by anonymous users. If you want to allow calendars to be shared on public pages you explicitly need to enable this setting.",
-	  "anonymousSharingHeading": "Anonymous calendar sharing",
-	  "anonymousSharingToggleLabel": "Allow users to publicly share data",
-	  "heading": "Calendar sharing settings",
-	  "jiraSharingToggleLabel": "Allow sharing Jira data",
-	  "outlookSharingToggleLabel": "Allow sharing Outlook calendars",
-	  "sharingDescription": "This feature allows your users to share calendars with other users. Everyone will see the calendar the same way as the person that created it. Notice: if you change this setting later on, already shared calendars will still be shared!",
-	  "sharingOptions": "Sharing options"
-	},
-	"adminSupportScreen": {
-	  "description": "This are support features, please only use in consultation with the support team.",
-	  "loadButton": "Load property",
-	  "saveButton": "Save property"
-	},
-	"agendaViewSetting": {
-	  "heading": "Calendar view scope",
-	  "selectDayLabel": "Day",
-	  "selectMonthLabel": "Month",
-	  "selectweekLabel": "Week",
-	  "selectworkWeekLabel": "Work week",
-	  "subHeading": "How many days should be visible in the calendar"
-	},
-	"atlassianProduct": {
-	  "confluence": "Confluence",
-	  "jira": "Jira"
-	},
-	"attendeesField": {
-	  "createOption": "Manually add"
-	},
-	"calendarList": {
-	  "addCalendarButton": "+ Add calendar",
-	  "anonymousUserError": "{{atlassianProduct}} User login required",
-	  "calendars": "Calendars",
-	  "ewsLoginRequired": "EWS login required",
-	  "filteringCategoriesAndFreeBusyTypeLabel": "This calendar has been filtered for {{freeBusyStatus}} events with categories {{categories}}.",
-	  "filteringCategoriesOnlyLabel": "This calendar has been filtered events with categories {{categories}}.",
-	  "filteringCategoryAndFreeBusyTypeLabel": "This calendar has been filtered for {{freeBusyStatus}} events with category {{categories}}.",
-	  "filteringCategoryOnlyLabel": "This calendar has been filtered for events with category {{categories}}.",
-	  "filteringShowAsOnlyLabel": "This calendar has been filtered for {{freeBusyStatus}} events.",
-	  "generalSettingsLabel": "General settings",
-	  "loginButton": "Login",
-	  "loginErrorMessage": "Login required",
-	  "noFilterLabel": "The calendar has no filter criteria.",
-	  "reauthenticateButton": "Re-authenticate",
-	  "reauthenticateMessage": "Your browser has restrictive privacy settings, so you need to re-authenticate every 24 hours.",
-	  "viewHeading": "Layout"
-	},
-	"calendarListScreen": {
-	  "noCalendarSelectedMessage": "It seems that something went wrong. Please select a calendar on the left side"
-	},
-	"calendarOptionBase": {
-	  "currentLabel": "Current",
-	  "readOnlyLabel": "Read Only"
-	},
-	"calendarToolbar": {
-	  "gotToTimeUnitTooltip": "Go to this {{unit}}",
-	  "nextTimeUnitTooltip": "Next {{unit}}",
-	  "previousTimeUnitTooltip": "Previous {{unit}}",
-	  "refreshTooltip": "Refresh",
-	  "todayButtonLabel": "Today"
-	},
-	"calendarViewScreen": {
-	  "confluenceReadOnlyModeTooltip": "{{atlassianProduct}} is in read-only mode",
-	  "editButtonTooltip": "Click to edit the calendar",
-	  "noSpaceEditPermissionTooltip": "It seems like you don't have space admin permissions",
-	  "sidebarHeading": "Calendars"
-	},
-	"connectivitySettingsTab": {
-	  "checkConnectivity": "Check connectivity",
-	  "connectivityCheckDescription": "Support tool to check and troubleshooting the connection to mandatory services. Only for analysis and won’t change any configuration.",
-	  "connectivityCheckHeading": "Connectivity check",
-	  "heading": "Connection settings overview",
-	  "introductionText": "Your data center/server environment needs to reach and also needs to be reachable from our servers. On this page, you can check, if your system does fulfill all our requirements to work properly."
-	},
-	"createDetailedButton": {
-	  "createDetailedOfficeEventTooltip": "Create a new Outlook event"
-	},
-	"createJqlScreen": {
-	  "confluenceUserNotLoaded": "Atlassian user not loaded",
-	  "gdprTransformNotPossible": "Could not transform to GDPR-JQL",
-	  "heading": "Back to templates",
-	  "jiraInstanceNotSelected": "Jira instance not selected",
-	  "jqlErrorFallback": "Error in JQL",
-	  "jqlFrom": "JQL from ({{url}})",
-	  "selectJiraInstance": "Please select a Jira instance",
-	  "submitButton": "Add calendar"
-	},
-	"createOfficeCalendarScreen": {
-	  "backButton": "Back to templates",
-	  "calendarNameLabel": "Calendar name",
-	  "calendarNamePlaceholder": "Enter a calendar name",
-	  "myCalendarLabel": "My calendar",
-	  "submitButton": "Create calendar"
-	},
-	"createOfficeEventScreen": {
-	  "anErrorOccured": "An error occured",
-	  "attendeesLabel": "Attendees",
-	  "availableCalendarsGroupLabel": "Available calendars",
-	  "calendarLabel": "Calendar",
-	  "categoryFilterWarning": "The calendar has been filtered for other criteria, so the event might not show up",
-	  "categoryLabel": "Category",
-	  "categoryNoOptionsMessage": "Type to select category",
-	  "copyReleaseEventSuccessFlagDescription": "The release has been successfully copied to your personal calendar",
-	  "copySprintEventSuccessFlagDescription": "The Sprint has been successfully copied to your personal calendar",
-	  "createEventSuccessFlagDescription": "Your issue has been successfully copied to your personal calendar",
-	  "createEventSuccessFlagTitle": "Successfully created Event",
-	  "descriptionLabel": "Description",
-	  "endDateLabel": "End date",
-	  "formatCreateCategoryLabel": "Select category",
-	  "freeBusyStatusFilterWarning": "The calendar has been filtered for other criteria, so the event might not show up",
-	  "isAlldayLabel": "All day",
-	  "locationLabel": "Location",
-	  "myCalendarGroupLabel": "My calendar",
-	  "myCalendarLabel": "My calendar",
-	  "requiresLoginLozenge": "Requires additional login",
-	  "sendMeetingRequestHelper": "You'll send a meeting request to this calendar",
-	  "showAsLabel": "Show as",
-	  "startDateLabel": "Start date",
-	  "subjectLabel": "Subject",
-	  "teamsMeetingLabel": "Teams meeting"
-	},
-	"defaultJiraData": {
-	  "myDueIssuesCalendar": "My due issues",
-	  "myDueIssuesCalendarDescription": "Due issues assigned to me: {{description}} ({{url}})",
-	  "projectCalendarDescription": "Issues of project: {{description}} ({{url}})",
-	  "projectCalendarName": "Due dates"
-	},
-	"dialogHeading": {
-	  "globalMailboxes": "Add global mailboxes",
-	  "personalEdit": "Personal calendar settings",
-	  "projectEdit": "Project calendar settings",
-	  "scheduleMeeting": "Schedule meeting",
-	  "editMeeting": "Edit meeting",
-	  "spaceEdit": "Space calendar settings",
-	  "v2MigrationGuide": "V2 Migration guide"
-	},
-	"dialogFooter": {
-		"submit": "Submit"
-	},
-	"editEventScreen":{
-		"editDescriptionLabel": "Edit",
-		"discard": "Discard",
-		"cancel": "Cancel event",
-		"decline": "Decline event",
-		"delete": "Delete event",
-		"submit": "Create event",
-		"sendUpdate": "Send update",
-		"save": "Save",
-		"close": "Close",
-		"deleteEventConfirmation": "Confirm deletion",
-		"cancelEventConfirmation": "Confirm cancelation"
-	},
-	"editJQLFieldScreen": {
-	  "heading": "JQL:",
-	  "label": "Edit JQL"
-	},
-	"editJQLScreen": {
-	  "gdprTransformNotPossible": "Could not transform to GDPR-JQL",
-	  "heading": "Back to calendars",
-	  "jiraInstanceNotSelected": "Jira instance not selected",
-	  "jqlErrorFallback": "Error in JQL",
-	  "selectJiraInstance": "Please select a Jira instance",
-	  "submitLabel": "Save changes"
-	},
-	"editorComponent": {
-	  "loadingText": "Loading editor ..."
-	},
-	"environment": {
-	  "adminSettingsErrorFlagDescription": "It seems, that the yasoon backend can not be reached",
-	  "adminSettingsErrorFlagTitle": "Could no connect to yasoon",
-	  "genericErrorFlagDescription": "Sorry for the inconvenience. Our development team will be informed about this crash",
-	  "genericErrorFlagTitle": "An unexpected error occured",
-	  "macroSettingsErrorFlagDescription": "It might be, that either the macro was corrupted by another app/user or you do not have the permissions to watch it",
-	  "macroSettingsErrorFlagTitle": "Could not load macro settings"
-	},
-	"fixedDateSetting": {
-	  "heading": "Fixed date",
-	  "placeHolder": "No date selected",
-	  "subHeading": "Select if the calendar should be fixed on a specific date"
-	},
-	"freeBusyLabels": {
-	  "busy": "Busy",
-	  "free": "Free",
-	  "oof": "Away",
-	  "tentative": "Tentative",
-	  "unknown": "Unknown",
-	  "workingElsewhere": "Working elsewhere"
-	},
-	"fullcalendar": {
-	  "calendar": "Calendar",
-	  "day": "day",
-	  "workWeek": "workweek",
-	  "week": "week",
-	  "month": "month",
-	  "next7Days": "7 days",
-	  "7days": "7 days",
-	  "30days": "30 days",
-	  "90days": "90 days"
-	},
-	"generalSettingsTab": {
-	  "description": "This is a descriptive text ...",
-	  "heading": "General Settings",
-	  "spaceEditSettingDescription": "By default, space calendar settings can only be edited by space administrators. You can allow all users with space view permissions to change the space calendar here.",
-	  "spaceEditSettingLabel": "Allow non space admins to edit the space calendar",
-	  "spaceSettingsLabel": "Space Calendar settings"
-	},
-	"generalViewSetting": {
-	  "agendaViewHeading": "Calendar view",
-	  "listViewHeading": "List view",
-	  "schedulerViewHeading": "Timeline view"
-	},
-	"globalMailboxComponent": {
-	  "removeButtonLabel": "Remove"
-	},
-	"globalMailboxesDialog": {
-	  "heading": "Search for mailboxes",
-	  "noOptionsLabel": "No options found",
-	  "resultsLabel": "Search result"
-	},
-	"headingInlineEditField": {
-	  "defaultValue": "Click to enter value"
-	},
-	"jiraCalendarSettingsScreen": {
-	  "filters": "filters",
-	  "issues": "issues",
-	  "jql": "JQL",
-	  "projects": "projects",
-	  "releases": "releases",
-	  "removeCalendar": "Remove calendar",
-	  "sprints": "sprints"
-	},
-	"jiraCalendarSharingSettings": {
-	  "calendarSharingHeading": "Calendar access",
-	  "calendarSharingSubHeading": "Choose who can view the {{calendarType}}",
-	  "sharedDescription": "Users with existing permissions can access the calendar",
-	  "sharedLabel": "Shared permissions",
-	  "unsharedDescription": "User with access to this {{yasoonCalendarContextView}} can access the calendar",
-	  "unsharedLabel": "Jira permissions"
-	},
-	"jiraConnectivity": {
-	  "description": "The app uses existing application links between Jira and Confluence to display Jira calendars.",
-	  "existingApplinks": "We can connect to the following Jira instances:",
-	  "heading": "Jira connectivity",
-	  "noApplinks": "We couldn't find any configured application links between Jira and Confluence."
-	},
-	"jiraDateRangeOptionSettings": {
-	  "completeDateOnlyHeading": "Complete date only",
-	  "completeDateOnlySubHeading": "Complete date only",
-	  "createdAt": "Created at",
-	  "createdToDueDateHeading": "Created to due date",
-	  "createdToDueDateSubHeading": "Display the issues as a timeframe",
-	  "customGroupHeading": "Custom",
-	  "customRangeHeading": "Custom",
-	  "customRangeSubHeading": "Customized view",
-	  "dateRangeGroupHeading": "Date ranges",
-	  "dateRangeOptionHeading": "{{calendarType}} display",
-	  "dateRangeOptionSubHeading": "Choose how the {{jiraObj}} appear in the calendar",
-	  "dueDate": "Due date",
-	  "releaseDateOnlyHeading": "Release date only",
-	  "releaseDateOnlySubHeading": "Display the release as a single day event",
-	  "selectPlaceholder": "Choose option",
-	  "singleDateGroupHeading": "Single dates",
-	  "startToCompleteDateHeading": "Start to Complete date",
-	  "startToCompleteDateSubHeading": "Display the Sprint as a timeframe",
-	  "startToEndDateHeading": "Start to End date",
-	  "startToEndDateSubHeading": "Display the Sprint as a timeframe",
-	  "startToReleaseDateHeading": "Start to release date",
-	  "startToReleaseDateSubHeading": "Display the release as a timeframe"
-	},
-	"jiraEndDateFieldSetting": {
-	  "completedDateLabel": "Completed date",
-	  "dueDateLabel": "Due date",
-	  "endDateLabel": "End date",
-	  "heading": "End date",
-	  "loadingLabel": "Loading all fields",
-	  "loadingPlaceholder": "Loading fields",
-	  "placeholder": "Select a field",
-	  "releaseDateLabel": "Release date",
-	  "startDateLabel": "Start date",
-	  "subHeading": "Select a field of the issue that should be the end date of the timerange"
-	},
-	"jiraEventHover": {
-	  "assignee": "Assignee",
-	  "copyToOwnCalendar": "Copy to own calendar",
-	  "createdBy": "Created by",
-	  "dueDate": "Due date",
-	  "issuetype": "Issuetype",
-	  "openInJiraText": "Open in Jira",
-	  "openText": "Open",
-	  "reporter": "Reporter",
-	  "resolution": "Resolution",
-	  "status": "Status"
-	},
-	"jiraInstanceChooserScreen": {
-	  "addInstanceButton": "Add another instance",
-	  "backButton": "Back to templates",
-	  "installConnectAppText": "yasoon Connect App not installed. Follow instructions to enable Sprints",
-	  "instanceHeading": "Available instances"
-	},
-	"jiraJqlScreen": {
-	  "textareaPlaceholder": "project = acme",
-	  "textfieldPlaceholder": "JQL calendar name",
-	  "validMessage": "Valid JQL",
-	  "validatingMessage": "Validating JQL"
-	},
-	"jiraLoginInitialScreen": {
-	  "description": "To open calendars, you must first sign in with your Jira account.",
-	  "heading": "Jira Login"
-	},
-	"jiraLoginScreen": {
-	  "heading": "Jira login",
-	  "subHeading": "To show dates from Jira, please sign in with your Jira account."
-	},
-	"jiraPersonalCalendarSettingsTab": {
-	  "description": "Select if the Personal calendar should be visible",
-	  "heading": "Personal calendar",
-	  "toggleLabel": "Personal calendar visible"
-	},
-	"jiraReleaseEventHover": {
-	  "released": "Released"
-	},
-	"jiraSearchFiltersScreen": {
-	  "defaultOptionsLabel": "Starred filters",
-	  "heading": "Back to templates",
-	  "noFilterDescription": "No description available",
-	  "noOptionsPlaceholder": "No filters found",
-	  "resultsLabel": "Filters"
-	},
-	"jiraSearchJiraReleasesScreen": {
-	  "defaultOptionsLabel": "Recent projects",
-	  "heading": "Back to templates",
-	  "noOptionsPlaceholder": "No projects found",
-	  "resultsLabel": "Projects"
-	},
-	"jiraSearchProjectsScreen": {
-	  "calendarDescription": "Issues of project: {{description}} ({{url}})",
-	  "defaultOptionsLabel": "Recent projects",
-	  "heading": "Back to templates",
-	  "noOptionsPlaceholder": "No projects found",
-	  "resultsLabel": "Projects"
-	},
-	"jiraSearchScreenBase": {
-	  "placeholderFallback": "Type to search",
-	  "voteForJiraFilterApi": "Searching filters not supported by Atlassian. Please {link} to bring it to their attention!",
-	  "voteHereLinkLabel": "vote here"
-	},
-	"jiraSingleDateFieldSetting": {
-	  "completedDateLabel": "Completed date",
-	  "dueDateLabel": "Due date",
-	  "endDateLabel": "End date",
-	  "goal": "Goal",
-	  "heading": "Display date",
-	  "loadingLabel": "Loading all fields",
-	  "loadingPlaceholder": "Loading fields",
-	  "placeholder": "Select a field",
-	  "releaseDateLabel": "Release date",
-	  "startDateLabel": "Start date",
-	  "state": "State",
-	  "subHeading": "Select a field of the issue that should be the date of the event"
-	},
-	"jiraStartDateFieldSetting": {
-	  "completedDateLabel": "Completed date",
-	  "dueDateLabel": "Due date",
-	  "endDateLabel": "End date",
-	  "heading": "Start date",
-	  "loadingLabel": "Loading all fields",
-	  "loadingPlaceholder": "Loading fields",
-	  "placeholder": "Select a field",
-	  "releaseDateLabel": "Release date",
-	  "startDateLabel": "Start date",
-	  "subHeading": "Select a field of the issue that should the start date of the timerange"
-	},
-	"legacyCalendarFlag": {
-	  "jiraCalendarDescription": "If the calendar does not work as expected, please remove it and add it again.",
-	  "jiraCalendarHeading": "Migrated Jira calendar",
-	  "officeCalendarDescription": "If you want to make changes to the calendar, please remove it and add it again.",
-	  "officeCalendarHeading": "Migrated Outlook calendar"
-	},
-	"licenseCheck": {
-	  "licenseDisabledBanner": "Your license for {{yasoonProduct}} has expired."
-	},
-	"listViewSetting": {
-	  "heading": "List view scope",
-	  "selectDayLabel": "Day",
-	  "selectMonthLabel": "Month",
-	  "selectnext7DaysLabel": "Next 7 days",
-	  "subHeading": "Select how many days should be visible in the calendar list"
-	},
-	"loginScreenModel": {
-	  "appLinkErrorDescription": "Application link not found or it has been removed by an admin",
-	  "appLinkErrorTitle": "Error with application link",
-	  "officeLoginFailedFlagTitle": "Office login failed"
-	},
-	"loginScreenStateless": {
-	  "loginButton": "Login"
-	},
-	"navigationModel": {
-	  "loginErrorFlagDescription": "If this issue is persistent please contact the support",
-	  "loginErrorFlagTitle": "Error during logging in",
-	  "unexpectedErrorFlagTitle": "Unexpected error occured",
-	  "yasoonBackenNotReachableFlagTitle": "yasoon backend could not be reached"
-	},
-	"notification": {
-	  "dismiss": "Dismiss"
-	},
-	"officeCalendarSettingsScreen": {
-	  "removeCalendar": "Remove calendar"
-	},
-	"officeCalendarSharingSettings": {
-	  "calendarSharingHeading": "Calendar access",
-	  "calendarSharingSubHeading": "Choose who can access the calendar",
-	  "sharedDescription": "User with access to this {{yasoonCalendarContextView}} can access the calendar",
-	  "sharedLabel": "Shared permissions",
-	  "unsharedDescription": "Users with existing permissions can access the calendar",
-	  "unsharedLabel": "Outlook permissions"
-	},
-	"officeCategoryColorSettings": {
-	  "useCategoryColorHeading": "Use category color",
-	  "useCategoryColorSubHeading": "Show events with the category color instead of the calendar color"
-	},
-	"officeCurrentUserCalendar": {
-	  "description": "Current users Outlook calendar",
-	  "name": "My calendar"
-	},
-	"officeEditPermissionSettings": {
-	  "editPermissionHeading": "Event editing",
-	  "editPermissionSubHeading": "Choose what can be changed",
-	  "fullPermissionsDescription": "Users can create and edit events in this calendar",
-	  "fullPermissionsLabel": "Full permissions",
-	  "meetingRequestDescription": "Users can add events by sending a meeting requests to this calendar",
-	  "meetingRequestLabel": "Send meeting request",
-	  "viewOnlyDescription": "Users cannot create or edit any events in this calendar",
-	  "viewOnlyLabel": "View only"
-	},
-	"officeEventDetailsSettings": {
-	  "eventDetailsHeading": "Event details",
-	  "eventDetailsSubHeading": "Choose what can be viewed",
-	  "freeBusyDescription": "Users see events as busy/available only",
-	  "freeBusyLabel": "Only availability",
-	  "fullDetailsDescription": "Users can see all details of events",
-	  "fullDetailsLabel": "Full event details",
-	  "titleAndLocationDescription": "Users can only see title and location of events",
-	  "titleAndLocationLabel": "Title and location"
-	},
-	"officeEventFilteringCategorySetting": {
-	  "disabledFilterLabel": "You can't filter for categories when 'Title and location' or 'Only availability' is selected.",
-	  "formatCreateLabel": "Select category",
-	  "heading": "Filter by event category",
-	  "noFilter": "No filter selected",
-	  "noOptionsMessage": "Type to select categories",
-	  "subHeading": "Show only events with category"
-	},
-	"officeEventFilteringFreeBusyStatusSetting": {
-	  "heading": "Filter by absence type",
-	  "noFilter": "No filter selected",
-	  "subHeading": "Show only events marked as:"
-	},
-	"officeEventFilteringSetting": {
-	  "useEventFilteringHeading": "Event filtering",
-	  "useEventFilteringSubHeading": "Filter events based on categories and/or absence type"
-	},
-	"officeEventHover": {
-	  "acceptedText": " accepted",
-	  "copyToOwnCalendar": "Copy",
-	  "copyToOwnCalendarFailedFlagTitle": "Create event in own calendar failed",
-	  "copyToOwnCalendarTooltip": "Copy to own calendar",
-	  "deleteButtonText": "Delete",
-	  "deleteButtonTooltip": "Delete this event",
-	  "eventCopySuccessFlagDescription": "Succesfully copied event to your calendar",
-	  "eventDeletionFailed": "Delete Event Failed",
-	  "eventSuccessFlagDescription": "Succesfully created in your calendar",
-	  "eventSuccessFlagTitle": "Success",
-	  "isOrganizerText": " is the organizer",
-	  "noPermissionErrorDescription": "You might not have permissions",
-	  "openInOutlookFlagAction": "Open in Outlook",
-	  "openInOutlookText": "Open",
-	  "openInOutlookTooltip": "Open in outlook",
-	  "youAreOrganizerText": "You're the organizer",
-	  "editButtonText": "Edit",
-	  "editButtonDisabledTooltip": "This event is not editable"
-	},
-	"officeLoginMSALScreen": {
-	  "heading": "Re-authenticate Microsoft login",
-	  "loginDisabledHint": "Please log-in to {{atlassianProduct}} first",
-	  "reAuthenticateButtonLabel": "Re-authenticate",
-	  "subHeading": "Your browser has restrictive privacy settings, so you need to re-authenticate every 24 hours."
-	},
-	"officeLoginScreen": {
-	  "heading": "Microsoft login",
-	  "loginDisabledHint": "Please log-in to {{atlassianProduct}} first",
-	  "subHeading": "To show Outlook calendars, please sign in with your Microsoft account."
-	},
-	"officeOwnCalendarScreen": {
-	  "backButton": "Back to templates",
-	  "calendarNameFallback": "Default Calendar Name",
-	  "loadingPlaceholderText": "Loading own calendars",
-	  "ownCalendarsHeading": "Own calendars",
-	  "resultsLabel": "My calendars",
-	  "sharedCalendarsHeading": "Shared with me",
-	  "textfieldPlaceholderText": "Type to search for calendars"
-	},
-	"officeSearchGroupScreen": {
-	  "heading": "Back to templates",
-	  "noOptionsPlaceholder": "No groups found",
-	  "resultsLabel": "Results"
-	},
-	"officeSearchRoomsScreen": {
-	  "calendarDescription": "Main Calendar - {{name}}",
-	  "heading": "Back to templates",
-	  "noOptionsPlaceholder": "No rooms found",
-	  "noPermissionErrorFallback": "Sorry it seems like you don't have the permissions to access this calendar. Please ask the owner to add it.",
-	  "resultsLabel": "Results",
-	  "textfieldPlaceholder": "Type to search"
-	},
-	"officeSearchScreenBase": {
-	  "searchPlaceholderFallback": "Type to search"
-	},
-	"officeSearchUserScreen": {
-	  "calendarDescription": "Main Calendar - {{name}}",
-	  "heading": "Back to templates",
-	  "noOptionsPlaceholder": "No users found",
-	  "noPermissionErrorFallback": "Sorry it seems like you don't have the permissions to access this calendar. Please ask the owner to add it.",
-	  "resultsLabel": "Results",
-	  "textfieldPlaceholder": "Type to search"
-	},
-	"onPremiseV2Migration": {
-	  "migrationRequiredBanner": "Migration required, please ask you administrator to migrate the app."
-	},
-	"overlappingEventsSetting": {
-	  "heading": "Overlap events",
-	  "subHeading": "Select if simultaneous events should visually overlap"
-	},
-	"savingLozenge": {
-	  "error": "Error while saving",
-	  "saved": "Settings Saved",
-	  "saving": "Saving Settings ..."
-	},
-	"schedulerViewGroupingSetting": {
-	  "heading": "Timeline grouping",
-	  "selectDayLabel": "Day",
-	  "selectHourLabel": "Hour",
-	  "selectMonthLabel": "Month",
-	  "selectweekLabel": "Week",
-	  "subHeading": "Select the time range grouping"
-	},
-	"schedulerViewSetting": {
-	  "heading": "Timeline view scope",
-	  "select30DaysLabel": "30 days",
-	  "select7DaysLabel": "7 days",
-	  "select90DaysLabel": "90 days",
-	  "selectSingleDayLabel": "Single day",
-	  "subHeading": "Select how many days should be visible in the timeline"
-	},
-	"searchJiraSprintsScreen": {
-	  "calendarDescription": "Sprints of board: {{name}} ({{url}})",
-	  "heading": "Back to templates",
-	  "noOptionsPlaceholder": "No boards found",
-	  "resultsLabel": "Boards"
-	},
-	"searchTeamsChannelCalendarScreen": {
-	  "backButton": "Back to templates",
-	  "calendarDescription": "Channel calendar - {{channelName}} ({{teamName}})",
-	  "calendarName": "Channel: {{channelName}}",
-	  "loadingPlaceholderText": "Loading teams and channel calendars",
-	  "resultsLabel": "Outlook Teams",
-	  "textfieldPlaceholderText": "Type to search for teams/channels"
-	},
-	"secretRotation": {
-	  "button": "Rotate secret",
-	  "cancel": "Cancel",
-	  "description": "The app stores a shared secret to ensure a secure connection with our services. All {{atlassianProduct}} admins may have access to this secret. To avoid any malicious and unauthorized data access, we recommend to rotate the secret whenever you remove an admin from your instance",
-	  "heading": "Secret rotation",
-	  "headsUp": "Heads up",
-	  "headsUpText": "This action cannot be reversed.",
-	  "okay": "Okay"
-	},
-	"settingsError": {
-	  "flagHeading": "Version mismatch.",
-	  "genericError": "An error occured with reason: {{errorMessage}}",
-	  "readOnlyErrorMessage": "{{atlassianProduct}} is currently in read-only mode",
-	  "unknownError": "An unknown error occured while saving."
-	},
-	"sidbarEmptyState": {
-	  "addCalendarsButton": "Add calendars",
-	  "emptyStateText": "It seems like you're the first one here.",
-	  "gettingStartedButton": "Getting started",
-	  "missingSpacePermissionEmptyStateText": "You don't have the permission to add calendars. Only {{atlassianProduct}} space admins are allowed to edit.",
-	  "readOnlyStateText": "{{atlassianProduct}} is in read-only mode. Please wait until {{atlassianProduct}} allows editing again."
-	},
-	"splitResourcesSetting": {
-	  "heading": "Split resources",
-	  "subHeading": "Display calendars as separate columns"
-	},
-	"template": {
-	  "createCalendarDescription": "Create a new Outlook calendar",
-	  "createCalendarHeading": "New calendar",
-	  "currentUserDescription": "Show the calendar of the current logged in user",
-	  "currentUserHeading": "Current users calendar",
-	  "globalMailboxDescription": "Show a pre-configured calendar",
-	  "globalMailboxHeading": "Global calendars",
-	  "groupCalendarDescription": "Show a calendar of an Outlook group",
-	  "groupCalendarHeading": "Group calendar",
-	  "jiraFiltersAsIssuesDescripion": "Show Jira issues from a filter, using any date field",
-	  "jiraFiltersAsIssuesHeading": "Jira filter issues",
-	  "jiraJQLAsIssuesDescripion": "Show Jira issues from a JQL query, using any date field",
-	  "jiraJQLAsIssuesHeading": "JQL issues",
-	  "jiraProjectsAsEventsDescripion": "Show Jira project issues, using any date field (e.g. due date)",
-	  "jiraProjectsAsEventsHeading": "Jira project issues",
-	  "jiraReleasesAsEventsDescripion": "Show Jira release dates",
-	  "jiraReleasesAsEventsHeading": "Jira releases",
-	  "jiraSprintsAsEventsDescripion": "Show Jira sprint dates",
-	  "jiraSprintsAsEventsHeading": "Jira sprints",
-	  "lozengeNew": "new",
-	  "lozengePopular": "popular",
-	  "lozengeSoon": "coming soon",
-	  "ownCalendarDescription": "Show one of my calendars",
-	  "ownCalendarHeading": "My calendar",
-	  "requiresAppLink": "Requires admin config",
-	  "resourceCalendarDescription": "Show a room or resource calendar",
-	  "resourceCalendarHeading": "Room or resource calendar",
-	  "teamsChannelCalendarDescription": "Show Teams channel events",
-	  "teamsChannelCalendarHeading": "Channel calendar",
-	  "userSearchDescription": "Show a calendar of a specific user",
-	  "userSearchHeading": "User calendar"
-	},
-	"templateScreen": {
-	  "chooseCalendarHeading": "Choose Calendar Template",
-	  "jiraHeading": "Jira",
-	  "outlookHeading": "Outlook",
-	  "teamsHeading": "Microsoft Teams"
-	},
-	"templateSelectionScreen": {
-	  "heading": "Choose calendar template"
-	},
-	"timeRangeSetting": {
-	  "heading": "Select visibility",
-	  "isCheckedLabel": "Date range",
-	  "isUncheckedLabel": "Single date",
-	  "subHeading": "Choose from recommended views based on a single date or a timerange"
-	},
-	"unshareableCalendarFlag": {
-	  "description": "Note: Other users wont be able to see this calendar. Please select Calendar access: 'Shared permissions' or use another template.",
-	  "heading": "Heads up"
-	},
-	"userModel": {
-	  "toManyCalendarsFlagDescription": "Not all calendars can be shown",
-	  "toManyCalendarsFlagTitle": "Too many calendars"
-	},
-	"userSettingsScreen": {
-	  "heading": "Microsoft 365 settings",
-	  "loginHeading": "Microsoft account",
-	  "logoutButton": "Logout",
-	  "notLoggedIn": "You're not logged in",
-	  "showDebugInformation": "Show debug information"
-	},
-	"yasoonCalendarContextView": {
-	  "macro": "Page",
-	  "personal": "Page",
-	  "project": "Project",
-	  "space": "Space"
-	},
-	"yasoonProduct": {
-	  "confluenceCalendar": "Outlook Calendars for Confluence",
-	  "jiraCalendar": "Outlook Calendars for Jira"
-	}
+  "adminConnectivityTab": {
+    "baseUrlMismatch": "This might be intentional if e.g. you cloned your instance. Please adjust the url below.",
+    "baseUrlMismatchBanner": "Your {{atlassianProduct}} url does not match the configured one below",
+    "cancel": "Cancel",
+    "confluenceUrlHelpText": "This is the publicly reachable URL of your {{atlassianProduct}} instance",
+    "connect": "Connection required",
+    "connectButton": "Connect",
+    "connectDescription": "During the installation of the app, we tried to register the instance with our cloud infrastructure, which unfortunately failed. Please make sure that the {{atlassianProduct}} instance can reach yasoon services and Microsoft 365.",
+    "connected": "Connected",
+    "connectedDescription": "We were able to successfully establish a secure connection to the yasoon services. If you experience unexpected connectivity issues you can perform a connectivity check below.",
+    "connectivityHelpText": "Please enter the URL under which your {{atlassianProduct}} system is reachable from the internet. If you change the existing public URL of your system, all users will be logged out of the current instance.",
+    "headsUp": "Heads up",
+    "learnMore": "Learn more",
+    "noBaseUrlBanner": "App not configured correctly.",
+    "noBaseUrlInSettings": "Connection to yasoon not possible. Please connect the public reachable {{atlassianProduct}} url. Then, do a connectivity-check afterwards to see if everything works as intended",
+    "okay": "Okay",
+    "registerInstanceErrorTitle": "Error trying to reach yasoon backend. See connectivity check",
+    "staticIPHelpText": "If you need to allow IPs in your firewall, please check out our {link1}",
+    "staticIPHelpText2": "To use the app, your {{atlassianProduct}} system needs to be reachable by our servers. If your system is behind a firewall, you can allow access for the following IPs - all requests will come from these IPs.",
+    "staticIPHelpTextLabel": "help on this",
+    "yasoonConnectivity": "Yasoon connectivity",
+    "yasoonConnectivityDescription": "As the app deeply integrates with Microsoft 365, which is a cloud only solution, our app behaves a bit differently than “classic” {{atlassianProduct}} Server apps. Your {{atlassianProduct}} instance needs to connect to yasoon services as well as to Microsoft 365. {link1}",
+    "yourConfluenceUrlPublic": "Your {{atlassianProduct}} URL (public)"
+  },
+  "adminFeaturesOverviewConfluence": {
+    "addCalendarsWithTemplatesHeading": "Add calendars easily with templates",
+    "addCalendarsWithTemplatesText": "Add calendars by selecting from the calendar templates available in our (new) edit screen. Every single calendar template provides default settings to make it easier for you to start working with your calendars in Confluence.",
+    "layoutOptionsHeading": "Choose between different layout options",
+    "layoutOptionsText": "Change the calendar layout depending on the calendar dates you share. Jira dates might better be displayed in a timeline view (e.g. Jira releases or sprints) while shared Outlook dates will better be shown in a calendar view (e.g. holidays or user calendar’s).",
+    "learnMoreButton": "Learn more",
+    "managePermissionsHeading": "Manage calendar permissions (Outlook & Jira)",
+    "managePermissionsText": "This goes for both Outlook calendar and Jira dates! Manage calendar permissions easily yourself. Choose who can see or edit calendars in Confluence. Decide if everyone with access to the Confluence space or page can view the data shared or if it should only be those with a Microsoft 365 or Jira Log-in.",
+    "nextButton": "Next",
+    "pageCalendarHeading": "Add Outlook calendars to Confluence pages or spaces",
+    "pageCalendarText": "Use Outlook calendars as a fast, powerful, and secure way to work with calendars in Confluence. Benefit from real-time data from Microsoft 365, no sync is needed. Add new project meetings directly in Confluence.",
+    "previousButton": "Prev",
+    "scheduleMeetingsHeading": "Schedule Outlook & Microsoft Teams meetings",
+    "scheduleMeetingsText": "Schedule Outlook and Microsoft Teams meetings directly in Confluence. Even decide on whose behalf you’d like to schedule the meeting. View meeting details with a single click after sending out the invite."
+  },
+  "adminGlobalMailboxesTab": {
+    "addMailboxButton": "Add another",
+    "description": "Add pre-existing shared mailboxes to make them available for the \"Global calendars\" template. This is a legacy feature - we recommend using Outlook Group calendars or Microsoft Teams channel calendars going forward. ",
+    "desctiptionLearnMoreButton": "Learn more",
+    "emptyStateAddButton": " Add shared mailbox",
+    "emptyStateDescription": "You don't have any shared mailboxes configured yet.",
+    "emptyStateHeading": "Shared mailboxes",
+    "emptyStateLearnMoreButton": "Learn more",
+    "heading": "Shared mailboxes"
+  },
+  "adminHelpTab": {
+    "bookMeetingButton": "Book a meeting",
+    "callUsButton": "Call us (timezone: CET)",
+    "contactDescription": "In case you need technical help or just want to learn about our product, we are happy to help!",
+    "contactHeading": "Contact us",
+    "contactLinksHeading": "Contact links",
+    "documentationDescription": "It's always a good idea to check out our documentation first, we try to answer common questions there. Use the quick links below to get started!",
+    "documentationHeading": "Check our documentation",
+    "faqButton": "FAQ",
+    "featuresButton": "Features",
+    "gettingStartedButton": "Getting started",
+    "quickLinksLabel": "Quick links",
+    "raiseTicketButton": "Raise a ticket",
+    "sendMailButton": "Send an email",
+    "supportToolsButton": "Go to support tools",
+    "supportToolsDescription": "Additional configurations, please only use in consultation with the support team.",
+    "supportToolsHeading": "Support tools"
+  },
+  "adminOverviewTab": {
+    "connectivityErrorFlagDescription": "Please check to connectivity tab for further information. The calendar won't work as intended right now.",
+    "connectivityErrorFlagHeading": "Configuration required!",
+    "exchangeConnectionErrorFlagDescription": "We detected, that you had selected Exchange as your connection method in the previous version. This version of {{yasoonProduct}} does not work with Microsoft Exchange. Only Microsoft 365 is supported. If you want to use Exchange, you need to install v1 again.",
+    "exchangeConnectionErrorFlagTitle": "Microsoft Exchange connection settings detected!",
+    "featureOverviewHeading": "Feature overview",
+    "gettingStartedFlagDescription": "Welcome to {{yasoonProduct}}. Go to any page and insert the calendar macro to get started!",
+    "gettingStartedFlagHeading": "Ready to use!",
+    "learnMoreAction": "Learn more",
+    "migrationErrorFlagDescription": "Please check the migration tab for further information. The calendar won't work as intended right now.",
+    "migrationErrorFlagHeading": "Migration required!",
+    "migrationGuideButton": "Migration guide",
+    "migrationGuideHeading": "Migrating from Team Calendars",
+    "migrationGuideText": "If you are migrating from Atlassian Team Calendars, there is an easy way to take over calendar events to your Outlook calendar. Check our migration guide for more details.",
+    "onClickConnectionTab": "Navigate to connectivity tab",
+    "onClickMigrationTab": "Navigate to migration tab",
+    "viewPersonalCalendarAction": "View your personal calendar"
+  },
+  "adminScreen": {
+    "connectiviyTabLabel": "Connectivity",
+    "generalSettingsTabLabel": "General settings",
+    "gettingStartedTabLabel": "Getting started",
+    "globalMailboxesTabLabel": "Shared mailboxes",
+    "heading": "{{yasoonProduct}}",
+    "helpTabLabel": "Help",
+    "inValidLicenseText": "You don't have a valid license or it has expired. If you'd like to continue using our app, please get a valid license!",
+    "licenseExpiredHeading": "Your license is expired",
+    "migrationTabLabel": "Migration",
+    "settingsTabLabel": "Settings",
+    "sharingTabLabel": "Sharing"
+  },
+  "adminServerMigrationTab": {
+    "macroMigrationErrorsHeading": "Not all pages could be migrated! See the errors to identify what to do",
+    "macroMigrationLabel": "Macro migration progress",
+    "migrationNotPossible": "Migration not possible right now. Check the connectivity tab first",
+    "migrationRequiredDescription": "When you are ready to migrate the settings, hit the button down below. Depending on your instance size and the usage of the calendar, this can take up several minutes!",
+    "migrationRequiredHeading": "Settings migration from v1 required",
+    "migrationRunningDescription": "The migration is running, do not close this browser window/tab until it is finished",
+    "migrationSuccessfulDescription": "Settings migration successful",
+    "spaceMigrationLabel": "Space migration progress",
+    "startMigrationButtonLabel": "Start migration",
+    "userMigrationLabel": "User migration progress"
+  },
+  "adminSharingTab": {
+    "anonymousSharingDescription": "By default shared calendars can’t be accessed by anonymous users. If you want to allow calendars to be shared on public pages you explicitly need to enable this setting.",
+    "anonymousSharingHeading": "Anonymous calendar sharing",
+    "anonymousSharingToggleLabel": "Allow users to publicly share data",
+    "heading": "Calendar sharing settings",
+    "jiraSharingToggleLabel": "Allow sharing Jira data",
+    "outlookSharingToggleLabel": "Allow sharing Outlook calendars",
+    "sharingDescription": "This feature allows your users to share calendars with other users. Everyone will see the calendar the same way as the person that created it. Notice: if you change this setting later on, already shared calendars will still be shared!",
+    "sharingOptions": "Sharing options"
+  },
+  "adminSupportScreen": {
+    "description": "This are support features, please only use in consultation with the support team.",
+    "loadButton": "Load property",
+    "saveButton": "Save property"
+  },
+  "agendaViewSetting": {
+    "heading": "Calendar view scope",
+    "selectDayLabel": "Day",
+    "selectMonthLabel": "Month",
+    "selectweekLabel": "Week",
+    "selectworkWeekLabel": "Work week",
+    "subHeading": "How many days should be visible in the calendar"
+  },
+  "atlassianProduct": {
+    "confluence": "Confluence",
+    "jira": "Jira"
+  },
+  "attendeesField": {
+    "createOption": "Manually add"
+  },
+  "calendarList": {
+    "addCalendarButton": "+ Add calendar",
+    "anonymousUserError": "{{atlassianProduct}} User login required",
+    "calendars": "Calendars",
+    "ewsLoginRequired": "EWS login required",
+    "filteringCategoriesAndFreeBusyTypeLabel": "This calendar has been filtered for {{freeBusyStatus}} events with categories {{categories}}.",
+    "filteringCategoriesOnlyLabel": "This calendar has been filtered events with categories {{categories}}.",
+    "filteringCategoryAndFreeBusyTypeLabel": "This calendar has been filtered for {{freeBusyStatus}} events with category {{categories}}.",
+    "filteringCategoryOnlyLabel": "This calendar has been filtered for events with category {{categories}}.",
+    "filteringShowAsOnlyLabel": "This calendar has been filtered for {{freeBusyStatus}} events.",
+    "generalSettingsLabel": "General settings",
+    "loginButton": "Login",
+    "loginErrorMessage": "Login required",
+    "noFilterLabel": "The calendar has no filter criteria.",
+    "reauthenticateButton": "Re-authenticate",
+    "reauthenticateMessage": "Your browser has restrictive privacy settings, so you need to re-authenticate every 24 hours.",
+    "viewHeading": "Layout"
+  },
+  "calendarListScreen": {
+    "noCalendarSelectedMessage": "It seems that something went wrong. Please select a calendar on the left side"
+  },
+  "calendarOptionBase": {
+    "currentLabel": "Current",
+    "readOnlyLabel": "Read Only"
+  },
+  "calendarToolbar": {
+    "gotToTimeUnitTooltip": "Go to this {{unit}}",
+    "nextTimeUnitTooltip": "Next {{unit}}",
+    "previousTimeUnitTooltip": "Previous {{unit}}",
+    "refreshTooltip": "Refresh",
+    "todayButtonLabel": "Today"
+  },
+  "calendarViewScreen": {
+    "confluenceReadOnlyModeTooltip": "{{atlassianProduct}} is in read-only mode",
+    "editButtonTooltip": "Click to edit the calendar",
+    "noSpaceEditPermissionTooltip": "It seems like you don't have space admin permissions",
+    "sidebarHeading": "Calendars"
+  },
+  "connectivitySettingsTab": {
+    "checkConnectivity": "Check connectivity",
+    "connectivityCheckDescription": "Support tool to check and troubleshooting the connection to mandatory services. Only for analysis and won’t change any configuration.",
+    "connectivityCheckHeading": "Connectivity check",
+    "heading": "Connection settings overview",
+    "introductionText": "Your data center/server environment needs to reach and also needs to be reachable from our servers. On this page, you can check, if your system does fulfill all our requirements to work properly."
+  },
+  "createDetailedButton": {
+    "createDetailedOfficeEventTooltip": "Create a new Outlook event"
+  },
+  "createJqlScreen": {
+    "confluenceUserNotLoaded": "Atlassian user not loaded",
+    "gdprTransformNotPossible": "Could not transform to GDPR-JQL",
+    "heading": "Back to templates",
+    "jiraInstanceNotSelected": "Jira instance not selected",
+    "jqlErrorFallback": "Error in JQL",
+    "jqlFrom": "JQL from ({{url}})",
+    "selectJiraInstance": "Please select a Jira instance",
+    "submitButton": "Add calendar"
+  },
+  "createOfficeCalendarScreen": {
+    "backButton": "Back to templates",
+    "calendarNameLabel": "Calendar name",
+    "calendarNamePlaceholder": "Enter a calendar name",
+    "myCalendarLabel": "My calendar",
+    "submitButton": "Create calendar"
+  },
+  "createOfficeEventScreen": {
+    "anErrorOccured": "An error occured",
+    "attendeesLabel": "Attendees",
+    "availableCalendarsGroupLabel": "Available calendars",
+    "calendarLabel": "Calendar",
+    "categoryFilterWarning": "The calendar has been filtered for other criteria, so the event might not show up",
+    "categoryLabel": "Category",
+    "categoryNoOptionsMessage": "Type to select category",
+    "copyReleaseEventSuccessFlagDescription": "The release has been successfully copied to your personal calendar",
+    "copySprintEventSuccessFlagDescription": "The Sprint has been successfully copied to your personal calendar",
+    "createEventSuccessFlagDescription": "Your issue has been successfully copied to your personal calendar",
+    "createEventSuccessFlagTitle": "Successfully created Event",
+    "descriptionLabel": "Description",
+    "endDateLabel": "End date",
+    "formatCreateCategoryLabel": "Select category",
+    "freeBusyStatusFilterWarning": "The calendar has been filtered for other criteria, so the event might not show up",
+    "isAlldayLabel": "All day",
+    "locationLabel": "Location",
+    "myCalendarGroupLabel": "My calendar",
+    "myCalendarLabel": "My calendar",
+    "requiresLoginLozenge": "Requires additional login",
+    "sendMeetingRequestHelper": "You'll send a meeting request to this calendar",
+    "showAsLabel": "Show as",
+    "startDateLabel": "Start date",
+    "subjectLabel": "Subject",
+    "teamsMeetingLabel": "Teams meeting"
+  },
+  "defaultJiraData": {
+    "myDueIssuesCalendar": "My due issues",
+    "myDueIssuesCalendarDescription": "Due issues assigned to me: {{description}} ({{url}})",
+    "projectCalendarDescription": "Issues of project: {{description}} ({{url}})",
+    "projectCalendarName": "Due dates"
+  },
+  "dialogFooter": {
+    "submit": "Submit"
+  },
+  "dialogHeading": {
+    "editMeeting": "Edit meeting",
+    "globalMailboxes": "Add global mailboxes",
+    "personalEdit": "Personal calendar settings",
+    "projectEdit": "Project calendar settings",
+    "scheduleMeeting": "Schedule meeting",
+    "spaceEdit": "Space calendar settings",
+    "v2MigrationGuide": "V2 Migration guide"
+  },
+  "editEventScreen": {
+    "cancel": "Cancel event",
+    "cancelEventConfirmation": "Confirm cancelation",
+    "close": "Close",
+    "decline": "Decline event",
+    "delete": "Delete event",
+    "deleteEventConfirmation": "Confirm deletion",
+    "discard": "Discard",
+    "editDescriptionLabel": "Edit",
+    "save": "Save",
+    "sendUpdate": "Send update",
+    "submit": "Create event"
+  },
+  "editJQLFieldScreen": {
+    "heading": "JQL:",
+    "label": "Edit JQL"
+  },
+  "editJQLScreen": {
+    "gdprTransformNotPossible": "Could not transform to GDPR-JQL",
+    "heading": "Back to calendars",
+    "jiraInstanceNotSelected": "Jira instance not selected",
+    "jqlErrorFallback": "Error in JQL",
+    "selectJiraInstance": "Please select a Jira instance",
+    "submitLabel": "Save changes"
+  },
+  "editorComponent": {
+    "loadingText": "Loading editor ..."
+  },
+  "environment": {
+    "adminSettingsErrorFlagDescription": "It seems, that the yasoon backend can not be reached",
+    "adminSettingsErrorFlagTitle": "Could no connect to yasoon",
+    "genericErrorFlagDescription": "Sorry for the inconvenience. Our development team will be informed about this crash",
+    "genericErrorFlagTitle": "An unexpected error occured",
+    "macroSettingsErrorFlagDescription": "It might be, that either the macro was corrupted by another app/user or you do not have the permissions to watch it",
+    "macroSettingsErrorFlagTitle": "Could not load macro settings"
+  },
+  "fixedDateSetting": {
+    "heading": "Fixed date",
+    "placeHolder": "No date selected",
+    "subHeading": "Select if the calendar should be fixed on a specific date"
+  },
+  "freeBusyLabels": {
+    "busy": "Busy",
+    "free": "Free",
+    "oof": "Away",
+    "tentative": "Tentative",
+    "unknown": "Unknown",
+    "workingElsewhere": "Working elsewhere"
+  },
+  "fullcalendar": {
+    "30days": "30 days",
+    "7days": "7 days",
+    "90days": "90 days",
+    "calendar": "Calendar",
+    "day": "day",
+    "month": "month",
+    "next7Days": "7 days",
+    "week": "week",
+    "workWeek": "workweek"
+  },
+  "generalSettingsTab": {
+    "description": "This is a descriptive text ...",
+    "heading": "General Settings",
+    "spaceEditSettingDescription": "By default, space calendar settings can only be edited by space administrators. You can allow all users with space view permissions to change the space calendar here.",
+    "spaceEditSettingLabel": "Allow non space admins to edit the space calendar",
+    "spaceSettingsLabel": "Space Calendar settings"
+  },
+  "generalViewSetting": {
+    "agendaViewHeading": "Calendar view",
+    "listViewHeading": "List view",
+    "schedulerViewHeading": "Timeline view"
+  },
+  "globalMailboxComponent": {
+    "removeButtonLabel": "Remove"
+  },
+  "globalMailboxesDialog": {
+    "heading": "Search for mailboxes",
+    "noOptionsLabel": "No options found",
+    "resultsLabel": "Search result"
+  },
+  "headingInlineEditField": {
+    "defaultValue": "Click to enter value"
+  },
+  "jiraCalendarSettingsScreen": {
+    "filters": "filters",
+    "issues": "issues",
+    "jql": "JQL",
+    "projects": "projects",
+    "releases": "releases",
+    "removeCalendar": "Remove calendar",
+    "sprints": "sprints"
+  },
+  "jiraCalendarSharingSettings": {
+    "calendarSharingHeading": "Calendar access",
+    "calendarSharingSubHeading": "Choose who can view the {{calendarType}}",
+    "sharedDescription": "Users with existing permissions can access the calendar",
+    "sharedLabel": "Shared permissions",
+    "unsharedDescription": "User with access to this {{yasoonCalendarContextView}} can access the calendar",
+    "unsharedLabel": "Jira permissions"
+  },
+  "jiraConnectivity": {
+    "description": "The app uses existing application links between Jira and Confluence to display Jira calendars.",
+    "existingApplinks": "We can connect to the following Jira instances:",
+    "heading": "Jira connectivity",
+    "noApplinks": "We couldn't find any configured application links between Jira and Confluence."
+  },
+  "jiraDateRangeOptionSettings": {
+    "completeDateOnlyHeading": "Complete date only",
+    "completeDateOnlySubHeading": "Complete date only",
+    "createdAt": "Created at",
+    "createdToDueDateHeading": "Created to due date",
+    "createdToDueDateSubHeading": "Display the issues as a timeframe",
+    "customGroupHeading": "Custom",
+    "customRangeHeading": "Custom",
+    "customRangeSubHeading": "Customized view",
+    "dateRangeGroupHeading": "Date ranges",
+    "dateRangeOptionHeading": "{{calendarType}} display",
+    "dateRangeOptionSubHeading": "Choose how the {{jiraObj}} appear in the calendar",
+    "dueDate": "Due date",
+    "releaseDateOnlyHeading": "Release date only",
+    "releaseDateOnlySubHeading": "Display the release as a single day event",
+    "selectPlaceholder": "Choose option",
+    "singleDateGroupHeading": "Single dates",
+    "startToCompleteDateHeading": "Start to Complete date",
+    "startToCompleteDateSubHeading": "Display the Sprint as a timeframe",
+    "startToEndDateHeading": "Start to End date",
+    "startToEndDateSubHeading": "Display the Sprint as a timeframe",
+    "startToReleaseDateHeading": "Start to release date",
+    "startToReleaseDateSubHeading": "Display the release as a timeframe"
+  },
+  "jiraEndDateFieldSetting": {
+    "completedDateLabel": "Completed date",
+    "dueDateLabel": "Due date",
+    "endDateLabel": "End date",
+    "heading": "End date",
+    "loadingLabel": "Loading all fields",
+    "loadingPlaceholder": "Loading fields",
+    "placeholder": "Select a field",
+    "releaseDateLabel": "Release date",
+    "startDateLabel": "Start date",
+    "subHeading": "Select a field of the issue that should be the end date of the timerange"
+  },
+  "jiraEventHover": {
+    "assignee": "Assignee",
+    "copyToOwnCalendar": "Copy to own calendar",
+    "createdBy": "Created by",
+    "dueDate": "Due date",
+    "issuetype": "Issuetype",
+    "openInJiraText": "Open in Jira",
+    "openText": "Open",
+    "reporter": "Reporter",
+    "resolution": "Resolution",
+    "status": "Status"
+  },
+  "jiraInstanceChooserScreen": {
+    "addInstanceButton": "Add another instance",
+    "backButton": "Back to templates",
+    "installConnectAppText": "yasoon Connect App not installed. Follow instructions to enable Sprints",
+    "instanceHeading": "Available instances"
+  },
+  "jiraJqlScreen": {
+    "textareaPlaceholder": "project = acme",
+    "textfieldPlaceholder": "JQL calendar name",
+    "validMessage": "Valid JQL",
+    "validatingMessage": "Validating JQL"
+  },
+  "jiraLoginInitialScreen": {
+    "description": "To open calendars, you must first sign in with your Jira account.",
+    "heading": "Jira Login"
+  },
+  "jiraLoginScreen": {
+    "heading": "Jira login",
+    "subHeading": "To show dates from Jira, please sign in with your Jira account."
+  },
+  "jiraPersonalCalendarSettingsTab": {
+    "description": "Select if the Personal calendar should be visible",
+    "heading": "Personal calendar",
+    "toggleLabel": "Personal calendar visible"
+  },
+  "jiraReleaseEventHover": {
+    "released": "Released"
+  },
+  "jiraSearchFiltersScreen": {
+    "defaultOptionsLabel": "Starred filters",
+    "heading": "Back to templates",
+    "noFilterDescription": "No description available",
+    "noOptionsPlaceholder": "No filters found",
+    "resultsLabel": "Filters"
+  },
+  "jiraSearchJiraReleasesScreen": {
+    "defaultOptionsLabel": "Recent projects",
+    "heading": "Back to templates",
+    "noOptionsPlaceholder": "No projects found",
+    "resultsLabel": "Projects"
+  },
+  "jiraSearchProjectsScreen": {
+    "calendarDescription": "Issues of project: {{description}} ({{url}})",
+    "defaultOptionsLabel": "Recent projects",
+    "heading": "Back to templates",
+    "noOptionsPlaceholder": "No projects found",
+    "resultsLabel": "Projects"
+  },
+  "jiraSearchScreenBase": {
+    "placeholderFallback": "Type to search",
+    "voteForJiraFilterApi": "Searching filters not supported by Atlassian. Please {link} to bring it to their attention!",
+    "voteHereLinkLabel": "vote here"
+  },
+  "jiraSingleDateFieldSetting": {
+    "completedDateLabel": "Completed date",
+    "dueDateLabel": "Due date",
+    "endDateLabel": "End date",
+    "goal": "Goal",
+    "heading": "Display date",
+    "loadingLabel": "Loading all fields",
+    "loadingPlaceholder": "Loading fields",
+    "placeholder": "Select a field",
+    "releaseDateLabel": "Release date",
+    "startDateLabel": "Start date",
+    "state": "State",
+    "subHeading": "Select a field of the issue that should be the date of the event"
+  },
+  "jiraStartDateFieldSetting": {
+    "completedDateLabel": "Completed date",
+    "dueDateLabel": "Due date",
+    "endDateLabel": "End date",
+    "heading": "Start date",
+    "loadingLabel": "Loading all fields",
+    "loadingPlaceholder": "Loading fields",
+    "placeholder": "Select a field",
+    "releaseDateLabel": "Release date",
+    "startDateLabel": "Start date",
+    "subHeading": "Select a field of the issue that should the start date of the timerange"
+  },
+  "legacyCalendarFlag": {
+    "jiraCalendarDescription": "If the calendar does not work as expected, please remove it and add it again.",
+    "jiraCalendarHeading": "Migrated Jira calendar",
+    "officeCalendarDescription": "If you want to make changes to the calendar, please remove it and add it again.",
+    "officeCalendarHeading": "Migrated Outlook calendar"
+  },
+  "licenseCheck": {
+    "licenseDisabledBanner": "Your license for {{yasoonProduct}} has expired."
+  },
+  "listViewSetting": {
+    "heading": "List view scope",
+    "selectDayLabel": "Day",
+    "selectMonthLabel": "Month",
+    "selectnext7DaysLabel": "Next 7 days",
+    "subHeading": "Select how many days should be visible in the calendar list"
+  },
+  "loginScreenModel": {
+    "appLinkErrorDescription": "Application link not found or it has been removed by an admin",
+    "appLinkErrorTitle": "Error with application link",
+    "officeLoginFailedFlagTitle": "Office login failed"
+  },
+  "loginScreenStateless": {
+    "loginButton": "Login"
+  },
+  "navigationModel": {
+    "loginErrorFlagDescription": "If this issue is persistent please contact the support",
+    "loginErrorFlagTitle": "Error during logging in",
+    "unexpectedErrorFlagTitle": "Unexpected error occured",
+    "yasoonBackenNotReachableFlagTitle": "yasoon backend could not be reached"
+  },
+  "notification": {
+    "dismiss": "Dismiss"
+  },
+  "officeCalendarSettingsScreen": {
+    "removeCalendar": "Remove calendar"
+  },
+  "officeCalendarSharingSettings": {
+    "calendarSharingHeading": "Calendar access",
+    "calendarSharingSubHeading": "Choose who can access the calendar",
+    "sharedDescription": "User with access to this {{yasoonCalendarContextView}} can access the calendar",
+    "sharedLabel": "Shared permissions",
+    "unsharedDescription": "Users with existing permissions can access the calendar",
+    "unsharedLabel": "Outlook permissions"
+  },
+  "officeCategoryColorSettings": {
+    "useCategoryColorHeading": "Use category color",
+    "useCategoryColorSubHeading": "Show events with the category color instead of the calendar color"
+  },
+  "officeCurrentUserCalendar": {
+    "description": "Current users Outlook calendar",
+    "name": "My calendar"
+  },
+  "officeEditPermissionSettings": {
+    "editPermissionHeading": "Event editing",
+    "editPermissionSubHeading": "Choose what can be changed",
+    "fullPermissionsDescription": "Users can create and edit events in this calendar",
+    "fullPermissionsLabel": "Full permissions",
+    "meetingRequestDescription": "Users can add events by sending a meeting requests to this calendar",
+    "meetingRequestLabel": "Send meeting request",
+    "viewOnlyDescription": "Users cannot create or edit any events in this calendar",
+    "viewOnlyLabel": "View only"
+  },
+  "officeEventDetailsSettings": {
+    "eventDetailsHeading": "Event details",
+    "eventDetailsSubHeading": "Choose what can be viewed",
+    "freeBusyDescription": "Users see events as busy/available only",
+    "freeBusyLabel": "Only availability",
+    "fullDetailsDescription": "Users can see all details of events",
+    "fullDetailsLabel": "Full event details",
+    "titleAndLocationDescription": "Users can only see title and location of events",
+    "titleAndLocationLabel": "Title and location"
+  },
+  "officeEventFilteringCategorySetting": {
+    "disabledFilterLabel": "You can't filter for categories when 'Title and location' or 'Only availability' is selected.",
+    "formatCreateLabel": "Select category",
+    "heading": "Filter by event category",
+    "noFilter": "No filter selected",
+    "noOptionsMessage": "Type to select categories",
+    "subHeading": "Show only events with category"
+  },
+  "officeEventFilteringFreeBusyStatusSetting": {
+    "heading": "Filter by absence type",
+    "noFilter": "No filter selected",
+    "subHeading": "Show only events marked as:"
+  },
+  "officeEventFilteringSetting": {
+    "useEventFilteringHeading": "Event filtering",
+    "useEventFilteringSubHeading": "Filter events based on categories and/or absence type"
+  },
+  "officeEventHover": {
+    "acceptedText": " accepted",
+    "copyToOwnCalendar": "Copy",
+    "copyToOwnCalendarFailedFlagTitle": "Create event in own calendar failed",
+    "copyToOwnCalendarTooltip": "Copy to own calendar",
+    "deleteButtonText": "Delete",
+    "deleteButtonTooltip": "Delete this event",
+    "editButtonDisabledTooltip": "This event is not editable",
+    "editButtonText": "Edit",
+    "eventCopySuccessFlagDescription": "Succesfully copied event to your calendar",
+    "eventDeletionFailed": "Delete Event Failed",
+    "eventSuccessFlagDescription": "Succesfully created in your calendar",
+    "eventSuccessFlagTitle": "Success",
+    "isOrganizerText": " is the organizer",
+    "noPermissionErrorDescription": "You might not have permissions",
+    "openInOutlookFlagAction": "Open in Outlook",
+    "openInOutlookText": "Open",
+    "openInOutlookTooltip": "Open in outlook",
+    "youAreOrganizerText": "You're the organizer"
+  },
+  "officeLoginMSALScreen": {
+    "heading": "Re-authenticate Microsoft login",
+    "loginDisabledHint": "Please log-in to {{atlassianProduct}} first",
+    "reAuthenticateButtonLabel": "Re-authenticate",
+    "subHeading": "Your browser has restrictive privacy settings, so you need to re-authenticate every 24 hours."
+  },
+  "officeLoginScreen": {
+    "heading": "Microsoft login",
+    "loginDisabledHint": "Please log-in to {{atlassianProduct}} first",
+    "subHeading": "To show Outlook calendars, please sign in with your Microsoft account."
+  },
+  "officeOwnCalendarScreen": {
+    "backButton": "Back to templates",
+    "calendarNameFallback": "Default Calendar Name",
+    "loadingPlaceholderText": "Loading own calendars",
+    "ownCalendarsHeading": "Own calendars",
+    "resultsLabel": "My calendars",
+    "sharedCalendarsHeading": "Shared with me",
+    "textfieldPlaceholderText": "Type to search for calendars"
+  },
+  "officeSearchGroupScreen": {
+    "heading": "Back to templates",
+    "noOptionsPlaceholder": "No groups found",
+    "resultsLabel": "Results"
+  },
+  "officeSearchRoomsScreen": {
+    "calendarDescription": "Main Calendar - {{name}}",
+    "heading": "Back to templates",
+    "noOptionsPlaceholder": "No rooms found",
+    "noPermissionErrorFallback": "Sorry it seems like you don't have the permissions to access this calendar. Please ask the owner to add it.",
+    "resultsLabel": "Results",
+    "textfieldPlaceholder": "Type to search"
+  },
+  "officeSearchScreenBase": {
+    "searchPlaceholderFallback": "Type to search"
+  },
+  "officeSearchUserScreen": {
+    "calendarDescription": "Main Calendar - {{name}}",
+    "heading": "Back to templates",
+    "noOptionsPlaceholder": "No users found",
+    "noPermissionErrorFallback": "Sorry it seems like you don't have the permissions to access this calendar. Please ask the owner to add it.",
+    "resultsLabel": "Results",
+    "textfieldPlaceholder": "Type to search"
+  },
+  "onPremiseV2Migration": {
+    "migrationRequiredBanner": "Migration required, please ask you administrator to migrate the app."
+  },
+  "overlappingEventsSetting": {
+    "heading": "Overlap events",
+    "subHeading": "Select if simultaneous events should visually overlap"
+  },
+  "savingLozenge": {
+    "error": "Error while saving",
+    "saved": "Settings Saved",
+    "saving": "Saving Settings ..."
+  },
+  "schedulerViewGroupingSetting": {
+    "heading": "Timeline grouping",
+    "selectDayLabel": "Day",
+    "selectHourLabel": "Hour",
+    "selectMonthLabel": "Month",
+    "selectweekLabel": "Week",
+    "subHeading": "Select the time range grouping"
+  },
+  "schedulerViewSetting": {
+    "heading": "Timeline view scope",
+    "select30DaysLabel": "30 days",
+    "select7DaysLabel": "7 days",
+    "select90DaysLabel": "90 days",
+    "selectSingleDayLabel": "Single day",
+    "subHeading": "Select how many days should be visible in the timeline"
+  },
+  "searchJiraSprintsScreen": {
+    "calendarDescription": "Sprints of board: {{name}} ({{url}})",
+    "heading": "Back to templates",
+    "noOptionsPlaceholder": "No boards found",
+    "resultsLabel": "Boards"
+  },
+  "searchTeamsChannelCalendarScreen": {
+    "backButton": "Back to templates",
+    "calendarDescription": "Channel calendar - {{channelName}} ({{teamName}})",
+    "calendarName": "Channel: {{channelName}}",
+    "loadingPlaceholderText": "Loading teams and channel calendars",
+    "resultsLabel": "Outlook Teams",
+    "textfieldPlaceholderText": "Type to search for teams/channels"
+  },
+  "secretRotation": {
+    "button": "Rotate secret",
+    "cancel": "Cancel",
+    "description": "The app stores a shared secret to ensure a secure connection with our services. All {{atlassianProduct}} admins may have access to this secret. To avoid any malicious and unauthorized data access, we recommend to rotate the secret whenever you remove an admin from your instance",
+    "heading": "Secret rotation",
+    "headsUp": "Heads up",
+    "headsUpText": "This action cannot be reversed.",
+    "okay": "Okay"
+  },
+  "settingsError": {
+    "flagHeading": "Version mismatch.",
+    "genericError": "An error occured with reason: {{errorMessage}}",
+    "readOnlyErrorMessage": "{{atlassianProduct}} is currently in read-only mode",
+    "unknownError": "An unknown error occured while saving."
+  },
+  "sidbarEmptyState": {
+    "addCalendarsButton": "Add calendars",
+    "emptyStateText": "It seems like you're the first one here.",
+    "gettingStartedButton": "Getting started",
+    "missingSpacePermissionEmptyStateText": "You don't have the permission to add calendars. Only {{atlassianProduct}} space admins are allowed to edit.",
+    "readOnlyStateText": "{{atlassianProduct}} is in read-only mode. Please wait until {{atlassianProduct}} allows editing again."
+  },
+  "splitResourcesSetting": {
+    "heading": "Split resources",
+    "subHeading": "Display calendars as separate columns"
+  },
+  "template": {
+    "createCalendarDescription": "Create a new Outlook calendar",
+    "createCalendarHeading": "New calendar",
+    "currentUserDescription": "Show the calendar of the current logged in user",
+    "currentUserHeading": "Current users calendar",
+    "globalMailboxDescription": "Show a pre-configured calendar",
+    "globalMailboxHeading": "Global calendars",
+    "groupCalendarDescription": "Show a calendar of an Outlook group",
+    "groupCalendarHeading": "Group calendar",
+    "jiraFiltersAsIssuesDescripion": "Show Jira issues from a filter, using any date field",
+    "jiraFiltersAsIssuesHeading": "Jira filter issues",
+    "jiraJQLAsIssuesDescripion": "Show Jira issues from a JQL query, using any date field",
+    "jiraJQLAsIssuesHeading": "JQL issues",
+    "jiraProjectsAsEventsDescripion": "Show Jira project issues, using any date field (e.g. due date)",
+    "jiraProjectsAsEventsHeading": "Jira project issues",
+    "jiraReleasesAsEventsDescripion": "Show Jira release dates",
+    "jiraReleasesAsEventsHeading": "Jira releases",
+    "jiraSprintsAsEventsDescripion": "Show Jira sprint dates",
+    "jiraSprintsAsEventsHeading": "Jira sprints",
+    "lozengeNew": "new",
+    "lozengePopular": "popular",
+    "lozengeSoon": "coming soon",
+    "ownCalendarDescription": "Show one of my calendars",
+    "ownCalendarHeading": "My calendar",
+    "requiresAppLink": "Requires admin config",
+    "resourceCalendarDescription": "Show a room or resource calendar",
+    "resourceCalendarHeading": "Room or resource calendar",
+    "teamsChannelCalendarDescription": "Show Teams channel events",
+    "teamsChannelCalendarHeading": "Channel calendar",
+    "userSearchDescription": "Show a calendar of a specific user",
+    "userSearchHeading": "User calendar"
+  },
+  "templateScreen": {
+    "chooseCalendarHeading": "Choose Calendar Template",
+    "jiraHeading": "Jira",
+    "outlookHeading": "Outlook",
+    "teamsHeading": "Microsoft Teams"
+  },
+  "templateSelectionScreen": {
+    "heading": "Choose calendar template"
+  },
+  "timeRangeSetting": {
+    "heading": "Select visibility",
+    "isCheckedLabel": "Date range",
+    "isUncheckedLabel": "Single date",
+    "subHeading": "Choose from recommended views based on a single date or a timerange"
+  },
+  "unshareableCalendarFlag": {
+    "description": "Note: Other users wont be able to see this calendar. Please select Calendar access: 'Shared permissions' or use another template.",
+    "heading": "Heads up"
+  },
+  "userModel": {
+    "toManyCalendarsFlagDescription": "Not all calendars can be shown",
+    "toManyCalendarsFlagTitle": "Too many calendars"
+  },
+  "userSettingsScreen": {
+    "heading": "Microsoft 365 settings",
+    "loginHeading": "Microsoft account",
+    "logoutButton": "Logout",
+    "notLoggedIn": "You're not logged in",
+    "showDebugInformation": "Show debug information"
+  },
+  "yasoonCalendarContextView": {
+    "macro": "Page",
+    "personal": "Page",
+    "project": "Project",
+    "space": "Space"
+  },
+  "yasoonProduct": {
+    "confluenceCalendar": "Outlook Calendars for Confluence",
+    "jiraCalendar": "Outlook Calendars for Jira"
   }
+}

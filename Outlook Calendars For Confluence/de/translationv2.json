@@ -91,11 +91,11 @@
     "globalMailboxesTabLabel": "Shared mailboxes",
     "heading": "{{yasoonProduct}}",
     "helpTabLabel": "Hilfe",
+    "inValidLicenseText": "Die Lizenz ist ungültig oder abgelaufen. Wenn du unsere App weiterhin nutzen möchtest, erneuere bitte die Lizenz!",
+    "licenseExpiredHeading": "Die Lizenz ist abgelaufen",
     "migrationTabLabel": "Migration",
     "settingsTabLabel": "Einstellungen",
-    "sharingTabLabel": "Sharing",
-	  "licenseExpiredHeading":"Die Lizenz ist abgelaufen",
-	  "inValidLicenseText":"Die Lizenz ist ungültig oder abgelaufen. Wenn du unsere App weiterhin nutzen möchtest, erneuere bitte die Lizenz!"
+    "sharingTabLabel": "Sharing"
   },
   "adminServerMigrationTab": {
     "macroMigrationErrorsHeading": "Nicht alle Seiten konnten migriert werden! Die Fehler zeigen dir, was gemacht werden muss",
@@ -237,13 +237,30 @@
     "projectCalendarDescription": "Vorgänge von Projekt: {{description}} ({{url}})",
     "projectCalendarName": "Fälligkeitsdatum"
   },
+  "dialogFooter": {
+    "submit": "Absenden"
+  },
   "dialogHeading": {
+    "editMeeting": "Meeting bearbeiten",
     "globalMailboxes": "Globale Mailbox hinzufügen",
     "personalEdit": "Einstellungen persönlicher Kalender ",
     "projectEdit": "Einstellungen Projektkalender",
     "scheduleMeeting": "Meeting buchen",
     "spaceEdit": "Einstellungen Bereichskalender",
     "v2MigrationGuide": "V2 Migrationsguide"
+  },
+  "editEventScreen": {
+    "cancel": "Meeting absagen",
+    "cancelEventConfirmation": "Absage bestätigen",
+    "close": "Schließen",
+    "decline": "Meeting Ablehnen",
+    "delete": "Meeting löschen",
+    "deleteEventConfirmation": "Löschen bestätigen",
+    "discard": "Verwerfen",
+    "editDescriptionLabel": "Bearbeiten",
+    "save": "Speichern",
+    "sendUpdate": "Update schicken",
+    "submit": "Event erstellen"
   },
   "editJQLFieldScreen": {
     "heading": "JQL:",
@@ -282,15 +299,15 @@
     "workingElsewhere": "An anderem Ort tätig\""
   },
   "fullcalendar": {
+    "30days": "30 Tage",
+    "7days": "7 Tage",
+    "90days": "90 Tage",
     "calendar": "Kalender",
     "day": "Tag",
-    "workWeek": "Arbeitswoche",
-    "week": "Woche",
     "month": "Monat",
     "next7Days": "7 Tage",
-    "7days": "7 Tage",
-    "30days": "30 Tage",
-    "90days": "90 Tage"
+    "week": "Woche",
+    "workWeek": "Arbeitswoche"
   },
   "generalSettingsTab": {
     "description": "Beschreibungstext",
@@ -561,6 +578,8 @@
     "copyToOwnCalendarTooltip": "Zu eigenem Kalender hinzufügen",
     "deleteButtonText": "Löschen",
     "deleteButtonTooltip": "Diese Event löschen",
+    "editButtonDisabledTooltip": "Dieses Event kann nicht bearbeitet werden",
+    "editButtonText": "Bearbeiten",
     "eventCopySuccessFlagDescription": "Ereignis erfolgreich in eigenen Kalender kopiert",
     "eventDeletionFailed": "Löschen fehlgeschlagen",
     "eventSuccessFlagDescription": "Erfolgreich im eigenen Kalender angelegt",
@@ -716,6 +735,12 @@
     "userSearchDescription": "Zeige den Kalender eines Nutzers",
     "userSearchHeading": "Nutzerkalender"
   },
+  "templateScreen": {
+    "chooseCalendarHeading": "Wähle eine Kalendervorlage",
+    "jiraHeading": "Jira",
+    "outlookHeading": "Outlook",
+    "teamsHeading": "Microsoft Teams"
+  },
   "templateSelectionScreen": {
     "heading": "Wähle ein Kalendertemplate"
   },
@@ -751,4 +776,3 @@
     "jiraCalendar": "Outlook Calendars for Jira"
   }
 }
-
