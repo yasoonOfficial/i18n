@@ -1,0 +1,9 @@
+{
+    "sendEmailWarningFlag": {
+        "title":"E-Mail wurde gesendet",
+        "mainBody":"Das Senden der E-Mail war erfolgreich, aber wir hatten einige Schwierigkeiten bei der anschließenden Verarbeitung: ",
+        "sharingFailed":"Die E-Mail konnte nicht geteilt werden und wird nicht unter \"Verknüpfte Vorgänge\" sichtbar sein. ",
+        "issueUpdateFailed":"Der Vorgang konnte nicht aktualisiert werden. Beim Suchen nach Vorgängen mit verknüpften E-Mails über JQL kann es sein, dass dieser Vorgang nicht gefunden wird. ",
+        "triggerFailed":"\"E-Mail wurde gesendet\" wurde für die Automatisierung nicht ausgelöst. "
+    }
+}
