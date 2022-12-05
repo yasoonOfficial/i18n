@@ -324,7 +324,7 @@
         "trigger": {
             "heading": "Create trigger",
             "jiraTrigger": "by Jira Issue",
-            "teamsTrigger": "by Microsoft",
+            "teamsTrigger": "by Microsoft Teams",
             "chat-createdTitle": "Teams chat created",
             "chat-createdDescription": "Fired when a chat was created in an issue.",
             "chat-createdDescriptionPlaceholder": "This trigger is executed when a chat is created in Teams using the Microsoft 365 for Jira app (...).\nCreated by: {{atlassianUser}}\nUsed in project: (...)",
