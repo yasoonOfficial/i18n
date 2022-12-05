@@ -416,6 +416,7 @@
         "allowNonJiraUsersTransitions": "den Status von Vorgängen ändern"
     },
     "jsmPortalConfig": {
+        "createNewPortalApp": "Neue Portal App anlegen",
         "portalIcon": "Icon",
         "portalName": "Portal Name",
         "appConfiguration": "Teams Portal App konfigurieren",

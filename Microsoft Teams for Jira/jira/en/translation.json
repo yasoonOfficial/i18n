@@ -416,6 +416,7 @@
         "allowNonJiraUsersTransitions": "to perform issue status transitions"
     },
     "jsmPortalConfig": {
+        "createNewPortalApp": "Create new portal app",
         "portalIcon": "Icon",
         "portalName": "Portal name",
         "appConfiguration": "Configure Teams portal app",
