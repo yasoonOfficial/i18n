@@ -418,6 +418,7 @@
     "jsmPortalConfig": {
         "portalIcon": "Icon",
         "portalName": "Portal name",
-        "appConfiguration": "Configure Teams portal app"
+        "appConfiguration": "Configure Teams portal app",
+        "downloadTooltip": "Download {{appName}} manifest bundle"
     }
 }
