@@ -207,7 +207,7 @@
         "jsmStepOne": "Step 1: App configuration",
         "jsmStepTwo": "Step 2: Download the custom app",
         "jsmAppHeader": "JSM customer portal in Microsoft Teams",
-        "jsmAppIntro": "To integrate your Jira Service Management (JSM) customer portal to Microsoft teams, configure a custom Microsoft Teams app in two steps. Then you can download the app and install it for your customers to use.",
+        "jsmAppIntro": "To integrate your Jira Service Management (JSM) customer portal to Microsoft teams, configure a custom Microsoft Teams app. Then you can download the app and install it for your customers to use.",
         "personalSettings": "Personal settings",
         "microsoft365Account": "Microsoft 365 account",
         "installTeamsApp": "Install Teams app",
@@ -417,6 +417,7 @@
     },
     "jsmPortalConfig": {
         "portalIcon": "Icon",
-        "portalName": "Portal name"
+        "portalName": "Portal name",
+        "appConfiguration": "Configure Teams portal app"
     }
 }
