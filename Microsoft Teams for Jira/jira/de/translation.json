@@ -199,8 +199,7 @@
         "nativeLookAndFeelModeHelpText": "Dieser Modus lässt das Portal in Teams ähnlicher aussehen, z.B. die Beschreibungen, Icons & Ankündigungen. Verwendet private Atlassian APIs.",
         "portalAppDownloadInstructions": "Lade hier das die App im .ZIP-Format herunter. Unter 'Erfahre mehr' erfährst du, wie die App zu installieren ist.",
         "downloadApp": "App herunterladen",
-        "jsmFirstVisit": "Bitte speichere die Konfiguration, lade die App herunter und installiere sie in Microsoft Teams.",
-        "saveSettings": "Bitte speichere die Konfiguration, generiere eine neue App und installiere sie in Microsoft Teams.",
+        "saveSettings": "Bitte speichere die Konfiguration, lade die App herunter und installiere sie in Microsoft Teams.",
         "criticalSettingChanged": "Du hast eine Einstellung angepasst, die ein erneutes installieren der Teams App benötigt.",
         "bannerImageUrl": "Banner Bild URL",
         "bannerImageExamplesHeader": "Beispiele von unsplash.com",
@@ -420,6 +419,8 @@
         "portalIcon": "Icon",
         "portalName": "Portal Name",
         "appConfiguration": "Teams Portal App konfigurieren",
-        "downloadTooltip": "Manifest Bundle für {{appName}} herunterladen"
+        "downloadTooltip": "Manifest Bundle für {{appName}} herunterladen",
+        "saveAndDownload": "Speichern & herunterladen",
+        "saveAndPublish": "Speichern & veröffentlichen"
     }
 }

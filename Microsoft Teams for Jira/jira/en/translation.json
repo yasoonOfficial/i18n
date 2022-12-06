@@ -199,8 +199,7 @@
         "nativeLookAndFeelModeHelpText": "Activate this if you need the portal to look closer to the Atlassian portal, e.g. icons & description texts. Requires use of private Atlassian APIs.",
         "portalAppDownloadInstructions": "Click the button below to download the app as a .ZIP file. Click the link to learn more on how to install the app.",
         "downloadApp": "Download app",
-        "jsmFirstVisit": "Seems like this is your first visit. Please save your configuration, download the app and install it in Microsoft Teams.",
-        "saveSettings": "Please save your configuration, generate a new app and install it in Microsoft Teams.",
+        "saveSettings": "Please save your configuration, download the app and install it in Microsoft Teams.",
         "criticalSettingChanged": "You changed a setting that requires an update of the Teams app.",
         "bannerImageUrl": "Banner image URL",
         "bannerImageExamplesHeader": "Examples from unsplash.com",
@@ -420,6 +419,8 @@
         "portalIcon": "Icon",
         "portalName": "Portal name",
         "appConfiguration": "Configure Teams portal app",
-        "downloadTooltip": "Download {{appName}} manifest bundle"
+        "downloadTooltip": "Download {{appName}} manifest bundle",
+        "saveAndDownload": "Save & download",
+        "saveAndPublish": "Save & publish"
     }
 }
