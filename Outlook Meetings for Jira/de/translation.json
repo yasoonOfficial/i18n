@@ -127,7 +127,8 @@
         "templateSavedFlagDescription": "Die Vorlage wurde erfolgreich gespeichert.",
         "gettingStartedTabLabel": "Erste Schritte",
         "templatesTabLabel": "Vorlagen",
-        "advancedSettingsTabLabel": "Erweiterte Einstellungen"
+        "advancedSettingsTabLabel": "Erweiterte Einstellungen",
+        "sectionMoved": ""
     },
     "availabilityOverviewWebPanel": {
         "licenseExpiredWarning": "Die Lizenz ist abgelaufen",

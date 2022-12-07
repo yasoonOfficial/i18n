@@ -387,7 +387,7 @@
         "chatOrConversationConversationLabel": "Kanalkonversation",
         "chatOrConversationChatLabel": "Chat",
         "rememberUserChoiceLabel": "Letze Nutzerauswahl merken",
-        "chatOrConversationHelpTextGlobal": "Wähle aus, ob beim Öffnen des Erstelldialogs Chat oder Kanalkonversation ausgewählt ist.",
+        "chatOrConversationHelpTextGlobal": "Wähle aus, ob beim Öffnen des Erstelldialogs Chat oder KanalktemplatesTabnversation ausgewählt ist.",
         "chatOrConversationHelpTextProject": "Wähle aus, ob beim Öffnen des Erstelldialogs in diesem Projekt Chat oder Kanalkonversation ausgewählt ist.",
         "disableOtherDescription": "Deaktivieren der Erstellung von Chats oder Kanalkonversationen",
         "channelConversations": "Kanalkonversationen",
@@ -398,8 +398,7 @@
         "disableChatOrConversationHelpText": "Wähe aus, ob Chats oder Konversationen deaktiviert werden sollen, oder erlaube beides."
     },
     "templatesTab": {
-        "subjectHeading": "Chattitel",
-        "subjectDescription": "Der Chattitel wird basierend auf dieser Vorlage generiert. Alle Felder des Vorgangs sind mithilfe der {{issue.field}} Syntax verfügbar. Bitte beachte, dass Microsoft Teams nur einen sehr begrenzten Teil von HTML unterstützt."
+        "movedSection": ""
     },
     "systemMessages": {
         "chatRenamedEvent": "{{initiator}} hat den Gruppennamen zu {{chatName}} geändert.",

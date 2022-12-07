@@ -127,7 +127,8 @@
         "templateSavedFlagDescription": "The templates have been saved successfully.",
         "gettingStartedTabLabel": "Getting started",
         "templatesTabLabel": "Templates",
-        "advancedSettingsTabLabel": "Advanced settings"
+        "advancedSettingsTabLabel": "Advanced settings",
+        "sectionMoved": ""
     },
     "availabilityOverviewWebPanel": {
         "licenseExpiredWarning": "Your license is expired",
