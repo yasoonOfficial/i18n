@@ -365,7 +365,11 @@
         },
         "meetings": {
             "displayName": "Standardvorlage Meetings",
-            "detailDescription": "Standardvorlage für Meetings. Sie befüllt den Title mit dem Key und der Zusammenfassung des Issues."
+            "detailDescription": "Standardvorlage für Meetings. Sie befüllt den Titel mit dem Key und der Zusammenfassung des Issues. Im Inhalt wird ein Link zum Issue eingefügt."
+        },
+        "chat": {
+            "displayName": "Standardvorlage Chat",
+            "detailDescription": "Standardvorlage für Chats. Sie befüllt den Titel mit dem Key und der Zusammenfassung des Issues. Im Inhalt wird ein Link zum Issue eingefügt."
         }
     },
     "userPicker": {

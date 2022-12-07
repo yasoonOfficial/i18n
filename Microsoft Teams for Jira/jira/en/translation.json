@@ -398,7 +398,8 @@
         "disableChatOrConversationHelpText": "Choose to disable chats or conversations, or allow both."
     },
     "templatesTab": {
-        "movedSection": ""
+        "sectionMoved": "This page has been moved to its own navigation section. You can now configure your templates in a more comfortable and flexible way.",
+        "sectionMovedLinkLabel": "Learn more"
     },
     "systemMessages": {
         "chatRenamedEvent": "{{initiator}} changed the group name to {{chatName}}.",
