@@ -494,11 +494,13 @@
     },
     "actionSuccess": {
         "header": "Action created",
-        "description": "The action with the name {{name}} has been created successfully. You can already copy the webhook url to the Jira Automation. Please note that the action needs to be authorized by the desired Microsoft user (this might be the administrator).",
+        "descriptionAuthRequired": "The action with the name {{name}} has been created successfully. You can already copy the webhook url to the Jira Automation. Please note that the action needs to be authorized by the desired Microsoft user (this might be the administrator).",
+        "description": "The action with the name {{name}} has been created successfully. You can already use the webhook url in the Jira Automation.",
         "authorizeButton": "Authorize action",
         "authorizeLaterButton": "Authorize later",
         "learnMore": "Learn more",
-        "error": "Something went wrong, please try again."
+        "error": "Something went wrong, please try again.",
+        "continueButton": "Go to overview"
     },
     "actorField": {
         "placeholder": "Choose a Microsoft actor",
