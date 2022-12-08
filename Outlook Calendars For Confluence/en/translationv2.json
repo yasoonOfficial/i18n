@@ -177,6 +177,10 @@
     "noSpaceEditPermissionTooltip": "It seems like you don't have space admin permissions",
     "sidebarHeading": "Calendars"
   },
+  "compactCalendar": {
+	"pickADateTooltip": "Pick a date directly",
+	"goToDateIconLabel": "go to date"
+  },
   "connectivitySettingsTab": {
     "checkConnectivity": "Check connectivity",
     "connectivityCheckDescription": "Support tool to check and troubleshooting the connection to mandatory services. Only for analysis and won’t change any configuration.",

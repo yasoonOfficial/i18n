@@ -177,6 +177,10 @@
     "noSpaceEditPermissionTooltip": "Du hast keine Bereichsadmin Berechtigungen",
     "sidebarHeading": "Kalender"
   },
+  "compactCalendar": {
+    "pickADateTooltip": "Datum wählen",
+    "goToDateIconLabel": "zum Datum gehen"
+},
   "connectivitySettingsTab": {
     "checkConnectivity": "Prüfe Verbindungen",
     "connectivityCheckDescription": "Supporttool zur Diagnose von Verbindungen und obligatorischen Services. Nur zur Analyse, dies wird keine Konfigurationen anpassen.",
