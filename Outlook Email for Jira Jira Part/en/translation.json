@@ -322,6 +322,8 @@
         "loading": "Loading"
     },
     "errorMessages": {
+        "addCommentFailedTitle": "Email was sent",
+        "addCommentFailedMessage": "Email was sent correctly, but commenting the issue failed: ",
         "createDraftTitle": "Failed to create a draft",
         "createDraftMessage": "This feature requires an Exchange Online mailbox. If you are in a hybrid environment make sure your mailbox was already migrated to Exchange Online",
         "outdatedData": "The settings you are trying to save have been modified elsewhere. Please reload the page and try again.",
