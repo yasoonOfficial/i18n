@@ -1,4 +1,7 @@
 {
+    "theJob": {
+        "message": "You have been served in English. Nothing to see, please move on."
+    },
     "sendEmailWarningFlag": {
         "title":"Email was sent",
         "mainBody":"The email was sent successfully, but we encountered some problems in processing it afterwards: ",

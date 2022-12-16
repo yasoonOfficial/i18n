@@ -1,4 +1,7 @@
 {
+    "theJob": {
+        "message": "Du wurdest auf Deutsch bedient. Es gibt nichts zu sehen, bitte gehe weiter."
+    },
     "sendEmailWarningFlag": {
         "title":"E-Mail wurde gesendet",
         "mainBody":"Das Senden der E-Mail war erfolgreich, aber wir hatten einige Schwierigkeiten bei der anschließenden Verarbeitung: ",
