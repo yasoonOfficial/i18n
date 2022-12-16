@@ -5,5 +5,8 @@
         "sharingFailed":"Email could not be shared and will not be visible in the \"Related emails\" section. ",
         "issueUpdateFailed":"Issue was not updated. When searching for issues with related emails via JQL this issue might not be found. ",
         "triggerFailed":"\"Email was sent\" automation triggers were not fired for this issue. "
+    },
+    "sendEmailErrorFlag": {
+        "title": "Email could not be sent"
     }
 }
