@@ -110,6 +110,7 @@
         "privateChannelNotSupported": "Private channels are not supported currently",
         "appNotInstalledInTeam": "The app is not installed in this team yet.",
         "additionalContentInTeams": "This message has additional content you can view in Teams",
+        "conversationStarted": "Conversation was started for this issue",
         "relatedTeamsChats": "Related Teams Chats",
         "noChatLinked": "No chat linked yet.",
         "noChannelLinked": "No channel conversation linked yet.",
