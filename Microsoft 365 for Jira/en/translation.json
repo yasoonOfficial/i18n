@@ -509,14 +509,14 @@
     },
     "actorLogin": {
         "header": "Authorize action",
-        "generalDescription": "The Jira user {{user}} ({{email}}) wants to get access to Microsoft 365 to create the following automation.",
-        "inBehalfOf": "To act on behalf of the Microsoft 365 user {{user}}, he needs the following Microsoft Graph permissions.",
+        "generalDescription": "The Jira user {{user}} ({{email}}) wants to get access to Microsoft 365 to create the following automation:",
+        "inBehalfOf": "To act on behalf of the Microsoft 365 user {{user}}, he needs the following Microsoft Graph permissions:",
         "authorize": "Authorize",
         "redirect": "Authorizing will redirect to https://login.microsoft.com",
         "poweredBy": "Powered by",
         "noToken": "The url contains no or an invalid token. Please restart the login and make sure you copy the whole url if you forward it.",
         "expiredToken": "The token has expired, please restart the login.",
-        "loginSuccessfull": "Login successful, you can close this window."
+        "authorizationSuccessful": "Authorization successful, you can close this window."
     },
     "actionName": {
         "create-chat": "Create Teams chat",
