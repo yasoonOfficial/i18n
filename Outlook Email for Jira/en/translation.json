@@ -440,6 +440,7 @@
         "webViewIE": "Internet Explorer 11",
         "webViewEdge": "Microsoft Edge (legacy)",
         "webViewEdge2": "Microsoft Edge",
+        "webViewEdge2Embedded": "Microsoft Edge (embedded)",
         "troubleshooting": "Troubleshooting",
         "verboseLogging": "Verbose logging",
         "networkTrace": "Network logging",
