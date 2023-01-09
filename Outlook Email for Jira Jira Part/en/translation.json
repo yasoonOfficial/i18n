@@ -258,6 +258,7 @@
         "heading": "What do you want to share?"
     },
     "conversationScreen": {
+        "newEmail": "Send new email",
         "noMailEmptyStateWithLoginHint": "This issue has no related emails you are allowed to see. There might be private mails here. You might see more if you login with Microsoft.",
         "noMailEmptyStateHeader": "No mails",
         "noMailEmptyStateDescription": "This issue has no related emails or none you are allowed to see."
