@@ -48,7 +48,8 @@
         "dismiss": "Nicht mehr anzeigen",
         "wrongSystem": "Inkompatible Jira Instanz",
         "decline": "Ablehnen",
-        "approve": "Genehmigen"
+        "approve": "Genehmigen",
+        "none": "Keine der Optionen"
     },
     "error": {
         "serverNotSupported": "Jira Server wird noch nicht unterstützt",

@@ -48,7 +48,8 @@
         "dismiss": "Dismiss",
         "wrongSystem": "Incompatible Jira instance",
         "decline": "Decline",
-        "approve": "Approve"
+        "approve": "Approve",
+        "none": "None"
     },
     "error": {
         "serverNotSupported": "Jira Server is not supported yet",
