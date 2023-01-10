@@ -643,7 +643,10 @@
         "systemTemplateTooltip": "System templates can be used as default but will not be available for manual selection by a user.",
         "changedDefaultWarningTitle": "Default changed",
         "changedDefaultWarningMessage": "Your current default is no longer active and has been de-selected.",
-        "removingDefaultErrorTitle": "Could not remove default template"
+        "removingDefaultErrorTitle": "Could not remove default template",
+        "emptyStateBundleHeader": "Feature is not enabled",
+        "emptyStateBundleDescription": "This feature is part of Microsoft 365 for Jira. You can switch to Microsoft 365 for Jira without losing any of your app data.",
+        "emptyStateBundleText": "Switch now"
     },
     "templateSingle": {
         "fetchErrorTitle": "Could not fetch template",

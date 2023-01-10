@@ -288,7 +288,10 @@
         "systemTemplateTooltip": "Systemvorlagen können als Standardvorlagen verwendet werden; aber sie stehen nicht zur manuellen Auswahl durch Benutzer zur Verfügung.",
         "changedDefaultWarningTitle": "Standardvorlage geändert",
         "changedDefaultWarningMessage": "Die aktuelle Standardvorlage ist nicht länger aktiv und wurde deshalb deselektiert.",
-        "removingDefaultErrorTitle": "Entfernen der Standardvorlage fehlgeschlagen."
+        "removingDefaultErrorTitle": "Entfernen der Standardvorlage fehlgeschlagen.",
+        "emptyStateBundleHeader": "Feature ist nicht freigeschaltet",
+        "emptyStateBundleDescription": "Dieses Feature ist Teil von Microsoft 365 for Jira. Du kannst zu Microsoft 365 for Jira wechseln, ohne deine Daten zu verlieren.",
+        "emptyStateBundleText": "Jetzt wechseln"
     },
     "templateSingle": {
         "fetchErrorTitle": "Vorlage konnte nicht geladen werden",
