@@ -423,5 +423,12 @@
         "downloadTooltip": "Manifest Bundle für {{appName}} herunterladen",
         "saveAndDownload": "Speichern & herunterladen",
         "saveAndPublish": "Speichern & veröffentlichen"
+    },
+    "templatePicker": {
+        "recents": "Zuletzt verwendet",
+        "others": "Weitere",
+        "templateButton": "Vorlagen",
+        "noTemplatesGlobalAdminTooltip": "Es sind noch keine Vorlagen konfiguriert. Du kannst in den globalen App Einstellungen oder im Projekteinstellungsmenü neue Vorlagen erstellen.",
+        "noTemplatesProjectAdminTooltip": "Es sind noch keine Vorlagen konfiguriert. Du kannst im Projekteinstellungsmenü neue Vorlagen für dein Projekt erstellen."
     }
 }

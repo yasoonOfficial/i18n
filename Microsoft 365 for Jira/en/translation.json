@@ -615,6 +615,7 @@
     "templateOverviewScreen": {
         "emailTabname": "Email",
         "meetingsTabname": "Meetings",
+        "chatTabname": "Chat",
         "description": "Create and edit templates for Microsoft 365 (Email, Meetings, Teams).\nActive templates may then be selected and used to prefill the corresponding fields.",
         "pageHeading": "Templates",
         "missingPermission": "You don't have the permissions to view this site."
@@ -657,9 +658,9 @@
         "updateSuccessMessage": "The template has been saved successfully.",
         "updateErrorTitle": "Could not update template",
         "pageHeading": "Templates",
-        "createHeadingEmail": "Create email template",
-        "viewHeadingEmail": "View email template",
-        "editHeadingEmail": "Edit email template",
+        "createHeadingEmail": "Create Email template",
+        "viewHeadingEmail": "View Email template",
+        "editHeadingEmail": "Edit Email template",
         "createHeadingMeetings": "Create meetings template",
         "viewHeadingMeetings": "View Meetings template",
         "editHeadingMeetings": "Edit Meetings template",

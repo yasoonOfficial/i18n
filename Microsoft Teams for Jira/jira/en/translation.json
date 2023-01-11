@@ -423,5 +423,12 @@
         "downloadTooltip": "Download {{appName}} manifest bundle",
         "saveAndDownload": "Save & download",
         "saveAndPublish": "Save & publish"
+    },
+    "templatePicker": {
+        "recents": "Recents",
+        "others": "Others",
+        "templateButton": "Templates",
+        "noTemplatesGlobalAdminTooltip": "No templates have been configured yet. You can create new templates in the global app settings or project settings.",
+        "noTemplatesProjectAdminTooltip": "No templates have been configured yet. You can create new templates for your project in the project settings."
     }
 }
