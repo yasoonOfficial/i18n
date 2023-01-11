@@ -259,6 +259,8 @@
     },
     "conversationScreen": {
         "newEmail": "Send new email",
+        "relatedEmailsCount": "{{count}} related emails for this issue",
+        "relatedEmailsCountSingle": "1 related email for this issue",
         "noMailEmptyStateWithLoginHint": "This issue has no related emails you are allowed to see. There might be private mails here. You might see more if you login with Microsoft.",
         "noMailEmptyStateHeader": "No mails",
         "noMailEmptyStateDescription": "This issue has no related emails or none you are allowed to see."
@@ -336,6 +338,9 @@
     "flag": {
         "successTitle": "Success",
         "saveSuccessMessage": "Settings saved"
+    },
+    "unlink": {
+        "scheduledUnlinkNotPossibleTooltip": "Unlinking not possible. To prevent this email from sending, open it in Outlook and delete it from the drafts."
     },
     "unlinkConfirmationDropdown": {
         "unlinkConversationDescription": "Unlink currently {{amount}} emails and all future replies.",

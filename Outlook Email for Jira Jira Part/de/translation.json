@@ -259,6 +259,8 @@
     },
     "conversationScreen": {
         "newEmail": "Neue E-Mail senden",
+        "relatedEmailsCount": "{{count}} verknüpfte E-Mails zu diesem Vorgang",
+        "relatedEmailsCountSingle": "1 verknüpfte E-Mail zu diesem Vorgang",
         "noMailEmptyStateWithLoginHint": "Der Vorgang hat keine für dich sichtbaren verknüpften E-Mails. Möglicherweise gibt es private E-Mails, die du nach Anmelden mit Microsoft sehen kannst.",
         "noMailEmptyStateHeader": "Keine E-Mails",
         "noMailEmptyStateDescription": "Der Vorgang hat keine - oder keine für dich sichtbaren - verknüpften E-Mails."
@@ -336,6 +338,9 @@
     "flag": {
         "successTitle": "Erfolg",
         "saveSuccessMessage": "Einstellungen gespeichert"
+    },
+    "unlink": {
+        "scheduledUnlinkNotPossibleTooltip": "Entknüpfen nicht möglich. Um zu verhindern, dass diese E-Mail gesendet wird, öffne diese in Outlook und entferne sie aus den Entwürfen."
     },
     "unlinkConfirmationDropdown": {
         "unlinkConversationDescription": "Die Konversation mit momentan {{amount}} E-Mails entknüpfen.",
