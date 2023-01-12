@@ -647,7 +647,9 @@
         "removingDefaultErrorTitle": "Could not remove default template",
         "emptyStateBundleHeader": "Feature is not enabled",
         "emptyStateBundleDescription": "This feature is part of Microsoft 365 for Jira. You can switch to Microsoft 365 for Jira without losing any of your app data.",
-        "emptyStateBundleText": "Switch now"
+        "emptyStateBundleText": "Switch now",
+        "emptyStateProjectTemplatesHeader": "You haven't configured any project templates yet.",
+        "emptyStateProjectTemplatesText": "Learn more"
     },
     "templateSingle": {
         "fetchErrorTitle": "Could not fetch template",
