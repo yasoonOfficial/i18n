@@ -589,6 +589,12 @@
             "msalLoginButton": "Authenticate"
         }
     },
+    "chatCreatedConfigScreen": {
+        "projectField": "Project"
+    },
+    "conversationCreatedConfigScreen": {
+        "projectField": "Project"
+    },
     "channelRegexConfigScreen": {
         "regexField": "Message pattern",
         "messageTypeField": "Message type",
