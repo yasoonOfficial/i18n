@@ -325,6 +325,12 @@
     "listViewHeading": "Listenansicht",
     "schedulerViewHeading": "Timeline Ansicht"
   },
+  "genericFullpageMessage": {
+    "editingOnDraftBlocked": {
+      "bannerHeading": "Editieren nicht möglich",
+      "mainDescriptionText": "Entschuldige die Unannehmlichkeit. \nDas Bearbeiten des Kalenders auf Entwurfsseiten ist bei dieser Version von Confluence leider nicht möglich. \n Erst nach dem Anlegen/Speichern der Seite kann der Kalender editiert werden."
+    }
+  },
   "globalMailboxComponent": {
     "removeButtonLabel": "Löschen"
   },

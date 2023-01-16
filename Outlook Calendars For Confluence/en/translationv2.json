@@ -178,8 +178,8 @@
     "sidebarHeading": "Calendars"
   },
   "compactCalendar": {
-	"pickADateTooltip": "Pick a date directly",
-	"goToDateIconLabel": "go to date"
+    "pickADateTooltip": "Pick a date directly",
+    "goToDateIconLabel": "go to date"
   },
   "connectivitySettingsTab": {
     "checkConnectivity": "Check connectivity",
@@ -324,6 +324,12 @@
     "agendaViewHeading": "Calendar view",
     "listViewHeading": "List view",
     "schedulerViewHeading": "Timeline view"
+  },
+  "genericFullpageMessage": {
+    "editingOnDraftBlocked": {
+      "bannerHeading": "Editing not possible",
+      "mainDescriptionText": "Sorry for the inconvenience. \nEditing the calendar on draft pages is not possible with this version of Confluence. \nSave the page first, then you can edit the calendar."
+    }
   },
   "globalMailboxComponent": {
     "removeButtonLabel": "Remove"
