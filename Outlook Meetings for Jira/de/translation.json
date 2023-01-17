@@ -25,7 +25,8 @@
         "availableLabel": "Verfügbar",
         "unknownLabel": "Unbekannt",
         "ownLocationLabel": "Eigener Ort",
-        "titleLabel": "Titel"
+        "titleLabel": "Titel",
+        "titlePlaceholder": "Klicke, um einen Titel einzugeben"
     },
     "azureLogin": {
         "dropdownItemLoginAccountChooser": "Anmelden mit Konto-Auswahl"

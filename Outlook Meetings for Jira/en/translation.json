@@ -25,7 +25,8 @@
         "availableLabel": "Available",
         "unknownLabel": "Unknown",
         "ownLocationLabel": "Own Location",
-        "titleLabel": "Title"
+        "titleLabel": "Title",
+        "titlePlaceholder": "Click to enter a title"
     },
     "azureLogin": {
         "dropdownItemLoginAccountChooser": "Log in with account chooser "
