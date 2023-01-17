@@ -283,7 +283,7 @@
   },
   "environment": {
     "adminSettingsErrorFlagDescription": "It seems, that the yasoon backend can not be reached",
-    "adminSettingsErrorFlagTitle": "Could no connect to yasoon",
+    "adminSettingsErrorFlagTitle": "Could not connect to yasoon",
     "genericErrorFlagDescription": "Sorry for the inconvenience. Our development team will be informed about this crash",
     "genericErrorFlagTitle": "An unexpected error occured",
     "macroSettingsErrorFlagDescription": "It might be, that either the macro was corrupted by another app/user or you do not have the permissions to watch it",
