@@ -598,7 +598,8 @@
         "webhookField": "Webhook URL",
         "global": "Global",
         "projects": "Projects",
-        "projectPickerPlaceholder": "Select one or more projects"
+        "projectPickerPlaceholder": "Select one or more projects",
+        "automationLinkButtonTooltip": "Go to Jira Automations to and create a automation rule with a incoming webhook trigger"
     },
     "conversationCreatedTriggerScreen": {
         "scopeField": "Scope",
@@ -606,7 +607,8 @@
         "webhookField": "Webhook URL",
         "global": "Global",
         "projects": "Projects",
-        "projectPickerPlaceholder": "Select one or more projects"
+        "projectPickerPlaceholder": "Select one or more projects",
+        "automationLinkButtonTooltip": "Go to Jira Automations to and create a automation rule with a incoming webhook trigger"
     },
     "channelRegexConfigScreen": {
         "regexField": "Message pattern",
