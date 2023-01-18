@@ -593,10 +593,20 @@
         "globalOption": "Global"
     },
     "chatCreatedConfigScreen": {
-        "projectField": "Project"
+        "scopeField": "Scope",
+        "projectsField": "Projects",
+        "webhookField": "Webhook URL",
+        "global": "Global",
+        "projects": "Projects",
+        "projectPickerPlaceholder": "Select one or more projects"
     },
-    "conversationCreatedConfigScreen": {
-        "projectField": "Project"
+    "conversationCreatedTriggerScreen": {
+        "scopeField": "Scope",
+        "projectsField": "Projects",
+        "webhookField": "Webhook URL",
+        "global": "Global",
+        "projects": "Projects",
+        "projectPickerPlaceholder": "Select one or more projects"
     },
     "channelRegexConfigScreen": {
         "regexField": "Message pattern",
@@ -732,5 +742,8 @@
             "displayName": "Default Chat Template",
             "detailDescription": "Default template for chats. It will fill the title with an issue's key and summary. The body will contain a link to the issue."
         }
+    },
+    "triggerOutput": {
+        "buttonLabel": "Show trigger data that can be used in the Jira Automation"
     }
 }
