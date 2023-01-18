@@ -3,13 +3,17 @@
         "message": "You have been served in English. Nothing to see, please move on."
     },
     "sendEmailWarningFlag": {
-        "title":"Email was sent",
-        "mainBody":"The email was sent successfully, but we encountered some problems in processing it afterwards: ",
-        "sharingFailed":"Email could not be shared and will not be visible in the \"Related emails\" section. ",
-        "issueUpdateFailed":"Issue was not updated. When searching for issues with related emails via JQL this issue might not be found. ",
-        "triggerFailed":"\"Email was sent\" automation triggers were not fired for this issue. "
+        "title": "Email was sent",
+        "mainBody": "The email was sent successfully, but we encountered some problems in processing it afterwards: ",
+        "sharingFailed": "Email could not be shared and will not be visible in the \"Related emails\" section. ",
+        "issueUpdateFailed": "Issue was not updated. When searching for issues with related emails via JQL this issue might not be found. ",
+        "triggerFailed": "\"Email was sent\" automation triggers were not fired for this issue. "
     },
     "sendEmailErrorFlag": {
         "title": "Email could not be sent"
+    },
+    "renderingTemplateErrorFlag": {
+        "title": "Rendering template failed",
+        "mainBody": "The template could not be applied. Its content is probably configured incorrectly. Please contact your administrator or the template's creator to fix it."
     }
 }
