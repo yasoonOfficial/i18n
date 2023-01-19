@@ -746,6 +746,9 @@
         }
     },
     "triggerOutput": {
-        "buttonLabel": "Show trigger data that can be used in the Jira Automation"
+        "buttonLabel": "Show trigger data that can be used in the Jira Automation",
+        "descriptionText1": "You can use the following data of the trigger wherever smart-values are supported with the",
+        "descriptionText2": " annotation.",
+        "exampleText": "For example: "
     }
 }
