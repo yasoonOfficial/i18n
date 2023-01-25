@@ -615,6 +615,14 @@
         "messageTypeField": "Message type",
         "limitToChannel": "Limit to channel"
     },
+    "incomingWebhookConfigSectionMessage": {
+        "title": "Incoming webhook configuration in Jira automation",
+        "description": "To ensure that the trigger works correctly, please make sure that the incoming webhook url trigger is configured in Jira automation as shown below.",
+        "jiraConfigTitle": "Execute this automation rule with:",
+        "jiraProvidedOption": "Issues provided in the webhook HTTP POST body",
+        "jiraJQLOption": "Issues provided by running the following JQL search",
+        "jiraNoIssuesOption": "No issues from the webhook"
+    },
     "personalRegexConfigScreen": {
         "regexField": "Message pattern"
     },
