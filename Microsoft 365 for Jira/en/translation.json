@@ -617,7 +617,8 @@
     },
     "incomingWebhookConfigSectionMessage": {
         "title": "Incoming webhook configuration in Jira automation",
-        "description": "To ensure that the trigger works correctly, please make sure that the incoming webhook url trigger is configured in Jira automation as shown below.",
+        "noIssuesDescription": "The selected message type might not provide issues in the webhook body.",
+        "description": "To ensure that the trigger works correctly, please make sure that the 'Incoming webhook' trigger is configured as shown below.",
         "jiraConfigTitle": "Execute this automation rule with:",
         "jiraProvidedOption": "Issues provided in the webhook HTTP POST body",
         "jiraJQLOption": "Issues provided by running the following JQL search",
