@@ -353,9 +353,7 @@
         "titleLabel": "Action name",
         "descriptionLabel": "Action description",
         "backButton": "Back to overview",
-        "submitButton": "Create action",
-        "microsoftUserLabel": "Microsoft user",
-        "microsoftUserButtonLabel": "Login with Microsoft 365 account"
+        "submitButton": "Create action"
     },
     "createTriggerScreen": {
         "titleLabel": "Trigger name",
@@ -368,16 +366,18 @@
         "titleLabel": "Action name",
         "descriptionLabel": "Action description",
         "backButton": "Back to overview",
-        "submitButton": "Edit action",
-        "microsoftUserLabel": "Microsoft user",
-        "microsoftUserButtonLabel": "Login with Microsoft 365 account"
+        "submitButton": "Edit action"
     },
     "createChatScreen": {
         "chatTitle": "Chat title",
         "chatMessage": "Chat message",
         "chatAccess": "Chat access",
-        "chatMember": "Add chat member",
-        "chatMembersPlaceholder": "Choose chat members"
+        "chatMember": "Chat member",
+        "chatMembersPlaceholder": "Choose chat members",
+        "chatCreator": "Chat creator",
+        "placeholder": "Choose the chat creator",
+        "noOptions": "No options",
+        "typeToSearch": "Type to search for users"
     },
     "backupTeamsMessagesScreen": {
         "chatsMessages": "Backup all Teams chats",
@@ -502,11 +502,6 @@
         "error": "Something went wrong, please try again.",
         "continueButton": "Go to overview"
     },
-    "actorField": {
-        "placeholder": "Choose a Microsoft actor",
-        "noOptions": "No options",
-        "typeToSearch": "Type to search"
-    },
     "actorLogin": {
         "header": "Authorize action",
         "generalDescription": "The Jira user {{user}} ({{email}}) wants to get access to Microsoft 365 to create the following automation:",
@@ -527,11 +522,8 @@
         "send-bot-message": "Send bot message to Teams channel"
     },
     "automationPageHeading": "Automation",
-    "advancedActionSettings": {
-        "expand": "Advanced settings",
-        "minimize": "Minimize",
-        "withoutIssueContext": "Allow the action to run without a Jira issue context.",
-        "multipleRuns": "Allow the action to run multiple times"
+    "multipleRundSettings": {
+        "label": "Allow the action to run multiple times"
     },
     "userField": {
         "microsoftUser": "Microsoft user",
@@ -629,9 +621,13 @@
     },
     "channelMessageTypes": {
         "all": "All messages",
+        "allDescription": "React to all message types in a Teams channel",
         "topLevelOnly": "Only top level conversation messages",
+        "topLevelOnlyDescription": "Only react to conversation messages on the top level of a channel thread.",
         "linkedReplyOnly": "Only when replying to a linked conversation",
-        "replyOnly": "Only when replying to a conversation"
+        "linkedReplyOnlyDescription": "Only react when responding to a conversation linked with a Jira issue.",
+        "replyOnly": "Only when replying to a conversation",
+        "replyOnlyDescription": "Only react when replying to a channel thread conversation"
     },
     "templateOverviewScreen": {
         "emailTabname": "Email",
