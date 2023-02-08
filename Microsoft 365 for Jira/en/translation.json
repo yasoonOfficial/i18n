@@ -369,6 +369,7 @@
         "submitButton": "Edit action"
     },
     "createChatScreen": {
+        "heading": "Create Teams chat",
         "chatTitle": "Chat title",
         "chatMessage": "Chat message",
         "chatAccess": "Chat access",
@@ -380,10 +381,12 @@
         "typeToSearch": "Type to search for users"
     },
     "backupTeamsMessagesScreen": {
+        "heading": "Create Teams backup",
         "chatsMessages": "Backup all Teams chats",
         "conversationMessages": "Backup all Teams conversations"
     },
     "createOutlookEventScreen": {
+        "heading": "Create Outlook meeting",
         "meetingSubject": "Meeting subject",
         "meetingLocation": "Meeting location",
         "attendees": "Attendees",
@@ -407,6 +410,7 @@
         "daysLength": "Days"
     },
     "createConversationScreen": {
+        "heading": "Create Teams conversation",
         "issueCard": "Issue card",
         "customMessage": "Custom message",
         "conversationType": "Message type",
@@ -414,6 +418,7 @@
         "channelChooser": "Teams channel"
     },
     "replyTeamsConversationScreen": {
+        "heading": "Reply Teams conversation",
         "conversationMessage": "Conversation message",
         "singleConversation": "Single conversation",
         "specificConversation": "Single conversation",
@@ -755,5 +760,17 @@
         "descriptionText1": "You can use the following data of the trigger wherever smart-values are supported with the",
         "descriptionText2": " annotation.",
         "exampleText": "For example: "
+    },
+    "webhookConfigScreen": {
+        "heading": "Send web request",
+        "urlField": "Webhook URL",
+        "urlFieldPlaceholder": "Will be provided once the action has been created",
+        "methodField": "HTTP method",
+        "postLabel": "POST",
+        "requestBodyField": "Web request body",
+        "formatEmpty": "Empty",
+        "formatAutomation": "Issue data (Automation format)",
+        "formatCustom": "Custom data",
+        "formatJira": "Issue data (Jira format)"
     }
 }
