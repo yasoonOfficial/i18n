@@ -327,24 +327,31 @@
             "teamsTrigger": "by Microsoft Teams",
             "chat-createdTitle": "Teams chat created",
             "chat-createdDescription": "Fired when a chat was created in an issue.",
+            "chat-createdConfigDescription": "Chat settings",
             "chat-createdDescriptionPlaceholder": "This trigger is executed when a chat is created in Teams using the Microsoft 365 for Jira app (...).\nCreated by: {{atlassianUser}}\nUsed in project: (...)",
             "conversation-createdTitle": "Teams conversation created",
             "conversation-createdDescription": "Fired when a conversation was created in an issue.",
+            "conversation-createdConfigDescription": "Conversation settings",
             "conversation-createdDescriptionPlaceholder": "This trigger is executed when a conversation is created in Teams using the Microsoft 365 for Jira app (...).\nCreated by: {{atlassianUser}}\nUsed in project: (...)",
             "teams-backup-createdTitle": "Teams backup created",
             "teams-backup-createdDescription": "Fired when a backup of Teams chat or channel conversations was created.",
+            "teams-backup-createdConfigDescription": "Backup settings",
             "teams-backup-createdDescriptionPlaceholder": "This trigger is executed when a backup is created in Jira (...).\nCreated by: {{atlassianUser}}\nUsed in project: (...)",
             "meeting-createdTitle": "Outlook meeting created",
             "meeting-createdDescription": "Fired when a meeting was created in an issue.",
+            "meeting-createdConfigDescription": "Meeting settings",
             "meeting-createdDescriptionPlaceholder": "This trigger is executed when a Outlook meeting is created in Jira (...).\nCreated by: {{atlassianUser}}\nUsed in project: (...)",
             "teams-channel-regexTitle": "Teams channel message received",
             "teams-channel-regexDescription": "Fired when the Teams bot receives a message with the configured keyword in a channel.",
+            "teams-channel-regexConfigDescription": "Message settings",
             "teams-channel-regexDescriptionPlaceholder": "This trigger is executed when the Teams bot receives a channel message with the keyword (...).\nCreated by: {{atlassianUser}}\nUsed in project: (...)",
             "teams-personal-regexTitle": "Teams bot message received",
             "teams-personal-regexDescription": "Fired when the Teams bot receives a personal message with the configured keyword.",
+            "teams-personal-regexConfigDescription": "Message settings",
             "teams-personal-regexDescriptionPlaceholder": "This trigger is executed when the Teams bot receives a personal message with the keyword (...).\nCreated by: {{atlassianUser}}\nUsed in project: (...)",
             "email-sentTitle": "Email sent",
             "email-sentDescription": "Fired when an email was sent in an issue.",
+            "email-sentConfigDescription": "Email settings",
             "email-sentDescriptionPlaceholder": "This trigger is executed when a email is sent in Jira (...).\nCreated by: {{atlassianUser}}\nUsed in project: (...)"
         },
         "comingSoon": "Coming soon"
@@ -359,8 +366,7 @@
         "titleLabel": "Trigger name",
         "descriptionLabel": "Trigger description",
         "backButton": "Back to overview",
-        "submitButton": "Create trigger",
-        "webhookField": "Webhook URL"
+        "submitButton": "Create trigger"
     },
     "editActionScreen": {
         "titleLabel": "Action name",
@@ -592,20 +598,16 @@
     "chatCreatedConfigScreen": {
         "scopeField": "Scope",
         "projectsField": "Projects",
-        "webhookField": "Webhook URL",
         "global": "Global",
         "projects": "Projects",
-        "projectPickerPlaceholder": "Select one or more projects",
-        "automationLinkButtonTooltip": "Go to Jira Automations to and create a automation rule with a incoming webhook trigger"
+        "projectPickerPlaceholder": "Select one or more projects"
     },
     "conversationCreatedTriggerScreen": {
         "scopeField": "Scope",
         "projectsField": "Projects",
-        "webhookField": "Webhook URL",
         "global": "Global",
         "projects": "Projects",
-        "projectPickerPlaceholder": "Select one or more projects",
-        "automationLinkButtonTooltip": "Go to Jira Automations to and create a automation rule with a incoming webhook trigger"
+        "projectPickerPlaceholder": "Select one or more projects"
     },
     "channelRegexConfigScreen": {
         "regexField": "Message pattern",
@@ -613,13 +615,17 @@
         "limitToChannel": "Limit to channel",
         "additionalSectionMessage": "The selected message type might not provide issues in the webhook body."
     },
-    "incomingWebhookConfigSectionMessage": {
-        "title": "Incoming webhook configuration in Jira automation",
-        "description": "To ensure that the trigger works correctly, please make sure that the 'Incoming webhook' trigger is configured as shown below.",
+    "incomingWebhookConfigScreen": {
+        "descriptionHeading": "Jira Automation \"Incoming webhook\" configuration",
+        "heading": "Incoming webhook",
+        "urlField": "Webhook URL",
+        "urlFieldPlaceholder": "Insert the url provided by the \"Incoming webhook\" trigger.",
+        "lineText": "<Your existing Jira automation rule>",
         "jiraConfigTitle": "Execute this automation rule with:",
         "jiraProvidedOption": "Issues provided in the webhook HTTP POST body",
         "jiraJQLOption": "Issues provided by running the following JQL search",
-        "jiraNoIssuesOption": "No issues from the webhook"
+        "jiraNoIssuesOption": "No issues from the webhook",
+        "automationLinkButtonTooltip": "Go to Jira Automations to and create a automation rule with a \"Incoming webhook\" trigger"
     },
     "personalRegexConfigScreen": {
         "regexField": "Message pattern"
