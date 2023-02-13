@@ -762,6 +762,8 @@
         "exampleText": "For example: "
     },
     "webhookConfigScreen": {
+        "descriptionHeading": "Jira Automation \"Send webrequest\" config",
+        "lineText": "<Your existing Jira automation rule>",
         "heading": "Send web request",
         "urlField": "Webhook URL",
         "urlFieldPlaceholder": "Will be provided once the action has been created",
