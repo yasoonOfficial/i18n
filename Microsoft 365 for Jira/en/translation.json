@@ -596,6 +596,7 @@
         "globalOption": "Global"
     },
     "chatCreatedConfigScreen": {
+        "heading": "Teams chat created",
         "scopeField": "Scope",
         "projectsField": "Projects",
         "global": "Global",
@@ -603,6 +604,7 @@
         "projectPickerPlaceholder": "Select one or more projects"
     },
     "conversationCreatedTriggerScreen": {
+        "heading": "Teams conversation created",
         "scopeField": "Scope",
         "projectsField": "Projects",
         "global": "Global",
@@ -610,10 +612,15 @@
         "projectPickerPlaceholder": "Select one or more projects"
     },
     "channelRegexConfigScreen": {
+        "heading": "Teams channel message received",
         "regexField": "Message pattern",
         "messageTypeField": "Message type",
         "limitToChannel": "Limit to channel",
         "additionalSectionMessage": "The selected message type might not provide issues in the webhook body."
+    },
+    "personalRegexConfigScreen": {
+        "heading": "Teams bot message received",
+        "regexField": "Message pattern"
     },
     "incomingWebhookConfigScreen": {
         "descriptionHeading": "Jira Automation \"Incoming webhook\" configuration",
@@ -626,9 +633,6 @@
         "jiraJQLOption": "Issues provided by running the following JQL search",
         "jiraNoIssuesOption": "No issues from the webhook",
         "automationLinkButtonTooltip": "Go to Jira Automations to and create a automation rule with a \"Incoming webhook\" trigger"
-    },
-    "personalRegexConfigScreen": {
-        "regexField": "Message pattern"
     },
     "channelMessageTypes": {
         "all": "All messages",
