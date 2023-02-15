@@ -35,7 +35,8 @@
     "welcomeChooseInfo": "Willkommen! Du kannst eine Anfrage in {{serviceDeskName}} stellen, in dem Du eine der Optionen auswählst.",
     "createTicket": {
         "typeChooserLabel": "Wobei können wir helfen?",
-        "submitSuccess": "Deine Supportanfrage {{issueKey}} wurde übermittelt."
+        "submitSuccess": "Deine Supportanfrage {{issueKey}} wurde übermittelt.",
+        "selectLabel": "Labels auswählen"
     },
     "fieldErrorBoundary": {
         "errorMessage": "Komponente fehlerhaft.",

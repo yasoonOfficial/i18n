@@ -35,7 +35,8 @@
     "welcomeChooseInfo": "Welcome! Raise a service request for {{serviceDeskName}} from the options provided.",
     "createTicket": {
         "typeChooserLabel": "What can we help you with?",
-        "submitSuccess": "Your request {{issueKey}} has been submitted."
+        "submitSuccess": "Your request {{issueKey}} has been submitted.",
+        "selectLabel": "Select labels"
     },
     "fieldErrorBoundary": {
         "errorMessage": "This field has crashed.",

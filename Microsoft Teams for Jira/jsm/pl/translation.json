@@ -35,7 +35,8 @@
     "welcomeChooseInfo": "Witamy! Wyślij zgłoszenie serwisowe dla {{serviceDeskName}} korzystając z dostępnych opcji.",
     "createTicket": {
         "typeChooserLabel": "W czym możemy Ci pomóc?",
-        "submitSuccess": "Twój wniosek {{issueKey}} został złożony."
+        "submitSuccess": "Twój wniosek {{issueKey}} został złożony.",
+        "selectLabel": "Wybierz etykiety"
     },
     "fieldErrorBoundary": {
         "errorMessage": "To pole uległo awarii.",
