@@ -253,7 +253,7 @@
         "noChannelSelectOptionsHelp": "Can't find your channel?",
         "viewChatParticipants": "View chat participants or add users",
         "createCustomerOnDemand": "Create portal customers on demand",
-        "createCustomerOnDemandHelpText": "With this option, a JSM portal customer is automatically created as soon as a user uses the portal app in Teams and if they don't already have one. This is commonly used in public service desks.",
+        "createCustomerOnDemandHelpText": "With this option, a JSM portal customer is automatically created as soon as a user uses the portal app in Teams and if they don't already have one. This is commonly used in public service desks. Customers created this way will be automatically added to all configured service desks.",
         "cardDesignerHeader": "Customize cards posted by Smart Connect",
         "cardDesignerInfo1": "You can use the Card Designer to customize the way adaptive cards posted by the Smart Connect bot appear in your teams chats. To get started, select an issue below to fill the Designer with data.",
         "cardDesignerInfo2": "To preview your custom card, click on the 'Preview mode' button within the Designer.",

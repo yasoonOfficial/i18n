@@ -253,7 +253,7 @@
         "noChannelSelectOptionsHelp": "Kanal nicht gefunden?",
         "viewChatParticipants": "Teilnehmer des Chats einsehen oder hinzufügen",
         "createCustomerOnDemand": "Portalkunden automatisch anlegen",
-        "createCustomerOnDemandHelpText": "Mit dieser Option wird automatisch ein JSM-Portalkunde angelegt, sobald ein Benutzer die Portal-App in Teams verwendet und wenn er noch keinen hat. Dies wird häufig bei öffentlichen Servicedesks verwendet.",
+        "createCustomerOnDemandHelpText": "Mit dieser Option wird automatisch ein JSM-Portalkunde angelegt, sobald ein Benutzer die Portal-App in Teams verwendet und wenn er noch keinen hat. Dies wird häufig bei öffentlichen Servicedesks verwendet. Portalkunden die über diesen Weg angelegt werden, werden automatisch zu allen konfigurierten Servicedesks hinzugefügt.",
         "cardDesignerHeader": "Inhalte gepostet von Smart Connect personalisieren",
         "cardDesignerInfo1": "Mit dem Card Designer kann ein Custom Adaptive Card Template erstellt werden. Dises Template beinflusst das Erscheinungsbild der Cards, die von 'Smart Connect' gepostet werden. Wähle einen Vorgang aus, um den Designer mit Beispieldaten zu füllen",
         "cardDesignerInfo2": "Um eine Vorschau des Custom Templates zu sehen, klicke auf den 'Preview mode' button im Header des Designers.",
