@@ -623,16 +623,17 @@
         "regexField": "Message pattern"
     },
     "incomingWebhookConfigScreen": {
-        "descriptionHeading": "Jira Automation \"Incoming webhook\" configuration",
+        "descriptionHeading": "Jira Automation “Incoming webhook” configuration",
+        "description": "Please configure a “Incoming webhook” action in Jira automation, matching the configuration below.",
         "heading": "Incoming webhook",
         "urlField": "Webhook URL",
-        "urlFieldPlaceholder": "Insert the url provided by the \"Incoming webhook\" trigger.",
+        "urlFieldPlaceholder": "Insert the url provided by the “Incoming webhook” trigger.",
         "lineText": "<Your existing Jira automation rule>",
         "jiraConfigTitle": "Execute this automation rule with:",
         "jiraProvidedOption": "Issues provided in the webhook HTTP POST body",
         "jiraJQLOption": "Issues provided by running the following JQL search",
         "jiraNoIssuesOption": "No issues from the webhook",
-        "automationLinkButtonTooltip": "Go to Jira Automations to and create a automation rule with a \"Incoming webhook\" trigger"
+        "automationLinkButtonTooltip": "Go to Jira Automations to and create a automation rule with a “Incoming webhook” trigger"
     },
     "channelMessageTypes": {
         "all": "All messages",
@@ -772,11 +773,11 @@
         "exampleText": "For example: "
     },
     "webhookConfigScreen": {
-        "descriptionHeading": "Jira Automation \"Send webrequest\" config",
+        "descriptionHeading": "Jira Automation “Send webrequest” config",
+        "description": "Please configure a “Send web request” action in Jira automation, matching the configuration below.",
         "lineText": "<Your existing Jira automation rule>",
         "heading": "Send web request",
         "urlField": "Webhook URL",
-        "urlFieldPlaceholder": "Will be provided once the action has been created",
         "methodField": "HTTP method",
         "postLabel": "POST",
         "requestBodyField": "Web request body",
