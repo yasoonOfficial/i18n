@@ -432,6 +432,7 @@
         "conversationType": "Conversation type"
     },
     "createSendBotMessageScreen": {
+        "heading": "Send bot message",
         "botMessageLabel": "Bot message",
         "usersLabel": "Users",
         "usersPlaceholder": "Choose message recipients"
