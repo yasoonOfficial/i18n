@@ -382,6 +382,7 @@
         "chatMember": "Chat member",
         "chatMembersPlaceholder": "Choose chat members",
         "chatCreator": "Chat creator",
+        "chatCreatorDescription": "For security and impersonation reasons, you can currently only select static users as chat creators. We recommend you to create a sevice user and add it to the chat.",
         "placeholder": "Choose the chat creator",
         "noOptions": "No options",
         "typeToSearch": "Type to search for users"
@@ -506,13 +507,13 @@
     },
     "actionSuccess": {
         "header": "Action created",
-        "descriptionAuthRequired": "The action with the name {{name}} has been created successfully. You can already copy the webhook url to the Jira Automation. Please note that the action needs to be authorized by the desired Microsoft user (this might be the administrator).",
-        "description": "The action with the name {{name}} has been created successfully. You can already use the webhook url in the Jira Automation.",
+        "descriptionAuthRequired1": "The action with the name {{name}} has been created successfully.",
+        "descriptionAuthRequired2": "Please note that the action needs to be authorized by the desired Microsoft user (this might be the administrator).",
+        "descriptionAuthRequired3": "Use the following “Send web request” URL in Jira Automation",
         "authorizeButton": "Authorize action",
         "authorizeLaterButton": "Authorize later",
         "learnMore": "Learn more",
-        "error": "Something went wrong, please try again.",
-        "continueButton": "Go to overview"
+        "error": "Something went wrong, please try again."
     },
     "actorLogin": {
         "header": "Authorize action",
