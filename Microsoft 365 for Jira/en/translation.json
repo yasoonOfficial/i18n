@@ -376,19 +376,21 @@
     },
     "createChatScreen": {
         "heading": "Create Teams chat",
+        "description": "Please provide the details for the new chat. It will be automatically linked to the issue from the Automation rule.",
         "chatTitle": "Chat title",
         "chatMessage": "Chat message",
         "chatAccess": "Chat access",
         "chatMember": "Chat member",
         "chatMembersPlaceholder": "Choose chat members",
         "chatCreator": "Chat creator",
-        "chatCreatorDescription": "For security and impersonation reasons, you can currently only select static users as chat creators. We recommend you to create a sevice user and add it to the chat.",
+        "chatCreatorDescription": "For security reasons, you can currently only select and authorize a single user as chat creator. This user will also be part of the chat. We recommend you to create a service user until we support dynamic user selection.",
         "placeholder": "Choose the chat creator",
         "noOptions": "No options",
         "typeToSearch": "Type to search for users"
     },
     "backupTeamsMessagesScreen": {
         "heading": "Create Teams backup",
+        "description": "Currently it is only supported to backup Teams chats, conversation support will follow soon.",
         "chatsMessages": "Backup all Teams chats",
         "conversationMessages": "Backup all Teams conversations"
     },
@@ -418,14 +420,18 @@
     },
     "createConversationScreen": {
         "heading": "Create Teams conversation",
+        "description": "Please provide the details for the new channel conversation. It will be posted by the selected bot and, if provided, linked to the issue from the Automation rule.",
         "issueCard": "Issue card",
         "customMessage": "Custom message",
         "conversationType": "Message type",
         "conversationMessage": "Conversation message",
-        "channelChooser": "Teams channel"
+        "channelChooser": "Teams channel",
+        "smartConnectLabel": "Smart Connect for Jira",
+        "botChooser": "Teams bot"
     },
     "replyTeamsConversationScreen": {
         "heading": "Reply Teams conversation",
+        "description": "Please provide the details for the conversation reply. Our documentation will help you to choose the correct settings.",
         "conversationMessage": "Conversation message",
         "singleConversation": "Single conversation",
         "specificConversation": "Single conversation",
@@ -434,6 +440,7 @@
     },
     "createSendBotMessageScreen": {
         "heading": "Send bot message",
+        "description": "Please provide the details for bot message. Please note that the users need to have the bot installed.",
         "botMessageLabel": "Bot message",
         "usersLabel": "Users",
         "usersPlaceholder": "Choose message recipients"
@@ -599,30 +606,34 @@
     },
     "chatCreatedConfigScreen": {
         "heading": "Teams chat created",
+        "description": "Please choose if the trigger should only execute for chats created in specified projects or globally.",
         "scopeField": "Scope",
         "projectsField": "Projects",
         "global": "Global",
-        "projects": "Projects",
+        "projects": "By Projects",
         "projectPickerPlaceholder": "Select one or more projects"
     },
     "conversationCreatedTriggerScreen": {
         "heading": "Teams conversation created",
+        "description": "Please choose if the trigger should only execute for channel conversation created in specified projects or globally.",
         "scopeField": "Scope",
         "projectsField": "Projects",
         "global": "Global",
-        "projects": "Projects",
+        "projects": "By Projects",
         "projectPickerPlaceholder": "Select one or more projects"
     },
     "channelRegexConfigScreen": {
         "heading": "Teams channel message received",
-        "regexField": "Message pattern",
+        "description": "Please choose for what kind of messages the trigger should execute.",
+        "regexField": "Message pattern (regular expression)",
         "messageTypeField": "Message type",
-        "limitToChannel": "Limit to channel",
+        "limitToChannel": "Limit to channels",
         "additionalSectionMessage": "The selected message type might not provide issues in the webhook body."
     },
     "personalRegexConfigScreen": {
         "heading": "Teams bot message received",
-        "regexField": "Message pattern"
+        "description": "Please choose for what message pattern the trigger should execute.",
+        "regexField": "Message pattern (regular expression)"
     },
     "incomingWebhookConfigScreen": {
         "descriptionHeading": "Jira Automation “Incoming webhook” configuration",
@@ -635,17 +646,18 @@
         "jiraProvidedOption": "Issues provided in the webhook HTTP POST body",
         "jiraJQLOption": "Issues provided by running the following JQL search",
         "jiraNoIssuesOption": "No issues from the webhook",
-        "automationLinkButtonTooltip": "Go to Jira Automations to and create a automation rule with a “Incoming webhook” trigger"
+        "automationLinkButtonTooltip": "Go to Jira Automations to and create a automation rule with a “Incoming webhook” trigger",
+        "webhookDataConfigTooltip": "Please configure “Incoming webhook” trigger in Jira as shown here."
     },
     "channelMessageTypes": {
         "all": "All messages",
-        "allDescription": "React to all message types in a Teams channel",
-        "topLevelOnly": "Only top level conversation messages",
-        "topLevelOnlyDescription": "Only react to conversation messages on the top level of a channel thread.",
-        "linkedReplyOnly": "Only when replying to a linked conversation",
-        "linkedReplyOnlyDescription": "Only react when responding to a conversation linked with a Jira issue.",
-        "replyOnly": "Only when replying to a conversation",
-        "replyOnlyDescription": "Only react when replying to a channel thread conversation"
+        "allDescription": "Trigger on all messages posted in a Teams channel",
+        "topLevelOnly": "New channel conversation",
+        "topLevelOnlyDescription": "Trigger when a new channel message (top-level) is posted in Teams.",
+        "linkedReplyOnly": "Replies to an issue conversation",
+        "linkedReplyOnlyDescription": "Trigger when a response is posted to a conversation linked to an issue.",
+        "replyOnly": "Only reply messages",
+        "replyOnlyDescription": "Trigger on all replies to conversations"
     },
     "templateOverviewScreen": {
         "emailTabname": "Email",
