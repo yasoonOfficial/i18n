@@ -96,7 +96,8 @@
         "userFieldLoading": "Loading users ...",
         "userFieldPlaceholder": "Select a user",
         "userFieldNoResults": "We couldn't find a matching user.",
-        "issueFieldPreFilledTooltip": "This issue was selected based on issues already linked to this conversation."
+        "issueFieldPreFilledTooltip": "This issue was selected based on issues already linked to this conversation.",
+        "assignToMe": "Assign to me"
     },
     "teams": {
         "loadingIssues": "Loading issues ...",
