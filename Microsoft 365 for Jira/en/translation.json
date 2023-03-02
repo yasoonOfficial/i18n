@@ -429,8 +429,11 @@
         "conversationType": "Message type",
         "conversationMessage": "Conversation message",
         "channelChooser": "Teams channel",
-        "smartConnectLabel": "Smart Connect for Jira",
+        "channelChooserTooltip": "Please select the desired Teams channel. Note that only Teams channels can be selected, in which the selected bot is installed.",
         "botChooser": "Teams bot"
+    },
+    "botField": {
+        "smartConnectLabel": "Smart Connect for Jira"
     },
     "replyTeamsConversationScreen": {
         "heading": "Reply Teams conversation",
@@ -439,14 +442,16 @@
         "singleConversation": "Single conversation",
         "specificConversation": "Single conversation",
         "linkedConversations": "All linked conversations",
-        "conversationType": "Conversation type"
+        "conversationType": "Conversation type",
+        "requiresCustomWebbhookData": "Please choose custom data for the web request body, if you wan't to reply to a specific conversation."
     },
     "createSendBotMessageScreen": {
         "heading": "Send bot message",
         "description": "Please provide the details for bot message. Please note that the users need to have the bot installed.",
         "botMessageLabel": "Bot message",
         "usersLabel": "Users",
-        "usersPlaceholder": "Choose message recipients"
+        "usersPlaceholder": "Choose message recipients",
+        "botChooser": "Teams bot"
     },
     "auditLogScreen": {
         "action": {
@@ -629,14 +634,18 @@
         "heading": "Teams channel message received",
         "description": "Please choose for what kind of messages the trigger should execute.",
         "regexField": "Message pattern (regular expression)",
+        "botField": "Teams bot",
         "messageTypeField": "Message type",
         "limitToChannel": "Limit to channels",
-        "additionalSectionMessage": "The selected message type might not provide issues in the webhook body."
+        "additionalSectionMessage": "The selected message type might not provide issues in the webhook body.",
+        "channelSelectLabel": "+ Teams channel",
+        "regexHelpButtonTooltip": "We use regular expressions to find a matching message in the Teams channel. You can test your expression here."
     },
     "personalRegexConfigScreen": {
         "heading": "Teams bot message received",
         "description": "Please choose for what message pattern the trigger should execute.",
-        "regexField": "Message pattern (regular expression)"
+        "regexField": "Message pattern (regular expression)",
+        "regexHelpButtonTooltip": "We use regular expressions to find a matching message in Teams. You can test your expression here."
     },
     "incomingWebhookConfigScreen": {
         "descriptionHeading": "Jira Automation “Incoming webhook” configuration",
@@ -659,7 +668,7 @@
         "topLevelOnlyDescription": "Trigger when a new channel message (top-level) is posted in Teams.",
         "linkedReplyOnly": "Replies to an issue conversation",
         "linkedReplyOnlyDescription": "Trigger when a response is posted to a conversation linked to an issue.",
-        "replyOnly": "Only reply messages",
+        "replyOnly": "All reply messages",
         "replyOnlyDescription": "Trigger on all replies to conversations"
     },
     "templateOverviewScreen": {
@@ -801,6 +810,14 @@
         "formatEmpty": "Empty",
         "formatAutomation": "Issue data (Automation format)",
         "formatCustom": "Custom data",
-        "formatJira": "Issue data (Jira format)"
+        "formatJira": "Issue data (Jira format)",
+        "channelRelpyCustomDataText": "Please provide details the channel message you wan't to reply to in the following format",
+        "customDataText": "Please provide details to the Jira issue in the following format. You can choose between a single issue (issueId) or mutliple issues (issueIds)."
+    },
+    "messagePatternHelper": {
+        "text": "Example",
+        "allMessages": "all messages",
+        "emoji": "🚀",
+        "keyword": "#keyword"
     }
 }
