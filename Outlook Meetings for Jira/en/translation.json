@@ -126,7 +126,8 @@
         "templatesTabLabel": "Templates",
         "advancedSettingsTabLabel": "Advanced settings",
         "sectionMoved": "This page has been moved to its own navigation section. You can now configure your templates in a more comfortable and flexible way.",
-        "sectionMovedLinkLabel": "Learn more"
+        "sectionMovedLinkLabel": "Learn more",
+        "gotoTemplatesLinkLabel": "Go to new section"
     },
     "availabilityOverviewWebPanel": {
         "licenseExpiredWarning": "Your license is expired",

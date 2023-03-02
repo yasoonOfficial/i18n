@@ -126,7 +126,8 @@
         "templatesTabLabel": "Vorlagen",
         "advancedSettingsTabLabel": "Erweiterte Einstellungen",
         "sectionMoved": "Diese Seite wurde zu einem eigenen Navigationseintrag umgezogen. Du kannst jetzt deine Vorlagen einfacher und flexibler konfigurieren.",
-        "sectionMovedLinkLabel": "Mehr erfahren"
+        "sectionMovedLinkLabel": "Mehr erfahren",
+        "gotoTemplatesLinkLabel": "Zum neuen Ort"
     },
     "availabilityOverviewWebPanel": {
         "licenseExpiredWarning": "Die Lizenz ist abgelaufen",

@@ -399,7 +399,8 @@
     },
     "templatesTab": {
         "sectionMoved": "This page has been moved to its own navigation section. You can now configure your templates in a more comfortable and flexible way.",
-        "sectionMovedLinkLabel": "Learn more"
+        "sectionMovedLinkLabel": "Learn more",
+        "gotoTemplatesLinkLabel": "Go to new section"
     },
     "systemMessages": {
         "chatRenamedEvent": "{{initiator}} changed the group name to {{chatName}}.",

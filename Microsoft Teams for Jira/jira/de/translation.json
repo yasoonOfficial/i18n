@@ -399,7 +399,8 @@
     },
     "templatesTab": {
         "sectionMoved": "Diese Seite wurde zu einem eigenen Navigationseintrag umgezogen. Du kannst jetzt deine Vorlagen einfacher und flexibler konfigurieren.",
-        "sectionMovedLinkLabel": "Mehr erfahren"
+        "sectionMovedLinkLabel": "Mehr erfahren",
+        "gotoTemplatesLinkLabel": "Zum neuen Ort"
     },
     "systemMessages": {
         "chatRenamedEvent": "{{initiator}} hat den Gruppennamen zu {{chatName}} geändert.",
