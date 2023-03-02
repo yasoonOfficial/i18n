@@ -1,0 +1,11 @@
+{
+    "calendar.personalCalendar": "Calendrier personnel",
+    "calendar.spaceCalendar": "Calendrier d’espace",
+    "calendar.calendarConfiguration": "Configuration des calendriers",
+    "calendar.configureOutlookCalendars": "Configuration des calendriers Outlook",
+    "calendar.outlookCalendar": "Calendrier Outlook",
+    "calendar.pageCalendarSettings": "Paramètres du calendrier des pages",
+    "calendar.outlookCalendars": "Outlook Calendars",
+    "calendar.addMacroDescription": "Ajoute un calendrier Outlook configurable pour afficher les calendriers Office et Jira dans la page actuelle.",
+    "calendar.addMacroDescriptionOld": "Veuillez ne plus l'utiliser. Utilise la nouvelle macro de calendrier."
+}

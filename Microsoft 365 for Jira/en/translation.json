@@ -19,6 +19,8 @@
         "headingDescription": "Choose which features of Microsoft 365 for Jira should be active.",
         "projectsSubHeading": "Project-specific features",
         "globalSubHeading": "Defaults for all Jira projects",
+        "disabledTooltip": "Changing this setting is only possible in Microsoft 365 for Jira.",
+        "projectVisibilityToggleDisabledTooltip": "Changing this setting is only possible in Microsoft 365 for Jira.",
         "projectsDescription": "Choose which features should be active or disabled in the specific project.",
         "globalDescription": "Enable features across all projects. Specific projects can be customized below."
     },
@@ -354,6 +356,7 @@
             "email-sentConfigDescription": "Email settings",
             "email-sentDescriptionPlaceholder": "This trigger is executed when a email is sent in Jira (...).\nCreated by: {{atlassianUser}}\nUsed in project: (...)"
         },
+        "M365Only": "Microsoft 365 for Jira only",
         "comingSoon": "Coming soon"
     },
     "createActionScreen": {
