@@ -1,4 +1,8 @@
 {
+    "errorMessages": {
+        "authenticationErrorTitle": "Refresh page",
+        "authenticationErrorBody": "Connection with Microsoft 365 has been lost and data might be outdated. Please refresh the page."
+    },
     "availabilitiesConfiguration": {
         "userRoleColumnLabel": "Issue field / user role",
         "isMandatoryColumnLabel": "Is mandatory",

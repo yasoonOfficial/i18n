@@ -1,4 +1,8 @@
 {
+    "errorMessages": {
+        "authenticationErrorTitle": "Seite neu laden",
+        "authenticationErrorBody": "Die Verbindung zu Microsoft 365 wurde unterbrochen und die Daten sind möglicherweise veraltet. Lade die Seite neu."
+    },
     "availabilitiesConfiguration": {
         "userRoleColumnLabel": "Vorgangsfeld / Benutzerrolle",
         "isMandatoryColumnLabel": "Ist verpflichtend",
