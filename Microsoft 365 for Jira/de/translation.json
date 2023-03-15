@@ -125,7 +125,7 @@
     },
     "gettingStarted": {
         "intro1": "Hi Admin!",
-        "intro2": "Hier ist Microsoft 365 for Jira",
+        "intro2": "Hier ist ",
         "intro3": "Verbinde Jira mit deinen Microsoft 365-Tools für eine nahtlose Teamarbeit. Aktiviere unten die benötigte Funktionalität.",
         "teamsInfo": "Verknüpfe deine Microsoft Teams Konversationen und Chats mit deinen Jira Vorgängen. Oder verwendest du Jira Service Management? Dann ermögliche deinen Kunden Support Vorgänge direkt in Microsoft Teams zu erstellen.",
         "emailInfo": "Erstelle und bearbeite Jira Vorgängen aus deinem Outlook Postfach und bringe Jira Vorgängen in den Jira Kontext. Verfolge gesamte Email Konversationen aus Jira und teile, lese oder sende Emails direkt aus Jira.",

@@ -105,7 +105,7 @@
         "inputPlaceholder": "Search projects",
         "activatedProjects": "Activated projects",
         "outro1": "Well done!",
-        "outro2": "Enjoy using Microsoft 365 for Jira."
+        "outro2": "Enjoy using the app."
     },
     "help": {
         "documentationHeadline": "Documentation",
@@ -125,7 +125,7 @@
     },
     "gettingStarted": {
         "intro1": "Hi Admin!",
-        "intro2": "This is Microsoft 365 for Jira",
+        "intro2": "This is ",
         "intro3": "Connect Jira with your Microsoft 365 tools for seamless teamwork. Enable the functionality you need below.",
         "teamsInfo": "Connect your Microsoft Teams conversations and chat to your Jira issues. Using Jira Service Management? Let customers create support tickets in Microsoft Teams.",
         "emailInfo": "Create and update issues from your Outlook inbox and put emails in a Jira context. See whole email conversations in Jira and share, read or send emails right away.",
