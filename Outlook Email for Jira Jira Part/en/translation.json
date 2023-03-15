@@ -39,7 +39,7 @@
         "description": "The app provides two different types of Outlook add-ins based on different technologies and requirements. To use Jira functionality in Outlook, you'll need to install one of the following add-ins in your Outlook.",
         "helpMeChoose": "Help me choose",
         "featureComparison": "Feature comparison",
-        "dialogheading": "Check add-in compatibility",
+        "dialogHeading": "Check add-in compatibility",
         "dialogDescription": "Please choose your environment to determine the most fitting Outlook add-in version."
     },
     "standardAddin": {
