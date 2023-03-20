@@ -433,7 +433,9 @@
         "botChooser": "Teams bot"
     },
     "botField": {
-        "smartConnectLabel": "Smart Connect for Jira"
+        "smartConnectLabel": "Smart Connect for Jira",
+        "botPlaceholder": "Choose bot",
+        "comingSoon": "Coming soon"
     },
     "replyTeamsConversationScreen": {
         "heading": "Reply Teams conversation",
