@@ -641,13 +641,15 @@
         "limitToChannel": "Limit to channels",
         "additionalSectionMessage": "The selected message type might not provide issues in the webhook body.",
         "channelSelectLabel": "+ Teams channel",
-        "regexHelpButtonTooltip": "We use regular expressions to find a matching message in the Teams channel. You can test your expression here."
+        "regexFieldTooltip": "We use regular expressions to find a matching message in the Teams channel.",
+        "regexHelpButtonTooltip": "You can test your regular expression by clicking the 'Play' button."
     },
     "personalRegexConfigScreen": {
         "heading": "Teams bot message received",
         "description": "Please choose for what message pattern the trigger should execute.",
         "regexField": "Message pattern (regular expression)",
-        "regexHelpButtonTooltip": "We use regular expressions to find a matching message in Teams. You can test your expression here."
+        "regexFieldTooltip": "We use regular expressions to find a matching message in Teams.",
+        "regexHelpButtonTooltip": "You can test your regular expression by clicking the 'Play' button."
     },
     "incomingWebhookConfigScreen": {
         "descriptionHeading": "Jira Automation “Incoming webhook” configuration",
@@ -817,9 +819,9 @@
         "customDataText": "Please provide details to the Jira issue in the following format. You can choose between a single issue (issueId) or mutliple issues (issueIds)."
     },
     "messagePatternHelper": {
-        "text": "Example",
-        "allMessages": "all messages",
+        "text": "Examples:",
+        "allMessages": "all messages,",
         "emoji": "🚀",
-        "keyword": "#keyword"
+        "keyword": "#keyword,"
     }
 }
