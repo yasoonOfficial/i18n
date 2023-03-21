@@ -815,7 +815,8 @@
         "formatCustom": "Custom data",
         "formatJira": "Issue data (Jira format)",
         "channelRelpyCustomDataText": "Please provide details the channel message you wan't to reply to in the following format",
-        "customDataText": "Please provide details to the Jira issue in the following format. You can choose between a single issue (issueId) or mutliple issues (issueIds)."
+        "customDataText": "Please provide details to the Jira issue in the following format. You can choose between a single issue (issueId) or mutliple issues (issueIds).",
+        "specificReplyExample": "To get the required message details, use one of the following yasoon triggers: 'Teams conversation created' or 'Teams channel message recived'. And access the data using the following syntax:"
     },
     "messagePatternHelper": {
         "text": "Examples:",
