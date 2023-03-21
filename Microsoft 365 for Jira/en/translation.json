@@ -266,8 +266,7 @@
         "deleteActionWarning": "Please make sure this action is not used in any Jira automation, as these will not work anymore.",
         "copyButton": "Copy webhook url",
         "authorizeButton": "Authorize",
-        "emptyStateHeading": "You haven't configured any actions yet.",
-        "emptyStateDescription": "You haven't configured any actions yet.",
+        "emptyStateHeading": "You haven't configured any actions yet",
         "learnMore": "Learn more"
     },
     "triggerScreen": {
@@ -280,8 +279,7 @@
         "enabledHeader": "Enabled",
         "createButton": "Create trigger",
         "deleteButton": "Delete trigger",
-        "emptyStateHeading": "You haven't configured any triggers yet.",
-        "emptyStateDescription": "You haven't configured any triggers yet.",
+        "emptyStateHeading": "You haven't configured any triggers yet",
         "learnMore": "Learn more"
     },
     "templateScreen": {
@@ -645,8 +643,9 @@
         "regexHelpButtonTooltip": "You can test your regular expression by clicking the 'Play' button."
     },
     "personalRegexConfigScreen": {
-        "heading": "Teams bot message received",
+        "heading": "Personal Teams bot message received",
         "description": "Please choose for what message pattern the trigger should execute.",
+        "botField": "Teams bot",
         "regexField": "Message pattern (regular expression)",
         "regexFieldTooltip": "We use regular expressions to find a matching message in Teams.",
         "regexHelpButtonTooltip": "You can test your regular expression by clicking the 'Play' button."
