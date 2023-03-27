@@ -453,6 +453,34 @@
         "usersPlaceholder": "Choose message recipients",
         "botChooser": "Teams bot"
     },
+    "sendEmailScreen": {
+        "heading": "Send email",
+        "description": "Please provide the details for the email. Our documentation will help you to choose the correct settings.",
+        "fromLabel": "From",
+        "fromPlaceholder": "Choose sender",
+        "fromDescription": "The sender of the email, please make sure that the sender is verified in your Microsoft 365 tenant. For security reasons, you can currently only select and authorize a single user as the sender of the mail.",
+        "typeToSearch": "Type to search for users",
+        "noOptions": "No options",
+        "subjectLabel": "Subject",
+        "toLabel": "To",
+        "toPlaceholder": "Choose recipients",
+        "ccLabel": "Cc",
+        "ccPlaceholder": "Choose cc recipients",
+        "bccLabel": "Bcc",
+        "bccPlaceholder": "Choose bcc recipients",
+        "bodyLabel": "Email",
+        "mailSharingLabel": "Mail access"
+    },
+    "mailSharingChooser": {
+        "privateLabel": "Private",
+        "azureTenantLabel": "Organization",
+        "atlassianCloudLabel": "Issue access",
+        "privateDescription": "Only I can see this conversation",
+        "azureTenantDescription": "Every user in my organization can see this conversation",
+        "atlassianCloudDescription": "Every user with access to this issue can see this conversation",
+        "sectionTitle": "Choose who should be able to see this conversation",
+        "triggerTooltip": "Choose who should be able to see this conversation"
+    },
     "auditLogScreen": {
         "action": {
             "typeHeader": "Action type",
