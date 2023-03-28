@@ -469,7 +469,9 @@
         "bccLabel": "Bcc",
         "bccPlaceholder": "Choose bcc recipients",
         "bodyLabel": "Email",
-        "mailSharingLabel": "Mail access"
+        "mailSharingLabel": "Mail access",
+        "triggerTooltip": "Choose who should be able to see this conversation",
+        "disabledTriggerTooltip": "You can't share this mail to an issue, when the action is not running in an issue context."
     },
     "mailSharingChooser": {
         "privateLabel": "Private",
@@ -478,8 +480,7 @@
         "privateDescription": "Only I can see this conversation",
         "azureTenantDescription": "Every user in my organization can see this conversation",
         "atlassianCloudDescription": "Every user with access to this issue can see this conversation",
-        "sectionTitle": "Choose who should be able to see this conversation",
-        "triggerTooltip": "Choose who should be able to see this conversation"
+        "sectionTitle": "Choose who should be able to see this conversation"
     },
     "auditLogScreen": {
         "action": {
@@ -571,11 +572,7 @@
     },
     "actionName": {
         "create-chat": "Create Teams chat",
-        "create-conversation": "Create Teams conversation",
-        "reply-conversations": "Reply to Teams conversation",
-        "create-teams-backup": "Create Teams backup",
-        "create-meeting": "Create Outlook meeting",
-        "send-bot-message": "Send bot message to Teams channel"
+        "send-email": "Send email"
     },
     "automationPageHeading": "Automation",
     "multipleRundSettings": {
@@ -652,6 +649,15 @@
     "conversationCreatedTriggerScreen": {
         "heading": "Teams conversation created",
         "description": "Please choose if the trigger should only execute for channel conversation created in specified projects or globally.",
+        "scopeField": "Scope",
+        "projectsField": "Projects",
+        "global": "Global",
+        "projects": "By Projects",
+        "projectPickerPlaceholder": "Select one or more projects"
+    },
+    "emailSentConfigScreen": {
+        "heading": "Email sent",
+        "description": "Please choose if the trigger should only execute for emails sent in specified projects or globally.",
         "scopeField": "Scope",
         "projectsField": "Projects",
         "global": "Global",
