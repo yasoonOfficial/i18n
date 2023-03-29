@@ -1,0 +1,86 @@
+{
+    "general": {
+        "create": "Crea",
+        "cancel": "Cancella",
+        "remove": "Togli",
+        "browse": "Sfogli",
+        "loadMore": "Carica di più",
+        "learnMore": "Saperne di più",
+        "showMore": "Mostra di più",
+        "showFewer": "Mostra meno",
+        "decline": "Rifiuta",
+        "approve": "Approva",
+        "loading": "Sta caricando ...",
+        "selectOption": "Scegli un'opzione",
+        "share": "Condividi",
+        "Add": "Aggiungi"
+    },
+    "error": {
+        "microsoftLogin": "Microsoft login fallito. Ricaricare per favore.",
+        "createIssue": "Segnalazione non è riuscito creare, controllare i campi per favore!",
+        "fileUpload": "Upload fallito. Controllare i file per favore!",
+        "noUserFound": "Non è riuscito di trovare un'utente con l'indirizzo d'email {{email}} in questo portale di servizio."
+    },
+    "search": {
+        "placeholder": "Cerca..",
+        "noResultsFor": "Nessun risultato per '{{query}}'.",
+        "articles": "Articoli",
+        "requestTypes": "Invia una richiesta relativa a"
+    },
+    "chooseDesk": {
+        "heading": "Selezionare il Servicedesk",
+        "subHeading": "Benvenuto! Scegli un Servicedesk e invia una richiesta di assistenza.",
+        "typeChooserPlaceholder": "Scegli un Servicedesk"
+    },
+    "welcomeChooseInfo": "Benvenuto! Puoi inviare una richiesta per {{serviceDeskName}} utilizzando le opzioni disponibili.",
+    "createTicket": {
+        "typeChooserLabel": "Come possiamo aiutare??",
+        "submitSuccess": "La tua richiesta di assistenza {{issueKey}} è stata trasmessa.",
+        "selectLabel": "Scegli Labels"
+    },
+    "fieldErrorBoundary": {
+        "errorMessage": "Componente scorretto.",
+        "reportInstruction": "Invia Feedback"
+    },
+    "jiraUserContextMenu": {
+        "openJira": "Aprire Jira"
+    },
+    "suggestions": {
+        "heading": "Articoli proposti"
+    },
+    "fields": {
+        "dropzoneHelptext": "Scegli i file o caricali per Drag and Drop.",
+        "userFieldLoading": "Carica utente ...",
+        "userFieldPlaceholder": "Scegli utente",
+        "userFieldNoResults": "Nessun utente adatto trovato."
+    },
+    "myRequests": {
+        "heading": "Le mie richieste",
+        "newRequest": "Nuova richiesta",
+        "tableHeader": {
+            "type": "Tipo",
+            "reference": "Riferimento",
+            "summary": "Riepilogo",
+            "status": "Stato",
+            "serviceProject": "Progetto di servizio"
+        },
+        "noSummary": "Nessun riepilogo",
+        "activity": "Attività",
+        "editorPlaceholder": "Cosa vuoi dire?",
+        "requestType": "Tipo di richiesta",
+        "status": "Stato",
+        "viewInJira": "Mostra in Jira",
+        "viewMoreInJira": "Mostra di più in Jira",
+        "showMore": "{{amount}} mostra di più",
+        "raisedThis": "ha inviato questa richiesta: ",
+        "relatedChats": "Chat collegate",
+        "optionalComment": "Commento optionale",
+        "attachmentsNotice": "Allegati visualizzabili sotto",
+        "approvalRequired": "Questa richiesta vuole la tua approvazione",
+        "sharedWith": "Condiviso con",
+        "creator": "Creatore",
+        "selectRequestParticipants": "Scegli partecipante",
+        "requestParticipantsNotAllAdded": "Non è stato possibile aggiungere tutti i partecipanti.",
+        "participantsNoResults": "Nessun risultato"
+    }
+}
