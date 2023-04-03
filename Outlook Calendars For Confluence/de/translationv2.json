@@ -169,7 +169,10 @@
     "nextTimeUnitTooltip": "{{unit}} vor",
     "previousTimeUnitTooltip": "{{unit}} zurück",
     "refreshTooltip": "Aktualisieren",
-    "todayButtonLabel": "Heute"
+    "todayButtonLabel": "Heute",
+    "searchBarTooltip1": "Auf Ereignisse filtern",
+    "searchBarTooltip2": "Mehr Informationen",
+    "searchBarPlaceholder": "Ereignisse filtern"
   },
   "calendarViewScreen": {
     "confluenceReadOnlyModeTooltip": "{{atlassianProduct}} ist im Schreibschutzmodus",
