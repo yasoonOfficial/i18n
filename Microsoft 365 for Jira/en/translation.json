@@ -471,7 +471,15 @@
         "bodyLabel": "Email",
         "mailSharingLabel": "Mail access",
         "triggerTooltip": "Choose who should be able to see this conversation",
-        "disabledTriggerTooltip": "You can't share this mail to an issue, when the action is not running in an issue context."
+        "disabledTriggerTooltip": "You can't share this mail to an issue, when the action is not running in an issue context.",
+        "sendInWorkHoursLabel": "Send in working hours",
+        "sendInWorkHoursDescription": "When enabled, the email will be sent only during working hours. If the action runs outside working hours, the email will be scheduled on the next working day.",
+        "workingHours": {
+            "daysOfWeekHeading": "Days of week",
+            "workingHoursHeading": "Working hours",
+            "startTimeLabel": "Start time",
+            "endTimeLabel": "End time"
+        }
     },
     "mailSharingChooser": {
         "privateLabel": "Private",
