@@ -149,7 +149,13 @@
         "unsupportedAction": "Aktion nicht unterstützt",
         "unsupportedActionHelpText": "Leider ist diese Aktion in Chats noch nicht unterstützt. Bitte kontaktiere uns, solltest du diese Funktion benötigen.",
         "labelsLoading": "Labels laden ...",
-        "selectLabel": "Wähle ein Label aus"
+        "selectLabel": "Wähle ein Label aus",
+        "createIssueSuccessScreen": {
+            "heading": "Der Vorgang wurde erfolgreich erstellt",
+            "description": "Der Vorgang {link} wurde erfolgreich erstellt. Wenn du möchtest, kannst du dir diesen nun in Jira ansehen.",
+            "viewIssueInJiraButton": "Vorgang in Jira anzeigen",
+            "disableSettingButton": "In Zukunft nicht mehr anzeigen"
+        }
     },
     "boardView": {
         "createIssueInJira": "In Jira anlegen",

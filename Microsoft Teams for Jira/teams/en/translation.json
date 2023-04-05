@@ -149,7 +149,13 @@
         "unsupportedAction": "Unsupported action",
         "unsupportedActionHelpText": "Unfortunately this action is not supported in chats yet. Please get in touch in case you need this function.",
         "labelsLoading": "Loading labels ...",
-        "selectLabel": "Select a label"
+        "selectLabel": "Select a label",
+        "createIssueSuccessScreen": {
+            "heading": "Issue created successfully",
+            "description": "The issue {link} has been created successfully. You can now view this issue in Jira.",
+            "viewIssueInJiraButton": "View in Jira",
+            "disableSettingButton": "Don't show this again"
+        }
     },
     "boardView": {
         "createIssueInJira": "Create issue in Jira",
