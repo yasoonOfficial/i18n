@@ -478,7 +478,9 @@
             "daysOfWeekHeading": "Days of week",
             "workingHoursHeading": "Working hours",
             "startTimeLabel": "Start time",
-            "endTimeLabel": "End time"
+            "endTimeLabel": "End time",
+            "timeZoneText": "The time zone for your working hours is {{timeZone}}.",
+            "timeZonePlaceholder": "Choose time zone"
         }
     },
     "mailSharingChooser": {
