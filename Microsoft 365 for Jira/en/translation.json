@@ -145,29 +145,15 @@
         "productProjectException_plural": "({{count}} Exceptions)"
     },
     "adminConnectivityScreen": {
-        "heading": "Connection settings",
-        "yourJiraUrlPublic": "Your Jira URL (public)",
-        "okay": "Okay",
-        "cancel": "Cancel",
-        "headsUp": "Heads up",
-        "connectivityHelpText": "If you change the existing public URL of your system, please proceed with caution. All users will be logged out of the app. In addition, existing chats or emails links might not show up anymore. Please reach out to our support if you are unsure (contact@yasoon.com).",
-        "staticIPHelpText": "If you need to allow IPs in your firewall, please check out our {link1}",
-        "staticIPHelpTextLabel": "help on this.",
-        "jiraUrlHelpText": "This is the publicly reachable URL of your Jira instance",
-        "registerInstanceErrorTitle": "Error trying to reach yasoon backend. See connectivity check",
-        "connect": "Connection required",
-        "connectButton": "Connect",
-        "connectDescription": "During the installation of the app, we tried to register the instance with our cloud infrastructure, which unfortunately failed. Please make sure that the Jira instance can reach yasoon services and Microsoft 365.",
-        "connected": "Connected",
-        "connectedDescription": "We were able to successfully establish a secure connection to the yasoon services. If you experience unexpected connectivity issues you can perform a connectivity check below.",
-        "yasoonConnectivity": "Yasoon connectivity",
-        "yasoonConnectivityDescription": "As the app deeply integrates with Microsoft 365, which is a cloud only solution, our app behaves a bit differently than “classic” Jira Server apps. Your Jira instance needs to connect to yasoon services as well as to Microsoft 365. {link1}",
+        "heading": "Connection setup",
+        "description": "For the app to work properly, it requires a connection from and to yasoon cloud services. This page checks the connection status and helps troubleshooting issues. ",
         "learnMore": "Learn more",
-        "staticIPHelpText2": "To use the app, your Jira system needs to be reachable by our servers. If your system is behind a firewall, you can allow access for the following IPs - all requests will come from these IPs.",
-        "noBaseUrlBanner": "App not configured correctly.",
-        "baseUrlMismatchBanner": "Your Jira URL does not match the configured one below",
-        "baseUrlMismatch": "This might be intentional if e.g., you cloned your instance. Please adjust the URL below.",
-        "noBaseUrlInSettings": "Connection to yasoon not possible. Please connect the public reachable Jira URL. And do a connectivity-check afterwards to see if everything works as intended"
+        "statusHeading": "Connection status",
+        "statusOperational": "operational",
+        "statusInterrupted": "interrupted",
+        "statusError": "error",
+        "statusOperationalDescription": "App is fully operational. Your system is connected to the yasoon cloud services.",
+        "": ""
     },
     "secretRotation": {
         "heading": "Secret rotation",
@@ -183,13 +169,6 @@
         "webhookStatusOk": "Webhook set up correctly.",
         "webhookStatusNotOk": "Webhook not set up correctly",
         "webhook": "Webhook"
-    },
-    "connectivityCheck": {
-        "heading": "Connection settings overview",
-        "checkConnectivity": "Check connectivity",
-        "connectivityCheckHeading": "Connectivity check",
-        "connectivityCheckDescription": "Support tool to check and troubleshoot the connection to mandatory services. Only for analysis purposes, this won’t change any configuration.",
-        "introductionText": "Your data center/server environment needs to reach and needs to be reachable from our servers. On this page, you can check, if your system does fulfill all our requirements to work properly."
     },
     "productDisplayNameCompact": {
         "teams": "Teams",

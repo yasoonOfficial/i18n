@@ -145,29 +145,15 @@
         "productProjectException_plural": "({{count}} Ausnahmen)"
     },
     "adminConnectivityScreen": {
-        "heading": "Verbindungs-Einstellungen",
-        "yourJiraUrlPublic": "Deine Jira URL (public)",
-        "okay": "Okay",
-        "cancel": "Abbrechen",
-        "headsUp": "Achtung",
-        "connectivityHelpText": "Wenn du die bereits existierende öffentliche URL änderst, müssen sich alle Nutzer erneut anmelden! Zusätzlich kann es sein, dass bestehende Chats und E-Mails nicht mehr an Vorgängen angezeigt werden. Bitte kontaktiere uns bei Fragen (contact@yasoon.com).",
-        "staticIPHelpText": "Wenn du Ausnahmen für IPs in deiner Firewall hinzufügen möchtest, findest du unter diesem Link {link1}",
-        "staticIPHelpTextLabel": "Hilfe",
-        "jiraUrlHelpText": "Dies ist die URL, unter welcher deine Jira Instanz aus dem Internet erreichbar ist",
-        "registerInstanceErrorTitle": "Fehler beim Versuch den yasoon Server zu erreichen. Mehr Details unter Verbindungs-Check",
-        "connect": "Connection benötigt",
-        "connectButton": "Verbinde",
-        "connectDescription": "Während der Installation der App haben wir versucht diese Instanz mit unserer Cloud Infrastruktur zu registrieren. Dies hat leider nicht funktioniert. Bitte stelle sicher, dass die Jira Instanz die yasoon Services als auch Microsoft 365 erreichen kann.",
-        "connected": "Verbunden",
-        "connectedDescription": "Die sichere Verbindung zu den yasoon Services konnte erfolgreich hergestellt werden. Solltest du dennoch Verbindungsprobleme vorfinden, kannst du einen Verbindungs-Check ausführen",
-        "yasoonConnectivity": "yasoon Verbindung",
-        "yasoonConnectivityDescription": "Diese App ist eine tiefe Integration mit Microsoft 365, einem cloud-only Dienst. Daher unterscheidet sich unsere App ein wenig von den \"klassischen\" Jira Server Apps. Deine Jira Instanz muss sich mit den yasoon Services als auch Microsoft 365 verbinden können. {link1}",
-        "learnMore": "Weitere Infos",
-        "staticIPHelpText2": "Um die App nutzen zu können, muss dein Jira System von unseren Servern erreichbar sein. Sollte sich dein System hinter einer Firewall befinden, kannst du für folgende IPs Ausnahmen hinzufügen. Alle Anfragen kommen von diesen IPs.",
-        "noBaseUrlBanner": "Die App ist nicht korrekt konfiguriert.",
-        "baseUrlMismatchBanner": "Deine Jira URL stimmt nicht mit der unten konfigurierten überein.",
-        "baseUrlMismatch": "Möglicherweise ist das so gewollt. Solltest du ein Backup auf einem anderem System eingespielt haben, passe bitte die URL an.",
-        "noBaseUrlInSettings": "Verbindung zu yasoon nicht möglich. Bitte füge die URL ein, unter welche das Jira System aus dem Internet erreichbar ist und führe danach einen Verbindungs-Check durch, um zu prüfen ob alles wie gewünscht funktioniert."
+        "heading": "Verbindungseinrichtung",
+        "description": "Damit die App vollumfänglich funktioniert, muss sie mit unseren yasoon Cloud Diensten verbunden werden. Diese Seite prüft die Verbindung und unterstützt bei der Fehlersuche.",
+        "learnMore": "Mehr erfahren",
+        "statusHeading": "Verbindungsstatus",
+        "statusOperational": "operational",
+        "statusInterrupted": "unterbrochen",
+        "statusError": "Fehler",
+        "statusOperationalDescription": "Die Verbidnung ist hergestellt. Das System ist mit den yasoon Cloud Diensten verbunden.",
+        "": ""
     },
     "secretRotation": {
         "heading": "Secret Rotation",
@@ -183,13 +169,6 @@
         "webhookStatusOk": "Webhook erfolgreich angelegt.",
         "webhookStatusNotOk": "Webhook konnte nicht korrekt angelegt werden.",
         "webhook": "Webhook"
-    },
-    "connectivityCheck": {
-        "heading": "Übersicht für Verbindungseinstellungen",
-        "checkConnectivity": "Prüfe Verbindung",
-        "connectivityCheckHeading": "Verbindung Check",
-        "connectivityCheckDescription": "Support tool für die Fehlerbehebung und Prüfung der Verbindung zu obligatorischen Services. Dies wird keine Einstellungen ändern und dient nur der Analyse.",
-        "introductionText": "Dein Jira Data-Center/Server muss die yasoon Services erreichen als auch von diesen erreichbar sein. Auf dieser Seite kannst du überprüfen, ob dein System unsere Anforderungen erfüllt, um reibungslos zu funktionieren."
     },
     "productDisplayNameCompact": {
         "teams": "Teams",
