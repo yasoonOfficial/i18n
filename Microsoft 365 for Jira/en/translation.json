@@ -171,6 +171,8 @@
         "connectionUpdateModalChannels": "Related channels",
         "connectionUpdateModalTemplates": "Templates",
         "connectionUpdateModalLogins": "Logins of users",
+        "connectionUpdateModalButtonOkay": "Reset",
+        "connectionUpdateModalButtonCancel": "Cancel",
         "webhookHeading": "Webhooks",
         "webhookTeamsSuccess": "Webhook for the Microsoft Teams feature is active.",
         "webhookTeamsSuccessSecondary": "The webhook is necessary for certain updates posted into Microsoft Teams. It is currently configured correctly and active.",
