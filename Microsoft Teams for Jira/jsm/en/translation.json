@@ -36,7 +36,8 @@
     "createTicket": {
         "typeChooserLabel": "What can we help you with?",
         "submitSuccess": "Your request {{issueKey}} has been submitted.",
-        "selectLabel": "Select labels"
+        "selectLabel": "Select labels",
+        "labelsLoading": "Loading labels ..."
     },
     "fieldErrorBoundary": {
         "errorMessage": "This field has crashed.",

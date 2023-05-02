@@ -36,7 +36,8 @@
     "createTicket": {
         "typeChooserLabel": "W czym możemy Ci pomóc?",
         "submitSuccess": "Twój wniosek {{issueKey}} został złożony.",
-        "selectLabel": "Wybierz etykiety"
+        "selectLabel": "Wybierz etykiety",
+        "labelsLoading": "ładowanie labels ..."
     },
     "fieldErrorBoundary": {
         "errorMessage": "To pole uległo awarii.",

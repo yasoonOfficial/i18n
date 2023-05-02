@@ -36,7 +36,8 @@
     "createTicket": {
         "typeChooserLabel": "Wobei können wir helfen?",
         "submitSuccess": "Deine Supportanfrage {{issueKey}} wurde übermittelt.",
-        "selectLabel": "Labels auswählen"
+        "selectLabel": "Labels auswählen",
+        "labelsLoading": "Lade Labels ..."
     },
     "fieldErrorBoundary": {
         "errorMessage": "Komponente fehlerhaft.",
