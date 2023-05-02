@@ -177,8 +177,7 @@
         "webhookTeamsWarning": "Der Webhook für Microsoft Teams ist deaktiviert.",
         "webhookTeamsWarningSecondary": "Der Webhook wurde deaktiviert und manche Funktionen für Microsoft Teams funktionieren nicht korrekt. Der Webhook kann im Jira Admin Bereich unter System --> Webhooks wieder aktiviert werden.",
         "webhookTeamsError": "Der Webhook für Microsoft Teams ist nicht eingerichtet.",
-        "webhookTeamsErrorSecondary": "Der Webhook konnte noch nicht automatisch eingerichtet werden und manche Funktionen für Microsoft Teams funktionieren nicht korrekt. Stelle zunächst sicher, dass das System eine System Id erhalten hat. Danach sollte der Webhook automatisch angelegt werden.",
-        "": ""
+        "webhookTeamsErrorSecondary": "Der Webhook konnte noch nicht automatisch eingerichtet werden und manche Funktionen für Microsoft Teams funktionieren nicht korrekt. Stelle zunächst sicher, dass das System eine System Id erhalten hat. Danach sollte der Webhook automatisch angelegt werden."
     },
     "secretRotation": {
         "heading": "Secret Rotation",
@@ -188,6 +187,11 @@
         "headsUpText": "Diese Aktion kann nicht rückgängig gemacht werden.",
         "okay": "Okay",
         "cancel": "Abbrechen"
+    },
+    "connectivityCheck": {
+        "connectivityCheckHeading": "Verbindungscheck",
+        "connectivityCheckDescription": "Support tool für die Fehlerbehebung und Prüfung der Verbindung zu obligatorischen Services. Dies wird keine Einstellungen ändern und dient nur der Analyse.",
+        "checkConnectivity": "Prüfe Verbindung"
     },
     "productDisplayNameCompact": {
         "teams": "Teams",
