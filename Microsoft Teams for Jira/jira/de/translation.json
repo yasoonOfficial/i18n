@@ -198,6 +198,8 @@
         "nativeLookAndFeelMode": "Natives Portal Erscheinungsbild",
         "nativeLookAndFeelModeLozenge": "Experimentell",
         "nativeLookAndFeelModeHelpText": "Dieser Modus lässt das Portal in Teams ähnlicher aussehen, z.B. die Beschreibungen, Icons & Ankündigungen. Verwendet private Atlassian APIs.",
+        "isBotInteractive": "Interaktiven Bot aktivieren",
+        "isBotInteractiveHelpText": "Mit dieser Option wird der App ein interaktiver Bot hinzugefügt, mit dem Customer interagieren können",
         "portalAppDownloadInstructions": "Lade hier die App im .ZIP-Format herunter und installiere sie in Microsoft Teams. Unter 'Erfahre mehr' erfährst du, wie die App zu installieren ist.",
         "downloadApp": "App herunterladen",
         "saveSettings": "Bitte speichere die Konfiguration, lade die App herunter und installiere sie in Microsoft Teams.",
