@@ -504,17 +504,17 @@
             "dateHeader": "Date",
             "buttonLabel": "Action runs",
             "emptyState": "No action runs yet.",
-            "dataHeader": "Data"
+            "dataHeader": "Details"
         },
         "trigger": {
-            "typeHeader": "Trigger type",
-            "idHeader": "Trigger id",
-            "nameHeader": "Trigger name",
+            "typeHeader": "Type",
+            "idHeader": "Id",
+            "nameHeader": "Name",
             "statusHeader": "Status",
             "dateHeader": "Date",
             "buttonLabel": "Trigger runs",
             "emptyState": "No trigger runs yet.",
-            "dataHeader": "Data"
+            "dataHeader": "Details"
         },
         "status": {
             "failed": "Failed",
