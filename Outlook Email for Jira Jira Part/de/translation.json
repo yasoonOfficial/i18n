@@ -71,6 +71,16 @@
         "addMailboxButton": "Postfach hinzufügen",
         "addAnotherMailboxButton": "Weiteres Postfach hinzufügen"
     },
+    "addAsParticipants": {
+        "noneDescription": "Es werden keine weiteren Anfrageteilnehmer hinzugefügt.",
+        "existingOnlyDescription": "Nur bereits existierende Nutzer und Kunden werden hinzugefügt.",
+        "createOnDemandDescription": "Bereits existierende Nutzer hinzufügen und bei Bedarf neue Kunden erstellen.",
+        "noneLabel": "Keine",
+        "existingOnlyLabel": "Existierende Nutzer",
+        "createOnDemandLabel": "Neue Kunden erstellen",
+        "sectionTitle": "Wähle, ob \"An\"- und \"Cc\"-Empfänger als Anfrageteilnehmer hinzugefügt werden sollen",
+        "tooltipExplanation": "Wähle, ob die Empfänger als Anfrageteilnehmer hinzugefügt werden sollen"
+    },
     "commentVisibility": {
         "choose": "Wähle, ob ein Kommentar am Vorgang erstellt werden soll",
         "none": "Kein Kommentar",
