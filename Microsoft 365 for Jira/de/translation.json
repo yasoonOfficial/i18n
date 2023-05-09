@@ -19,7 +19,7 @@
         "headingDescription": "Aktiviere die passenden Microsoft 365 for Jira Features für deine Jira-Projekte.",
         "projectsSubHeading": "Projektspezifische Einstellung",
         "globalSubHeading": "Projektübergreifende Einstellung",
-        "disabledTooltip": "Das Ändern dieser Einstellung ist nur in Microsoft 365 for Jira möglich.",
+        "disabledTooltip": "Dieses Feature ist nur in unserer App 'Microsoft 365 for Jira' verfügbar.",
         "projectVisibilityToggleDisabledTooltip": "Das Ändern dieser Einstellung ist nur in Microsoft 365 for Jira möglich.",
         "projectsDescription": "Wähle die Jira-Projekte, bei denen abweichende Features aktiv sein sollen.",
         "globalDescription": "Aktiviere die Features projektübergreifend. Passe unten Features für spezifische Jira-Projekte an."

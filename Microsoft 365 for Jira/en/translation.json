@@ -19,7 +19,7 @@
         "headingDescription": "Choose which features of Microsoft 365 for Jira should be active.",
         "projectsSubHeading": "Project-specific features",
         "globalSubHeading": "Defaults for all Jira projects",
-        "disabledTooltip": "Changing this setting is only possible in Microsoft 365 for Jira.",
+        "disabledTooltip": "This feature is only available in our app 'Microsoft 365 for Jira'",
         "projectVisibilityToggleDisabledTooltip": "Changing this setting is only possible in Microsoft 365 for Jira.",
         "projectsDescription": "Choose which features should be active or disabled in the specific project.",
         "globalDescription": "Enable features across all projects. Specific projects can be customized below."
