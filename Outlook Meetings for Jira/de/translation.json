@@ -144,7 +144,7 @@
     },
     "officeLoginScreen": {
         "loginButtonLabel": "Mit Microsoft 365 anmelden",
-        "heading": "Wilkommen bei {{ appName }}",
+        "heading": "Willkommen bei {{ appName }}",
         "description": "Scheinbar nutzt du die App zum ersten Mal! Bitte melde dich mit deinem Microsoft 365-Konto an, um loszulegen."
     },
     "peopleAndMeetingsScreen": {
