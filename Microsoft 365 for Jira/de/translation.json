@@ -90,7 +90,8 @@
         "active": "Aktiv",
         "activate": "Aktivieren",
         "next": "Weiter",
-        "configure": "Konfigurieren"
+        "configure": "Konfigurieren",
+        "upgradeToBundle": "Mehr erfahren"
     },
     "adminNavigation": {
         "gettingStarted": "Einstieg",

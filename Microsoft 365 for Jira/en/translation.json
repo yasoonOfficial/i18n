@@ -90,7 +90,8 @@
         "active": "Active",
         "activate": "Activate",
         "next": "Next",
-        "configure": "Configure"
+        "configure": "Configure",
+        "upgradeToBundle": "Learn more"
     },
     "adminNavigation": {
         "gettingStarted": "Getting started",
