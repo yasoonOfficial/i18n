@@ -397,7 +397,9 @@
         "heading": "Create Teams backup",
         "description": "Currently it is only supported to backup Teams chats, conversation support will follow soon.",
         "chatsMessages": "Backup all Teams chats",
-        "conversationMessages": "Backup all Teams conversations"
+        "conversationMessages": "Backup all Teams conversations",
+        "addKeywordComment": "Add a comment with keywords to the Jira issue",
+        "addKeywordCommentInfo": "This allows you to search for the chat backup in Jira using the native search."
     },
     "createOutlookEventScreen": {
         "heading": "Create Outlook meeting",
