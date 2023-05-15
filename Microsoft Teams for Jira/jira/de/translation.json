@@ -103,6 +103,10 @@
         "sharedAndAllowJoining": "Geteilt & beitreten erlauben",
         "rememberUserChoice": "Nutzerauswahl"
     },
+    "postUpdates": {
+        "postUpdates": "Änderungen am Vorgang in den Chat posten",
+        "noUpdates": "Keine Änderungen in den Chat posten"
+    },
     "jira": {
         "loginWithAccountChooser": "Mit Account-Auswahl anmelden",
         "loginWithMicrosoft365": "Mit Microsoft 365 anmelden",
@@ -118,6 +122,7 @@
         "channel": "Kanal",
         "channelConversations": "Konversationen",
         "chooseChatPermissions": "Wähle, wer Zugriff auf diesen Chat in Jira hat:",
+        "choosePostUpdates": "Wähle, ob Änderungen am Vorgang in den Chat gepostet werden sollen",
         "installBeforeChannelPost": "Um Jira Vorgänge in einem Microsoft Teams Kanal zu posten, müssen Sie zuerst die App in diesem Team installieren.",
         "editorChannelTargetPlaceholder": "Verfasse eine Nachricht. Du kannst alle Kanalteilnehmer mit @-mention erwähnen!",
         "editorPlaceholder": "Gib eine Nachricht ein, erwähne mit @ ein beliebiges Kanalmitglied ...",

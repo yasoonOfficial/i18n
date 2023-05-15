@@ -103,6 +103,10 @@
         "sharedAndAllowJoining": "Shared & allow joining",
         "rememberUserChoice": "User choice"
     },
+    "postUpdates": {
+        "postUpdates": "Post issue updates into chat",
+        "noUpdates": "Don't post issue updates into chat"
+    },
     "jira": {
         "loginWithAccountChooser": "Login with account chooser",
         "loginWithMicrosoft365": "Login with Microsoft 365",
@@ -118,6 +122,7 @@
         "channel": "Channel",
         "channelConversations": "Channel conversations",
         "chooseChatPermissions": "Choose who should have access to this chat in Jira",
+        "choosePostUpdates": "Choose if updates to the issue should be posted into the chat",
         "installBeforeChannelPost": "To post Jira issues to a Microsoft Teams channel, you'll need to install the app into the team first.",
         "editorChannelTargetPlaceholder": "Type a message, @-mention any channel member ...",
         "editorPlaceholder": "Type a message ...",
