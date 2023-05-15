@@ -104,7 +104,7 @@
         "rememberUserChoice": "User choice"
     },
     "postUpdates": {
-        "postUpdates": "Post issue updates into chat",
+        "sendUpdates": "Post issue updates into chat",
         "noUpdates": "Don't post issue updates into chat"
     },
     "jira": {

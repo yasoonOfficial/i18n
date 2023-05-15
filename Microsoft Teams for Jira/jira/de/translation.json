@@ -104,7 +104,7 @@
         "rememberUserChoice": "Nutzerauswahl"
     },
     "postUpdates": {
-        "postUpdates": "Änderungen am Vorgang in den Chat posten",
+        "sendUpdates": "Änderungen am Vorgang in den Chat posten",
         "noUpdates": "Keine Änderungen in den Chat posten"
     },
     "jira": {
