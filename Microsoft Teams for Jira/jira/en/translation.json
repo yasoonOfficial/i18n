@@ -430,7 +430,9 @@
         "appConfiguration": "Configure Teams portal app",
         "downloadTooltip": "Download {{appName}} manifest bundle",
         "saveAndDownload": "Save & download",
-        "saveAndPublish": "Save & publish"
+        "saveAndPublish": "Save & publish",
+        "approveNotificationsTooltip": "For this app to send notifications into chats, you need to approve it as an admin user.",
+        "approveNotifications": "Approve notifications"
     },
     "templatePicker": {
         "recents": "Recents",

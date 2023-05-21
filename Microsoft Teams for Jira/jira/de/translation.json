@@ -430,7 +430,9 @@
         "appConfiguration": "Teams Portal App konfigurieren",
         "downloadTooltip": "Manifest Bundle für {{appName}} herunterladen",
         "saveAndDownload": "Speichern & herunterladen",
-        "saveAndPublish": "Speichern & veröffentlichen"
+        "saveAndPublish": "Speichern & veröffentlichen",
+        "approveNotificationsTooltip": "Damit diese App Benachrichtigungen schicken darf muss sie von einem Teams Admin approved werden.",
+        "approveNotifications": "Benachrichtigungen approven"
     },
     "templatePicker": {
         "recents": "Zuletzt verwendet",
