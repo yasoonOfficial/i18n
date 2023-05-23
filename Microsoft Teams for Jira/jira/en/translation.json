@@ -433,7 +433,11 @@
         "saveAndPublish": "Save & publish",
         "approveNotificationsTooltip": "For this app to send notifications into chats, you need to approve it as an admin user.",
         "approveNotifications": "Approve notifications",
-        "chooseAppWarning": "Choose app!"
+        "chooseAppWarning": "Choose app!",
+        "notificationsApproveSuccess": "Notifications approved",
+        "notificationsApproveSuccessBody": "{{appName}} is now approved to send notifications into chats.",
+        "notificationsApproveFailed": "Notification approval failed",
+        "notificationsApproveFailedBody": "Could not approve {{appName}} to send notifications into chats. This can happen when you have not installed the app in Microsoft Teams yet."
     },
     "templatePicker": {
         "recents": "Recents",

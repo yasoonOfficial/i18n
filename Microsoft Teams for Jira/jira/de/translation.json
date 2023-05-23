@@ -433,7 +433,11 @@
         "saveAndPublish": "Speichern & veröffentlichen",
         "approveNotificationsTooltip": "Damit diese App Benachrichtigungen schicken darf muss sie von einem Teams Admin approved werden.",
         "approveNotifications": "Benachrichtigungen approven",
-        "chooseAppWarning": "App auswählen!"
+        "chooseAppWarning": "App auswählen!",
+        "notificationsApproveSuccess": "Benachrichtigungen approved",
+        "notificationsApproveSuccessBody": "{{appName}} ist jetzt approved um Benachrichtigungen in Chats zu posten.",
+        "notificationsApproveFailed": "Benachrichtigungen konnten nicht approved werden",
+        "notificationsApproveFailedBody": "{{appName}} konnte nicht approved werden, Benachrichtigungen in Chats zu posten. Das kann passieren, wenn die App noch nicht in Teams installiert wurde!"
     },
     "templatePicker": {
         "recents": "Zuletzt verwendet",
