@@ -237,16 +237,16 @@
     "gettingStartedScreen": {
         "heading": " Connect Jira automation with Microsoft 365",
         "overviewSubheading": "Getting started",
-        "overviewDescription": "Jira automation offers you a vast variety of technology-driven processes. By adding Microsoft 365 tools to Jira automation you can spin your processes even further. This can reach from smaller automation, to whole new workflows that can be configured individually to your needs.",
+        "overviewDescription": "Automation within Microsoft 365 for Jira is a no-code capability and is based on Jira automation.",
         "card": {
             "triggers": {
-                "heading": "Triggers",
-                "description": "Triggers are fired to Jira automation when a specific condition is met in Microsoft 365 tools.",
+                "heading": "Microsoft 365 trigger",
+                "description": "Triggers kick off the execution of your automation rules. With incoming webhooks you can simply trigger an automation rule from Microsoft 365. Triggers are fired from Microsoft 365 to Jira if a specific condition is met, e.g. when a Microsoft Teams chat is started in your Jira issue.",
                 "button": "Find out more"
             },
             "actions": {
-                "heading": "Actions",
-                "description": "Actions are fired in a Microsoft 365 tool if a specific condition is met in Jira. You can create and configure an action via template.",
+                "heading": "Microsoft 365 action",
+                "description": "Actions in Microsoft 365 are fired if a specific condition is met in Jira. The automation rule sends a request to the specified URL we provide you with. Actions allow you to automate tasks, such as adding a backup file for each Microsoft Teams chat and channel conversation to the Jira issue.",
                 "button": "Find out more"
             }
         },
