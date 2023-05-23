@@ -434,6 +434,7 @@
         "approveNotificationsTooltip": "Damit diese App Benachrichtigungen schicken darf muss sie von einem Teams Admin approved werden.",
         "approveNotifications": "Benachrichtigungen approven",
         "chooseAppWarning": "App auswählen!",
+        "approveNotificationsInfo": "Um Benachrichtigungen für eine App zu approven, muss sie zuerst in Microsoft Teams installiert werden.",
         "notificationsApproveSuccess": "Benachrichtigungen approved",
         "notificationsApproveSuccessBody": "{{appName}} ist jetzt approved um Benachrichtigungen in Chats zu posten.",
         "notificationsApproveFailed": "Benachrichtigungen konnten nicht approved werden",
