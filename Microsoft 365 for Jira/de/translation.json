@@ -362,7 +362,8 @@
         "templateContentDescription": "Der Inhalt der Vorlage wird mit dem Kontext des aktuellen Vorgangs gerendert.\nDu kannst dir eine Vorschau anschauen, indem du ein Issue auswählst.",
         "issuePickerPlaceholder": "Vorgang auswählen",
         "renderErrorTitle": "Syntaxfehler",
-        "renderErrorMessage": "Die Vorlage enthält einen Syntaxfehler und konnte nicht gerendert werden. Bitte überprüfe die Vorlage und versuche es erneut."
+        "renderErrorMessage": "Die Vorlage enthält einen Syntaxfehler und konnte nicht gerendert werden. Bitte überprüfe die Vorlage und versuche es erneut.",
+        "noIssueSelectedTooltip": "Bitte wähle zuerst einen Vorgang aus, um die Vorschau der Vorlage zu sehen."
     },
     "templateEditor": {
         "actions": {

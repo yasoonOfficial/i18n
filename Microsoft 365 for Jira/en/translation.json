@@ -822,7 +822,8 @@
         "templateContentDescription": "The template content will be rendered within the context of the current issue.\nYou can preview the template by selecting an issue.",
         "issuePickerPlaceholder": "Select issue",
         "renderErrorTitle": "Syntax error",
-        "renderErrorMessage": "The template contains a syntax error and could not be rendered. Please check the template and try again."
+        "renderErrorMessage": "The template contains a syntax error and could not be rendered. Please check the template and try again.",
+        "noIssueSelectedTooltip": "Please select an issue first to preview the template."
     },
     "templateEditor": {
         "actions": {
