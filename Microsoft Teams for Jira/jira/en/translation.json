@@ -416,6 +416,7 @@
         "membersLeftEvent": "{{members}} left the chat.",
         "callStartedEvent": "{{time}} Call started",
         "callEndedEvent": "{{time}} Call ended",
+        "teamsAppInstalledEvent": "{{initiator}} added {{teamsAppDisplayName}} here.",
         "unknownUser": "Unknown user"
     },
     "addBoardView": {
