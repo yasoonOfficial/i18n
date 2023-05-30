@@ -433,6 +433,7 @@
         "saveAndDownload": "Speichern & herunterladen",
         "saveAndPublish": "Speichern & veröffentlichen",
         "portalNotifications": "Benachrichtigungen",
+        "updatesPostedBy": "Benachrichtigungen werden geposted von",
         "approveNotificationsTooltip": "Damit diese App Benachrichtigungen schicken darf muss sie von einem Teams Admin approved werden.",
         "approveNotifications": "Benachrichtigungen approven",
         "approveNotificationsInfo": "Um Benachrichtigungen für eine App zu approven, muss sie zuerst in Microsoft Teams installiert werden. Es kann nur eine App berechtigt werden, Benachrichtigungen zu posten.",
