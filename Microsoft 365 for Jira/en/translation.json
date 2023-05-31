@@ -241,13 +241,15 @@
         "card": {
             "triggers": {
                 "heading": "Microsoft 365 trigger",
-                "description": "Triggers kick off the execution of your automation rules. With incoming webhooks you can simply trigger an automation rule from Microsoft 365. Triggers are fired from Microsoft 365 to Jira if a specific condition is met, e.g. when a Microsoft Teams chat is started in your Jira issue.",
-                "button": "Find out more"
+                "description": "Triggers let you automate tasks based on events triggered by Microsoft 365, such as when a new chat is started or a new email is sent from an issue. You can use the \"Incoming webhook\" trigger in Jira automations to run an automation rule. You need to insert the provided webhook URL from Jira when you create a Microsoft 365 trigger.",
+                "button": "Find out more",
+                "goButton": "Create trigger"
             },
             "actions": {
                 "heading": "Microsoft 365 action",
-                "description": "Actions in Microsoft 365 are fired if a specific condition is met in Jira. The automation rule sends a request to the specified URL we provide you with. Actions allow you to automate tasks, such as adding a backup file for each Microsoft Teams chat and channel conversation to the Jira issue.",
-                "button": "Find out more"
+                "description": "Actions allow you to automate tasks related to Microsoft 365, such as creating a backup of a linked Microsoft Teams chats or posting a notification to a Teams channel. Actions can be used similarly to inbuilt Jira Automation actions, but are configured by using the \"Send web request\" action. You'll receive the required URL after creating a Microsoft 365 action",
+                "button": "Find out more",
+                "goButton": "Create action"
             }
         },
         "exploreHeading": "Explore the possibilities",
