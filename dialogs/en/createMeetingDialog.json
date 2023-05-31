@@ -1,0 +1,139 @@
+{
+    "attendeesField": {
+        "createOption": "Manually add"
+    },
+    "attendeeContainer": {
+        "fieldLabelAttendees": "Attendees",
+        "fieldLabelAttendeesOptional": "Optional attendees",
+        "atleastOneNotAvailable": "Atleast one attendee is not available"
+    },
+    "calendarToolbar": {
+        "previousTimeUnitTooltip": "Previous",
+        "today": "Today",
+        "nextTimeUnitTooltip": "Next"
+    },
+    "compactCalendar": {
+        "pickADateTooltip": "Pick a date"
+    },
+    "categoryPicker": {
+        "formatCreateCategoryLabel": "Create category",
+        "categoryNoOptionsMessage": "No categories found"
+    },
+    "alldayToggle": {
+        "label": "All day"
+    },
+    "datetimeComponent": {
+        "meetingInPastTooltip": "Meeting occurs in the past"
+    },
+    "endField": {
+        "dateLabel": "End date",
+        "timeLabel": "End time"
+    },
+    "startField": {
+        "dateLabel": "Start date",
+        "timeLabel": "Start time"
+    },
+    "reminder": {
+        "label": "Reminder",
+        "placeholder": "Set Reminder"
+    },
+    "timezone": {
+        "label": "Time zone"
+    },
+    "commentVisibility": {
+        "choose": "Choose if a comment should be added to the issue",
+        "none": "No comment",
+        "internal": "Internal comment",
+        "public": "Customer comment",
+        "softwareAddComment": "Add comment",
+        "internalShort": "Internal",
+        "publicShort": "Public",
+        "softwareAddCommentShort": "With comment",
+        "tooltipExplanation": "Choose if a comment should be added",
+        "rememberUserChoice": "Remember last user choice"
+    },
+    "sendbutton": {
+        "label": "Send"
+    },
+    "dialogfooter": {
+        "cancelButtonLabel": "Cancel"
+    },
+    "scheduleMeetingDialogHeader": {
+        "heading": "Schedule new meeting",
+        "closeLabel": "Close",
+        "help": "Help",
+        "meetingsDoc": "Documentation",
+        "logout": "Logout"
+    },
+    "editorField": {
+        "label": "Comment"
+    },
+    "freeBusyPicker": {
+        "free": "Free",
+        "workingElsewhere": "Working elsewhere",
+        "tentative": "Tentative",
+        "busy": "Busy",
+        "oof": "Oof/away",
+        "showAs": "Show as"
+    },
+    "privateToggle": {
+        "label": "Is private"
+    },
+    "issuePicker": {
+        "linkWithIssue": "Link with issue",
+        "placeholder": "Select an issue"
+    },
+    "locationPicker": {
+        "locationFieldPlaceholder": "Type to search ...",
+        "notAvailableLabel": "Not Available",
+        "availableLabel": "Available",
+        "unknownLabel": "Unknown",
+        "createTeamsMeetingTooltip": "Add Microsoft Teams meeting link",
+        "onlineMeetingLabel": "Online meeting",
+        "ownLocationLabel": "Own Location",
+        "fieldLabel": "Location"
+    },
+    "meetingSuggestion": {
+        "allAvailable": "Available: everyone",
+        "someUnavailable": "Not available"
+    },
+    "meetingSuggestionsToolbar": {
+        "nextAvailable": "Next available",
+        "nextWeek": "Next week",
+        "nextMonth": "Next month",
+        "minuteShort": "min",
+        "meetingDuration": "Meeting duration",
+        "minutesShort": "{{minutes}} mins",
+        "meetingDurationTooltip": "Change the meeting duration"
+    },
+    "timezonePicker": {
+        "placeholder": "Select timezone"
+    },
+    "createMeetingForm": {
+        "buttonLabelSimple": "Simple",
+        "buttonLabelAdvanced": "Advanced"
+    },
+    "templatePicker": {
+        "recents": "Recents",
+        "others": "Others",
+        "templateButton": "Templates",
+        "noTemplatesGlobalAdminTooltip": "No templates have been configured yet. You can create new templates in the global app settings or project settings.",
+        "noTemplatesProjectAdminTooltip": "No templates have been configured yet. You can create new templates for your project in the project settings."
+    },
+    "titleCompoent": {
+        "fieldLabel": "Title",
+        "placeholder": "Please add a title"
+    },
+    "createOutlookMeetingScreenModel": {
+        "mainCalendarLabel": "Main calendar"
+    },
+    "officeLoginScreen": {
+        "loginButtonLabel": "Log in with Microsoft 365",
+        "heading": "Welcome to {{ appName }}",
+        "description": "Looks like you're using the app for the very first time. Please log in with your Microsoft 365 account to get started!"
+    },
+    "atlassianProduct": {
+        "jira": "Jira",
+        "confluence": "Confluence"
+    }
+}
