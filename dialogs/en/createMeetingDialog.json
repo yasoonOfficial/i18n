@@ -53,7 +53,8 @@
         "rememberUserChoice": "Remember last user choice"
     },
     "sendbutton": {
-        "label": "Send"
+        "label": "Send",
+        "sendMeetingTooltip": "Send an Outlook meeting request to all attendees and - if selected - add an issue comment with the meeting details"
     },
     "dialogfooter": {
         "cancelButtonLabel": "Cancel"
