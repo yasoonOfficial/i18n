@@ -114,6 +114,7 @@
         "privateChannelNotSupported": "Private Kanäle sind derzeit nicht unterstützt",
         "appNotInstalledInTeam": "Die App ist noch nicht in diesem Team installiert.",
         "additionalContentInTeams": "Diese Nachricht hat zusätzlichen Inhalt der in Teams einsehbar ist.",
+        "loopContentInBrowser": "Diese Nachricht enthält eine Loop Komponente. Klicken Sie hier um den Inhalt in einem neuen Browserfenster zu öffnen.",
         "conversationStarted": "Zu diesem Ticket wurde ein Unterhaltung gestartet",
         "relatedTeamsChats": "Zugehörige Teams-Chats",
         "noChatLinked": "Noch kein Chat verknüpft",
