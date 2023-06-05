@@ -178,6 +178,7 @@
     "confluenceReadOnlyModeTooltip": "{{atlassianProduct}} is in read-only mode",
     "editButtonTooltip": "Click to edit the calendar",
     "noSpaceEditPermissionTooltip": "It seems like you don't have space admin permissions",
+    "noProjectEditPermissionTooltip": "It seems like you don't have project admin permissions",
     "sidebarHeading": "Calendars"
   },
   "compactCalendar": {
@@ -710,6 +711,7 @@
     "emptyStateText": "It seems like you're the first one here.",
     "gettingStartedButton": "Getting started",
     "missingSpacePermissionEmptyStateText": "You don't have the permission to add calendars. Only {{atlassianProduct}} space admins are allowed to edit.",
+    "missingProjectPermissionEmptyStateText": "You don't have the permission to add calendars. Only {{atlassianProduct}} project admins are allowed to edit.",
     "readOnlyStateText": "{{atlassianProduct}} is in read-only mode. Please wait until {{atlassianProduct}} allows editing again."
   },
   "splitResourcesSetting": {

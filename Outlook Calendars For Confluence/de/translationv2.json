@@ -178,6 +178,7 @@
     "confluenceReadOnlyModeTooltip": "{{atlassianProduct}} ist im Schreibschutzmodus",
     "editButtonTooltip": "Zum Bearbeiten klicken",
     "noSpaceEditPermissionTooltip": "Du hast keine Bereichsadmin Berechtigungen",
+    "noProjectEditPermissionTooltip": "Du hast keine Projektadmin Berechtigungen",
     "sidebarHeading": "Kalender"
   },
   "compactCalendar": {
@@ -710,6 +711,7 @@
     "emptyStateText": "Es scheint du bist der Erste hier.",
     "gettingStartedButton": "Los gehts",
     "missingSpacePermissionEmptyStateText": "Du hast keine Berechtigungen Kalender hinzuzufügen. Nur {{atlassianProduct}} Bereichsadministratoren dürfen bearbeiten.",
+    "missingProjectPermissionEmptyStateText": "Du hast keine Berechtigungen Kalender hinzuzufügen. Nur {{atlassianProduct}} Projektadministratoren dürfen bearbeiten.",
     "readOnlyStateText": "{{atlassianProduct}} ist im Schreibschutzmodus. Warte bitte, bis {{atlassianProduct}} wieder bearbeiten erlaubt."
   },
   "splitResourcesSetting": {
