@@ -49,8 +49,7 @@
         "internalShort": "Internal",
         "publicShort": "Public",
         "softwareAddCommentShort": "With comment",
-        "tooltipExplanation": "Choose if a comment should be added",
-        "rememberUserChoice": "Remember last user choice"
+        "tooltipExplanation": "Choose if a comment should be added"
     },
     "sendbutton": {
         "label": "Send",
