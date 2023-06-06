@@ -135,5 +135,15 @@
     "atlassianProduct": {
         "jira": "Jira",
         "confluence": "Confluence"
+    },
+    "sharingChooser": {
+        "private": "Privat",
+        "shared": "Geteilt",
+        "agents": "Agenten",
+        "users": "Nutzer",
+        "privateDescription":"Nur Nutzer mit Zugang zu diesem Meeting können es sehen",
+        "sharedDescription":"{{group}} mit {{atlassianProduct}} Berechtigungen können dieses Meeting sehen",
+        "chooseMeetingPermissions": "Wähle, wer Zugang zu diesem Meeting haben soll",
+        "chooseMeetingAccess":"Wähle Meeting Zugang"
     }
 }
