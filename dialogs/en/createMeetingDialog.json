@@ -104,7 +104,10 @@
         "minuteShort": "min",
         "meetingDuration": "Meeting duration",
         "minutesShort": "{{minutes}} mins",
-        "meetingDurationTooltip": "Change the meeting duration"
+        "meetingDurationTooltip": "Change the meeting duration",
+        "allDay": "All day",
+        "custom": "Custom",
+        "duration": "Duration"
     },
     "timezonePicker": {
         "placeholder": "Select timezone"
