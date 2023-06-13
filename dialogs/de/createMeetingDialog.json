@@ -23,7 +23,8 @@
         "label": "Ganztägig"
     },
     "datetimeComponent": {
-        "meetingInPastTooltip": "Meeting liegt in der Vergangenheit"
+        "meetingInPastTooltip": "Meeting liegt in der Vergangenheit",
+        "differentTimeZone": "Deine lokale Zeit {{time}}"
     },
     "endField": {
         "dateLabel": "Enddatum",
@@ -107,7 +108,9 @@
         "meetingDurationTooltip": "Meetingdauer ändern",
         "allDay": "Ganztägig",
         "custom": "Benutzerdefiniert",
-        "duration": "Dauer"
+        "duration": "Dauer",
+        "showMoreOptions": "Zeige mehr Optionen",
+        "suggestionRangeLabel": "Vorschlagsspanne"
     },
     "timezonePicker": {
         "placeholder": "Zeitzone wählen"
@@ -144,9 +147,9 @@
         "shared": "Geteilt",
         "agents": "Agenten",
         "users": "Nutzer",
-        "privateDescription":"Nur Nutzer mit Zugang zu diesem Meeting können es sehen",
-        "sharedDescription":"{{group}} mit {{atlassianProduct}} Berechtigungen können dieses Meeting sehen",
+        "privateDescription": "Nur Nutzer mit Zugang zu diesem Meeting können es sehen",
+        "sharedDescription": "{{group}} mit {{atlassianProduct}} Berechtigungen können dieses Meeting sehen",
         "chooseMeetingPermissions": "Wähle, wer Zugang zu diesem Meeting haben soll",
-        "chooseMeetingAccess":"Wähle Meeting Zugang"
+        "chooseMeetingAccess": "Wähle Meeting Zugang"
     }
 }

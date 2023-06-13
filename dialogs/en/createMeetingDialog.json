@@ -23,7 +23,8 @@
         "label": "All day"
     },
     "datetimeComponent": {
-        "meetingInPastTooltip": "Meeting occurs in the past"
+        "meetingInPastTooltip": "Meeting occurs in the past",
+        "differentTimeZone": "Your local time {{time}}"
     },
     "endField": {
         "dateLabel": "End date",
@@ -107,7 +108,9 @@
         "meetingDurationTooltip": "Change the meeting duration",
         "allDay": "All day",
         "custom": "Custom",
-        "duration": "Duration"
+        "duration": "Duration",
+        "showMoreOptions": "Show more options",
+        "suggestionRangeLabel": "Suggestion range"
     },
     "timezonePicker": {
         "placeholder": "Select timezone"
