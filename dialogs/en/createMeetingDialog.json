@@ -37,7 +37,8 @@
     },
     "reminder": {
         "label": "Reminder",
-        "placeholder": "Set Reminder"
+        "placeholder": "Set Reminder",
+        "doNotSet": "Do not set"
     },
     "timezone": {
         "label": "Time zone"
@@ -152,9 +153,9 @@
         "shared": "Shared",
         "agents": "Agents",
         "users": "Users",
-        "privateDescription":"Only users with access to this meeting can view it",
-        "sharedDescription":"{{group}} with {{atlassianProduct}} access can view this meeting",
+        "privateDescription": "Only users with access to this meeting can view it",
+        "sharedDescription": "{{group}} with {{atlassianProduct}} access can view this meeting",
         "chooseMeetingPermissions": "Choose who should have access to this meeting",
-        "chooseMeetingAccess":"Choose Meeting Access"
+        "chooseMeetingAccess": "Choose Meeting Access"
     }
 }

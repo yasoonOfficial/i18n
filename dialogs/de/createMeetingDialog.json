@@ -37,7 +37,8 @@
     },
     "reminder": {
         "label": "Erinnerung",
-        "placeholder": "Erinnerung setzen"
+        "placeholder": "Erinnerung setzen",
+        "doNotSet":"Nicht setzen"
     },
     "timezone": {
         "label": "Zeitzone"
