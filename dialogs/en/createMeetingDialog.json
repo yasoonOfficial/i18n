@@ -17,7 +17,8 @@
     },
     "categoryPicker": {
         "formatCreateCategoryLabel": "Create category",
-        "categoryNoOptionsMessage": "No categories found"
+        "categoryNoOptionsMessage": "No categories found",
+        "label": "Category"
     },
     "alldayToggle": {
         "label": "All day"
@@ -75,7 +76,11 @@
         "tentative": "Tentative",
         "busy": "Busy",
         "oof": "Oof/away",
-        "showAs": "Show as"
+        "showAs": "Show as",
+        "label": "Availability"
+    },
+    "suggestedMeetingTimesToolbar": {
+        "label": "Suggested times"
     },
     "privateToggle": {
         "label": "Is private"

@@ -17,7 +17,8 @@
     },
     "categoryPicker": {
         "formatCreateCategoryLabel": "Kategorie erstellen",
-        "categoryNoOptionsMessage": "Keine Kategorien gefunden"
+        "categoryNoOptionsMessage": "Keine Kategorien gefunden",
+        "label": "Kategorie"
     },
     "alldayToggle": {
         "label": "Ganztägig"
@@ -75,7 +76,11 @@
         "tentative": "Mit Vorbehalt",
         "busy": "Beschäftigt",
         "oof": "Abwesend",
-        "showAs": "Anzeigen als"
+        "showAs": "Anzeigen als",
+        "label": "Verfügbarkeit"
+    },
+    "suggestedMeetingTimesToolbar": {
+        "label": "Vorschläge"
     },
     "privateToggle": {
         "label": "Privat"
