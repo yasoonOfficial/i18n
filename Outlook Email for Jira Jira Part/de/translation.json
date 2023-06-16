@@ -77,7 +77,7 @@
         "sharingTypeHelpText": "Wähle aus, welche Einstellung zum Teilen von E-Mails anfänglich ausgewählt sein soll. Der Nutzer kann dies vor dem Senden der E-Mail anpassen.",
         "addAsParticipantsHeader": "Vorgangsteilnehmer in JSM-Projekten",
         "addAsParticipantsIntro": "Anfängliche Auswahl",
-        "addAsParticipantsHelpText": "Wäle aus, welche Einstellung zum Hinzufügen von Vorgangsteilnehmern aus den Empfängern der E-Mail anfänglich ausgewählt sein soll. Der Nutzer kann dies vor dem Senden der E-Mail anpassen. Die Option zum Erstellen neuer Kunden ist nur für Agenten verfügbar, die auch Kunden erstellen können."
+        "addAsParticipantsHelpText": "Wähle aus, welche Einstellung zum Hinzufügen von Vorgangsteilnehmern aus den Empfängern der E-Mail anfänglich ausgewählt sein soll. Der Nutzer kann dies vor dem Senden der E-Mail anpassen. Die Option zum Erstellen neuer Kunden ist nur für Agenten verfügbar, die auch Kunden erstellen können."
     },
     "addAsParticipants": {
         "noneDescription": "Es werden keine weiteren Anfrageteilnehmer hinzugefügt.",
