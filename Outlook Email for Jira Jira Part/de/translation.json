@@ -69,7 +69,15 @@
         "globalOnBehalfOfExplanation": "Weitere Informationen zu den Berechtigungen findest du in {link}.",
         "adminSettingOnlyTooltip": "Dieses Postfach kann nur auf der Adminseite angepasst werden",
         "addMailboxButton": "Postfach hinzufügen",
-        "addAnotherMailboxButton": "Weiteres Postfach hinzufügen"
+        "addAnotherMailboxButton": "Weiteres Postfach hinzufügen",
+        "delegatedMailboxesHeader": "\"Im Namen von\"-Postfächer",
+        "delegatedMailboxesIntro": "Dies beruht auf der gleichen Logik, die auch Outlook verwendet, wenn man das \"Von\"-Feld ändert und benötigt die entsprechenden Berechtigungen. Hier konfigurierte Postfächer können vom Nutzer beim Senden einer E-Mail als Absender gewählt werden.",
+        "sharingTypeHeader": "Teilen von E-Mails",
+        "sharingTypeIntro": "Anfängliche Auswahl",
+        "sharingTypeHelpText": "Wähle aus, welche Einstellung zum Teilen von E-Mails anfänglich ausgewählt sein soll. Der Nutzer kann dies vor dem Senden der E-Mail anpassen.",
+        "addAsParticipantsHeader": "Vorgangsteilnehmer in JSM-Projekten",
+        "addAsParticipantsIntro": "Anfängliche Auswahl",
+        "addAsParticipantsHelpText": "Wäle aus, welche Einstellung zum Hinzufügen von Vorgangsteilnehmern aus den Empfängern der E-Mail anfänglich ausgewählt sein soll. Der Nutzer kann dies vor dem Senden der E-Mail anpassen. Die Option zum Erstellen neuer Kunden ist nur für Agenten verfügbar, die auch Kunden erstellen können."
     },
     "addAsParticipants": {
         "noneDescription": "Es werden keine weiteren Anfrageteilnehmer hinzugefügt.",

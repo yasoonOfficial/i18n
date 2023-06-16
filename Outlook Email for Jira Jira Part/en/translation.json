@@ -69,7 +69,15 @@
         "globalOnBehalfOfExplanation": "This uses the same logic as if the \"From\" field is changed in Outlook and requires the correct permissions to be granted. For more information on these permissions see {link}.",
         "adminSettingOnlyTooltip": "This mailbox can only be edited in the admin settings",
         "addMailboxButton": "Add mailbox",
-        "addAnotherMailboxButton": "Add another mailbox"
+        "addAnotherMailboxButton": "Add another mailbox",
+        "delegatedMailboxesHeader": "\"On behalf of\" accounts",
+        "delegatedMailboxesIntro": "Mailboxes configured here can be selected as a sender when sending an email.",
+        "sharingTypeHeader": "Email access",
+        "sharingTypeIntro": "Initial selection",
+        "sharingTypeHelpText": "Choose which sharing setting should be initially selected. You can change this setting before sending the email.",
+        "addAsParticipantsHeader": "Request participants in JSM projects",
+        "addAsParticipantsIntro": "Initial selection",
+        "addAsParticipantsHelpText": "Choose which recipients should be added as request participants. You can change this setting before sending the email. The option to create new customers is only available for agents able to create customers."
     },
     "addAsParticipants": {
         "noneDescription": "No additional request participants will be added.",
