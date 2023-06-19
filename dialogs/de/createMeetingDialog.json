@@ -18,8 +18,10 @@
     "categoryPicker": {
         "formatCreateCategoryLabel": "Kategorie erstellen",
         "categoryNoOptionsMessage": "Keine Kategorien gefunden",
-        "label": "Kategorie"
-    },
+        "label": "Kategorie",
+        "placeholderWithoutScope": "Kategorie anlegen",
+        "placeholderWithScope": "Kategorie anlegen oder wählen"
+},
     "alldayToggle": {
         "label": "Ganztägig"
     },

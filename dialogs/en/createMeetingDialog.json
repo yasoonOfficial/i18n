@@ -18,7 +18,9 @@
     "categoryPicker": {
         "formatCreateCategoryLabel": "Create category",
         "categoryNoOptionsMessage": "No categories found",
-        "label": "Category"
+        "label": "Category",
+        "placeholderWithoutScope": "Create a category",
+        "placeholderWithScope": "Create or select categories"
     },
     "alldayToggle": {
         "label": "All day"
