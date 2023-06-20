@@ -146,6 +146,11 @@
         "heading": "Welcome to {{ appName }}",
         "description": "Looks like you're using the app for the very first time. Please log in with your Microsoft 365 account to get started!"
     },
+    "officeLoginButton": {
+        "login": "Login",
+        "loginAs": "Login as",
+        "loginWithAccountChooser": "Login with account chooser"
+    },
     "atlassianProduct": {
         "jira": "Jira",
         "confluence": "Confluence"
