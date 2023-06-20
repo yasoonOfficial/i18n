@@ -354,9 +354,9 @@
         "rememberUserChoice": "Letze Nutzerauswahl merken"
     },
     "notificationSettings": {
-        "headline": "Benachrichtigungen in Teams",
+        "headline": "Benachrichtigungen in Teams-Konversationen",
         "intro": "Benachrichtungen bei Vorgangsänderungen",
-        "helpText": "Wähle aus, welche Vorgangsänderungen in Microsoft Teams gepostet werden sollen.",
+        "helpText": "Wähle aus, welche Vorgangsänderungen in Microsoft Teams-Konversationen gepostet werden sollen.",
         "newComment": "Neuer Kommentar",
         "includeInternal": "Einschließlich interner Kommentare",
         "statusChange": "Statusänderungen",

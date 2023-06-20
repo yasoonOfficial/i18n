@@ -354,9 +354,9 @@
         "rememberUserChoice": "Remember last user choice"
     },
     "notificationSettings": {
-        "headline": "Notifications in Teams",
+        "headline": "Channel notifications in Teams",
         "intro": "Configure notifications for linked issues",
-        "helpText": "Choose which updates to linked issues should be posted to Microsoft Teams.",
+        "helpText": "Choose which updates to linked issues should be posted into Microsoft Teams channels.",
         "newComment": "New comment",
         "includeInternal": "Include internal comments",
         "statusChange": "Status changes",
