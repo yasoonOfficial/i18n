@@ -116,6 +116,7 @@
         "headline": "Add to Issue",
         "imageRemovedPlaceholder": "Image removed",
         "shareWithCustomerButton": "Share with customer",
+        "linkOnlyTooltip": "The email will not be added as a comment to the issue, instead only a link will be created and it will show up in the \"Related emails\" section of the issue.",
         "commentInterallyButton": "Comment internally"
     },
     "addInstance": {
@@ -150,6 +151,7 @@
         "createButton": "Create",
         "cancelButton": "Cancel",
         "submit": "Submit",
+        "linkOnly": "Link",
         "fileUploadButton": " Browse.",
         "fileUploadButtonPreText": "Drop files to attach, or",
         "logout": "Logout",

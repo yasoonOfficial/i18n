@@ -117,6 +117,7 @@
         "headline": "Zu Vorgang hinzufügen",
         "imageRemovedPlaceholder": "Bild wurde entfernt",
         "shareWithCustomerButton": "Kunden antworten",
+        "linkOnlyTooltip": "Die E-Mail wird nicht als Kommentar an den Vorgang gehängt. Stattdessen wird nur eine Verknüpfung erstellt und die E-Mail wird unter \"Verknüpfte Vorgänge\" sichtbar sein.",
         "commentInterallyButton": "Internen Hinweis hinzufügen"
     },
     "addInstance": {
@@ -150,6 +151,7 @@
         "createButton": "Erstellen",
         "cancelButton": "Abbrechen",
         "submit": "Absenden",
+        "linkOnly": "Verknüpfen",
         "fileUploadButton": "suchen.",
         "fileUploadButtonPreText": "Dateien hierherziehen, oder",
         "logout": "Abmelden",
