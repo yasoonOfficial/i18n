@@ -30,7 +30,7 @@
         "link": "Verknüpfen",
         "close": "Schließen",
         "save": "Speichern",
-        "comingSoon": "Coming soon",
+        "comingSoon": "Bald verfügbar",
         "cloudNudge": "Dieses Feature gibt es schon für Jira Cloud und kommt bald auch für Server.",
         "settings": "Einstellungen",
         "notSure": "Nicht sicher",
@@ -48,7 +48,8 @@
         "dismiss": "Nicht mehr anzeigen",
         "wrongSystem": "Inkompatible Jira Instanz",
         "decline": "Ablehnen",
-        "approve": "Genehmigen"
+        "approve": "Genehmigen",
+        "copyUrl": "URL kopieren"
     },
     "error": {
         "serverNotSupported": "Jira Server wird noch nicht unterstützt",
@@ -364,7 +365,9 @@
         "issueChanges": "Änderungen am Vorgang",
         "issueFieldChanges": "Änderungen an Vorgangsfeldern",
         "assigneeChange": "Änderungen des Bearbeiters",
-        "dueDateChange": "Änderungen des Fälligkeitsdatums"
+        "dueDateChange": "Änderungen des Fälligkeitsdatums",
+        "chatNotifications": "Benachrichtigungen in Teams-Chats",
+        "chatNotificationsComingSoon": "Benachrichtigungen in Teams-Chats sind bereits über das JSM-Kundenportal in Microsoft Teams verfügbar. Konfiguriere Benachrichtigungen im Tab Kunden-Portal."
     },
     "projectSettings": {
         "defaultsTabHeading": "Voreinstellungen",
@@ -437,11 +440,15 @@
         "updatesPostedBy": "Benachrichtigungen werden geposted von",
         "approveNotificationsTooltip": "Damit diese App Benachrichtigungen schicken darf muss sie von einem Teams Admin approved werden.",
         "approveNotifications": "Benachrichtigungen approven",
-        "approveNotificationsInfo": "Um Benachrichtigungen für eine App zu approven, muss sie zuerst in Microsoft Teams installiert werden. Es kann nur eine App berechtigt werden, Benachrichtigungen zu posten.",
+        "approveNotificationsInfo": "Um Benachrichtigungen für eine App zu approven, muss sie zuerst in Microsoft Teams installiert werden. Die App muss im App-Katalog verfügbar sein. Bei persönlichen Installationen (sideloading) wird es zu Fehlern kommen. Es kann nur eine App berechtigt werden, Benachrichtigungen zu posten.",
         "notificationsApproveSuccess": "Benachrichtigungen approved",
         "notificationsApproveSuccessBody": "{{appName}} ist jetzt approved um Benachrichtigungen in Chats zu posten.",
         "notificationsApproveFailed": "Benachrichtigungen konnten nicht approved werden",
-        "notificationsApproveFailedBody": "{{appName}} konnte nicht approved werden, Benachrichtigungen in Chats zu posten. Das kann passieren, wenn die App noch nicht in Teams installiert wurde!"
+        "notificationsApproveFailedBody": "{{appName}} konnte nicht approved werden, Benachrichtigungen in Chats zu posten. Das kann passieren, wenn die App noch nicht in den Teams App-Katalog installiert wurde!",
+        "adminConsentRequired": "Approval eines Microsoft Admins benötigt",
+        "adminConsentRequiredInfo": "Um Benachrichtungen zu posten, benötigt die App den TeamsAppInstallation.ReadWriteForChat Microsoft Scope. Wenn du kein Microsoft Admin bist, schicke ihr diesen Link.",
+        "adminConsentCTA": "Als Microsoft Admin approven",
+        "removeNotifications": "Benachrichtigungen entfernen"
     },
     "templatePicker": {
         "recents": "Zuletzt verwendet",

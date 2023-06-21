@@ -48,7 +48,8 @@
         "dismiss": "Dismiss",
         "wrongSystem": "Incompatible Jira instance",
         "decline": "Decline",
-        "approve": "Approve"
+        "approve": "Approve",
+        "copyUrl": "Copy URL"
     },
     "error": {
         "serverNotSupported": "Jira Server is not supported yet",
@@ -364,7 +365,9 @@
         "issueChanges": "Issue changes",
         "issueFieldChanges": "Issue field changes",
         "assigneeChange": "Assignee changes",
-        "dueDateChange": "Due date changes"
+        "dueDateChange": "Due date changes",
+        "chatNotifications": "Chat notifications in Teams",
+        "chatNotificationsComingSoon": "You can already use chat notifications when using the JSM Teams portal. Configure them in the Customer portal tab."
     },
     "projectSettings": {
         "defaultsTabHeading": "Defaults",
@@ -437,11 +440,15 @@
         "updatesPostedBy": "Updates will be posted by",
         "approveNotificationsTooltip": "For this app to send notifications into chats, you need to approve it as an admin user.",
         "approveNotifications": "Approve notifications",
-        "approveNotificationsInfo": "To approve notifications for your app, you need to install it in Microsoft Teams first. Only one app can be approved to send notifications.",
+        "approveNotificationsInfo": "To approve notifications for your app, you need to install it in Microsoft Teams first. The app must be added to your organizations app catalog, personal installs (sideloading) will not work. Only one app can be approved to send notifications.",
         "notificationsApproveSuccess": "Notifications approved",
         "notificationsApproveSuccessBody": "{{appName}} is now approved to send notifications into chats.",
         "notificationsApproveFailed": "Notification approval failed",
-        "notificationsApproveFailedBody": "Could not approve {{appName}} to send notifications into chats. This can happen when you have not installed the app in Microsoft Teams yet."
+        "notificationsApproveFailedBody": "Could not approve {{appName}} to send notifications into chats. This can happen when you have not installed the app into your Microsoft Teams app catalog yet.",
+        "adminConsentRequired": "Microsoft admin consent required",
+        "adminConsentRequiredInfo": "You need to consent the TeamsAppInstallation.ReadWriteForChat Microsoft Graph scope for your organization to receive notifcations in chats via this app. If you are not a Microsoft admin, send this link to them.",
+        "adminConsentCTA": "Approve as Microsoft admin",
+        "removeNotifications": "Remove notifications"
     },
     "templatePicker": {
         "recents": "Recents",
