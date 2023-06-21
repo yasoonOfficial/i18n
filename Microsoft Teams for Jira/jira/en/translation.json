@@ -96,7 +96,8 @@
         "userFieldLoading": "Loading users ...",
         "userFieldPlaceholder": "Select a user",
         "userFieldNoResults": "We couldn't find a matching user.",
-        "issueFieldPreFilledTooltip": "This issue was selected based on issues already linked to this conversation."
+        "issueFieldPreFilledTooltip": "This issue was selected based on issues already linked to this conversation.",
+        "originalEstimate": "Original estimate"
     },
     "sharing": {
         "private": "Private",
@@ -300,8 +301,7 @@
             "angry": "Angry reaction"
         },
         "soloChatHeader": "You are alone in this chat.",
-        "soloChatDetails": "Seems like some members could not be added.",
-        "originalEstimate": "Original estimate"
+        "soloChatDetails": "Seems like some members could not be added."
     },
     "addBoardToTeams": {
         "addBoardToTeams": "Add board to Teams",
