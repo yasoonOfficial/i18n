@@ -300,7 +300,8 @@
             "angry": "Angry reaction"
         },
         "soloChatHeader": "You are alone in this chat.",
-        "soloChatDetails": "Seems like some members could not be added."
+        "soloChatDetails": "Seems like some members could not be added.",
+        "originalEstimate": "Original estimate"
     },
     "addBoardToTeams": {
         "addBoardToTeams": "Add board to Teams",
