@@ -97,7 +97,8 @@
         "userFieldPlaceholder": "Benutzer auswählen",
         "userFieldNoResults": "Keine passenden Benutzer gefunden.",
         "issueFieldPreFilledTooltip": "Der Vorgang wurde vorausgewählt basierend auf bereits mit dieser Konversation verknüpften Vorgängen.",
-        "assignToMe": "Mir zuweisen"
+        "assignToMe": "Mir zuweisen",
+        "originalEstimate": "Ursprüngliche Schätzung"
     },
     "teams": {
         "loadingIssues": "Lade Vorgänge ...",
