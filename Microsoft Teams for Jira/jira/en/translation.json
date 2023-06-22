@@ -301,7 +301,8 @@
             "angry": "Angry reaction"
         },
         "soloChatHeader": "You are alone in this chat.",
-        "soloChatDetails": "Seems like some members could not be added."
+        "soloChatDetails": "Seems like some members could not be added.",
+        "adaptiveCardPostedInChat": "A Jira request card has been posted to the chat. Please open the chat in Teams to view it."
     },
     "addBoardToTeams": {
         "addBoardToTeams": "Add board to Teams",
@@ -440,7 +441,7 @@
         "portalNotifications": "Notifications",
         "updatesPostedBy": "Updates will be posted by",
         "approveNotificationsTooltip": "For this app to send notifications into chats, you need to approve it as an admin user.",
-        "approveNotifications": "Approve notifications",
+        "approveNotifications": "Enable notifications",
         "approveNotificationsInfo": "To approve notifications for your app, you need to install it in Microsoft Teams first. The app must be added to your organizations app catalog, personal installs (sideloading) will not work. Only one app can be approved to send notifications.",
         "notificationsApproveSuccess": "Notifications approved",
         "notificationsApproveSuccessBody": "{{appName}} is now approved to send notifications into chats.",
@@ -449,7 +450,7 @@
         "adminConsentRequired": "Microsoft admin consent required",
         "adminConsentRequiredInfo": "You need to consent the TeamsAppInstallation.ReadWriteForChat Microsoft Graph scope for your organization to receive notifcations in chats via this app. If you are not a Microsoft admin, send this link to them.",
         "adminConsentCTA": "Approve as Microsoft admin",
-        "removeNotifications": "Remove notifications"
+        "removeNotifications": "Disable notifications"
     },
     "templatePicker": {
         "recents": "Recents",
