@@ -37,6 +37,20 @@
         "dateLabel": "Start date",
         "timeLabel": "Start time"
     },
+    "systemTemplate": {
+        "email": {
+            "displayName": "Default Email Template",
+            "detailDescription": "Default template for emails. It will fill the subject with an issue's summary."
+        },
+        "meetings": {
+            "displayName": "Default Meetings Template",
+            "detailDescription": "Default template for meetings. It will fill the title with an issue's key and summary. The body will contain a link to the issue."
+        },
+        "chat": {
+            "displayName": "Default Chat Template",
+            "detailDescription": "Default template for chats. It will fill the title with an issue's key and summary. The body will contain a link to the issue."
+        }
+    },
     "reminder": {
         "label": "Reminder",
         "placeholder": "Set Reminder",
