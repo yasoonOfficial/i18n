@@ -452,7 +452,8 @@
         "adminConsentRequired": "Microsoft admin consent required",
         "adminConsentRequiredInfo": "You need to consent the TeamsAppInstallation.ReadWriteForChat Microsoft Graph scope for your organization to receive notifcations in chats via this app. If you are not a Microsoft admin, send this link to them.",
         "adminConsentCTA": "Approve as Microsoft admin",
-        "removeNotifications": "Disable notifications"
+        "removeNotifications": "Disable notifications",
+        "enableNotificationsAskAdmin": "To post updates, enable notifications in the customer portal settings."
     },
     "templatePicker": {
         "recents": "Recents",

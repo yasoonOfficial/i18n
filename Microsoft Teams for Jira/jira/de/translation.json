@@ -452,7 +452,8 @@
         "adminConsentRequired": "Approval eines Microsoft Admins benötigt",
         "adminConsentRequiredInfo": "Um Benachrichtungen zu posten, benötigt die App den TeamsAppInstallation.ReadWriteForChat Microsoft Scope. Wenn du kein Microsoft Admin bist, schicke ihr diesen Link.",
         "adminConsentCTA": "Als Microsoft Admin berechtigen",
-        "removeNotifications": "Benachrichtigungen ausschalten"
+        "removeNotifications": "Benachrichtigungen ausschalten",
+        "enableNotificationsAskAdmin": "Um Benachrichtigungen zu posten, müssen diese in den Einstellungen des Kunden-Portals aktiviert werden."
     },
     "templatePicker": {
         "recents": "Zuletzt verwendet",
