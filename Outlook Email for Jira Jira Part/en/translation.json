@@ -77,15 +77,20 @@
         "sharingTypeHelpText": "Choose which sharing setting should be initially selected. You can change this setting before sending the email.",
         "addAsParticipantsHeader": "Request participants in JSM projects",
         "addAsParticipantsIntro": "Initial selection",
-        "addAsParticipantsHelpText": "Choose which recipients should be added as request participants. You can change this setting before sending the email. The option to create new customers is only available for agents able to create customers."
+        "addAsParticipantsHelpText": "Choose which recipients should be added as request participants. You can change this setting before sending the email. The option to create new customers is only available for agents able to create customers.",
+        "commentVisibilityHeader": "Add issue comment",
+        "commentVisibilityIntro": "Initial selection",
+        "commentVisibilityHelpText": "Choose whether a comment should be added to the issue when sending an email. You can change this setting before sending the email."
     },
     "addAsParticipants": {
         "noneDescription": "No additional request participants will be added.",
         "existingOnlyDescription": "Only already existing users and customer users will be added.",
         "createOnDemandDescription": "Add existing users and create customer users if necessary.",
+        "rememberUserChoiceDescription": "Remember last user choice",
         "noneLabel": "None",
         "existingOnlyLabel": "Existing users",
         "createOnDemandLabel": "Create new customers",
+        "rememberUserChoiceLabel": "Remember last user choice",
         "sectionTitle": "Choose if \"To\" and \"Cc\" recipients should be added as request participants",
         "tooltipExplanation": "Choose if recipients should be added as participants"
     },
@@ -105,11 +110,13 @@
         "privateLabel": "Private",
         "azureTenantLabel": "Organization",
         "atlassianCloudLabel": "Issue access",
+        "rememberUserChoiceLabel": "Remember last user choice",
         "privateDescription": "Only I can see this conversation",
         "agent": "agent",
         "user": "user",
         "azureTenantDescription": "Every {{user}} in my organization can see this conversation",
         "atlassianCloudDescription": "Every {{user}} with access to this issue can see this conversation",
+        "rememberUserChoiceDescription": "Remember last user choice",
         "sectionTitle": "Choose who should be able to see this conversation",
         "triggerTooltip": "Choose who should be able to see this conversation"
     },

@@ -77,15 +77,20 @@
         "sharingTypeHelpText": "Wähle aus, welche Einstellung zum Teilen von E-Mails anfänglich ausgewählt sein soll. Der Nutzer kann dies vor dem Senden der E-Mail anpassen.",
         "addAsParticipantsHeader": "Vorgangsteilnehmer in JSM-Projekten",
         "addAsParticipantsIntro": "Anfängliche Auswahl",
-        "addAsParticipantsHelpText": "Wähle aus, welche Einstellung zum Hinzufügen von Vorgangsteilnehmern aus den Empfängern der E-Mail anfänglich ausgewählt sein soll. Der Nutzer kann dies vor dem Senden der E-Mail anpassen. Die Option zum Erstellen neuer Kunden ist nur für Agenten verfügbar, die auch Kunden erstellen können."
+        "addAsParticipantsHelpText": "Wähle aus, welche Einstellung zum Hinzufügen von Vorgangsteilnehmern aus den Empfängern der E-Mail anfänglich ausgewählt sein soll. Der Nutzer kann dies vor dem Senden der E-Mail anpassen. Die Option zum Erstellen neuer Kunden ist nur für Agenten verfügbar, die auch Kunden erstellen können.",
+        "commentVisibilityHeader": "Kommentar am Vorgang erstellen",
+        "commentVisibilityIntro": "Anfängliche Auswahl",
+        "commentVisibilityHelpText": "Wähle aus, ob beim Senden einer E-Mail ein Kommentar am Vorgang erstellt werden soll. Der Nutzer kann dies vor dem Senden der E-Mail anpassen."
     },
     "addAsParticipants": {
         "noneDescription": "Es werden keine weiteren Anfrageteilnehmer hinzugefügt.",
         "existingOnlyDescription": "Nur bereits existierende Nutzer und Kunden werden hinzugefügt.",
         "createOnDemandDescription": "Bereits existierende Nutzer hinzufügen und bei Bedarf neue Kunden erstellen.",
+        "rememberUserChoiceDescription": "Die vom Nutzer zuletzt gewählte Option wird als Standard verwendet.",
         "noneLabel": "Keine",
         "existingOnlyLabel": "Existierende Nutzer",
         "createOnDemandLabel": "Neue Kunden erstellen",
+        "rememberUserChoiceLabel": "Letze Nutzerauswahl merken",
         "sectionTitle": "Wähle, ob \"An\"- und \"Cc\"-Empfänger als Anfrageteilnehmer hinzugefügt werden sollen",
         "tooltipExplanation": "Wähle, ob die Empfänger als Anfrageteilnehmer hinzugefügt werden sollen"
     },
@@ -111,11 +116,13 @@
         "privateLabel": "Privat",
         "azureTenantLabel": "Organisation",
         "atlassianCloudLabel": "Vorgangszugriff",
+        "rememberUserChoiceLabel": "Letzte Nutzerauswahl merken",
         "privateDescription": "Nur ich kann diese Konversation sehen",
         "agent": "Agent",
         "user": "Nutzer",
         "azureTenantDescription": "Jeder {{user}} in meiner Organisation kann diese Konversation sehen",
         "atlassianCloudDescription": "Jeder {{user}} mit Zugriff auf diesen Vorgang kann diese Konversation sehen",
+        "rememberUserChoiceDescription": "Die vom Nutzer zuletzt gewählte Option wird als Standard verwendet.",
         "sectionTitle": "Wähle, wer diese Konversation sehen können soll",
         "triggerTooltip": "Wähle, wer diese Konversation sehen können soll"
     },
