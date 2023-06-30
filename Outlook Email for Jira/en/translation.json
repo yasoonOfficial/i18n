@@ -301,6 +301,8 @@
         "project": "Project",
         "issueType": "Issue Type",
         "issue": "Parent issue",
+        "epic": "Epic Link",
+        "plan": "Parent Link",
         "requesttype": "Request Type",
         "comment": "Comment",
         "attachment": "Attachments",

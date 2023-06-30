@@ -302,6 +302,8 @@
         "project": "Projekt",
         "issueType": "Vorgangstyp",
         "issue": "Übergeordneter Vorgang",
+        "epic": "Epic Link",
+        "plan": "Parent Link",
         "requesttype": "Anfragetyp",
         "comment": "Kommentar",
         "attachment": "Anhänge",
