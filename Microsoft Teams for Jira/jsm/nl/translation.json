@@ -1,0 +1,87 @@
+{
+    "general": {
+        "create": "Maak",
+        "cancel": "Afsluiten",
+        "remove": "Verwijderen",
+        "browse": "Bladeren",
+        "loadMore": "Meer laden..",
+        "learnMore": "Meer leren",
+        "showMore": "Meer opties",
+        "showFewer": "Laat minder zien",
+        "decline": "Afgekeurd",
+        "approve": "Goedkeuren",
+        "loading": "Laden..",
+        "selectOption": "Selecteer een optie:",
+        "share": "Delen",
+        "add": "Toevoegen"
+    },
+    "error": {
+        "microsoftLogin": "Kan Microsoft-login niet verifiéren. Vernieuw de pagina en probeer het opnieuw.",
+        "createIssue": "Kan geen ticket aanmaken, controleer de velden.",
+        "fileUpload": "Sommige van uw bestanden lijken ongeldig te zijn.",
+        "noUserFound": "Een gebruiker met e-mailadres {{email}} is niet gevonden in deze serviceportaal."
+    },
+    "search": {
+        "placeholder": "Zoek naar veelvoorkomende problemen..",
+        "noResultsFor": "Geen resultaten gevonden voor'{{query}}'.",
+        "articles": "Artikelen",
+        "requestTypes": "Stuur een aanvraag over"
+    },
+    "chooseDesk": {
+        "heading": "Kies een service desk",
+        "subHeading": "Welkom! Kies een servicedesk en dien uw ondersteuningsverzoek in.",
+        "typeChooserPlaceholder": "Selecteer een servicedesk"
+    },
+    "welcomeChooseInfo": "Welkom! Dien een serviceverzoek in voor {{serviceDeskName}} uit de aanboden opties.",
+    "createTicket": {
+        "typeChooserLabel": "Waar kunnen we je mee helpen?",
+        "submitSuccess": "Uw aanvraag {{issueKey}} is ingediend.",
+        "selectLabel": "Selecteer labels",
+        "labelsLoading": "Labels laden.."
+    },
+    "fieldErrorBoundary": {
+        "errorMessage": "Dit veld is gecrasht.",
+        "reportInstruction": "Stuur feedback"
+    },
+    "jiraUserContextMenu": {
+        "openJira": "Open Jira"
+    },
+    "suggestions": {
+        "heading": "Voorgestelde artikelen"
+    },
+    "fields": {
+        "dropzoneHelptext": "Zet bestanden neer of klik om te selecteren",
+        "userFieldLoading": "Gebruikers laden..",
+        "userFieldPlaceholder": "Selecteer een gebruiker",
+        "userFieldNoResults": "We konden geen overeenkomende gebruiker vinden."
+    },
+    "myRequests": {
+        "heading": "Mijn aanvragen",
+        "newRequest": "Nieuwe aanvraag",
+        "tableHeader": {
+            "type": "Type",
+            "reference": "Referentie",
+            "summary": "Samenvatting",
+            "status": "Status",
+            "serviceProject": "Service project"
+        },
+        "noSummary": "Geen samenvatting",
+        "activity": "Activiteit",
+        "editorPlaceholder": "Wat wil je zeggen?",
+        "requestType": "Aanvraag type",
+        "status": "Status",
+        "viewInJira": "Bekijk in Jira",
+        "viewMoreInJira": "Bekijk meer in Jira",
+        "showMore": "Toon {{amount}} meer",
+        "raisedThis": "Dit opgeworpen",
+        "relatedChats": "Gerelateerde chats",
+        "optionalComment": "Optioneel commentaar",
+        "attachmentsNotice": "Zie bijlagen hieronder",
+        "approvalRequired": "Dit verzoek vereist uw goedkeuring",
+        "sharedWith": "Gedeeld met",
+        "creator": "Aanmaker",
+        "selectRequestParticipants": "Selecteer verzoekdeelnemers",
+        "requestParticipantsNotAllAdded": "Niet alle deelnemers konden worden toegevoegd.",
+        "participantsNoResults": "Geen resultaten"
+    }
+}
