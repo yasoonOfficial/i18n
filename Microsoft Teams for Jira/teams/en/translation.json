@@ -226,5 +226,8 @@
         "getHelp": "Get help",
         "help": "Help",
         "useCasesHelpText": "We have compiled a list of use cases to give you a head start."
+    },
+    "chatTab": {
+        "viewInJira": "Open in Jira"
     }
 }
