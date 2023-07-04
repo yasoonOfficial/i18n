@@ -304,7 +304,11 @@
         },
         "soloChatHeader": "You are alone in this chat.",
         "soloChatDetails": "Seems like some members could not be added.",
-        "adaptiveCardPostedInChat": "A Jira request card has been posted to the chat. Please open the chat in Teams to view it."
+        "adaptiveCardPostedInChat": "A Jira request card has been posted to the chat. Please open the chat in Teams to view it.",
+        "disableSharedWithField": "Disable 'Shared with' field",
+        "disableSharedWithFieldHelpText": "Disables the 'Shared with' field when creating requests. This does not disable the 'Shared with' field when viewing an existing request.",
+        "disableKbArticles": "Disable knowledge base article suggestions",
+        "disableKbArticlesHelpText": "Disables knowledge base article suggestions inside of the request creation form and search."
     },
     "addBoardToTeams": {
         "addBoardToTeams": "Add board to Teams",

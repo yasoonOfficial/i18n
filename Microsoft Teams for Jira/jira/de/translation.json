@@ -304,7 +304,11 @@
         },
         "soloChatHeader": "Du bist allein in diesem Chat.",
         "soloChatDetails": "Scheint so als konnten manche Teilnehmer nicht hinzugefügt werden.",
-        "adaptiveCardPostedInChat": "Eine Jira Anfragekarte wurde in den Chat gepostet. Bitte öffnen Sie den Chat in Teams, um ihn anzusehen."
+        "adaptiveCardPostedInChat": "Eine Jira Anfragekarte wurde in den Chat gepostet. Bitte öffnen Sie den Chat in Teams, um ihn anzusehen.",
+        "disableSharedWithField": "Teilnehmer-Feld verstecken",
+        "disableSharedWithFieldHelpText": "Versteckt das Teilnehmer-Feld beim Anlegen von neuen Anfragen. Das Feld wird nicht bei der Ansicht von bestehenden Anfragen versteckt.",
+        "disableKbArticles": "Vorgeschlagene Article deaktivieren",
+        "disableKbArticlesHelpText": "Deaktiviert das Anzeigen von vorgeschlagenen Artikeln aus der Knowledge Base und aus der Suche."
     },
     "addBoardToTeams": {
         "addBoardToTeams": "Board zu Teams hinzufügen",
