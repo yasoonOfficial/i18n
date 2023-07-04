@@ -308,7 +308,9 @@
         "disableSharedWithField": "Teilnehmer-Feld verstecken",
         "disableSharedWithFieldHelpText": "Versteckt das Teilnehmer-Feld beim Anlegen von neuen Anfragen. Das Feld wird nicht bei der Ansicht von bestehenden Anfragen versteckt.",
         "disableKbArticles": "Vorgeschlagene Article deaktivieren",
-        "disableKbArticlesHelpText": "Deaktiviert das Anzeigen von vorgeschlagenen Artikeln aus der Knowledge Base und aus der Suche."
+        "disableKbArticlesHelpText": "Deaktiviert das Anzeigen von vorgeschlagenen Artikeln aus der Knowledge Base und aus der Suche.",
+        "collectCsat": "CSAT Feedback sammeln",
+        "collectCsatHelpText": "Erfragt CSAT Feedback nachdem ein Vorgang abgeschlossen wurde."
     },
     "addBoardToTeams": {
         "addBoardToTeams": "Board zu Teams hinzufügen",

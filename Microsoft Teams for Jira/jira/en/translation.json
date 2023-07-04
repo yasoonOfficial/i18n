@@ -308,7 +308,9 @@
         "disableSharedWithField": "Disable 'Shared with' field",
         "disableSharedWithFieldHelpText": "Disables the 'Shared with' field when creating requests. This does not disable the 'Shared with' field when viewing an existing request.",
         "disableKbArticles": "Disable knowledge base article suggestions",
-        "disableKbArticlesHelpText": "Disables knowledge base article suggestions inside of the request creation form and search."
+        "disableKbArticlesHelpText": "Disables knowledge base article suggestions inside of the request creation form and search.",
+        "collectCsat": "Collect CSAT",
+        "collectCsatHelpText": "Collect CSAT feedback after a request has been resolved."
     },
     "addBoardToTeams": {
         "addBoardToTeams": "Add board to Teams",
