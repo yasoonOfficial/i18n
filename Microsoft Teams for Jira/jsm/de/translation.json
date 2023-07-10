@@ -19,7 +19,8 @@
         "microsoftLogin": "Microsoft login fehlgeschlagen. Bitte neu laden.",
         "createIssue": "Vorgang konnte nicht angelegt werden, bitte Felder überprüfen!",
         "fileUpload": "Upload fehlgeschlagen. Bitte Dateien überprüfen",
-        "noUserFound": "Es wurde kein Benutzer mit der E-Mail-Adresse {{email}} in diesem Service-Portal gefunden."
+        "noUserFound": "Es wurde kein Benutzer mit der E-Mail-Adresse {{email}} in diesem Service-Portal gefunden.",
+        "transitionError": "Fehler beim ändern des Status. Bitte versuche es später erneut."
     },
     "search": {
         "placeholder": "Suchen..",

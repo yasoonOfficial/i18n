@@ -20,7 +20,8 @@
         "createIssue": "Nie mozna stworzyć zgłoszenia, sprawdź pola!",
         "fileUpload": "Niektóre twoje pliki są niewłaściwe.",
         "noUserFound": "Użytkownik o takim adresie email {{email}} nie został znaleziony na tym portalu.",
-        "noIssueFound": "Nie znaleziono problemu lub nie masz uprawnień, aby go wyświetlić."
+        "noIssueFound": "Nie znaleziono problemu lub nie masz uprawnień, aby go wyświetlić.",
+        "transitionError": "Nie można wykonać przejścia. Spróbuj ponownie później."
     },
     "search": {
         "placeholder": "Szukaj częstych problemów ...",

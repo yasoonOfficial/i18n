@@ -20,7 +20,8 @@
         "createIssue": "Kan geen ticket aanmaken, controleer de velden.",
         "fileUpload": "Sommige van uw bestanden lijken ongeldig te zijn.",
         "noUserFound": "Een gebruiker met e-mailadres {{email}} is niet gevonden in deze serviceportaal.",
-        "noIssueFound": "Ticket niet gevonden of u heeft geen toestemming om het te bekijken."
+        "noIssueFound": "Ticket niet gevonden of u heeft geen toestemming om het te bekijken.",
+        "transitionError": "Kon de overgang niet uitvoeren. Probeer het later nog eens."
     },
     "search": {
         "placeholder": "Zoek naar veelvoorkomende problemen..",
