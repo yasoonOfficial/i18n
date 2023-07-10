@@ -19,7 +19,8 @@
         "microsoftLogin": "Microsoft login fallito. Ricaricare per favore.",
         "createIssue": "Segnalazione non è riuscito creare, controllare i campi per favore!",
         "fileUpload": "Upload fallito. Controllare i file per favore!",
-        "noUserFound": "Non è riuscito di trovare un'utente con l'indirizzo d'email {{email}} in questo portale di servizio."
+        "noUserFound": "Non è riuscito di trovare un'utente con l'indirizzo d'email {{email}} in questo portale di servizio.",
+        "noIssueFound": "Il segnalazione non è stato trovato o non si ha il permesso di visualizzarlo."
     },
     "search": {
         "placeholder": "Cerca..",

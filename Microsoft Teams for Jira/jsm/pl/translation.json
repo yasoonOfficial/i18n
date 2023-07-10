@@ -19,7 +19,8 @@
         "microsoftLogin": "Nie można zweryfikować logowania Microsoft. Odswież stronę i spróbuj ponownie.",
         "createIssue": "Nie mozna stworzyć zgłoszenia, sprawdź pola!",
         "fileUpload": "Niektóre twoje pliki są niewłaściwe.",
-        "noUserFound": "Użytkownik o takim adresie email {{email}} nie został znaleziony na tym portalu."
+        "noUserFound": "Użytkownik o takim adresie email {{email}} nie został znaleziony na tym portalu.",
+        "noIssueFound": "Nie znaleziono problemu lub nie masz uprawnień, aby go wyświetlić."
     },
     "search": {
         "placeholder": "Szukaj częstych problemów ...",

@@ -19,7 +19,8 @@
         "microsoftLogin": "Could not verify Microsoft login. Please refresh and try again.",
         "createIssue": "Couldn't create issue, please check fields!",
         "fileUpload": "Some of your files appear to be invalid.",
-        "noUserFound": "A user with email address {{email}} was not found in this service portal."
+        "noUserFound": "A user with email address {{email}} was not found in this service portal.",
+        "noIssueFound": "Issue not found, or you don't have permission to view it."
     },
     "search": {
         "placeholder": "Search for common issues..",

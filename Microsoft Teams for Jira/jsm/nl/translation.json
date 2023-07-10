@@ -19,7 +19,8 @@
         "microsoftLogin": "Kan Microsoft-login niet verifiéren. Vernieuw de pagina en probeer het opnieuw.",
         "createIssue": "Kan geen ticket aanmaken, controleer de velden.",
         "fileUpload": "Sommige van uw bestanden lijken ongeldig te zijn.",
-        "noUserFound": "Een gebruiker met e-mailadres {{email}} is niet gevonden in deze serviceportaal."
+        "noUserFound": "Een gebruiker met e-mailadres {{email}} is niet gevonden in deze serviceportaal.",
+        "noIssueFound": "Ticket niet gevonden of u heeft geen toestemming om het te bekijken."
     },
     "search": {
         "placeholder": "Zoek naar veelvoorkomende problemen..",
