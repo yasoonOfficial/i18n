@@ -205,7 +205,9 @@
         "boardInstance": "Die Jira Instanz diese Boards",
         "nonJiraUserPermissions": "Nutzer ohne Jira Account dürfen",
         "allowNonJiraUsersForBoard": "dieses Board sehen",
-        "allowNonJiraUsersTransitions": "den Status von Vorgängen ändern"
+        "allowNonJiraUsersTransitions": "den Status von Vorgängen ändern",
+        "backToBoard": "Zurück zum Board",
+        "backToParent": "Zurück zum übergeordneten Vorgang"
     },
     "support": {
         "faq": "FAQ",

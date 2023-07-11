@@ -205,7 +205,9 @@
         "boardInstance": "This boards Jira instance",
         "nonJiraUserPermissions": "Allow users without Jira account",
         "allowNonJiraUsersForBoard": "to see this board",
-        "allowNonJiraUsersTransitions": "to perform issue status transitions"
+        "allowNonJiraUsersTransitions": "to perform issue status transitions",
+        "backToBoard": "Back to board",
+        "backToParent": "Back to parent"
     },
     "support": {
         "faq": "FAQ",
