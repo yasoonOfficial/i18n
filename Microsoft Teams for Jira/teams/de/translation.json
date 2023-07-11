@@ -207,7 +207,8 @@
         "allowNonJiraUsersForBoard": "dieses Board sehen",
         "allowNonJiraUsersTransitions": "den Status von Vorgängen ändern",
         "backToBoard": "Zurück zum Board",
-        "backToParent": "Zurück zum übergeordneten Vorgang"
+        "backToParent": "Zurück zum übergeordneten Vorgang",
+        "brokenPage": "Du hast eine Seite erreicht, die nicht existiert."
     },
     "support": {
         "faq": "FAQ",

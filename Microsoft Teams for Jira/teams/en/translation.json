@@ -207,7 +207,8 @@
         "allowNonJiraUsersForBoard": "to see this board",
         "allowNonJiraUsersTransitions": "to perform issue status transitions",
         "backToBoard": "Back to board",
-        "backToParent": "Back to parent"
+        "backToParent": "Back to parent",
+        "brokenPage": "Seems like you found a broken page."
     },
     "support": {
         "faq": "FAQ",
