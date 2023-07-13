@@ -1,0 +1,27 @@
+{
+    "header": {
+        "meetingCount": "Scheduled Meetings: {{count}}",
+        "noMeetingsScheduled": "No meetings have been scheduled yet."
+    },
+    "cardOptionsDropdown": {
+        "showMoreOptions": "Show More Options",
+        "options": "Options",
+        "openInWeb": "Open in Web",
+        "cancel": "Cancel"
+    },
+    "scheduledMeetingCard": {
+        "inviteMyself": "Invite Myself",
+        "sharedIconTooltip": "Shared Meeting",
+        "privateIconTooltip": "Private Meeting"
+    },
+    "officeLoginScreen": {
+        "loginButtonLabel": "Log in with Microsoft 365",
+        "heading": "Welcome to {{ appName }}",
+        "description": "Looks like you're using the app for the very first time. Please log in with your Microsoft 365 account to get started!"
+    },
+    "officeLoginButton": {
+        "login": "Login",
+        "loginAs": "Login as",
+        "loginWithAccountChooser": "Login with account chooser"
+    }
+}
