@@ -213,7 +213,7 @@
         "portalAppDownloadInstructions": "Lade hier die App im .ZIP-Format herunter und installiere sie in Microsoft Teams. Unter 'Erfahre mehr' erfährst du, wie die App zu installieren ist.",
         "downloadApp": "App herunterladen",
         "saveSettings": "Bitte speichere die Konfiguration, lade die App herunter und installiere sie in Microsoft Teams.",
-        "criticalSettingChanged": "Du hast eine Einstellung angepasst, die ein erneutes installieren der Teams App benötigt.",
+        "criticalSettingChanged": "Eine der Änderungen erfordert die Neu-Installation der Teams App.",
         "bannerImageUrl": "Banner Bild URL",
         "bannerImageExamplesHeader": "Beispiele von unsplash.com",
         "jsmStepOne": "Schritt 1: App Konfiguration",
