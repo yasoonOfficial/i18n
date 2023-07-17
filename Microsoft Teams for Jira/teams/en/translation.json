@@ -208,7 +208,12 @@
         "allowNonJiraUsersTransitions": "to perform issue status transitions",
         "backToBoard": "Back to board",
         "backToParent": "Back to parent",
-        "brokenPage": "Seems like you found a broken page."
+        "brokenPage": "Seems like you found a broken page.",
+        "attachments": "Attachments",
+        "description": "Description",
+        "subtasks": "Subtasks",
+        "involvedPeople": "Involved people",
+        "relatedConversations": "Related Teams conversations"
     },
     "support": {
         "faq": "FAQ",

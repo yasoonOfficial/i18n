@@ -208,7 +208,12 @@
         "allowNonJiraUsersTransitions": "den Status von Vorgängen ändern",
         "backToBoard": "Zurück zum Board",
         "backToParent": "Zurück zum übergeordneten Vorgang",
-        "brokenPage": "Du hast eine Seite erreicht, die nicht existiert."
+        "brokenPage": "Du hast eine Seite erreicht, die nicht existiert.",
+        "attachments": "Anhänge",
+        "description": "Beschreibung",
+        "subtasks": "Untergeordnete Vorgänge",
+        "involvedPeople": "Involvierte Personen",
+        "relatedConversations": "Verknüpfte Teams-Konversationen"
     },
     "support": {
         "faq": "FAQ",
