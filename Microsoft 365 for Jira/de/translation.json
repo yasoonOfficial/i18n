@@ -55,12 +55,12 @@
         "getInTouch": "Kontaktiere uns"
     },
     "productDescription": {
-        "teams-cloud": "Bringe deine Microsoft Teams Konversationen und Chats zu deinen Jira Vorgängen und vice versa.",
+        "teams-cloud": "Bringe deine Microsoft Teams Unterhaltungen und Chats zu deinen Jira Vorgängen und vice versa.",
         "email-cloud": "Erstelle und bearbeite Vorgängen aus deinem Outlook Postfach. Verknüpfe Emails mit Jira Vorgängen und sende Emails aus Jira heraus.",
         "meetings-cloud": "Buche Microsoft Teams und Outlook Termine in Jira. Siehe Verfügbarkeiten und sende Terminanfragen aus Jira.",
         "calendar-cloud": "Füge einen Kalender zu Projekten hinzu und zeige Outlook und Jira Termine.",
         "todo-cloud": "Erstelle und finde persönliche To Dos in Jira Vorgängen oder synchronisiere deine Jira Vorgänge automatisch.",
-        "teams-server": "Bringe deine Microsoft Teams Konversationen und Chats zu deinen Jira Vorgängen und vice versa.",
+        "teams-server": "Bringe deine Microsoft Teams Unterhaltungen und Chats zu deinen Jira Vorgängen und vice versa.",
         "email-server": "Erstelle und bearbeite Vorgängen aus deinem Outlook Postfach mit unserem mächtigen Outlook Add-in.",
         "meetings-server": "Buche Microsoft Teams und Outlook Termine in Jira. Siehe Verfügbarkeiten und sende Terminanfragen aus Jira.",
         "calendar-server": "Füge einen Kalender zu Projekten hinzu und zeige Outlook und Jira Termine an."
@@ -128,8 +128,8 @@
         "intro1": "Hi Admin!",
         "intro2": "Hier ist ",
         "intro3": "Verbinde Jira mit deinen Microsoft 365-Tools für eine nahtlose Teamarbeit. Aktiviere unten die benötigte Funktionalität.",
-        "teamsInfo": "Verknüpfe deine Microsoft Teams Konversationen und Chats mit deinen Jira Vorgängen. Oder verwendest du Jira Service Management? Dann ermögliche deinen Kunden Support Vorgänge direkt in Microsoft Teams zu erstellen.",
-        "emailInfo": "Erstelle und bearbeite Jira Vorgängen aus deinem Outlook Postfach und bringe Jira Vorgängen in den Jira Kontext. Verfolge gesamte Email Konversationen aus Jira und teile, lese oder sende Emails direkt aus Jira.",
+        "teamsInfo": "Verknüpfe deine Microsoft Teams Unterhaltungen und Chats mit deinen Jira Vorgängen. Oder verwendest du Jira Service Management? Dann ermögliche deinen Kunden Support Vorgänge direkt in Microsoft Teams zu erstellen.",
+        "emailInfo": "Erstelle und bearbeite Jira Vorgängen aus deinem Outlook Postfach und bringe Jira Vorgängen in den Jira Kontext. Verfolge gesamte Email Unterhaltungen aus Jira und teile, lese oder sende Emails direkt aus Jira.",
         "meetingsInfo": "Buche Microsoft Teams und Outlook Termine aus deinem Jira Vorgang: Sehe Verfügbarkeiten von relevanten Nutzern und versende Terminanfragen direkt aus Jira.",
         "calendarInfo": "Füge einen Kalender zu Projekten hinzu und zeige Outlook und Jira Termine an.",
         "licenseExpiredHeading": "Die Lizenz ist abgelaufen",
@@ -225,6 +225,371 @@
         "savePropertyFailedTitle": "Ändern fehlgeschlagen",
         "savePropertyFailedMessage": "Hier ist etwas schiefgegangen. Bitte lade die Seite neu."
     },
+    "automationScreen": {
+        "tabs": {
+            "gettingStarted": "Einstieg",
+            "actions": "Aktionen",
+            "trigger": "Trigger",
+            "auditLog": "Audit-Protokoll",
+            "help": "Hilfe"
+        }
+    },
+    "gettingStartedScreen": {
+        "heading": "Verbinde Jira Automation mit Microsoft 365",
+        "overviewSubheading": "Einstieg",
+        "overviewDescription": "Auf Basis von Jira Automation kannst du dir mit Microsoft 365 for Jira Automatisierungsregeln ohne Coding einrichten.",
+        "card": {
+            "triggers": {
+                "heading": "Microsoft 365-Trigger",
+                "description": "Trigger starten die Ausführung deiner Automatisierungsregeln. Die Trigger werden von Microsoft 365 an Jira gesendet, wenn eine bestimmte Bedingung erfüllt ist, z.B. wenn ein Microsoft Teams-Chat in deinem Vorgang gestartet wird. Verwende den ”Eingehender Webhook“-Trigger in Jira Automation und füge die Jira Webhook-URL ein, um einen Microsoft 365-Trigger zu erstellen.",
+                "button": "Erfahre mehr",
+                "goButton": "Trigger erstellen"
+            },
+            "actions": {
+                "heading": "Microsoft 365-Aktionen",
+                "description": "Aktionen in Microsoft 365 werden ausgelöst, wenn eine bestimmte Bedingung in Jira erfüllt ist. Sie ermöglichen dir, Aufgaben zu automatisieren, wie zum Beispiel das Hinzufügen eines Back-ups deiner Microsoft Teams-Chats zu deinem Vorgang oder das Posten einer Benachrichtigung in einem Teams-Kanal. Konfiguriere deine Automatisierungsregel mit der ”Web-Anfrage senden“-Aktion. Du erhältst die notwendige URL nach dem Erstellen der Microsoft 365-Aktion.",
+                "button": "Erfahre mehr",
+                "goButton": "Aktion erstellen"
+            }
+        },
+        "exploreHeading": "Erkunde die Möglichkeiten",
+        "exploreDescription": "Es gibt viele Möglichkeiten Automation zu nutzen. Hier kannst du weiterlesen und dich inspirieren lassen, wie du mit Jira Automation und Microsoft 365 deine Prozesse verbessern kannst.",
+        "exploreButton": "Lass dich inspirieren"
+    },
+    "actionScreen": {
+        "description": "Aktionen ermöglichen es dir, Aufgaben in Microsoft 365 auszuführen. Wir stellen dir eine URL zur Verfügung, die du mit der \"Web-Anfrage senden\"-Aktion in Jira Automation verwenden kannst.",
+        "actionTypeHeader": "Typ",
+        "nameHeader": "Name",
+        "idHeader": "Id",
+        "creatorHeader": "Besitzer",
+        "descriptionHeader": "Beschreibung",
+        "activeHeader": "Aktiv",
+        "editButton": "Bearbeiten",
+        "createButton": "Aktion erstellen",
+        "deleteButton": "Löschen",
+        "deleteAction": "Aktion löschen",
+        "cancelButton": "Abbrechen",
+        "deleteActionWarning": "Bist du sicher, dass du diese Aktion löschen möchtest? Bitte stelle sicher, dass diese Aktion nicht in einer Jira Automation verwendet wird, da diese dann nicht mehr funktioniert.",
+        "copyButton": "Webhook URL kopieren",
+        "authorizeButton": "Autorisieren",
+        "emptyStateHeading": "Du hast noch keine Aktionen konfiguriert",
+        "learnMore": "Mehr erfahren"
+    },
+    "triggerScreen": {
+        "description": "Trigger starten die Ausführung deiner Automatisierungsregeln, indem sie den \"Eingehender Webhook\"-Trigger in Jira Automation aufrufen.",
+        "idHeader": "Id",
+        "typeHeader": "Typ",
+        "nameHeader": "Name",
+        "descriptionHeader": "Beschreibung",
+        "creatorHeader": "Besitzer",
+        "activeHeader": "Aktiv",
+        "createButton": "Trigger erstellen",
+        "deleteButton": "Trigger löschen",
+        "emptyStateHeading": "Du hast noch keine Trigger konfiguriert",
+        "learnMore": "Mehr erfahren"
+    },
+    "templateScreen": {
+        "backButton": "Zurück zur Übersicht"
+    },
+    "template": {
+        "action": {
+            "heading": "Aktionen erstellen",
+            "create-chatTitle": "Chat in Teams erstellen",
+            "create-chatDescription": "Sende eine Nachricht in einen neuen Teams-Chat und füge Teilnehmende hinzu.",
+            "create-chatConfigDescription": "Chat-Einstellungen",
+            "create-chatDescriptionPlaceholder": "Diese Aktion erstellt einen Chat in Teams, wenn (...).\nErstellt von: {{atlassianUser}}\nVerwendet in Projekt: (...)",
+            "create-conversationTitle": "Konversation in Teams erstellen",
+            "create-conversationDescription": "Sende eine Nachricht in einem Teams-Kanal.",
+            "create-conversationConfigDescription": "Konversations-Einstellungen",
+            "create-conversationDescriptionPlaceholder": "Diese Aktion erstellt eine Kanal-Konversation in Teams, wenn (...).\nErstellt von: {{atlassianUser}}\nVerwendet in Projekt: (...)",
+            "reply-conversationsTitle": "Teams-Konversation beantworten",
+            "reply-conversationsDescription": "Sende eine Nachricht in einem Teams-Kanal als Antwort auf eine Kanal-Konversation.",
+            "reply-conversationsConfigDescription": "Konversations-Einstellungen",
+            "reply-conversationsDescriptionPlaceholder": "Diese Aktion antwortet auf eine Kanal-Konversation in Teams, wenn (...).\nErstellt von: {{atlassianUser}}\nVerwendet in Projekt: (...)",
+            "reply-conversationTitle": "Teams-Konversation beantworten",
+            "reply-conversationDescription": "Sende eine Nachricht in einem Teams-Kanal als Antwort auf eine Kanal-Konversation.",
+            "reply-conversationConfigDescription": "Konversations-Einstellungen",
+            "reply-conversationDescriptionPlaceholder": "Diese Aktion antwortet auf eine Kanal-Konversation in Teams, wenn (...).\nErstellt von: {{atlassianUser}}\nVerwendet in Projekt: (...)",
+            "create-teams-backupTitle": "Teams-Backup erstellen",
+            "create-teams-backupDescription": "Erstelle ein Backup von verlinkten Chats und/oder Konversationen in Teams.",
+            "create-teams-backupConfigDescription": "Backup-Einstellungen",
+            "create-teams-backupDescriptionPlaceholder": "Diese Aktion erstellt ein Backup von verlinkten Chats und/oder Unterhaltungen in Teams, wenn (...).\nErstellt von: {{atlassianUser}}\nVerwendet in Projekt: (...)",
+            "create-meetingTitle": "Meeting erstellen",
+            "create-meetingDescription": "Erstelle ein Outlook Meeting und füge Teilnehmende hinzu.",
+            "create-meetingConfigDescription": "Meeting-Einstellungen",
+            "create-meetingDescriptionPlaceholder": "Diese Aktion erstellt ein Outlook Meeting, wenn (...).\nErstellt von: {{atlassianUser}}\nVerwendet in Projekt: (...)",
+            "send-bot-messageTitle": "Bot-Nachricht senden",
+            "send-bot-messageDescription": "Sende eine private Bot-Nachricht in Teams an die Nutzer, die den Bot installiert haben.",
+            "send-bot-messageConfigDescription": "Bot-Nachricht-Einstellungen",
+            "send-bot-messageDescriptionPlaceholder": "Diese Aktion sendet eine private Bot Nachricht in Teams, wenn (...).\nErstellt von: {{atlassianUser}}\nVerwendet in Projekt: (...)",
+            "send-emailTitle": "E-Mail senden",
+            "send-emailDescription": "Sende eine E-Mail an die Person deiner Wahl.",
+            "send-emailConfigDescription": "E-Mail-Einstellungen",
+            "send-emailDescriptionPlaceholder": "Diese Aktion sendet eine E-Mail, wenn (...).\nErstellt von: {{atlassianUser}}\nVerwendet in Projekt: (...)"
+        },
+        "trigger": {
+            "heading": "Trigger erstellen",
+            "jiraTrigger": "von Jira",
+            "teamsTrigger": "von Microsoft Teams",
+            "chat-createdTitle": "Teams-Chat erstellt",
+            "chat-createdDescription": "Wird ausgeführt, wenn ein Chat in Teams mit Microsoft 365 for Jira erstellt wurde.",
+            "chat-createdConfigDescription": "Chat-Einstellungen",
+            "chat-createdDescriptionPlaceholder": "Dieser Trigger wird ausgeführt, wenn ein Chat in Teams mit der Microsoft 365 for Jira App erstellt wurde (...).\nErstellt von: {{atlassianUser}}\nVerwendet in Projekt: (...)",
+            "conversation-createdTitle": "Teams-Konversation erstellt",
+            "conversation-createdDescription": "Wird ausgeführt, wenn eine Konversation in Teams mit Microsoft 365 for Jira erstellt wurde.",
+            "conversation-createdConfigDescription": "Kanal-Konversationseinstellungen",
+            "conversation-createdDescriptionPlaceholder": "Dieser Trigger wird ausgeführt, wenn eine Unterhaltung in Teams mit der Microsoft 365 for Jira App gestartet wurde (...).\nErstellt von: {{atlassianUser}}\nVerwendet in Projekt: (...)",
+            "teams-backup-createdTitle": "Teams Backup erstellt",
+            "teams-backup-createdDescription": "Wird ausgeführt, wenn ein Backup in Teams mit der Microsoft 365 for Jira App erstellt wurde.",
+            "teams-backup-createdConfigDescription": "Backup-Einstellungen",
+            "teams-backup-createdDescriptionPlaceholder": "Dieser Trigger wird ausgeführt, wenn ein Backup in Teams mit der Microsoft 365 for Jira App erstellt wurde (...).\nErstellt von: {{atlassianUser}}\nVerwendet in Projekt: (...)",
+            "meeting-createdTitle": "Meeting erstellt",
+            "meeting-createdDescription": "Wird ausgeführt, wenn ein Meeting in Outlook mit Microsoft 365 for Jira erstellt wurde.",
+            "meeting-createdConfigDescription": "Meeting-Einstellungen",
+            "meeting-createdDescriptionPlaceholder": "Dieser Trigger wird ausgeführt, wenn ein Meeting in Outlook mit der Microsoft 365 for Jira App erstellt wurde (...).\nErstellt von: {{atlassianUser}}\nVerwendet in Projekt: (...)",
+            "teams-channel-regexTitle": "Nachricht im Teams-Kanal",
+            "teams-channel-regexDescription": "Wird ausgeführt, wenn der Teams-Bot eine bestimmte Nachricht oder Keyword im Teams-Kanal erhält.",
+            "teams-channel-regexConfigDescription": "Nachrichteneinstellungen",
+            "teams-channel-regexDescriptionPlaceholder": "Dieser Trigger wird ausgeführt, wenn der Teams-Bot eine bestimmte Nachricht oder Keyword im Teams-Kanal erhält (...).\nErstellt von: {{atlassianUser}}\nVerwendet in Projekt: (...)",
+            "teams-personal-regexTitle": "Teams Persönliche Nachricht erhalten",
+            "teams-personal-regexDescription": "Wird ausgeführt, wenn der Teams-Bot eine bestimmte Nachricht oder Keyword erhält.",
+            "teams-personal-regexConfigDescription": "Nachrichteneinstellungen",
+            "teams-personal-regexDescriptionPlaceholder": "Dieser Trigger wird ausgeführt, wenn der Teams-Bot eine bestimmte Nachricht oder Keyword erhält (...).\nErstellt von: {{atlassianUser}}\nVerwendet in Projekt: (...)",
+            "email-sentTitle": "E-Mail gesendet",
+            "email-sentDescription": "Wird ausgeführt, wenn eine E-Mail in Jira gesendet wurde.",
+            "email-sentConfigDescription": "E-Mail-Einstellungen",
+            "email-sentDescriptionPlaceholder": "Dieser Trigger wird ausgeführt, wenn eine E-Mail in Jira gesendet wurde (...).\nErstellt von: {{atlassianUser}}\nVerwendet in Projekt: (...)"
+        },
+        "M365Only": "Nur für Microsoft 365 nutzer verfügbar",
+        "comingSoon": "Bald verfügbar"
+    },
+    "createActionScreen": {
+        "titleLabel": "Aktion Name",
+        "descriptionLabel": "Aktion beschreibung",
+        "backButton": "Zurück zur Übersicht",
+        "submitButton": "Aktion erstellen"
+    },
+    "createTriggerScreen": {
+        "titleLabel": "Trigger Name",
+        "descriptionLabel": "Trigger beschreibung",
+        "backButton": "Zurück zur Übersicht",
+        "submitButton": "Trigger erstellen"
+    },
+    "editActionScreen": {
+        "titleLabel": "Aktion Name",
+        "descriptionLabel": "Aktion beschreibung",
+        "backButton": "Zurück zur Übersicht",
+        "submitButton": " Aktion speichern"
+    },
+    "createChatScreen": {
+        "heading": "Teams Chat erstellen",
+        "description": "Bitte konfiguriere den neuen Chat. Er wird automatisch mit dem Vorgang aus der Automatisierungsregel verknüpft. ",
+        "chatTitle": "Chat Name",
+        "chatMessage": "Chat-Nachricht",
+        "chatAccess": "Chatzugang",
+        "chatMember": "Chat-Teilnehmer",
+        "chatMembersPlaceholder": "Wähle die Chat-Teilnehmer",
+        "chatCreator": "Chat-Ersteller",
+        "chatCreatorDescription": "Aus Sicherheitsgründen können Sie derzeit nur einen Benutzer als Chat-Ersteller auswählen und autorisieren. Dieser Benutzer wird auch Teil des Chats sein. Wir empfehlen, einen Service-Benutzer zu erstellen, bis wir die dynamische Benutzerauswahl unterstützen.",
+        "placeholder": "Wähle den Chat-Ersteller",
+        "noOptions": "Keine Optionen",
+        "typeToSearch": "Tippen Sie, um nach Benutzern zu suchen"
+    },
+    "backupTeamsMessagesScreen": {
+        "heading": "Teams Backup erstellen",
+        "description": "Aktuell ist es nur möglich Teams-Chats zu sichern, die Unterstützung von Teams-Kanal-Konversationen folgt in Kürze.",
+        "chatsMessages": "Ein Backup aller Teams-Chats erstellen",
+        "conversationMessages": "Ein Backup einer Teams Unterhaltung erstellen",
+        "addKeywordComment": "Füge einen Kommentar mit Keywords zum Jira-Vorgang hinzu",
+        "addKeywordCommentInfo": "Dadurch kann das Chat-Backup in Jira mit der nativen Suche gefunden werden."
+    },
+    "createConversationScreen": {
+        "heading": "Teams Unterhaltung erstellen",
+        "description": "Bitte konfiguriere die neue Kanal Unterhaltung. Sie wird mit dem ausgewählten Bot versenden und automatisch mit dem Issue aus der Automation Regel verknüpft.",
+        "issueCard": "Vorgangskarte",
+        "customMessage": "Eigene Nachricht",
+        "conversationType": "Nachrichtentyp",
+        "conversationMessage": "Unterhaltungs Nachricht",
+        "channelChooser": "Teams Kanal",
+        "channelChooserTooltip": "Bitte wählen Sie den gewünschten Teams Kanal aus. Beachten, dass nur Teams Kanäle ausgewählt werden können, in denen der ausgewählte Bot installiert ist.",
+        "botChooser": "Teams bot"
+    },
+    "botField": {
+        "smartConnectLabel": "Smart Connect für Jira",
+        "botPlaceholder": "Wähle den Bot aus",
+        "comingSoon": "Bald verfügbar"
+    },
+    "replyTeamsConversationScreen": {
+        "heading": "Teams Unterhaltung beantworten",
+        "description": "Bitte konfiguriere Details der Kanal-Konversation. Die möglichen Einstellungen findest du in unserer Dokumentation.",
+        "conversationMessage": "Unterhaltungs Nachricht",
+        "singleConversation": "Einzelne Unterhaltung",
+        "specificConversation": "Einzelne Unterhaltung",
+        "linkedConversations": "Alle verknüpften Unterhaltungen",
+        "conversationType": "Nachrichtentyp",
+        "requiresCustomWebbhookData": "Bitte wähle benutzerdefinierte Daten für den Webhook aus, wenn du auf eine bestimmte Unterhaltung antworten möchtest."
+    },
+    "createSendBotMessageScreen": {
+        "heading": "Bot Nachricht senden",
+        "description": "Bitte konfiguriere die neue Bot-Nachricht. Bitte beachte, dass die Nutzer den Bot installiert haben müssen.",
+        "botMessageLabel": "Bot-Nachricht",
+        "usersLabel": "Benutzer",
+        "usersPlaceholder": "Wähle die Nachrichten Empfänger",
+        "botChooser": "Teams Bot"
+    },
+    "sendEmailScreen": {
+        "heading": "E-Mail senden",
+        "description": "Bitte konfiguriere die Details für die E-Mail. Die möglichen Einstellungen findest du in unserer Dokumentation.",
+        "fromLabel": "Von",
+        "fromPlaceholder": "Wähle den Absender aus",
+        "fromDescription": "Der Absender der E-Mail, bitte stelle sicher, dass der Absender in deinem Microsoft 365 Tenant verifiziert ist. Aus Sicherheitsgründen kannst du derzeit nur einen Benutzer als Absender der E-Mail auswählen und autorisieren.",
+        "typeToSearch": "Tippe, um nach Benutzern zu suchen",
+        "noOptions": "Keine Optionen",
+        "subjectLabel": "Betreff",
+        "toLabel": "An",
+        "toPlaceholder": "Wähle die Empfänger aus",
+        "ccLabel": "Cc",
+        "ccPlaceholder": "Wähle die Cc Empfänger aus",
+        "bccLabel": "Bcc",
+        "bccPlaceholder": "Wähle die Bcc Empfänger aus",
+        "bodyLabel": "E-Mail",
+        "mailSharingLabel": "E-Mail Zugang",
+        "triggerTooltip": "Wer soll diese Unterhaltung sehen dürfen?",
+        "disabledTriggerTooltip": "Du kannst diese E-Mail nicht mit einem Vorgang teilen, wenn die Aktion nicht im Kontext eines Vorgangs ausgeführt wird.",
+        "sendInWorkHoursLabel": "Senden während der Arbeitszeit",
+        "sendInWorkHoursDescription": "Wenn aktiviert, wird die E-Mail nur während der Arbeitszeit gesendet. Wenn die Aktion außerhalb der Arbeitszeit ausgeführt wird, wird die E-Mail am nächsten Arbeitstag eingeplant.",
+        "workingHours": {
+            "daysOfWeekHeading": "Tage der Woche",
+            "workingHoursHeading": "Arbeitszeit",
+            "startTimeLabel": "Startzeit",
+            "endTimeLabel": "Endzeit",
+            "timeZoneText": "Die Zeitzone für deine Arbeitszeit ist {{timeZone}}.",
+            "timeZonePlaceholder": "Wähle eine Zeitzone aus"
+        }
+    },
+    "mailSharingChooser": {
+        "privateLabel": "Privat",
+        "azureTenantLabel": "Organisation",
+        "atlassianCloudLabel": "Vorgang",
+        "privateDescription": "Nur ich kann diese Unterhaltung sehen",
+        "azureTenantDescription": "Jeder Benutzer in meiner Organisation kann diese Unterhaltung sehen",
+        "atlassianCloudDescription": "Jeder Benutzer mit Zugang zu diesem Vorgang kann diese Unterhaltung sehen",
+        "sectionTitle": "Wähle aus, wer diese Unterhaltung sehen darf"
+    },
+    "auditLogScreen": {
+        "action": {
+            "typeHeader": "Type",
+            "idHeader": "Id",
+            "nameHeader": "Name",
+            "statusHeader": "Status",
+            "dateHeader": "Datum",
+            "buttonLabel": "Ausgeführte Aktionen",
+            "emptyState": "Keine ausgeführten Aktionen vorhanden.",
+            "dataHeader": "Details"
+        },
+        "trigger": {
+            "typeHeader": "Type",
+            "idHeader": "Id",
+            "nameHeader": "Name",
+            "statusHeader": "Status",
+            "dateHeader": "Datum",
+            "buttonLabel": "Ausgeführte Trigger",
+            "emptyState": "Keine ausgeführten Trigger vorhanden.",
+            "dataHeader": "Details"
+        },
+        "status": {
+            "failed": "Fehlgeschlagen",
+            "retrying": "Wird wiederholt",
+            "success": "Erfolgreich"
+        },
+        "refreshItems": "Aktualisieren"
+    },
+    "chatAccess": {
+        "chooseChatPermissions": "Wähle aus, wer Zugang zu diesem Chat in Jira haben soll",
+        "private": "Privat",
+        "shared": "Geteilt",
+        "sharedAndAllowJoining": "Geteilt & beitreten erlauben",
+        "onlyMembersChat": "Nur Chat-Teilnehmer haben Zugriff in Jira.",
+        "contextChatAccess": "Nutzer mit Zugang zum Vorgang können den Chat sehen.",
+        "contextChatAllowJoining": "Nutzer mit Zugang zum Vorgang können den Chat sehen und beitreten.",
+        "rememberUserChoice": "Letze Nutzerauswahl merken"
+    },
+    "channelSelect": {
+        "noChannelSelectOptions": "Keine Kanäle gefunden. Du kannst nur Kanäle finden, die 'Smart Connect for Jira' installiert haben.",
+        "noChannelSelectOptionsHelp": "Kanal nicht gefunden?",
+        "selectChannel": "Kanal auswählen",
+        "privateChannelNotSupported": "Private Kanäle sind derzeit nicht unterstützt",
+        "appNotInstalledInTeam": "Die App ist noch nicht in diesem Team installiert.",
+        "learnWhy": "Lerne wieso"
+    },
+    "officeLoginScreen": {
+        "loginButtonLabel": "Mit Microsoft 365 anmelden",
+        "heading": "Willkommen bei Microsoft 365 Automatisierungen",
+        "description": "Bitte melde dich mit deinem Microsoft 365-Konto an, um loszulegen.",
+        "backButtonLabel": "Zurück"
+    },
+    "officeLoginMSALScreen": {
+        "heading": "Erneut mit Microsoft anmelden",
+        "subHeading": "Du musst dich erneut anmelden. Dies wird wahrscheinlich von deinen Browsereinstellungen verursacht.",
+        "reAuthenticateButtonLabel": "Erneut anmelden",
+        "backButtonLabel": "Zurück"
+    },
+    "userPicker": {
+        "staticUser": "Statischer Benutzer",
+        "jiraField": "Jira Feld",
+        "textfieldPlaceholder": "Tippe zum suchen",
+        "placeholder": "Tippe zum suchen",
+        "noOptions": "Keine Optionen",
+        "typeToSearch": "Tippen Sie für die Suche",
+        "preferGuestUsers": "Gast-Benutzer vor externen Benutzern vorziehen",
+        "preferGuestUsersExplainer": "Wenn es für eine gegebene Email-Addresse einen Gast-Benutzer gibt, präferriere diesen."
+    },
+    "actionSuccess": {
+        "header": "Aktion wurde erfolgreich erstellt",
+        "descriptionAuthRequired1": "Die Aktion mit dem Namen {{name}} wurde erfolgreich erstellt.",
+        "descriptionAuthRequired2": "Bitte beachte, dass die Aktion von dem gewünschten Microsoft-Benutzer autorisiert werden muss (das könnte der Administrator sein).",
+        "descriptionAuthRequired3": "Verwende die folgende URL für die „Webanfrage senden“-Aktion in Jira Automatisierung",
+        "authorizeButton": "Autorisieren",
+        "authorizeLaterButton": "Später autorisieren",
+        "learnMore": "Mehr erfahren",
+        "error": "Etwas ist schief gelaufen"
+    },
+    "actorLogin": {
+        "header": "Aktion autorisieren",
+        "generalDescription": "Der Jira-Benutzer {{user}} ({{email}}) möchte Zugriff auf Microsoft 365, um die folgende Automatisierung zu erstellen:",
+        "inBehalfOf": "Um im Namen des Microsoft 365-Benutzers {{user}} zu handeln, benötigt er die folgenden Microsoft Graph Berechtigungen:",
+        "authorize": "Autorisieren",
+        "redirect": "Die Autorisierung wird zu https://login.microsoft.com weiterleiten",
+        "poweredBy": "Powered by",
+        "noToken": "Die URL enthält keinen oder ein ungültiges Token. Bitte starte die Anmeldung erneut und stelle sicher, dass du die gesamte URL kopierst, wenn du sie weiterleitest.",
+        "expiredToken": "Der Token ist abgelaufen. Bitte starte die Anmeldung erneut.",
+        "authorizationSuccessful": "Autorisierung erfolgreich, du kannst dieses Fenster schließen."
+    },
+    "actionName": {
+        "create-chat": "Chat erstellen",
+        "send-email": "E-Mail senden"
+    },
+    "automationPageHeading": "Automation",
+    "multipleRundSettings": {
+        "label": "Erlaube der Aktion mehrmals ausgeführt zu werden"
+    },
+    "userField": {
+        "microsoftUser": "Microsoft Nutzer",
+        "jiraField": "Jira Feld",
+        "jiraUser": "Jira Nutzer",
+        "emailAddress": "E-Mail Adresse"
+    },
+    "editorField": {
+        "actions": {
+            "trigger": "Jira Details",
+            "issueKey": "Issue Schlüssel",
+            "issueKeyDescription": "Fügt den Jira Issue Schlüssel ein",
+            "issueSummary": "Issue Zusammenfassung",
+            "issueSummaryDescription": "Fügt die Jira Issue Zusammenfassung ein",
+            "issueDueDate": "Issue Fälligkeitsdatum",
+            "issueDueDateDescription": "Fügt das Jira Issue Fälligkeitsdatum ein"
+        }
+    },
     "userSettingsScreen": {
         "settingsHeader": "Microsoft 365 Einstellungen",
         "connectedAccountsHeader": "Verbundene Accounts",
@@ -263,6 +628,80 @@
             "msalMessage": "Bitte re-authentifiziere dich mit MSAL, um den Login zu vervollständigen.",
             "msalLoginButton": "Authentifizieren"
         }
+    },
+    "projectPicker": {
+        "globalOption": "Global"
+    },
+    "chatCreatedConfigScreen": {
+        "heading": "Teams Chat erstellt",
+        "description": "Bitte wähle, ob die Aktion nur für Chats in bestimmten Projekten oder global ausgeführt werden soll.",
+        "scopeField": "Umfang",
+        "projectsField": "Projekte",
+        "global": "Global",
+        "projects": "Nach Projekten",
+        "projectPickerPlaceholder": "Wähle ein oder mehrere Projekte aus"
+    },
+    "conversationCreatedTriggerScreen": {
+        "heading": "Teams Unterhaltung erstellt",
+        "description": "Bitte wähle, ob die Aktion nur für Kanal-Konversationen in bestimmten Projekten oder global ausgeführt werden soll.",
+        "scopeField": "Umfang",
+        "projectsField": "Projekte",
+        "global": "Global",
+        "projects": "Nach Projekten",
+        "projectPickerPlaceholder": "Wähle ein oder mehrere Projekte aus"
+    },
+    "emailSentConfigScreen": {
+        "heading": "E-Mail gesendet",
+        "description": "Bitte wähle, ob die Aktion nur für E-Mails in bestimmten Projekten oder global ausgeführt werden soll.",
+        "scopeField": "Umfang",
+        "projectsField": "Projekte",
+        "global": "Global",
+        "projects": "Nach Projekten",
+        "projectPickerPlaceholder": "Wähle ein oder mehrere Projekte aus"
+    },
+    "channelRegexConfigScreen": {
+        "heading": "Teams Kanal Nachricht erhalten",
+        "description": "Bitte wähle, für welches Nachrichtenmuster der Trigger ausgeführt werden soll.",
+        "regexField": "Nachrichtenmuster (Regulärer Ausdruck)",
+        "botField": "Teams bot",
+        "messageTypeField": "Nachrichtentyp",
+        "limitToChannel": "Nur für Nachrichten in diesem Kanal ausführen",
+        "additionalSectionMessage": "Der ausgewählte Nachrichtentyp könnte keine Issues im Webhook-Body liefern.",
+        "channelSelectLabel": "+ Teams Kanal",
+        "regexFieldTooltip": "Wir verwenden reguläre Ausdrücke, um eine passende Nachricht im Teams Kanal zu finden.",
+        "regexHelpButtonTooltip": "Du kannst deinen regulären Ausdruck testen, indem du auf die Schaltfläche 'Abspielen' klickst."
+    },
+    "personalRegexConfigScreen": {
+        "heading": "Teams persönliche Bot Nachricht erhalten",
+        "description": "Bitte wähle, für welches Nachrichtenmuster der Trigger ausgeführt werden soll.",
+        "botField": "Teams bot",
+        "regexField": "Nachrichtenmuster (Regulärer Ausdruck)",
+        "regexFieldTooltip": "Wir verwenden reguläre Ausdrücke, um eine passende Nachricht im Teams Kanal zu finden.",
+        "regexHelpButtonTooltip": "Du kannst deinen regulären Ausdruck testen, indem du auf die Schaltfläche 'Abspielen' klickst."
+    },
+    "incomingWebhookConfigScreen": {
+        "descriptionHeading": "Jira Automation “Eingehender Webhook” konfigurieren",
+        "description": "Bitte konfiguriere den Trigger “Eingehender Webhook” in Jira Automation, der der unten stehenden Konfiguration entspricht.",
+        "heading": "Eingehender Webhook",
+        "urlField": "Webhook-URL",
+        "urlFieldPlaceholder": "Füge die URL ein, die vom “Eingehender Webhook” Trigger bereitgestellt wird.",
+        "lineText": "<Deine bestehende Jira Automation>",
+        "jiraConfigTitle": "Diese Automatisierungsregel ausführen mit:",
+        "jiraProvidedOption": "Im Webhook HTTP-POST-Text bereitgestellte Vorgänge",
+        "jiraJQLOption": "Durch die Ausführung der folgenden JQL-Suche bereitgestellte Vorgänge",
+        "jiraNoIssuesOption": "Keine Vorgänge aus dem Webhook",
+        "automationLinkButtonTooltip": "Gehe zu Jira Automation und erstelle eine Regel mit einem “Eingehender Webhook” Trigger",
+        "webhookDataConfigTooltip": "Bitte konfiguriere einen “Eingehender Webhook” Trigger in Jira wie hier gezeigt."
+    },
+    "channelMessageTypes": {
+        "all": "Alle Nachrichten",
+        "allDescription": "Trigger bei allen Nachrichten, die in einem Teams Kanal gepostet werden",
+        "topLevelOnly": "Neue Kanal Unterhaltung",
+        "topLevelOnlyDescription": "Trigger bei neuenen Kanal Unterhaltungen (top-level) in Teams.",
+        "linkedReplyOnly": "Antworten auf eine Unterhaltung",
+        "linkedReplyOnlyDescription": "Trigger bei Antworten auf eine bestehende Unterhaltung in Teams die zu Vorgang veknüft ist.",
+        "replyOnly": "Alle Antworten",
+        "replyOnlyDescription": "Trigger bei allen Antworten in Teams."
     },
     "templateOverviewScreen": {
         "emailTabname": "E-Mail",
@@ -413,12 +852,33 @@
             "detailDescription": "Standardvorlage für Chats. Sie befüllt den Titel mit dem Key und der Zusammenfassung des Issues. Im Inhalt wird ein Link zum Issue eingefügt."
         }
     },
-    "userPicker": {
-        "staticUser": "Statischer Benutzer",
-        "jiraField": "Jira-Feld",
-        "textfieldPlaceholder": "Tippe zum suchen",
-        "placeholder": "Tippe zum suchen",
-        "preferGuestUsers": "Gast-Benutzer vor externen Benutzern vorziehen",
-        "preferGuestUsersExplainer": "Wenn es für eine gegebene Email-Addresse einen Gast-Benutzer gibt, präferriere diesen."
+    "triggerOutput": {
+        "buttonLabel": "Trigger-Daten für die Jira Automation anzeigen",
+        "descriptionText1": "Du kannst die folgenden Daten des Triggers überall dort verwenden, wo Smart-Values mit dem  ",
+        "descriptionText2": " Format unterstützt werden.",
+        "exampleText": "Zum Beispiel: "
+    },
+    "webhookConfigScreen": {
+        "descriptionHeading": "Jira Automation “Web-Anfrage senden” konfiguration",
+        "description": "Bitte konfiguriere eine “Web-Anfrage senden” Aktion in der Jira Automation, die der folgenden Konfiguration entspricht.",
+        "lineText": "<Deine bestehende Jira Automation>",
+        "heading": "Web-Anfrage senden konfigurieren",
+        "urlField": "URL der Web-Anfrage",
+        "methodField": "HTTP-Methode",
+        "postLabel": "POST",
+        "requestBodyField": "Text der Web-Anfrage",
+        "formatEmpty": "Leer",
+        "formatAutomation": "Vorgangsdaten (Automation-Format)",
+        "formatCustom": "Benutzerdefinierte Daten",
+        "formatJira": "Vorgangsdaten (Jira format)",
+        "channelRelpyCustomDataText": "Bitte gib die Details der Kanal-Nachricht, auf die du antworten möchtest, im folgenden Format an",
+        "customDataText": "Bitte gib die Details des Vorgangs im folgenden Format an. Du kannst zwischen einem einzelnen Vorgang (issueId) oder mehreren Vorgängen (issueIds) wählen.",
+        "specificReplyExample": "Um die benötigten Nachrichtendetails zu erhalten, verwende einen der folgenden yasoon Trigger: 'Teams Konversation erstellt' oder 'Teams Kanalnachricht empfangen'. Und greife auf die Daten mit der folgenden Syntax zu:"
+    },
+    "messagePatternHelper": {
+        "text": "Beispiele:",
+        "allMessages": "alle Nachrichten,",
+        "emoji": "🚀",
+        "keyword": "#Schlüsselwort,"
     }
 }

@@ -235,7 +235,7 @@
         }
     },
     "gettingStartedScreen": {
-        "heading": " Connect Jira automation with Microsoft 365",
+        "heading": "Connect Jira automation with Microsoft 365",
         "overviewSubheading": "Getting started",
         "overviewDescription": "Automation within Microsoft 365 for Jira is a no-code capability and is based on Jira automation.",
         "card": {
@@ -405,30 +405,6 @@
         "addKeywordComment": "Add a comment with keywords to the Jira issue",
         "addKeywordCommentInfo": "This allows you to search for the chat backup in Jira using the native search."
     },
-    "createOutlookEventScreen": {
-        "heading": "Create Outlook meeting",
-        "meetingSubject": "Meeting subject",
-        "meetingLocation": "Meeting location",
-        "attendees": "Attendees",
-        "teamsMeetingToggle": "Teams meeting",
-        "meetingDescription": "Meeting body text",
-        "startDateType": "Start time",
-        "byField": "From field",
-        "byDate": "By duration",
-        "byEndDate": "Relative to start date",
-        "startDateField": "Start time field",
-        "endDateType": "End time",
-        "endDateField": "End time field",
-        "timezoneField": "Timezone",
-        "timezoneFieldPlaceholder": "Choose event timezone",
-        "templateStringField": "By date template",
-        "jiraFieldPlaceholder": "Choose Jira field",
-        "attendeesPlaceholder": "Choose meeting attendees",
-        "isAllDayToggleField": "Is all-day event",
-        "minutesLength": "Minutes",
-        "hoursLength": "Hours",
-        "daysLength": "Days"
-    },
     "createConversationScreen": {
         "heading": "Create Teams conversation",
         "description": "Please provide the details for the new channel conversation. It will be posted by the selected bot and, if provided, linked to the issue from the Automation rule.",
@@ -537,7 +513,8 @@
         "sharedAndAllowJoining": "Shared & allow joining",
         "onlyMembersChat": "Only members of the chat can view it in Jira",
         "contextChatAccess": "Users with issue access can view the chat.",
-        "contextChatAllowJoining": "Users with issue access can view and join the chat."
+        "contextChatAllowJoining": "Users with issue access can view and join the chat.",
+        "rememberUserChoice": "Remember last user choice"
     },
     "channelSelect": {
         "noChannelSelectOptions": "No channels found. You can only find channels which have 'Smart Connect for Jira' installed.",
