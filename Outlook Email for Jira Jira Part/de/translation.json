@@ -209,6 +209,7 @@
         "replyAll": "Allen antworten",
         "showDetail": "Öffnen",
         "openInBrowser": "In Outlook öffnen",
+        "openInBrowserEncrypted": "In Outlook öffnen um Anhänge von signierten oder versclüsselten E-Mails zu sehen",
         "unshare": "Verknüpfung entfernen",
         "loadMore": "Mehr laden",
         "hideAttachments": "Anhänge verbergen",
@@ -300,7 +301,8 @@
         "to": "An: ",
         "cc": "Cc: ",
         "onBehalfOfSpacer": " im Namen von ",
-        "attachments": "Anhänge"
+        "attachments": "Anhänge",
+        "encryptedExplanation": "Diese E-Mail ist signiert oder verschlüsselt. Aufgrund technischer Einschränkungen kann nur der Empfänger kann die Anhänge in Outlook sehen."
     },
     "comment": {
         "cc": "Cc: ",
