@@ -298,6 +298,9 @@
             "create-chatDescription": "Sende eine Nachricht in einen neuen Teams-Chat und füge Teilnehmende hinzu.",
             "create-chatConfigDescription": "Chat-Einstellungen",
             "create-chatDescriptionPlaceholder": "Diese Aktion erstellt einen Chat in Teams, wenn (...).\nErstellt von: {{atlassianUser}}\nVerwendet in Projekt: (...)",
+            "reply-chatsTitle": "Teams-Chats beantworten",
+            "reply-chatsDescription": "Antworte auf alle Teams-Chats, die mit dem Vorgang verknüpft sind und bei denen der Bot installiert ist.",
+            "reply-chatsDescriptionPlaceholder": "Diese Aktion antwortet auf alle Teams-Chats, die mit dem Vorgang verknüpft sind und bei denen der Bot installiert ist, wenn (...).\nErstellt von: {{atlassianUser}}\nVerwendet in Projekt: (...)",
             "create-conversationTitle": "Konversation in Teams erstellen",
             "create-conversationDescription": "Sende eine Nachricht in einem Teams-Kanal.",
             "create-conversationConfigDescription": "Konversations-Einstellungen",
@@ -394,6 +397,16 @@
         "placeholder": "Wähle den Chat-Ersteller",
         "noOptions": "Keine Optionen",
         "typeToSearch": "Tippen Sie, um nach Benutzern zu suchen"
+    },
+    "replyTeamsChatScreen": {
+        "heading": "Teams Chat beantworten",
+        "description": "Bitte konfiguriere die Details der Chatnachricht. Die möglichen Einstellungen findest du in unserer Dokumentation.",
+        "portalLabel": "Portal",
+        "chatMessage": "Chat-Nachricht",
+        "learnMore": "Mehr erfahren",
+        "goToPortalSettings": "Gehe zu Portal Einstellungen",
+        "noPortalNotifications": "Kein Portal mit aktivierten Benachrichtigungen",
+        "noPortalNotificationsDescription": "Um Antworten in einen Chat zu posten, aktiviere bitte die Benachrichtigungen in den Portal Einstellungen."
     },
     "backupTeamsMessagesScreen": {
         "heading": "Teams Backup erstellen",

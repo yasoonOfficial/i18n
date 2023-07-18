@@ -298,6 +298,7 @@
             "create-chatDescription": "Send a message in a Teams chat and include the participants of your choice.",
             "reply-chatsTitle": "Reply Teams chats",
             "reply-chatsDescription": "Reply to all Teams chats linked to the issue, that have the bot installed.",
+            "reply-chatsDescriptionPlaceholder": "This action replies to a chat in Teams when (...).\nCreated by: {{atlassianUser}}\nUsed in project: (...)",
             "create-chatConfigDescription": "Chat settings",
             "create-chatDescriptionPlaceholder": "This action creates a chat in Teams when (...).\nCreated by: {{atlassianUser}}\nUsed in project: (...)",
             "create-conversationTitle": "Create Teams conversation",
@@ -396,6 +397,16 @@
         "placeholder": "Choose the chat creator",
         "noOptions": "No options",
         "typeToSearch": "Type to search for users"
+    },
+    "replyTeamsChatScreen": {
+        "heading": "Reply Teams chat",
+        "description": "Please provide the details for the chat reply. Our documentation will help you to choose the correct settings.",
+        "portalLabel": "Portal",
+        "chatMessage": "Chat message",
+        "learnMore": "Learn more",
+        "goToPortalSettings": "Go to portal settings",
+        "noPortalNotifications": "No portal with notifications enabled",
+        "noPortalNotificationsDescription": "To post replies into a chat, please enable notifications in the customer portal settings."
     },
     "backupTeamsMessagesScreen": {
         "heading": "Create Teams backup",
