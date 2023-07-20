@@ -5,7 +5,9 @@
     "attendeeContainer": {
         "fieldLabelAttendees": "Attendees",
         "fieldLabelAttendeesOptional": "Optional attendees",
-        "atleastOneNotAvailable": "Atleast one attendee is not available"
+        "atleastOneNotAvailable": "Atleast one attendee is not available",
+        "attendeesPlaceholder": "Type to search ...",
+        "attendeesNoOptionsMessage": "No matching options"
     },
     "calendarToolbar": {
         "previousTimeUnitTooltip": "Previous",
@@ -178,5 +180,8 @@
         "sharedDescription": "{{group}} with {{atlassianProduct}} access can view this meeting",
         "chooseMeetingPermissions": "Choose who should have access to this meeting",
         "chooseMeetingAccess": "Choose Meeting Access"
+    },
+    "warnings": {
+        "privateMeetingIsSharedWarning": "Are you sure that you want to share a private meeting?"
     }
 }
