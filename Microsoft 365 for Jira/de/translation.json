@@ -757,7 +757,8 @@
         "emptyStateBundleDescription": "Dieses Feature ist Teil von Microsoft 365 for Jira. Du kannst zu Microsoft 365 for Jira wechseln, ohne deine Daten zu verlieren.",
         "emptyStateBundleText": "Jetzt wechseln",
         "emptyStateProjectTemplatesHeader": "Es sind noch keine Projektvorlagen konfiguriert.",
-        "emptyStateProjectTemplatesText": "Mehr erfahren"
+        "emptyStateProjectTemplatesText": "Mehr erfahren",
+        "searchTemplates": "Vorlagen durchsuchen"
     },
     "templateSingle": {
         "fetchErrorTitle": "Vorlage konnte nicht geladen werden",
