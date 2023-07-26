@@ -5,7 +5,9 @@
     "attendeeContainer": {
         "fieldLabelAttendees": "Attendees",
         "fieldLabelAttendeesOptional": "Optional attendees",
-        "atleastOneNotAvailable": "Atleast one attendee is not available"
+        "atleastOneNotAvailable": "Atleast one attendee is not available",
+        "attendeesPlaceholder": "Type to search ...",
+        "attendeesNoOptionsMessage": "No matching options"
     },
     "calendarToolbar": {
         "previousTimeUnitTooltip": "Previous",
@@ -180,5 +182,8 @@
         "chooseMeetingAccess": "Choose Meeting Access",
         "joinMeeting": "Allow send meeting invite",
         "joinMeetingDescription": "Users with issue access can invite themselves to the meeting"
+    },
+    "warnings": {
+        "privateMeetingIsSharedWarning": "Are you sure that you want to share a private meeting?"
     }
 }
