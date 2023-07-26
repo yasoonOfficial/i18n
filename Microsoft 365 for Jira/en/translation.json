@@ -758,7 +758,8 @@
         "emptyStateBundleText": "Switch now",
         "emptyStateProjectTemplatesHeader": "You haven't configured any project templates yet.",
         "emptyStateProjectTemplatesText": "Learn more",
-        "searchTemplates": "Search templates"
+        "searchTemplates": "Search templates",
+        "systemTemplate": "System"
     },
     "templateSingle": {
         "fetchErrorTitle": "Could not fetch template",

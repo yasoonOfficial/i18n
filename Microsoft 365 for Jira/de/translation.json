@@ -758,7 +758,8 @@
         "emptyStateBundleText": "Jetzt wechseln",
         "emptyStateProjectTemplatesHeader": "Es sind noch keine Projektvorlagen konfiguriert.",
         "emptyStateProjectTemplatesText": "Mehr erfahren",
-        "searchTemplates": "Vorlagen durchsuchen"
+        "searchTemplates": "Vorlagen durchsuchen",
+        "systemTemplate": "System"
     },
     "templateSingle": {
         "fetchErrorTitle": "Vorlage konnte nicht geladen werden",
