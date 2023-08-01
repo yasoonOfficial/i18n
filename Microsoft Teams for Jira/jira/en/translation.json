@@ -310,7 +310,8 @@
         "disableKbArticles": "Disable knowledge base article suggestions",
         "disableKbArticlesHelpText": "Disables knowledge base article suggestions inside of the request creation form and search.",
         "collectCsat": "Collect CSAT",
-        "collectCsatHelpText": "Collect CSAT feedback after a request has been resolved."
+        "collectCsatHelpText": "Collect CSAT feedback after a request has been resolved.",
+        "audienceTooltip": "The audience of this chat is determined based on the email addresses of the chat participants."
     },
     "addBoardToTeams": {
         "addBoardToTeams": "Add board to Teams",
