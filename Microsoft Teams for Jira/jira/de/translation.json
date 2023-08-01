@@ -451,6 +451,8 @@
         "approveNotificationsTooltip": "Damit diese App Benachrichtigungen schicken darf muss sie von einem Teams Admin berechtigt werden.",
         "approveNotifications": "Benachrichtigungen einschalten",
         "approveNotificationsInfo": "Um Benachrichtigungen für eine App zu berechtigen, muss sie zuerst in Microsoft Teams installiert werden. Die App muss im App-Katalog verfügbar sein. Bei persönlichen Installationen (sideloading) wird es zu Fehlern kommen. Es kann nur eine App berechtigt werden, Benachrichtigungen zu posten.",
+        "approveNotificationsInfo2": "Dies betrifft auch Apps die vor dem Release von Chat-Benachrichtigungen angelegt wurden.",
+        "approveNotificationsInfo3": "Wenn die Chat-Benachrichtigungen nicht funktionieren, lade das App-Manifest bitte erneut herunter und installiere es in Teams.",
         "notificationsApproveSuccess": "Benachrichtigungen genehmigt",
         "notificationsApproveSuccessBody": "{{appName}} ist jetzt berechtigt um Benachrichtigungen in Chats zu posten.",
         "notificationsApproveFailed": "Benachrichtigungen konnten nicht berechtigt werden",
