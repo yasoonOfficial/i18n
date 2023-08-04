@@ -162,6 +162,7 @@
         "guest": "Guest",
         "guestUser": "Guest user",
         "selectUserToStartChat": "Select participants to start a chat ...",
+        "selectUserToAddToChat": "Select participants to add to the chat ...",
         "chatTitleTooLong": "Chat title too long (250+)",
         "typeEmailOrNameToSearch": "Type an email address or name to search ...",
         "onlyChatMembersCanReply": "Only chat members can reply.",

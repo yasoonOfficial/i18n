@@ -162,6 +162,7 @@
         "guest": "Gast",
         "guestUser": "Gast-Benutzer",
         "selectUserToStartChat": "Füge Teilnehmer hinzu, um den Chat zu starten ...",
+        "selectUserToAddToChat": "Füge Teilnehmer zum Chat hinzu ...",
         "chatTitleTooLong": "Titel des Chats zu lang (250+)",
         "typeEmailOrNameToSearch": "Email oder Name eingeben zum Suchen ...",
         "onlyChatMembersCanReply": "Nur Teilnehmer des Chats können antworten.",
