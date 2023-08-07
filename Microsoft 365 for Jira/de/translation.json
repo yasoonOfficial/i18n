@@ -763,6 +763,9 @@
         "createLabel": "Vorlage erstellen"
     },
     "templateSingle": {
+        "loginHeader": "Anmeldung erforderlich",
+        "loginDescription": "Bitte melde dich mit deinem Microsoft 365 Benutzer an, um eine Vorschau der Vorlage zu sehen!",
+        "loginButtonLabel": "Anmelden",
         "fetchErrorTitle": "Vorlage konnte nicht geladen werden",
         "createSuccessTitle": "Vorlage erstellt",
         "createSuccessMessage": "Die Vorlage wurde erfolgreich erstellt.",

@@ -763,6 +763,9 @@
         "createLabel": "Create template"
     },
     "templateSingle": {
+        "loginHeader": "Login required",
+        "loginDescription": "Please log in with your Microsoft 365 account to get a preview!",
+        "loginButtonLabel": "Login",
         "fetchErrorTitle": "Could not fetch template",
         "createSuccessTitle": "Template created",
         "createSuccessMessage": "The template has been created successfully.",
