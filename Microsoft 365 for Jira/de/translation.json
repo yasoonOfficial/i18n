@@ -759,7 +759,8 @@
         "emptyStateProjectTemplatesHeader": "Es sind noch keine Projektvorlagen konfiguriert.",
         "emptyStateProjectTemplatesText": "Mehr erfahren",
         "searchTemplates": "Vorlagen durchsuchen",
-        "systemTemplate": "System"
+        "systemTemplate": "System",
+        "createLabel": "Vorlage erstellen"
     },
     "templateSingle": {
         "fetchErrorTitle": "Vorlage konnte nicht geladen werden",

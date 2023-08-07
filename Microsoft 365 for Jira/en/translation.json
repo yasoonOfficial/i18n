@@ -759,7 +759,8 @@
         "emptyStateProjectTemplatesHeader": "You haven't configured any project templates yet.",
         "emptyStateProjectTemplatesText": "Learn more",
         "searchTemplates": "Search templates",
-        "systemTemplate": "System"
+        "systemTemplate": "System",
+        "createLabel": "Create template"
     },
     "templateSingle": {
         "fetchErrorTitle": "Could not fetch template",
