@@ -408,7 +408,8 @@
     },
     "epicField": {
         "suggestions": "Suggestions",
-        "allEpics": "All epics"
+        "allEpics": "All epics",
+        "doneLabel": "Done"
     },
     "sprintField": {
         "suggestions": "Suggestions",
