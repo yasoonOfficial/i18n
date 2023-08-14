@@ -1,0 +1,15 @@
+{
+    "helperLabels": {
+        "assignee": "Bearbeiter",
+        "reporter": "Autor",
+        "requestParticipant": "Anfrageteilnehmer*innen",
+        "watcher": "Beobachter",
+        "noAvailability": "Verfügbarkeit konnte nicht ermittelt werden",
+        "outsideWorkingHours": "Außerhalb der Arbeitszeiten",
+        "free": "Verfügbar",
+        "busy": "Beschäftigt",
+        "noAvailabilityFor7Days": "In den nächsten 7 Tagen nicht verfügbar.",
+        "freeAt": "Verfügbar um",
+        "oof": "Außer Haus"
+    }
+}

@@ -84,7 +84,8 @@
         "closeLabel": "Close",
         "help": "Help",
         "meetingsDoc": "Documentation",
-        "logout": "Logout"
+        "settings": "Settings",
+        "settingsButtonLabel": "Personal settings"
     },
     "editorField": {
         "label": "Comment"
