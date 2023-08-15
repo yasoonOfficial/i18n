@@ -173,18 +173,20 @@
         "confluence": "Confluence"
     },
     "sharingChooser": {
-        "private": "Private",
+        "headingPrivate": "Private",
+        "headingPublic": "Public",
         "shared": "Shared",
-        "agents": "Agents",
-        "users": "Users",
-        "privateDescription": "Only users with access to this meeting can view it",
-        "sharedDescription": "{{group}} with {{atlassianProduct}} access can view this meeting",
+        "privateDescription": "Only meeting attendees can join",
+        "publicDescription": "All users can join the meeting",
         "chooseMeetingPermissions": "Choose who should have access to this meeting",
-        "chooseMeetingAccess": "Choose Meeting Access",
-        "joinMeeting": "Allow send meeting invite",
-        "joinMeetingDescription": "Users with issue access can invite themselves to the meeting"
+        "chooseMeetingAccess": "Choose Meeting Access"
     },
     "warnings": {
         "privateMeetingIsSharedWarning": "Are you sure that you want to share a private meeting?"
+    },
+    "meetingSuggestionContainer": {
+        "noSuggestionsAttendeesUnavailable": "In the given time range there are too few attendees available. Please select a different time range to load more suggestions",
+        "noSuggestionsAttendeesUnavailableOrUnknown": "We could not determine the availabilities for some users and in total to few attendees are available. Please select a different time range",
+        "noSuggestionsOrganizerUnavailable": "You are not available in the given time range. Please select a different time range to load more suggestions"
     }
 }

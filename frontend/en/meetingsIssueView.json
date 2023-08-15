@@ -3,7 +3,8 @@
         "meetingCount": "Scheduled Meetings: {{count}}",
         "noMeetingsScheduled": "No meetings have been scheduled yet.",
         "scheduleMeetingButton": "Schedule a new Meeting",
-        "fetchingEvents": "Fetching events..."
+        "fetchingEvents": "Fetching events...",
+        "mobileLoginNotSupported" :"Login required. The login is currently not available for mobile devices. If you log in on a desktop device, you can use the add-in on mobile devices as well."
     },
     "cardOptionsDropdown": {
         "showMoreOptions": "Show More Options",
@@ -14,7 +15,8 @@
     "scheduledMeetingCard": {
         "inviteMyself": "Invite Myself",
         "sharedIconTooltip": "Shared Meeting",
-        "privateIconTooltip": "Private Meeting"
+        "privateIconTooltip": "Private Meeting",
+        "legacyEventTooltip": "This meeting was created with an older version of the add-in. Some functionalities like canceling the event are not possible."
     },
     "officeLoginScreen": {
         "loginButtonLabel": "Log in with Microsoft 365",
