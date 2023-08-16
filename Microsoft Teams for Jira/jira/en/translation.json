@@ -314,7 +314,8 @@
         "collectCsatHelpText": "Collect CSAT feedback after a request has been resolved.",
         "audienceTooltip": "The audience of this chat is determined based on the email addresses of the chat participants.",
         "notificationsInternalInfo": "Notifications only available for customer chats",
-        "notificationsInternalInfo2": "Notifications for internal chats will be available soon."
+        "notificationsInternalInfo2": "Notifications for internal chats will be available soon.",
+        "quote": "Quote"
     },
     "addBoardToTeams": {
         "addBoardToTeams": "Add board to Teams",
