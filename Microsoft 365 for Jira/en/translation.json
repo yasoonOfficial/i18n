@@ -298,6 +298,7 @@
             "create-chatDescription": "Send a message in a Teams chat and include the participants of your choice.",
             "reply-chatsTitle": "Reply Teams chats",
             "reply-chatsDescription": "Reply to all Teams chats linked to the issue, that have the bot installed.",
+            "reply-chatsConfigDescription": "Chat message settings",
             "reply-chatsDescriptionPlaceholder": "This action replies to a chat in Teams when (...).\nCreated by: {{atlassianUser}}\nUsed in project: (...)",
             "create-chatConfigDescription": "Chat settings",
             "create-chatDescriptionPlaceholder": "This action creates a chat in Teams when (...).\nCreated by: {{atlassianUser}}\nUsed in project: (...)",

@@ -301,6 +301,7 @@
             "reply-chatsTitle": "Teams-Chats beantworten",
             "reply-chatsDescription": "Antworte auf alle Teams-Chats, die mit dem Vorgang verknüpft sind und bei denen der Bot installiert ist.",
             "reply-chatsDescriptionPlaceholder": "Diese Aktion antwortet auf alle Teams-Chats, die mit dem Vorgang verknüpft sind und bei denen der Bot installiert ist, wenn (...).\nErstellt von: {{atlassianUser}}\nVerwendet in Projekt: (...)",
+            "reply-chatsConfigDescription": "Chat-Nachricht-Einstellungen",
             "create-conversationTitle": "Konversation in Teams erstellen",
             "create-conversationDescription": "Sende eine Nachricht in einem Teams-Kanal.",
             "create-conversationConfigDescription": "Konversations-Einstellungen",
