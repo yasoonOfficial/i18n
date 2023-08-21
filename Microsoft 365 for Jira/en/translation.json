@@ -155,7 +155,7 @@
         "statusError": "error",
         "statusOperationalDescription": "App is fully operational. Your system is connected to the yasoon cloud services.",
         "statusInterruptedDescription": "The connection to the yasoon cloud services is interrupted and many feature won't work correctly. If you have copied the system, please make sure the url below is correct. Otherwise, please check your firewall or reverse proxy configuration.",
-        "statusErrorDescription": "An connection to the yasoon cloud services is required and many feature won't work correctly if the connection is not setup correctly.  Please check your firewall or reverse proxy configuration and make sure an connection to and from the yasoon cloud services is possible.",
+        "statusErrorDescription": "A connection to the yasoon cloud services is required and many feature won't work correctly if the connection is not setup correctly.  Please check your firewall or reverse proxy configuration and make sure a connection to and from the yasoon cloud services is possible.",
         "registrationHeading": "System info",
         "registrationSystemId": "System id",
         "registrationSystemUrl": "Known Jira url",
