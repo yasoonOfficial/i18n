@@ -5,7 +5,9 @@
     "attendeeContainer": {
         "fieldLabelAttendees": "Teilnehmer",
         "fieldLabelAttendeesOptional": "Optionale Teilnehmer",
-        "atleastOneNotAvailable": "Mindestens ein Teilnehmer ist nicht verfügbar"
+        "atleastOneNotAvailable": "Mindestens ein Teilnehmer ist nicht verfügbar",
+        "attendeesPlaceholder": "Tippe zum suchen ...",
+        "attendeesNoOptionsMessage": "Keine passenden Teilnehmer"
     },
     "calendarToolbar": {
         "previousTimeUnitTooltip": "Zurück",
@@ -82,7 +84,8 @@
         "closeLabel": "Schließen",
         "help": "Hilfe",
         "meetingsDoc": "Dokumentation",
-        "logout": "Logout"
+        "settings": "Einstellungen",
+        "settingsButtonLabel": "Persönliche Einstellungen"
     },
     "editorField": {
         "label": "Kommentar"

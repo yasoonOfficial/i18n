@@ -1,4 +1,33 @@
 {
+    "header": {
+        "meetingCount": "Geplante Meetings: {{count}}",
+        "noMeetingsScheduled": "Keine Meetings bisher geplant",
+        "scheduleMeetingButton": "Plane ein neues Meeting",
+        "fetchingEvents": "Lade Meetings...",
+        "mobileLoginNotSupported": "Login benötigt. Der Login ist derzeit nicht in der App möglich. Bitte logge dich einmalig auf der Webseite ein - anschließend kannst du auch die App nutzen."
+    },
+    "cardOptionsDropdown": {
+        "showMoreOptions": "Zeige mehr Optionen",
+        "options": "Optionen",
+        "openInWeb": "Im Web öffnen",
+        "cancel": "Absagen"
+    },
+    "scheduledMeetingCard": {
+        "inviteMyself": "Mich einladen",
+        "sharedIconTooltip": "Öffentliched Meeting",
+        "privateIconTooltip": "Privates Meeting",
+        "legacyEventTooltip": "Dieses Meeting wurde mit einer älteren Version erstellt und kann daher nicht bearbeitet werden."
+    },
+    "officeLoginScreen": {
+        "loginButtonLabel": "Mit Microsoft 365 einloggen",
+        "heading": "Willkommen bei {{ appName }}",
+        "description": "Sieht so aus, als benutzt du diese Funktion das erste Mal. Bitte melde dich mit deinem Microsoft 365 Account an, um loszulegen!"
+    },
+    "officeLoginButton": {
+        "login": "Anmelden",
+        "loginAs": "Anmelden als",
+        "loginWithAccountChooser": "Anmelden mit Accountauswahl"
+    },
     "helperLabels": {
         "assignee": "Bearbeiter",
         "reporter": "Autor",
@@ -11,5 +40,17 @@
         "noAvailabilityFor7Days": "In den nächsten 7 Tagen nicht verfügbar.",
         "freeAt": "Verfügbar um",
         "oof": "Außer Haus"
+    },
+    "userAvatarList": {
+        "noUsersPlaceholder": "Wähle Teilnehmer um Vorschläge zu sehen.",
+        "title": "Involvierte Personen"
+    },
+    "personaCard": {
+        "clickLabel": "Klick",
+        "scheduleMeetingDropdownItemLabel": "Sende ein Meeting",
+        "sendMessageDropdownItemLabel": "Sende eine Nachricht",
+        "callTeamsDropdownItemLabel": "Anrufen mit Teams",
+        "callPhoneDropdownItemLabel": "Anrufen per Telefon",
+        "noAvailabilityInformationPlaceholder": "Verfügbarkeitsinformationen konnten nicht geladen werden"
     }
 }
