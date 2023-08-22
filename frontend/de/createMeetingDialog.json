@@ -170,15 +170,21 @@
         "confluence": "Confluence"
     },
     "sharingChooser": {
-        "private": "Privat",
+        "headingPrivate": "Privat",
+        "headingPublic": "Öffentlich",
         "shared": "Geteilt",
-        "agents": "Agenten",
-        "users": "Nutzer",
-        "privateDescription": "Nur Nutzer mit Zugang zu diesem Meeting können es sehen",
-        "sharedDescription": "{{group}} mit {{atlassianProduct}} Berechtigungen können dieses Meeting sehen",
-        "chooseMeetingPermissions": "Wähle, wer Zugang zu diesem Meeting haben soll",
-        "chooseMeetingAccess": "Wähle Meeting Zugang",
-        "joinMeeting": "Meeting beitreten",
-        "joinMeetingDescription": "Nutern mit Zugang zum Vorgang können dem Meeting beitreten"
+        "privateDescription": "Nur Meeting Teilnehmer können beitreten",
+        "publicDescription": "Alle Benutzer können am Meeting teilnehmen",
+        "chooseMeetingPermissions": "Wähle wer sich in das Meeting einwählen kann",
+        "chooseMeetingAccess": "Wähle die Meeting Berechtigungen"
+    },
+    "warnings": {
+        "privateMeetingIsSharedWarning": "Bist du dir sicher, dass du ein privates Meeting am Issue öffentlich teilen möchtest?"
+    },
+    "meetingSuggestionContainer": {
+        "noSuggestionsAttendeesUnavailable": "Im gewählten Zeitraum sind zu wenige Teilnehmer verfügbar. Versuche einen anderen Zeitraum um mehr Vorschläge zu erhalten.",
+        "noSuggestionsAttendeesUnavailableOrUnknown": "Für einige Teilnehmer konnte keine Verfügbarkeit ermittelt werden. Im gewählten Zeitraum sind daher zu wenige Teilnehmer verfügbar. Versuche einen anderen Zeitraum um mehr Vorschläge zu erhalten.",
+        "noSuggestionsOrganizerUnavailable": "Du bist im gewählten Zeitraum nicht verfügbar. Versuche einen anderen Zeitraum um mehr Vorschläge zu erhalten.",
+        "alldayDisabled": "Terminvorschläge sind für ganztägige Termine nicht verfügbar."
     }
 }
