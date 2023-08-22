@@ -409,7 +409,8 @@
     "epicField": {
         "suggestions": "Suggestions",
         "allEpics": "All epics",
-        "doneLabel": "Done"
+        "doneLabel": "Done",
+        "includeDoneLabel": "Include done epics"
     },
     "sprintField": {
         "suggestions": "Suggestions",
