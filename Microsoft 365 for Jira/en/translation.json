@@ -695,7 +695,7 @@
     },
     "incomingWebhookConfigScreen": {
         "descriptionHeading": "Jira Automation “Incoming webhook” configuration",
-        "description": "Please configure a “Incoming webhook” action in Jira automation, matching the configuration below.",
+        "description": "Please configure a “Incoming webhook” trigger in Jira automation, matching the configuration below.",
         "heading": "Incoming webhook",
         "urlField": "Webhook URL",
         "urlFieldPlaceholder": "Insert the url provided by the “Incoming webhook” trigger.",
