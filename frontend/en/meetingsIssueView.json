@@ -1,21 +1,21 @@
 {
     "header": {
-        "meetingCount": "Scheduled Meetings: {{count}}",
+        "meetingCount": "Scheduled meetings: {{count}}",
         "noMeetingsScheduled": "No meetings have been scheduled yet.",
-        "scheduleMeetingButton": "Schedule a new Meeting",
+        "scheduleMeetingButton": "Schedule a new meeting",
         "fetchingEvents": "Fetching events...",
         "mobileLoginNotSupported" :"Login required. The login is currently not available for mobile devices. If you log in on a desktop device, you can use the add-in on mobile devices as well."
     },
     "cardOptionsDropdown": {
-        "showMoreOptions": "Show More Options",
+        "showMoreOptions": "Show more options",
         "options": "Options",
-        "openInWeb": "Open in Web",
+        "openInWeb": "Open in web",
         "cancel": "Cancel"
     },
     "scheduledMeetingCard": {
-        "inviteMyself": "Invite Myself",
-        "sharedIconTooltip": "Shared Meeting",
-        "privateIconTooltip": "Private Meeting",
+        "inviteMyself": "Invite myself",
+        "sharedIconTooltip": "Public meeting",
+        "privateIconTooltip": "Private meeting",
         "legacyEventTooltip": "This meeting was created with an older version of the add-in. Some functionalities like canceling the event are not possible."
     },
     "officeLoginScreen": {

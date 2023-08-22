@@ -187,6 +187,7 @@
     "meetingSuggestionContainer": {
         "noSuggestionsAttendeesUnavailable": "In the given time range there are too few attendees available. Please select a different time range to load more suggestions",
         "noSuggestionsAttendeesUnavailableOrUnknown": "We could not determine the availabilities for some users and in total to few attendees are available. Please select a different time range",
-        "noSuggestionsOrganizerUnavailable": "You are not available in the given time range. Please select a different time range to load more suggestions"
+        "noSuggestionsOrganizerUnavailable": "You are not available in the given time range. Please select a different time range to load more suggestions",
+        "alldayDisabled": "Meeting time suggestions not available for allday events"
     }
 }
