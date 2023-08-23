@@ -365,7 +365,8 @@
             "email-sentDescriptionPlaceholder": "This trigger is executed when a email is sent in Jira (...).\nCreated by: {{atlassianUser}}\nUsed in project: (...)"
         },
         "M365Only": "Microsoft 365 for Jira only",
-        "comingSoon": "Coming soon"
+        "comingSoon": "Coming soon",
+        "new": "New"
     },
     "createActionScreen": {
         "titleLabel": "Action name",
