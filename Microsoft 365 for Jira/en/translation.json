@@ -495,6 +495,27 @@
         "atlassianCloudDescription": "Every user with access to this issue can see this conversation",
         "sectionTitle": "Choose who should be able to see this conversation"
     },
+    "createOutlookEventScreen": {
+        "heading": "Create Outlook meeting",
+        "meetingSubject": "Meeting subject",
+        "attendees": "Attendees",
+        "attendeesPlaceholder": "Choose attendees",
+        "meetingLocation": "Location",
+        "meetingDescription": "Description",
+        "startDateField": "Start date",
+        "endDateType": "Meeting duration",
+        "byField": "By Jira field",
+        "byEndDate": "By duration",
+        "endDateField": "End date",
+        "isAllDayToggleField": "Is all day",
+        "timezoneField": "Time zone",
+        "timezoneFieldPlaceholder": "Choose time zone",
+        "teamsMeetingToggle": "Teams meeting",
+        "jiraFieldPlaceholder": "Choose Jira field",
+        "minutesLength": "Minutes",
+        "hoursLength": "Hours",
+        "daysLength": "Days"
+    },
     "auditLogScreen": {
         "action": {
             "typeHeader": "Type",
