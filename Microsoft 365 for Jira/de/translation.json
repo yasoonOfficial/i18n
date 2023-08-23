@@ -402,12 +402,16 @@
     "replyTeamsChatScreen": {
         "heading": "Teams Chat beantworten",
         "description": "Bitte konfiguriere die Details der Chatnachricht. Die möglichen Einstellungen findest du in unserer Dokumentation.",
-        "portalLabel": "Portal",
+        "portalLabel": "Teams bot",
         "chatMessage": "Chat-Nachricht",
         "learnMore": "Mehr erfahren",
         "goToPortalSettings": "Gehe zu Portal Einstellungen",
         "noPortalNotifications": "Kein Portal mit aktivierten Benachrichtigungen",
-        "noPortalNotificationsDescription": "Um Antworten in einen Chat zu posten, aktiviere bitte die Benachrichtigungen in den Portal Einstellungen."
+        "noPortalNotificationsDescription": "Um Antworten in einen Chat zu posten, aktiviere bitte die Benachrichtigungen in den Portal Einstellungen.",
+        "linkedChats": "Alle verknüpften Chats",
+        "specificChats": "Bestimmte Unterhaltungen",
+        "chatType": "Chat Typ",
+        "comingSoon": "Spezifische Chat-Antworten folgen in Kürze. Derzeit werden alle Kunden-Chats am Jira Vorgang mit aktivierten Benachrichtigungen beantwortet."
     },
     "backupTeamsMessagesScreen": {
         "heading": "Teams Backup erstellen",

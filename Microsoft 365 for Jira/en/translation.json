@@ -402,12 +402,16 @@
     "replyTeamsChatScreen": {
         "heading": "Reply Teams chat",
         "description": "Please provide the details for the chat reply. Our documentation will help you to choose the correct settings.",
-        "portalLabel": "Portal",
+        "portalLabel": "Teams bot",
         "chatMessage": "Chat message",
         "learnMore": "Learn more",
         "goToPortalSettings": "Go to portal settings",
         "noPortalNotifications": "No portal with notifications enabled",
-        "noPortalNotificationsDescription": "To post replies into a chat, please enable notifications in the customer portal settings."
+        "noPortalNotificationsDescription": "To post replies into a chat, please enable notifications in the customer portal settings.",
+        "linkedChats": "All linked chats",
+        "specificChats": "Specific chats",
+        "chatType": "Chat type",
+        "comingSoon": "Specific chat replies coming soon. Currently all customer chats with notifications enabled will be replied to."
     },
     "backupTeamsMessagesScreen": {
         "heading": "Create Teams backup",
