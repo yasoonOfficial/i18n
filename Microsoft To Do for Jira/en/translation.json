@@ -2,7 +2,7 @@
     "account": {
         "loginButton": "Login",
         "logoutButton": "Logout",
-        "firstTimeText": "Looks like you are using the app for the very first time. Please login with your Office 365 Account to get started!"
+        "firstTimeText": "Looks like you are using the app for the first time. Please login with your Office 365 Account to get started!"
     },
     "activateSyncStep": {
         "headline": "All set!",
@@ -36,7 +36,7 @@
     },
     "contentPanel": {
         "welcomeToProduct": "Welcome to Microsoft To Do for Jira!",
-        "firstTimeUserText": "Looks like you are using the app for the very first time.",
+        "firstTimeUserText": "Looks like you are using the app for the first time.",
         "loginWithMicrosoftInfo": "Please login with your Microsoft account to get started!",
         "loginWithMicrosoftButton": "Login",
         "invalidLicenseTitle": "License expired",

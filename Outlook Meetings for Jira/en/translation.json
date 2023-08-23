@@ -145,7 +145,7 @@
     "officeLoginScreen": {
         "loginButtonLabel": "Log in with Microsoft 365",
         "heading": "Welcome to {{ appName }}",
-        "description": "Looks like you're using the app for the very first time. Please log in with your Microsoft 365 account to get started!"
+        "description": "Looks like you're using the app for the first time. Please log in with your Microsoft 365 account to get started!"
     },
     "peopleAndMeetingsScreen": {
         "userAvatarListTitle": "Involved people",

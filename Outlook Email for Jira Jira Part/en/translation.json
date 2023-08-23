@@ -228,7 +228,7 @@
     },
     "graphLoginScreen": {
         "header": "Welcome to Outlook Email for Jira",
-        "description": "Looks like you are using this feature for the very first time. Please login with your Microsoft 365 account to get started!",
+        "description": "Looks like you are using this feature for the first time. Please login with your Microsoft 365 account to get started!",
         "bundleHeader": "Welcome to Microsoft 365 for Jira"
     },
     "officeLoginMSALScreen": {
