@@ -315,7 +315,8 @@
         "audienceTooltip": "Die Zielgruppe dieses Chats wird anhand der Emails der Teilnehmer ermittelt.",
         "notificationsInternalInfo": "Benachrichtigung aktuell nur für Kunden-Chats verfügbar",
         "notificationsInternalInfo2": "Benachrichtigung für interne Chats stehen bald zur Verfügung.",
-        "quote": "Zitieren"
+        "quote": "Zitieren",
+        "loginGuardInfo": "Um dieses Feature in vollem Umfang nutzen zu können ist ein Login mit deinem Microsoft 365-Konto erforderlich."
     },
     "addBoardToTeams": {
         "addBoardToTeams": "Board zu Teams hinzufügen",

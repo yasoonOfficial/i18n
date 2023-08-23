@@ -156,7 +156,7 @@
         "noRelatedTeamsMessages": "No related Teams messages",
         "noChatsOrConversations": "There are no Teams chats or conversations linked to this issue yet. Start one now!",
         "welcomeToTeamsForJira": "Welcome to {{appName}}",
-        "firstUseLoginInfo": "Looks like you are using the app for the very first time. Please login with your Microsoft 365 account to get started!",
+        "firstUseLoginInfo": "Looks like you are using the app for the first time. Please login with your Microsoft 365 account to get started!",
         "externalUser": "External user",
         "external": "External",
         "guest": "Guest",
@@ -315,7 +315,8 @@
         "audienceTooltip": "The audience of this chat is determined based on the email addresses of the chat participants.",
         "notificationsInternalInfo": "Notifications only available for customer chats",
         "notificationsInternalInfo2": "Notifications for internal chats will be available soon.",
-        "quote": "Quote"
+        "quote": "Quote",
+        "loginGuardInfo": "To use this feature with full functionality, a login with your Microsoft 365 account is required."
     },
     "addBoardToTeams": {
         "addBoardToTeams": "Add board to Teams",
