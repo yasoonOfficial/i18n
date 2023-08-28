@@ -316,7 +316,8 @@
         "notificationsInternalInfo": "Notifications only available for customer chats",
         "notificationsInternalInfo2": "Notifications for internal chats will be available soon.",
         "quote": "Quote",
-        "loginGuardInfo": "To use this feature with full functionality, a login with your Microsoft 365 account is required."
+        "loginGuardInfo": "To use this feature with full functionality, a login with your Microsoft 365 account is required.",
+        "requiresNotifications": "Requires notifications"
     },
     "addBoardToTeams": {
         "addBoardToTeams": "Add board to Teams",
