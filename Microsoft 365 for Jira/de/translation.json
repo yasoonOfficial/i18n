@@ -495,6 +495,33 @@
         "atlassianCloudDescription": "Jeder Benutzer mit Zugang zu diesem Vorgang kann diese Unterhaltung sehen",
         "sectionTitle": "Wähle aus, wer diese Unterhaltung sehen darf"
     },
+    "createOutlookEventScreen": {
+        "heading": "Meeting erstellen",
+        "meetingSubject": "Meeting Betreff",
+        "attendees": "Teilnehmer",
+        "attendeesPlaceholder": "Wähle die Teilnehmer aus",
+        "meetingLocation": "Meeting Ort",
+        "meetingDescription": "Beschreibung",
+        "startDateField": "Startdatum",
+        "endDateType": "Meeting Dauer",
+        "byField": "Nach Jira Feld",
+        "byEndDate": "Nach Dauer",
+        "endDateField": "Enddatum",
+        "isAllDayToggleField": "Ganztägig",
+        "timezoneField": "Zeitzone",
+        "timezoneFieldPlaceholder": "Zeitzone auswählen",
+        "teamsMeetingToggle": "Teams Meeting",
+        "jiraFieldPlaceholder": "Jira Feld auswählen",
+        "minutesLength": "Minuten",
+        "hoursLength": "Stunden",
+        "daysLength": "Tage",
+        "fromLabel": "Ersteller",
+        "free": "Verfügbar",
+        "busy": "Beschäftigt",
+        "noAvailabilityFor7Days": "In den nächsten 7 Tagen nicht verfügbar.",
+        "freeAt": "Verfügbar um",
+        "oof": "Außer Haus"
+    },
     "auditLogScreen": {
         "action": {
             "typeHeader": "Type",
@@ -586,7 +613,8 @@
     },
     "actionName": {
         "create-chat": "Chat erstellen",
-        "send-email": "E-Mail senden"
+        "send-email": "E-Mail senden",
+        "create-meeting": "Outlook Meeting erstellen"
     },
     "automationPageHeading": "Automation",
     "multipleRundSettings": {
@@ -905,5 +933,14 @@
         "allMessages": "alle Nachrichten,",
         "emoji": "🚀",
         "keyword": "#Schlüsselwort,"
+    },
+    "meetingSharingChooser": {
+        "headingPrivate": "Privat",
+        "headingPublic": "Öffentlich",
+        "shared": "Geteilt",
+        "privateDescription": "Nur Meeting Teilnehmer können beitreten",
+        "publicDescription": "Alle Benutzer können am Meeting teilnehmen",
+        "chooseMeetingPermissions": "Wähle wer sich in das Meeting einwählen kann",
+        "chooseMeetingAccess": "Wähle die Meeting Berechtigungen"
     }
 }

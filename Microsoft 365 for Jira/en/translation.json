@@ -507,14 +507,36 @@
         "byField": "By Jira field",
         "byEndDate": "By duration",
         "endDateField": "End date",
-        "isAllDayToggleField": "Is all day",
+        "isAllDayToggleField": "All day",
         "timezoneField": "Time zone",
         "timezoneFieldPlaceholder": "Choose time zone",
         "teamsMeetingToggle": "Teams meeting",
         "jiraFieldPlaceholder": "Choose Jira field",
         "minutesLength": "Minutes",
         "hoursLength": "Hours",
-        "daysLength": "Days"
+        "daysLength": "Days",
+        "fromLabel": "Creator",
+        "free": "Free",
+        "busy": "Busy",
+        "tentative": "Tentative",
+        "workingElsewhere": "Working elsewhere",
+        "noAvailabilityFor7Days": "Not available for the next 7 days.",
+        "freeAt": "Free at",
+        "oof": "Out of office",
+        "categoryLabel": "Category",
+        "sharingLabel": "Meeting access",
+        "isPrivateLabel": "Is private",
+        "reminderLabel": "Reminder",
+        "reminderFieldPlaceholder": "Choose reminder",
+        "doNotSet": "Do not set",
+        "15min": "15 minutes",
+        "30min": "30 minutes",
+        "1hour": "1 hour",
+        "1day": "1 day",
+        "showAsLabel": "Show as",
+        "showAsFieldPlaceholder": "Choose show as",
+        "categoryFieldPlaceholder": "Choose category",
+        "noOptions": "Type to create category"
     },
     "auditLogScreen": {
         "action": {
@@ -607,7 +629,8 @@
     },
     "actionName": {
         "create-chat": "Create Teams chat",
-        "send-email": "Send email"
+        "send-email": "Send email",
+        "create-meeting": "Create Outlook meeting"
     },
     "automationPageHeading": "Automation",
     "multipleRundSettings": {
@@ -926,5 +949,14 @@
         "allMessages": "all messages,",
         "emoji": "🚀",
         "keyword": "#keyword,"
+    },
+    "meetingSharingChooser": {
+        "headingPrivate": "Private",
+        "headingPublic": "Public",
+        "shared": "Shared",
+        "privateDescription": "Only meeting attendees can join",
+        "publicDescription": "All users can join the meeting",
+        "chooseMeetingPermissions": "Choose who should have access to this meeting",
+        "chooseMeetingAccess": "Choose Meeting Access"
     }
 }
