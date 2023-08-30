@@ -518,9 +518,25 @@
         "fromLabel": "Ersteller",
         "free": "Verfügbar",
         "busy": "Beschäftigt",
+        "tentative": "Mit Vorbehalt",
+        "workingElsewhere": "An anderem Ort tätig",
         "noAvailabilityFor7Days": "In den nächsten 7 Tagen nicht verfügbar.",
         "freeAt": "Verfügbar um",
-        "oof": "Außer Haus"
+        "oof": "Außer Haus",
+        "categoryLabel": "Kategorie",
+        "sharingLabel": "Meeting Zugang",
+        "isPrivateLabel": "Privat",
+        "reminderLabel": "Erinnerung",
+        "reminderFieldPlaceholder": "Erinnerung auswählen",
+        "doNotSet": "Nicht setzen",
+        "15min": "15 Minuten",
+        "30min": "30 Minuten",
+        "1hour": "1 Stunde",
+        "1day": "1 Tag",
+        "showAsLabel": "Zeige als",
+        "showAsFieldPlaceholder": "Zeige als auswählen",
+        "categoryFieldPlaceholder": "Kategorie auswählen",
+        "noOptions": "Keine Optionen, bitte wähle ein anderes Feld aus"
     },
     "auditLogScreen": {
         "action": {
