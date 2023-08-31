@@ -497,7 +497,7 @@
     },
     "createOutlookEventScreen": {
         "heading": "Meeting erstellen",
-        "meetingSubject": "Meeting Betreff",
+        "meetingSubject": "Betreff",
         "attendees": "Teilnehmer",
         "attendeesPlaceholder": "Wähle die Teilnehmer aus",
         "meetingLocation": "Meeting Ort",
@@ -697,6 +697,15 @@
     },
     "chatCreatedConfigScreen": {
         "heading": "Teams Chat erstellt",
+        "description": "Bitte wähle, ob die Aktion nur für Chats in bestimmten Projekten oder global ausgeführt werden soll.",
+        "scopeField": "Umfang",
+        "projectsField": "Projekte",
+        "global": "Global",
+        "projects": "Nach Projekten",
+        "projectPickerPlaceholder": "Wähle ein oder mehrere Projekte aus"
+    },
+    "meetingCreatedConfigScreen": {
+        "heading": "Outlook Meeting erstellt",
         "description": "Bitte wähle, ob die Aktion nur für Chats in bestimmten Projekten oder global ausgeführt werden soll.",
         "scopeField": "Umfang",
         "projectsField": "Projekte",

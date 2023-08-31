@@ -497,7 +497,7 @@
     },
     "createOutlookEventScreen": {
         "heading": "Create Outlook meeting",
-        "meetingSubject": "Meeting subject",
+        "meetingSubject": "Subject",
         "attendees": "Attendees",
         "attendeesPlaceholder": "Choose attendees",
         "meetingLocation": "Location",
@@ -697,6 +697,15 @@
     },
     "chatCreatedConfigScreen": {
         "heading": "Teams chat created",
+        "description": "Please choose if the trigger should only execute for chats created in specified projects or globally.",
+        "scopeField": "Scope",
+        "projectsField": "Projects",
+        "global": "Global",
+        "projects": "By Projects",
+        "projectPickerPlaceholder": "Select one or more projects"
+    },
+    "meetingCreatedConfigScreen": {
+        "heading": "Outlook meeting created",
         "description": "Please choose if the trigger should only execute for chats created in specified projects or globally.",
         "scopeField": "Scope",
         "projectsField": "Projects",
