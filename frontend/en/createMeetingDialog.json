@@ -56,7 +56,11 @@
     "reminder": {
         "label": "Reminder",
         "placeholder": "Set Reminder",
-        "doNotSet": "Do not set"
+        "doNotSet": "Do not set",
+        "15min": "15 min",
+        "30min": "30 min",
+        "oneHour": "1 hour",
+        "oneDay": "1 day"
     },
     "timezone": {
         "label": "Time zone"
@@ -105,6 +109,11 @@
     "privateToggle": {
         "label": "Is private"
     },
+    "isPrivatePicker": {
+        "label": "Outlook sensitivity",
+        "private": "Private",
+        "notPrivate": "Default"
+    },
     "issuePicker": {
         "linkWithIssue": "Link with issue",
         "placeholder": "Select an issue"
@@ -115,7 +124,7 @@
         "availableLabel": "Available",
         "unknownLabel": "Unknown",
         "createTeamsMeetingTooltip": "Add Microsoft Teams meeting link",
-        "onlineMeetingLabel": "Online meeting",
+        "onlineMeetingLabel": "Teams meeting",
         "ownLocationLabel": "Own Location",
         "fieldLabel": "Location"
     },

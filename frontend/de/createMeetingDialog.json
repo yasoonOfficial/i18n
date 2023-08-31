@@ -23,7 +23,7 @@
         "label": "Kategorie",
         "placeholderWithoutScope": "Kategorie anlegen",
         "placeholderWithScope": "Kategorie anlegen oder wählen"
-},
+    },
     "alldayToggle": {
         "label": "Ganztägig"
     },
@@ -56,7 +56,11 @@
     "reminder": {
         "label": "Erinnerung",
         "placeholder": "Erinnerung setzen",
-        "doNotSet":"Nicht setzen"
+        "doNotSet": "Nicht setzen",
+        "15min": "15 Min",
+        "30min": "30 Min",
+        "oneHour": "1 Stunde",
+        "oneDay": "1 Tag"
     },
     "timezone": {
         "label": "Zeitzone"
@@ -105,6 +109,11 @@
     "privateToggle": {
         "label": "Privat"
     },
+    "isPrivatePicker": {
+        "label": "Outlook Sensitivität",
+        "private": "Privat",
+        "notPrivate": "Standard"
+    },
     "issuePicker": {
         "linkWithIssue": "Mit Vorgang verknüpfen",
         "placeholder": "Vorgang wählen"
@@ -115,7 +124,7 @@
         "availableLabel": "Verfügbar",
         "unknownLabel": "Unbekannt",
         "createTeamsMeetingTooltip": "Microsoft Teams Meetinglink hinzufügen",
-        "onlineMeetingLabel": "Online Meeting",
+        "onlineMeetingLabel": "Teams Meeting",
         "ownLocationLabel": "Eigener Ort",
         "fieldLabel": "Ort"
     },

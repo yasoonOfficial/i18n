@@ -13,6 +13,7 @@
         "cancel": "Absagen"
     },
     "scheduledMeetingCard": {
+        "scheduledMeetingCard": "Teilnehmen",
         "inviteMyself": "Mich einladen",
         "sharedIconTooltip": "Öffentliched Meeting",
         "privateIconTooltip": "Privates Meeting",
