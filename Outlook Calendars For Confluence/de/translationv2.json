@@ -155,7 +155,8 @@
     "noFilterLabel": "Kalender hat keine Filterkriterien.",
     "reauthenticateButton": "Erneut anmelden",
     "reauthenticateMessage": "Dein Browser hat restriktive Einstellungen, daher musst du dich alle 24h erneut anmelden.",
-    "viewHeading": "Layout"
+    "viewHeading": "Layout",
+    "userCantFetchCalendarMessage": "Aufgrund technischer Beschränkungen können Sie keine Ereignisse aus diesem Kalender laden. Bitte wenden Sie sich an den Eigentümer des Kalenders, um ihn mit \"Shared Berechtigungen\" hinzuzufügen."
   },
   "calendarListScreen": {
     "noCalendarSelectedMessage": "Es scheint als wäre etwas schief gegangen. Bitte wähle einen Kalender auf der linken Seite"

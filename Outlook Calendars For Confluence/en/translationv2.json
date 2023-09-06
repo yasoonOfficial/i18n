@@ -155,7 +155,8 @@
     "noFilterLabel": "The calendar has no filter criteria.",
     "reauthenticateButton": "Re-authenticate",
     "reauthenticateMessage": "Your browser has restrictive privacy settings, so you need to re-authenticate every 24 hours.",
-    "viewHeading": "Layout"
+    "viewHeading": "Layout",
+    "userCantFetchCalendarMessage": "You are not able to load events from this calendar due to technical limitations. Please contact the calendar owner to add it with \"Shared Permissions\"."
   },
   "calendarListScreen": {
     "noCalendarSelectedMessage": "It seems that something went wrong. Please select a calendar on the left side"
