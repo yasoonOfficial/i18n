@@ -659,7 +659,7 @@
         "disconnectAll": "Disconnect all accounts",
         "msalMissingFlagTitle": "Microsoft login failed partially. Please re-authenticate.",
         "officeLoginFailedFlagTitle": "Microsoft login failed",
-        "showDebugInformation": "Show debug information",
+        "supportInfos": "Technical information",
         "fetchConnectionsFlagErrorTitle": "Failed to load connections",
         "fetchConnectionsFlagErrorMessage": "Something has gone wrong while trying to load the connections. Reload the page and try again.",
         "noAppsEnabled": "You are not logged in yet."

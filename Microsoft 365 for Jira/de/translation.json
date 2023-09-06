@@ -659,7 +659,7 @@
         "disconnectAll": "Alle Verbindungen trennen",
         "msalMissingFlagTitle": "Microsoft Login teilweise fehlgeschlagen. Bitte re-authentifizieren.",
         "officeLoginFailedFlagTitle": "Microsoft Login fehlgeschlagen",
-        "showDebugInformation": "Debug Informationen anzeigen",
+        "supportInfos": "Technische Informationen",
         "fetchConnectionsFlagErrorTitle": "Laden der Verbindungen fehlgeschlagen.",
         "fetchConnectionsFlagErrorMessage": "Beim Laden der Verbindungen ist etwas schiefgegangen. Lade die Seite neu und versuche es noch einmal.",
         "noAppsEnabled": "Du bist noch nicht eingeloggt."
