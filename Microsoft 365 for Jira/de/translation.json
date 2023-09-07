@@ -662,7 +662,8 @@
         "supportInfos": "Technische Informationen",
         "fetchConnectionsFlagErrorTitle": "Laden der Verbindungen fehlgeschlagen.",
         "fetchConnectionsFlagErrorMessage": "Beim Laden der Verbindungen ist etwas schiefgegangen. Lade die Seite neu und versuche es noch einmal.",
-        "noAppsEnabled": "Du bist noch nicht eingeloggt."
+        "noAppsEnabled": "Du bist noch nicht eingeloggt.",
+        "showDebugInformation": "Zeige Debug Informationen"
     },
     "officeLoginButton": {
         "login": "Login",
