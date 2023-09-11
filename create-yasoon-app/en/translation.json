@@ -1,0 +1,7 @@
+{
+    "refetch": "Re-fetch content",
+    "refetchNoCache": "Re-fetch content without cache",
+    "sampleContentFunc": "Sample content functional component",
+    "sampleContentClass": "Sample content class component",
+    "toggleVisibility": "Toggle sample content visibility"
+}

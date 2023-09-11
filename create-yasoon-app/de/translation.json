@@ -1,0 +1,7 @@
+{
+    "refetch": "Inhalt neu laden",
+    "refetchNoCache": "Inahlt ohne cache neu laden",
+    "sampleContentFunc": "Beispiel-Inhalt functional component",
+    "sampleContentClass": "Beispiel-Inhalt class component",
+    "toggleVisibility": "Sichtbarkeit umschalten"
+}
