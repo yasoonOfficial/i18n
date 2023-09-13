@@ -414,7 +414,11 @@
         "includeDoneLabel": "Abgeschlossene Epics einbeziehen"
     },
     "sprintField": {
+        "excludeOtherProjectsLabel": "Nur Sprints in diesem Projekt ({{projectKey}}) anzeigen",
         "suggestions": "Vorschläge",
+        "active": "Aktive Sprints",
+        "future": "Zukünftige Sprints",
+        "closed": "Abgeschlossene Sprints",
         "allMatches": "Alle Sprints"
     },
     "officeMessages": {

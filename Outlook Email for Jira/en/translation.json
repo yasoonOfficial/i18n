@@ -413,7 +413,11 @@
         "includeDoneLabel": "Include done epics"
     },
     "sprintField": {
+        "excludeOtherProjectsLabel": "Only show sprints in this project ({{projectKey}})",
         "suggestions": "Suggestions",
+        "active": "Active sprints",
+        "future": "Future sprints",
+        "closed": "Closed sprints",
         "allMatches": "All sprints"
     },
     "officeMessages": {
