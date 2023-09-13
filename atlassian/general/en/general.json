@@ -2,5 +2,12 @@
     "errorMessages": {
         "authenticationErrorTitle": "Refresh page",
         "authenticationErrorBody": "Connection with Microsoft 365 has been lost and data might be outdated. Please refresh the page."
+    },
+    "dialog": {
+        "footer": {
+            "close": "Close",
+            "cancel": "Cancel",
+            "confirm": "Confirm"
+        }
     }
 }
