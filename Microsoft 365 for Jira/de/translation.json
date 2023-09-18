@@ -435,6 +435,7 @@
     },
     "botField": {
         "smartConnectLabel": "Smart Connect für Jira",
+        "jsmBotLabel": "Support",
         "botPlaceholder": "Wähle den Bot aus",
         "comingSoon": "Bald verfügbar"
     },
@@ -516,7 +517,7 @@
         "hoursLength": "Stunden",
         "daysLength": "Tage",
         "fromLabel": "Organisator",
-        "fromDescription":"Der Organisator des Meetings. Bitte stelle sicher, dass dieser Nutzer in deinem Microsoft 365 Tenant verifiziert ist.",
+        "fromDescription": "Der Organisator des Meetings. Bitte stelle sicher, dass dieser Nutzer in deinem Microsoft 365 Tenant verifiziert ist.",
         "free": "Verfügbar",
         "busy": "Beschäftigt",
         "tentative": "Mit Vorbehalt",
