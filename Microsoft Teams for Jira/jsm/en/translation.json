@@ -55,7 +55,8 @@
         "dropzoneHelptext": "Drop files or click to select",
         "userFieldLoading": "Loading users ...",
         "userFieldPlaceholder": "Select a user",
-        "userFieldNoResults": "We couldn't find a matching user."
+        "userFieldNoResults": "We couldn't find a matching user.",
+        "raiseOnBehalfOf": "Raise on behalf of"
     },
     "myRequests": {
         "heading": "My requests",

@@ -55,7 +55,8 @@
         "dropzoneHelptext": "Przeciągnij plik tutaj lub kliknij, aby wybrać",
         "userFieldLoading": "Ładowanie użytkowników ...",
         "userFieldPlaceholder": "Wybierz użytkownika",
-        "userFieldNoResults": "Nie udało się znaleźć pasującego użytkownika."
+        "userFieldNoResults": "Nie udało się znaleźć pasującego użytkownika.",
+        "raiseOnBehalfOf": "Podnieść w imieniu"
     },
     "myRequests": {
         "heading": "Moje wnioski",

@@ -55,7 +55,8 @@
         "dropzoneHelptext": "Zet bestanden neer of klik om te selecteren",
         "userFieldLoading": "Gebruikers laden..",
         "userFieldPlaceholder": "Selecteer een gebruiker",
-        "userFieldNoResults": "We konden geen overeenkomende gebruiker vinden."
+        "userFieldNoResults": "We konden geen overeenkomende gebruiker vinden.",
+        "raiseOnBehalfOf": "Verhogen namens"
     },
     "myRequests": {
         "heading": "Mijn aanvragen",

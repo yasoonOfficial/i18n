@@ -55,7 +55,8 @@
         "dropzoneHelptext": "Scegli i file o caricali per Drag and Drop.",
         "userFieldLoading": "Carica utente ...",
         "userFieldPlaceholder": "Scegli utente",
-        "userFieldNoResults": "Nessun utente adatto trovato."
+        "userFieldNoResults": "Nessun utente adatto trovato.",
+        "raiseOnBehalfOf": "Sollevare per conto di"
     },
     "myRequests": {
         "heading": "Le mie richieste",

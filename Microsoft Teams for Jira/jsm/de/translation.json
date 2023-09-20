@@ -54,7 +54,8 @@
         "dropzoneHelptext": "Wähle Dateien aus oder lade sie via Drag and Drop hoch.",
         "userFieldLoading": "Lade Benutzer ...",
         "userFieldPlaceholder": "Benutzer auswählen",
-        "userFieldNoResults": "Keine passenden Benutzer gefunden."
+        "userFieldNoResults": "Keine passenden Benutzer gefunden.",
+        "raiseOnBehalfOf": "Erstellen im Namen von"
     },
     "myRequests": {
         "heading": "Meine Anfragen",
