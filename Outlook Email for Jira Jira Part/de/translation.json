@@ -399,5 +399,8 @@
         "templateButton": "Vorlagen",
         "noTemplatesGlobalAdminTooltip": "Es sind noch keine Vorlagen konfiguriert. Du kannst in den globalen App Einstellungen oder im Projekteinstellungsmenü neue Vorlagen erstellen.",
         "noTemplatesProjectAdminTooltip": "Es sind noch keine Vorlagen konfiguriert. Du kannst im Projekteinstellungsmenü neue Vorlagen für dein Projekt erstellen."
+    },
+    "attachment": {
+        "issueAttachmentTooBigTooltip": "Die Datei ist zu groß, um sie an eine E-Mail zu hängen. Prüfe, ob sie sich als Verlinkung teilen lässt."
     }
 }
