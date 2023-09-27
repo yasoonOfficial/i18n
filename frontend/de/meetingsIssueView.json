@@ -10,7 +10,12 @@
         "showMoreOptions": "Zeige mehr Optionen",
         "options": "Optionen",
         "openInWeb": "Im Web öffnen",
-        "cancel": "Absagen"
+        "cancel": "Absagen",
+        "deleteAction": "Absage bestätigen",
+        "deleteButton": "Ereignis absagen",
+        "cancelButton": "Schließen",
+        "deleteActionWarning1": "Dies wird das Ereignis aus deinem Kalender löschen und eine Absage an alle Teilnehmer senden.",
+        "deleteActionWarning2": "Bist du sicher, dass du fortfahren möchtest?"
     },
     "scheduledMeetingCard": {
         "scheduledMeetingCard": "Teilnehmen",

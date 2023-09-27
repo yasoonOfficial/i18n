@@ -4,13 +4,18 @@
         "noMeetingsScheduled": "No meetings have been scheduled yet.",
         "scheduleMeetingButton": "Schedule a new meeting",
         "fetchingEvents": "Fetching events...",
-        "mobileLoginNotSupported" :"Login required. The login is currently not available for mobile devices. If you log in on a desktop device, you can use the add-in on mobile devices as well."
+        "mobileLoginNotSupported": "Login required. The login is currently not available for mobile devices. If you log in on a desktop device, you can use the add-in on mobile devices as well."
     },
     "cardOptionsDropdown": {
         "showMoreOptions": "Show more options",
         "options": "Options",
         "openInWeb": "Open in web",
-        "cancel": "Cancel"
+        "cancel": "Cancel",
+        "deleteAction": "Confirm cancellation",
+        "deleteButton": "Cancel event",
+        "cancelButton": "Close",
+        "deleteActionWarning1": "This will delete the event from your calendar and send a cancellation mail to all participants.",
+        "deleteActionWarning2": "Are you sure you want to continue?"
     },
     "scheduledMeetingCard": {
         "join": "Join",
