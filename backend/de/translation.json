@@ -15,5 +15,9 @@
     "renderingTemplateErrorFlag": {
         "title": "Rendern der Vorlage fehlgeschlagen",
         "mainBody": "Die Vorlage konnte nicht angewandt werden. Ihr Inhalt ist wahrscheinlich fehlerhaft konfiguriert. Bitte kontaktiere deinen Administrator oder den Ersteller der Vorlage zum Beheben des Problems."
+    },
+    "templateSingle": {
+        "renderErrorTitle": "Syntaxfehler",
+        "renderErrorMessage": "Die Vorlage enthält einen Syntaxfehler und konnte nicht gerendert werden. Bitte überprüfe die Vorlage und versuche es erneut."
     }
 }
