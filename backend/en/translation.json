@@ -12,6 +12,9 @@
     "sendEmailErrorFlag": {
         "title": "Email could not be sent"
     },
+	"scheduleMeetingErrorFlag": {
+		"title": "Meeting or chat creation issue"
+	},
     "renderingTemplateErrorFlag": {
         "title": "Rendering template failed",
         "mainBody": "The template could not be applied. Its content is probably configured incorrectly. Please contact your administrator or the template's creator to fix it."
