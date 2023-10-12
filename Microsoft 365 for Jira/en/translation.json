@@ -443,11 +443,11 @@
         "heading": "Reply Teams conversation",
         "description": "Please provide the details for the conversation reply. Our documentation will help you to choose the correct settings.",
         "conversationMessage": "Conversation message",
-        "singleConversation": "Single conversation",
         "specificConversation": "Single conversation",
         "linkedConversations": "All linked conversations",
         "conversationType": "Conversation type",
-        "requiresCustomWebbhookData": "Please choose custom data for the web request body, if you wan't to reply to a specific conversation."
+        "requiresCustomWebbhookData": "Please choose custom data for the web request body, if you want to reply to a single conversation.",
+        "conversationTypeSelectionDisabledTooltip": "The conversation type can only be changed when creating an action."
     },
     "createSendBotMessageScreen": {
         "heading": "Send bot message",
@@ -954,7 +954,7 @@
         "formatJira": "Issue data (Jira format)",
         "channelRelpyCustomDataText": "Please provide details the channel message you wan't to reply to in the following format",
         "customDataText": "Please provide details to the Jira issue in the following format. You can choose between a single issue (issueId) or mutliple issues (issueIds).",
-        "specificReplyExample": "To get the required message details, use one of the following yasoon triggers: 'Teams conversation created' or 'Teams channel message recived'. And access the data using the following syntax:"
+        "specificReplyExample": "To get the required message details, use one of the following yasoon triggers: 'Teams conversation created' or 'Teams channel message received'. And access the data using the following syntax:"
     },
     "messagePatternHelper": {
         "text": "Examples:",

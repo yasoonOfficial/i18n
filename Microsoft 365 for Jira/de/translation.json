@@ -443,11 +443,12 @@
         "heading": "Teams Unterhaltung beantworten",
         "description": "Bitte konfiguriere Details der Kanal-Konversation. Die möglichen Einstellungen findest du in unserer Dokumentation.",
         "conversationMessage": "Unterhaltungs Nachricht",
-        "singleConversation": "Einzelne Unterhaltung",
         "specificConversation": "Einzelne Unterhaltung",
         "linkedConversations": "Alle verknüpften Unterhaltungen",
         "conversationType": "Nachrichtentyp",
-        "requiresCustomWebbhookData": "Bitte wähle benutzerdefinierte Daten für den Webhook aus, wenn du auf eine bestimmte Unterhaltung antworten möchtest."
+        "requiresCustomWebbhookData": "Bitte wähle benutzerdefinierte Daten für den Webhook aus, wenn du auf eine einzelne Unterhaltung antworten möchtest.",
+        "conversationTypeSelectionDisabledTooltip": "Der Nachrichtentyp kann nur beim Anlegen einer Aktion bearbeitet werden."
+
     },
     "createSendBotMessageScreen": {
         "heading": "Bot Nachricht senden",
