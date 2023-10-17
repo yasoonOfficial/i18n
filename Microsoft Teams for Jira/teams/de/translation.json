@@ -107,6 +107,7 @@
         "selectAnIssue": "Wähle einen Vorgang aus",
         "selectAnIssueType": "Wähle einen Vorgangstyp aus",
         "selectProject": "Wähle ein Projekt aus",
+        "useRequestType": "Anfragetyp verwenden",
         "noMatchingIssue": "Kein passender Vorgang gefunden.",
         "noMatchingIssueType": "Kein passender Vorgangstyp gefunden.",
         "noMatchingProject": "Kein passendes Projekt gefunden.",
