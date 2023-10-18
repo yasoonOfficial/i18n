@@ -41,6 +41,13 @@
         "selectLabel": "Scegli Labels",
         "labelsLoading": "Caricamento labels ..."
     },
+    "missingFields": {
+        "mandatoryFieldsMissing": "Alcuni campi obbligatori non possono essere visualizzati.",
+        "raiseInWeb": "Sollevare la richiesta nel web",
+        "contactSupport": "Contatta il supporto",
+        "optionalFieldsMissing": "Alcuni campi facoltativi non possono essere visualizzati",
+        "affectedFields": "Campi interessati:"
+    },
     "fieldErrorBoundary": {
         "errorMessage": "Componente scorretto.",
         "reportInstruction": "Invia Feedback"

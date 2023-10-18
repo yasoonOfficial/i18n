@@ -41,6 +41,13 @@
         "selectLabel": "Wybierz etykiety",
         "labelsLoading": "ładowanie labels ..."
     },
+    "missingFields": {
+        "mandatoryFieldsMissing": "Niektórych pól obowiązkowych nie można wyświetlić.",
+        "raiseInWeb": "Zgłoś żądanie w pliku web",
+        "contactSupport": "Skontaktuj się z pomocą techniczną",
+        "optionalFieldsMissing": "Niektórych pól opcjonalnych nie można wyświetlić",
+        "affectedFields": "Dotknięte pola:"
+    },
     "fieldErrorBoundary": {
         "errorMessage": "To pole uległo awarii.",
         "reportInstruction": "Wyślij informację zwrotną"

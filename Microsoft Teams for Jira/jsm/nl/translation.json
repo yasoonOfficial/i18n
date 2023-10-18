@@ -41,6 +41,13 @@
         "selectLabel": "Selecteer labels",
         "labelsLoading": "Labels laden.."
     },
+    "missingFields": {
+        "mandatoryFieldsMissing": "Sommige verplichte velden kunnen niet worden weergegeven.",
+        "raiseInWeb": "Verzoek indienen op internet",
+        "contactSupport": "Contact opnemen met ondersteuning",
+        "optionalFieldsMissing": "Sommige optionele velden kunnen niet worden weergegeven",
+        "affectedFields": "Betrokken velden:"
+    },
     "fieldErrorBoundary": {
         "errorMessage": "Dit veld is gecrasht.",
         "reportInstruction": "Stuur feedback"

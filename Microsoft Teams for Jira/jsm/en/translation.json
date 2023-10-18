@@ -41,6 +41,13 @@
         "selectLabel": "Select labels",
         "labelsLoading": "Loading labels ..."
     },
+    "missingFields": {
+        "mandatoryFieldsMissing": "Some mandatory fields cannot be displayed.",
+        "raiseInWeb": "Raise request in web",
+        "contactSupport": "Contact support",
+        "optionalFieldsMissing": "Some optional fields cannot be displayed",
+        "affectedFields": "Affected fields:"
+    },
     "fieldErrorBoundary": {
         "errorMessage": "This field has crashed.",
         "reportInstruction": "Send feedback"

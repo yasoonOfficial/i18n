@@ -44,6 +44,13 @@
         "errorMessage": "Komponente fehlerhaft.",
         "reportInstruction": "Feedback senden"
     },
+    "missingFields": {
+        "mandatoryFieldsMissing": "Einige Pflichtfelder können nicht angezeigt werden.",
+        "raiseInWeb": "Anfrage im Web stellen",
+        "contactSupport": "Support kontaktieren",
+        "optionalFieldsMissing": "Einige optionale Felder können nicht angezeigt werden",
+        "affectedFields": "Betroffene Felder:"
+    },
     "jiraUserContextMenu": {
         "openJira": "Jira öffnen"
     },
