@@ -107,7 +107,7 @@
         "selectAnIssue": "Select an issue",
         "selectAnIssueType": "Select an issue type",
         "selectProject": "Select a project",
-        "useRequestType": "Use request type",
+        "useRequestType": "Use issue / request type",
         "noMatchingIssue": "We couldn't find a matching issue.",
         "noMatchingIssueType": "We couldn't find a matching issue type.",
         "noMatchingProject": "We couldn't find a matching project.",
