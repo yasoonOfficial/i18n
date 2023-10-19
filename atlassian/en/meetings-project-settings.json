@@ -1,0 +1,30 @@
+{
+    "screen": {
+        "heading": "Outlook Meetings Project Settings"
+    },
+    "availableTimePicker": {
+        "5minutes": "5 minutes",
+        "10minutes": "10 minutes",
+        "15minutes": "15 minutes",
+        "30minutes": "30 minutes",
+        "60minutes": "60 minutes"
+    },
+    "dialogSettings": {
+        "heading": "Dialog configuration",
+        "description": "Customize the schedule meeting dialog."
+    },
+    "meetingLength": {
+        "heading": "Meeting length",
+        "description": "Configure the default meeting length.",
+        "rangeLabel": "min"
+    },
+    "timePickerSteps": {
+        "heading": "Time picker steps",
+        "description": "Choose how many steps should be displayed in the time picker."
+    },
+    "statusLozenge": {
+        "inprogress": "Saving settings...",
+        "success": "Settings Saved",
+        "removed": "Error while saving"
+    }
+}

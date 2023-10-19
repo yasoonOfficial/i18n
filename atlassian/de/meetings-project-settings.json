@@ -1,0 +1,30 @@
+{
+    "screen": {
+        "heading": "Outlook Meetings Projekt Einstellungen"
+    },
+    "availableTimePicker": {
+        "5minutes": "5 Minuten",
+        "10minutes": "10 Minuten",
+        "15minutes": "15 Minuten",
+        "30minutes": "30 Minuten",
+        "60minutes": "60 Minuten"
+    },
+    "dialogSettings": {
+        "heading": "Dialog Konfiguration",
+        "description": "Passe den Dialog \"Meeting planen\" an."
+    },
+    "meetingLength": {
+        "heading": "Meetingdauer",
+        "description": "Konfiguriere die voreingestellte Meetingdauer.",
+        "rangeLabel": "min"
+    },
+    "timePickerSteps": {
+        "heading": "Zeitfeld",
+        "description": "Konfiguriere welche Zeitspannen in den Zeitfeld ausgewählt werden können."
+    },
+    "statusLozenge": {
+        "inprogress": "Speichern...",
+        "success": "Einstellungen gespeichert",
+        "removed": "Fehler beim Speichern"
+    }
+}

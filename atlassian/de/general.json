@@ -1,0 +1,44 @@
+{
+    "errorMessages": {
+        "authenticationErrorTitle": "Seite neu laden",
+        "authenticationErrorBody": "Die Verbindung zu Microsoft 365 wurde unterbrochen und die Daten sind möglicherweise veraltet. Lade die Seite neu."
+    },
+    "dialog": {
+        "header": {
+            "settingsSection": "Einstellungen",
+            "personalSettings": "persönliche Einstellungen",
+            "appSettings": "App Einstellungen",
+            "helpSection": "Hilfe"
+        },
+        "footer": {
+            "close": "Schließen",
+            "cancel": "Abbrechen",
+            "confirm": "Bestätigen",
+			"messagesPopupSection":"Nachrichten",
+			"errorIconLabel":"Fehler",
+			"warningIconLabel":"Warnung",
+			"infoIconLabel":"Info"
+        }
+    },
+    "systemTemplate": {
+        "email": {
+            "displayName": "Standardvorlage E-Mail",
+            "detailDescription": "Standardvorlage für E-Mails. Sie befüllt den Betreff mit der Zusammenfassung des Issues."
+        },
+        "meetings": {
+            "displayName": "Standardvorlage Meetings",
+            "detailDescription": "Standardvorlage für Meetings. Sie befüllt den Titel mit dem Key und der Zusammenfassung des Issues. Im Inhalt wird ein Link zum Issue eingefügt."
+        },
+        "chat": {
+            "displayName": "Standardvorlage Chat",
+            "detailDescription": "Standardvorlage für Chats. Sie befüllt den Titel mit dem Key und der Zusammenfassung des Issues. Im Inhalt wird ein Link zum Issue eingefügt."
+        }
+    },
+    "templateChooser": {
+        "recentsLabel": "Verwendete",
+        "othersLabel": "Andere",
+        "templateButton": "Templates",
+        "noTemplatesGlobalAdminTooltip": "Bisher wurden keine Templates konfiguriert. Du kannst neue Templates in den globalen Appeinstellungen oder Projekteinstellungen anlegen.",
+        "noTemplatesProjectAdminTooltip": "Bisher wurden keine Templates konfiguriert. Du kannst neue Templates in den Projekteinstellungen anlegen."
+    }
+}

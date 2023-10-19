@@ -7,7 +7,8 @@
         "fieldLabelAttendeesOptional": "Optionale Teilnehmer",
         "atleastOneNotAvailable": "Mindestens ein Teilnehmer ist nicht verfügbar",
         "attendeesPlaceholder": "Tippe zum suchen ...",
-        "attendeesNoOptionsMessage": "Keine passenden Teilnehmer"
+        "attendeesNoOptionsMessage": "Keine passenden Teilnehmer",
+		"addOptionalButtonLabel":"Optionale hinzufügen"
     },
     "calendarToolbar": {
         "previousTimeUnitTooltip": "Zurück",
@@ -151,7 +152,8 @@
     },
     "createMeetingForm": {
         "buttonLabelSimple": "Normal",
-        "buttonLabelAdvanced": "Fortgeschritten"
+        "buttonLabelAdvanced": "Fortgeschritten",
+		"scheduleDetailsHeading": "Scheduling details"
     },
     "templatePicker": {
         "recents": "Vorherige",
