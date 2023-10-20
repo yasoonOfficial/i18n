@@ -126,6 +126,7 @@
         "comment": "Comment",
         "project": "Project",
         "issueType": "Issue type",
+        "requestType": "Request type",
         "commentEditorPlaceholder": "Type a comment ...",
         "replyToCustomer": "Reply to customer",
         "addInternalNote": "Add internal note",

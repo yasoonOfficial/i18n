@@ -126,6 +126,7 @@
         "comment": "Kommentar",
         "project": "Projekt",
         "issueType": "Vorgangstyp",
+        "requestType": "Anfragetyp",
         "commentEditorPlaceholder": "Verfasse ein Kommentar ...",
         "replyToCustomer": "Antwort an Kunden",
         "addInternalNote": "Interne Notiz hinzufügen",
