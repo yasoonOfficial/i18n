@@ -207,7 +207,7 @@
         "wrongInstance1": "Dieses Board gehört zu einer Jira Instanz die sich von der unterscheidet, in die du aktuell eingeloggt bist, und es ist kein Sharing konfiguriert.",
         "wrongInstance2": "Bitte logge dich über das Benutzermenü in der oberen rechten Ecke aus, und logge dich in die korrekte Instanz ein.",
         "yourInstance": "Deine aktuelle Jira Instanz",
-        "boardInstance": "Die Jira Instanz diese Boards",
+        "boardInstance": "Die Jira Instanz dieses Boards",
         "nonJiraUserPermissions": "Nutzer ohne Jira Account dürfen",
         "allowNonJiraUsersForBoard": "dieses Board sehen",
         "allowNonJiraUsersTransitions": "den Status von Vorgängen ändern",
