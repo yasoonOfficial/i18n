@@ -53,7 +53,8 @@
         "reportInstruction": "Wyślij informację zwrotną"
     },
     "jiraUserContextMenu": {
-        "openJira": "Otwórz Jira"
+        "openJira": "Otwórz Jira",
+        "relogin": "Odśwież logowanie"
     },
     "suggestions": {
         "heading": "Proponowane artykuły"

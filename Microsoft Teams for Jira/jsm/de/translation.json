@@ -52,7 +52,8 @@
         "affectedFields": "Betroffene Felder:"
     },
     "jiraUserContextMenu": {
-        "openJira": "Jira öffnen"
+        "openJira": "Jira öffnen",
+        "relogin": "Login aktualisieren"
     },
     "suggestions": {
         "heading": "Vorgeschlagene Artikel"
