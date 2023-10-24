@@ -218,7 +218,8 @@
         "seeLessAttachments": "See less",
         "unlinkMessageFromConversation": "Unlink this email",
         "unlinkMessage": "Unlink this email",
-        "unlinkConversation": "Unlink this conversation"
+        "unlinkConversation": "Unlink this conversation",
+        "deleteScheduledDraft": "Delete scheduled draft"
     },
     "emptyState": {
         "noAdminEmptyState": "You need admin permissions to view this page"
@@ -402,5 +403,11 @@
     },
     "attachment": {
         "issueAttachmentTooBigTooltip": "The selected attachments are too big to be added to an email. Consider sharing them via link instead."
+    },
+    "deleteScheduledDraftConfirmationModal": {
+        "deleteScheduledDraft": "Delete scheduled draft",
+        "delete": "Delete",
+        "cancel": "Cancel",
+        "deleteScheduledDraftMessage": "Deleting this scheduled draft will prevent the email from being sent and delete it in Outlook. Are you sure you want to delete this scheduled draft?"
     }
 }

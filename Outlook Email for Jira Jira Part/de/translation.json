@@ -218,7 +218,8 @@
         "seeLessAttachments": "Weniger anzeigen",
         "unlinkMessageFromConversation": "E-Mail entknüpfen",
         "unlinkMessage": "E-Mail entknüpfen",
-        "unlinkConversation": "Konversation entknüpfen"
+        "unlinkConversation": "Konversation entknüpfen",
+        "deleteScheduledDraft": "Geplanten Entwurf löschen"
     },
     "emptyState": {
         "noAdminEmptyState": "Du brauchst Adminberechtigungen, um diese Seite sehen zu können"
@@ -402,5 +403,11 @@
     },
     "attachment": {
         "issueAttachmentTooBigTooltip": "Die ausgewählten Dateien sind zu groß, um sie an eine E-Mail zu hängen. Prüfe, ob sie sich als Verlinkung teilen lassen."
+    },
+    "deleteScheduledDraftConfirmationModal": {
+        "deleteScheduledDraft": "Geplanten Entwurf löschen",
+        "delete": "Löschen",
+        "cancel": "Abbrechen",
+        "deleteScheduledDraftMessage": "Wenn Sie diesen geplanten Entwurf löschen, wird die E-Mail nicht mehr gesendet und in Outlook gelöscht. Sind Sie sicher, dass Sie diesen geplanten Entwurf löschen möchten?"
     }
 }
