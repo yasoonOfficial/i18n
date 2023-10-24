@@ -90,7 +90,8 @@
         "help": "Help",
         "meetingsDoc": "Documentation",
         "settings": "Settings",
-        "settingsButtonLabel": "Personal settings"
+        "settingsButtonLabel": "Personal settings",
+		"loginRequiredHeading": "Login required"
     },
     "editorField": {
         "label": "Comment"
@@ -167,7 +168,12 @@
         "placeholder": "Please add a title"
     },
     "createOutlookMeetingScreenModel": {
-        "mainCalendarLabel": "Main calendar"
+        "mainCalendarLabel": "Main calendar",
+		"meetingCreatedFlagTitle": "Meeting scheduled",
+		"meetingCreatedFagBody":"The meeting has been scheduled and all participants have received their invite.",
+		"errorSavingIssuePropertyFlagTitle":"Edit issue property failed",
+		"errorSavingIssuePropertyFlagBody": "It seems like you do not have the permissions to edit this issue.",
+		"genericErrorFlatTitle": "Error scheduling meeting"
     },
     "officeLoginScreen": {
         "loginButtonLabel": "Log in with Microsoft 365",

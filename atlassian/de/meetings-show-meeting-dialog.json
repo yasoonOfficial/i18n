@@ -90,7 +90,8 @@
         "help": "Hilfe",
         "meetingsDoc": "Dokumentation",
         "settings": "Einstellungen",
-        "settingsButtonLabel": "Persönliche Einstellungen"
+        "settingsButtonLabel": "Persönliche Einstellungen",
+		"loginRequiredHeading": "Login erforderlich"
     },
     "editorField": {
         "label": "Kommentar"
@@ -167,7 +168,12 @@
         "placeholder": "Bitte füge einen Titel hinzu"
     },
     "createOutlookMeetingScreenModel": {
-        "mainCalendarLabel": "Hauptkalender"
+        "mainCalendarLabel": "Hauptkalender",
+		"meetingCreatedFlagTitle": "Meeting erstellt",
+		"meetingCreatedFagBody":"Das Meeting wurde erstellt und alle Teilnehmer haben ihre Einladung erhalten.",
+		"errorSavingIssuePropertyFlagTitle":"Issue konnte nicht aktualisiert werden",
+		"errorSavingIssuePropertyFlagBody": "Es scheint, als hättest du nicht die Berechtigung dieses Issue zu bearbeiten.",
+		"genericErrorFlatTitle": "Fehler beim Meeting anlegen"
     },
     "officeLoginScreen": {
         "loginButtonLabel": "Mit Microsoft 365 anmelden",
