@@ -367,9 +367,6 @@
         "successTitle": "Erfolg",
         "saveSuccessMessage": "Einstellungen gespeichert"
     },
-    "unlink": {
-        "scheduledUnlinkNotPossibleTooltip": "Entknüpfen nicht möglich. Um zu verhindern, dass diese E-Mail gesendet wird, öffne diese in Outlook und entferne sie aus den Entwürfen."
-    },
     "unlinkConfirmationDropdown": {
         "unlinkConversationDescription": "Die Konversation mit momentan {{amount}} E-Mails entknüpfen.",
         "unlinkConversationDescriptionSingle": "Diese E-Mail und alle zukünftigen Antworten entknüpfen.",
