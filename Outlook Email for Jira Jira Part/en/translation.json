@@ -196,8 +196,8 @@
         "loginMicrosoftHint": "Login with Microsoft",
         "loginWithAccountChooser": "Login with account chooser",
         "initSendMailDialog": "Send an email",
-        "messageConfirm": "Unlink this email",
-        "conversationConfirm": "Unlink {{amount}} emails",
+        "messageConfirm": "Remove this email",
+        "conversationConfirm": "Remove {{amount}} emails",
         "sendMail": "Send",
         "sendMailLater": "Send {{date}}",
         "sendToSender": "Email sender",
@@ -210,16 +210,16 @@
         "showDetail": "Open",
         "openInBrowser": "Open in Outlook",
         "openInBrowserEncrypted": "Open in Outlook to view attachments of encrypted or signed mails",
-        "unshare": "Unlink",
+        "unshare": "Remove",
         "loadMore": "Load more",
         "hideAttachments": "Hide attachments",
         "showAllAttachments": "Show all attachments ({{amount}})",
         "showAttachments": "Show attachments",
         "seeLessAttachments": "See less",
-        "unlinkMessageFromConversation": "Unlink this email",
-        "unlinkMessage": "Unlink this email",
-        "unlinkConversation": "Unlink this conversation",
-        "deleteScheduledDraft": "Delete scheduled draft"
+        "unlinkMessageFromConversation": "Remove this email",
+        "unlinkMessage": "Remove this email",
+        "unlinkConversation": "Remove this conversation",
+        "deleteScheduledDraft": "Delete email"
     },
     "emptyState": {
         "noAdminEmptyState": "You need admin permissions to view this page"
@@ -368,9 +368,9 @@
         "saveSuccessMessage": "Settings saved"
     },
     "unlinkConfirmationDropdown": {
-        "unlinkConversationDescription": "Unlink currently {{amount}} emails and all future replies.",
-        "unlinkConversationDescriptionSingle": "Unlink currently 1 email and all future replies.",
-        "unlinkMessageDescription": "Unlink this email.",
+        "unlinkConversationDescription": "Remove currently {{amount}} emails and all future replies.",
+        "unlinkConversationDescriptionSingle": "Remove currently 1 email and all future replies.",
+        "unlinkMessageDescription": "Remove this email.",
         "unlinkMessageFromConversationDescription": "Other emails are still linked to this issue.",
         "unlinkMultiDisclaimer": "The emails themselves in Outlook are unaffected.",
         "unlinkSingleDisclaimer": "The email itself in Outlook is unaffected."
@@ -378,10 +378,10 @@
     "unlinkConfirmationModal": {
         "messageConfirm": "Email",
         "conversationConfirm": "Conversation",
-        "unlinkConversationDescription": "Unlink the whole conversation with currently {{amount}} emails and all future replies.",
-        "unlinkConversationDescriptionSingle": "Unlink the whole conversation with currently 1 email and all future replies.",
-        "unlinkMessageDescription": "Unlink this email.",
-        "unlinkMessageFromConversationDescription": "Unlink this email. Other emails of the same conversation as well as future replies are still linked to this issue.",
+        "unlinkConversationDescription": "Remove the whole conversation with currently {{amount}} emails and all future replies.",
+        "unlinkConversationDescriptionSingle": "Remove the whole conversation with currently 1 email and all future replies.",
+        "unlinkMessageDescription": "Remove this email.",
+        "unlinkMessageFromConversationDescription": "Remove this email. Other emails of the same conversation as well as future replies are still linked to this issue.",
         "unlinkMultiDisclaimer": "This will only remove the emails from this issue and will not affect the emails themselves in Outlook.",
         "unlinkSingleDisclaimer": "This will only remove the email from this issue and will not affect the email itself in Outlook. ",
         "heading": "Remove linked email"
@@ -402,9 +402,9 @@
         "issueAttachmentTooBigTooltip": "The selected attachments are too big to be added to an email. Consider sharing them via link instead."
     },
     "deleteScheduledDraftConfirmationModal": {
-        "deleteScheduledDraft": "Delete scheduled draft",
+        "deleteScheduledDraft": "Delete email",
         "delete": "Delete",
         "cancel": "Cancel",
-        "deleteScheduledDraftMessage": "Deleting this scheduled draft will prevent the email from being sent and delete it in Outlook. Are you sure you want to delete this scheduled draft?"
+        "deleteScheduledDraftMessage": "Deleting this email will prevent the email from being sent and delete it in Outlook. Are you sure you want to delete this email?"
     }
 }

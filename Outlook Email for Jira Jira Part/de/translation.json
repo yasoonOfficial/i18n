@@ -196,8 +196,8 @@
         "loginMicrosoftHint": "Anmelden mit Microsoft",
         "loginWithAccountChooser": "Anmelden mit Accountauswahl",
         "initSendMailDialog": "E-Mail schreiben",
-        "messageConfirm": "E-Mail entknüpfen",
-        "conversationConfirm": "{{amount}} E-Mails entknüpfen",
+        "messageConfirm": "E-Mail entfernen",
+        "conversationConfirm": "{{amount}} E-Mails entfernen",
         "sendMail": "Abschicken",
         "sendMailLater": "Am {{date}} abschicken",
         "sendToSender": "Email an den Absender",
@@ -216,10 +216,10 @@
         "showAllAttachments": "Alle Anhänge anzeigen ({{amount}})",
         "showAttachments": "Anhänge anzeigen",
         "seeLessAttachments": "Weniger anzeigen",
-        "unlinkMessageFromConversation": "E-Mail entknüpfen",
-        "unlinkMessage": "E-Mail entknüpfen",
-        "unlinkConversation": "Konversation entknüpfen",
-        "deleteScheduledDraft": "Geplanten Entwurf löschen"
+        "unlinkMessageFromConversation": "E-Mail entfernen",
+        "unlinkMessage": "E-Mail entfernen",
+        "unlinkConversation": "Konversation entfernen",
+        "deleteScheduledDraft": "E-Mail löschen"
     },
     "emptyState": {
         "noAdminEmptyState": "Du brauchst Adminberechtigungen, um diese Seite sehen zu können"
@@ -368,9 +368,9 @@
         "saveSuccessMessage": "Einstellungen gespeichert"
     },
     "unlinkConfirmationDropdown": {
-        "unlinkConversationDescription": "Die Konversation mit momentan {{amount}} E-Mails entknüpfen.",
-        "unlinkConversationDescriptionSingle": "Diese E-Mail und alle zukünftigen Antworten entknüpfen.",
-        "unlinkMessageDescription": "Diese E-Mail entknüpfen.",
+        "unlinkConversationDescription": "Die Konversation mit momentan {{amount}} E-Mails entfernen.",
+        "unlinkConversationDescriptionSingle": "Diese E-Mail und alle zukünftigen Antworten entfernen.",
+        "unlinkMessageDescription": "Diese E-Mail entfernen.",
         "unlinkMessageFromConversationDescription": "Andere E-Mails der Konversation bleiben mit dem Vorgang verknüpft.",
         "unlinkMultiDisclaimer": "Dies hat keine Auswirkungen auf die eigentlichen E-Mails in Outlook.",
         "unlinkSingleDisclaimer": "Dies hat keine Auswirkungen auf die eigentliche E-Mail in Outlook."
@@ -378,10 +378,10 @@
     "unlinkConfirmationModal": {
         "messageConfirm": "E-Mail",
         "conversationConfirm": "Konversation",
-        "unlinkConversationDescription": "Die ganze Konversation mit momentan {{amount}} E-Mails und alle zukünftigen Antworten entknüpfen.",
-        "unlinkConversationDescriptionSingle": "Die ganze Konversation mit momentan 1 E-Mail und alle zukünftigen Antworten entknüpfen.",
-        "unlinkMessageDescription": "Diese E-Mail entknüpfen.",
-        "unlinkMessageFromConversationDescription": "Diese E-Mail entknüpfen. Andere E-Mails der Konversation sowie zukünftige Antworten bleiben mit dem Vorgang verknüpft.",
+        "unlinkConversationDescription": "Die ganze Konversation mit momentan {{amount}} E-Mails und alle zukünftigen Antworten entfernen.",
+        "unlinkConversationDescriptionSingle": "Die ganze Konversation mit momentan 1 E-Mail und alle zukünftigen Antworten entfernen.",
+        "unlinkMessageDescription": "Diese E-Mail entfernen.",
+        "unlinkMessageFromConversationDescription": "Diese E-Mail entfernen. Andere E-Mails der Konversation sowie zukünftige Antworten bleiben mit dem Vorgang verknüpft.",
         "unlinkMultiDisclaimer": "Dies wird die E-Mails nur von diesem Vorgang entfernen und hat keine Auswirkungen auf die eigentlichen E-Mails in Outlook.",
         "unlinkSingleDisclaimer": "Dies wird die E-Mail nur von diesem Vorgang entfernen und hat keine Auswirkungen auf die eigentliche E-Mail in Outlook.",
         "heading": "Verknüpfung entfernen"
@@ -402,9 +402,9 @@
         "issueAttachmentTooBigTooltip": "Die ausgewählten Dateien sind zu groß, um sie an eine E-Mail zu hängen. Prüfe, ob sie sich als Verlinkung teilen lassen."
     },
     "deleteScheduledDraftConfirmationModal": {
-        "deleteScheduledDraft": "Geplanten Entwurf löschen",
+        "deleteScheduledDraft": "E-Mail löschen",
         "delete": "Löschen",
         "cancel": "Abbrechen",
-        "deleteScheduledDraftMessage": "Wenn Sie diesen geplanten Entwurf löschen, wird die E-Mail nicht mehr gesendet und in Outlook gelöscht. Sind Sie sicher, dass Sie diesen geplanten Entwurf löschen möchten?"
+        "deleteScheduledDraftMessage": "Wenn du diese E-Mail löscht, wird die E-Mail nicht mehr gesendet und in Outlook gelöscht. Bist du sicher, dass du diese E-Mail löschen möchtest?"
     }
 }
