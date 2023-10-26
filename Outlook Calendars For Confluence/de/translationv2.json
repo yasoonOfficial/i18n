@@ -334,7 +334,11 @@
     "editingOnDraftBlocked": {
       "bannerHeading": "Editieren nicht möglich",
       "mainDescriptionText": "Entschuldige die Unannehmlichkeit. \nDas Bearbeiten des Kalenders auf Entwurfsseiten ist bei dieser Version von Confluence leider nicht möglich. \n Erst nach dem Anlegen/Speichern der Seite kann der Kalender editiert werden."
-    }
+    },
+	"editongOnBlueprintBlocked": {
+		"bannerHeading": "Editieren nicht möglich",
+		"mainDescriptionText": "Entschuldige die Unannehmlichkeit. \nas Bearbeiten des Kalenders auf Blaupausen ist technisch bedingt leider nicht möglich "
+	  }
   },
   "globalMailboxComponent": {
     "removeButtonLabel": "Löschen"

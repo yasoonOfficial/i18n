@@ -334,6 +334,10 @@
     "editingOnDraftBlocked": {
       "bannerHeading": "Editing not possible",
       "mainDescriptionText": "Sorry for the inconvenience. \nEditing the calendar on draft pages is not possible with this version of Confluence. \nSave the page first, then you can edit the calendar."
+    },
+    "editongOnBlueprintBlocked": {
+      "bannerHeading": "Editing not possible",
+      "mainDescriptionText": "Sorry for the inconvenience. \nEditing the calendar on blueprints is not possible due to technically limitations. "
     }
   },
   "globalMailboxComponent": {
