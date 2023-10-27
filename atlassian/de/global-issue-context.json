@@ -1,0 +1,27 @@
+{
+	"heading": {
+		"showMore": "Zeige mehr"
+	},
+	"people": {
+		"header": "Personen",
+		"noPeople": "Keine Personen gefunden"
+	},
+	"channelConversations": {
+		"header": "Channel Konversationen",
+		"noConversations": "Keine Konversationen gefunden"
+	},
+	"chats": {
+		"header": "Chats",
+		"noChats": "Keine Chats gefunden",
+		"noMessages": "Keine Chat Nachrichten gefunden"
+	},
+	"mails": {
+		"header": "Mails",
+		"noMails": "Keine mails",
+		"messages": "mails in dieser Konversation"
+	},
+	"meetings": {
+		"header": "Meetings",
+		"noMeetings": "Keine Meetings gefunden"
+	}
+}
