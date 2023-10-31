@@ -21,7 +21,8 @@
         "fileUpload": "Sommige van uw bestanden lijken ongeldig te zijn.",
         "noUserFound": "Een gebruiker met e-mailadres {{email}} is niet gevonden in deze serviceportaal.",
         "noIssueFound": "Ticket niet gevonden of u heeft geen toestemming om het te bekijken.",
-        "transitionError": "Kon de overgang niet uitvoeren. Probeer het later nog eens."
+        "transitionError": "Kon de overgang niet uitvoeren. Probeer het later nog eens.",
+        "urlError": "Geldige URL's moeten een schema hebben ('http://' of 'https://')"
     },
     "search": {
         "placeholder": "Zoek naar veelvoorkomende problemen..",

@@ -21,7 +21,8 @@
         "fileUpload": "Niektóre twoje pliki są niewłaściwe.",
         "noUserFound": "Użytkownik o takim adresie email {{email}} nie został znaleziony na tym portalu.",
         "noIssueFound": "Nie znaleziono problemu lub nie masz uprawnień, aby go wyświetlić.",
-        "transitionError": "Nie można wykonać przejścia. Spróbuj ponownie później."
+        "transitionError": "Nie można wykonać przejścia. Spróbuj ponownie później.",
+        "urlError": "Prawidłowe adresy URL muszą mieć schemat ('http://' lub 'https://')"
     },
     "search": {
         "placeholder": "Szukaj częstych problemów ...",
