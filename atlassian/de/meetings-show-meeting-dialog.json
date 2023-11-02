@@ -173,7 +173,9 @@
 		"meetingCreatedFagBody":"Das Meeting wurde erstellt und alle Teilnehmer haben ihre Einladung erhalten.",
 		"errorSavingIssuePropertyFlagTitle":"Issue konnte nicht aktualisiert werden",
 		"errorSavingIssuePropertyFlagBody": "Es scheint, als hättest du nicht die Berechtigung dieses Issue zu bearbeiten.",
-		"genericErrorFlatTitle": "Fehler beim Meeting anlegen"
+		"genericErrorFlatTitle": "Fehler beim Meeting anlegen",
+		"errorLoadingEvent": "Meeting konnte nicht geladen werden",
+		"errorLoadingEventBody":"Das Meeting konnte vor dem Bearbeiten nicht geladen werden. Möglicherweise wurde es gelöscht"
     },
     "officeLoginScreen": {
         "loginButtonLabel": "Mit Microsoft 365 anmelden",
