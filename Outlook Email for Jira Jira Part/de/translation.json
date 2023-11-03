@@ -219,7 +219,9 @@
         "unlinkMessageFromConversation": "E-Mail entfernen",
         "unlinkMessage": "E-Mail entfernen",
         "unlinkConversation": "Konversation entfernen",
-        "deleteScheduledDraft": "E-Mail löschen"
+		"deleteScheduledDraft": "E-Mail löschen",
+		"backupEmail": "E-Mail sichern",
+		"backupConversation": "Konversation sichern"
     },
     "emptyState": {
         "noAdminEmptyState": "Du brauchst Adminberechtigungen, um diese Seite sehen zu können"
@@ -406,5 +408,13 @@
         "delete": "Löschen",
         "cancel": "Abbrechen",
         "deleteScheduledDraftMessage": "Wenn du diese E-Mail löscht, wird die E-Mail nicht mehr gesendet und in Outlook gelöscht. Bist du sicher, dass du diese E-Mail löschen möchtest?"
-    }
+	},
+	"backup": {
+		"initiatedFlagTitle": "Sicherung angestoßen",
+		"initiatedFlagBody": "Das kann etwas dauern. Wir werden die Sicherungsdatei an diesen Vorgang anhängen, sobald der Prozess abgeschlossen ist.",
+		"doneFlagTitle": "Sicherung erfolgreich",
+		"doneFlagBody": "Sicherungsdatei erfolgreich an den Vorgang angehängt. Wenn die Datei nicht sichtbar ist, versuche, die Seite neu zu laden.",
+		"failedFlagTitle": "Sicherung fehlgeschlagen",
+		"failedFlagBody": "Das Erstellen einer Sicherungsdatei ist fehlgeschlagen. Versuche es noch einmal oder wende dich an den Support (https://yasoon.atlassian.net/servicedesk/customer/portal/3)."
+	}
 }

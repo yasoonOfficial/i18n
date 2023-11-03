@@ -219,7 +219,9 @@
         "unlinkMessageFromConversation": "Remove this email",
         "unlinkMessage": "Remove this email",
         "unlinkConversation": "Remove this conversation",
-        "deleteScheduledDraft": "Delete email"
+		"deleteScheduledDraft": "Delete email",
+		"backupEmail": "Backup email",
+		"backupConversation": "Backup conversation"
     },
     "emptyState": {
         "noAdminEmptyState": "You need admin permissions to view this page"
@@ -406,5 +408,13 @@
         "delete": "Delete",
         "cancel": "Cancel",
         "deleteScheduledDraftMessage": "Deleting this email will prevent the email from being sent and delete it in Outlook. Are you sure you want to delete this email?"
-    }
+	},
+	"backup": {
+		"initiatedFlagTitle": "Erstelle Backup-Datei.",
+		"initiatedFlagBody": "This might take a while. Once the file is ready, it will be attached to this issue.",
+		"doneFlagTitle": "Backup was successful.",
+		"doneFlagBody": "Backup file was created and successfully added to this issue. If you cannot see the attachment, please refresh the page.",
+		"failedFlagTitle": "Backup failed",
+		"failedFlagBody": "Creating a backup failed. Try again or contact support (https://yasoon.atlassian.net/servicedesk/customer/portal/3)."
+	}
 }
