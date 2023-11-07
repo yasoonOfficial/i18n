@@ -40,5 +40,16 @@
         "templateButton": "Templates",
         "noTemplatesGlobalAdminTooltip": "No templates have been configured yet. You can create new templates in the global app settings or project settings.",
         "noTemplatesProjectAdminTooltip": "No templates have been configured yet. You can create new templates for your project in the project settings."
-    }
+    },
+	"graphUserPicker": {
+		"presenceTooltip": "User status: {{userStatus}}"
+	},
+	"freeBusyLabels": {
+		"busy": "Busy",
+		"free": "Free",
+		"oof": "Away",
+		"tentative": "Tentative",
+		"unknown": "Unknown",
+		"workingElsewhere": "Working elsewhere"
+	}
 }
