@@ -81,11 +81,16 @@
         "label": "Send",
         "sendMeetingTooltip": "Send an Outlook meeting request to all attendees and - if selected - add an issue comment with the meeting details"
     },
+    "updateMeetingButton": {
+        "label": "Update",
+        "updateTooltip": "Updates the meeting"
+    },
     "dialogfooter": {
         "cancelButtonLabel": "Cancel"
     },
     "scheduleMeetingDialogHeader": {
-        "heading": "Schedule new meeting",
+        "createHeading": "Schedule new meeting",
+        "editHeading": "Edit this meeting",
         "closeLabel": "Close",
         "help": "Help",
         "meetingsDoc": "Documentation",

@@ -11,6 +11,7 @@
         "options": "Options",
         "openInWeb": "Open in web",
         "cancel": "Cancel",
+		"edit": "Edit",
         "deleteAction": "Confirm cancellation",
         "deleteButton": "Cancel event",
         "cancelButton": "Close",

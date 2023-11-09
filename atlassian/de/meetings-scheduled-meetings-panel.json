@@ -11,6 +11,7 @@
         "options": "Optionen",
         "openInWeb": "Im Web öffnen",
         "cancel": "Absagen",
+		"edit": "Editieren",
         "deleteAction": "Absage bestätigen",
         "deleteButton": "Ereignis absagen",
         "cancelButton": "Schließen",
@@ -18,7 +19,7 @@
         "deleteActionWarning2": "Bist du sicher, dass du fortfahren möchtest?"
     },
     "scheduledMeetingCard": {
-        "scheduledMeetingCard": "Teilnehmen",
+        "join": "Teilnehmen",
         "inviteMyself": "Mich einladen",
         "sharedIconTooltip": "Öffentliched Meeting",
         "privateIconTooltip": "Privates Meeting",

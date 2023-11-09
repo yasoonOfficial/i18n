@@ -81,11 +81,16 @@
         "label": "Senden",
         "sendMeetingTooltip": "Outlook Meetinganfrage an alle Teilnehmer senden und - falls ausgewählt - einen Kommentar mit Meetingdetails an den Vorgang hinzufügen"
     },
+	"updateMeetingButton": {
+        "label": "Updaten",
+        "updateTooltip": "Änderungen abschicken"
+    },
     "dialogfooter": {
         "cancelButtonLabel": "Abbrechen"
     },
     "scheduleMeetingDialogHeader": {
-        "heading": "Neues Meeting planen",
+		"createHeading": "Neues Meeting planen",
+        "editHeading": "Meeting editieren",
         "closeLabel": "Schließen",
         "help": "Hilfe",
         "meetingsDoc": "Dokumentation",
