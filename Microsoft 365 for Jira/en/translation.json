@@ -917,7 +917,9 @@
         "global": "Global",
         "project": "Project",
         "placeholder": "No default template selected",
-        "inheritedTooltip": "The default template is inherited from global default template settings and must not be removed."
+        "inheritedTooltip": "The default template is inherited from global default template settings and must not be removed.",
+		"templateNotFound": "The template could not be found",
+		"templateNotFoundDescription": "Please remove the selected template or select another one."
     },
     "systemTemplate": {
         "email": {

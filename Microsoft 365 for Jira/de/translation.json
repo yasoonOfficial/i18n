@@ -918,7 +918,9 @@
         "global": "Global",
         "project": "Projekt",
         "placeholder": "Keine Standardvorlage ausgewählt",
-        "inheritedTooltip": "Die Standardvorlage ist aus den globalen Einstellungen übernommen und darf nicht entfernt werden."
+        "inheritedTooltip": "Die Standardvorlage ist aus den globalen Einstellungen übernommen und darf nicht entfernt werden.",
+		"templateNotFound": "Die Vorlage konnte nicht gefunden werden",
+		"templateNotFoundDescription": "Bitte entferne die ausgewählte Vorlage oder wähle eine andere aus."
     },
     "systemTemplate": {
         "email": {
