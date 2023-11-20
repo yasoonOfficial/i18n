@@ -363,7 +363,11 @@
         "generic": "Something has gone wrong",
         "tooBigAttachmentsTitle": "The attachments are too big.",
         "tooBigAttachmentsMessage": "It is currently only supported to upload attachments of up to ~2.5MB in total. We are working to also support larger attachments.",
-        "saveTitle": "Failed to save settings"
+		"saveTitle": "Failed to save settings",
+		"mailboxNotFoundTitle": "Mailbox not found",
+		"mailboxNotFoundMessage": "We were unable to find the mailbox {{mailbox}} you are trying to send from. Please make sure you have the correct permissions to access this mailbox.",
+		"noAnswersTitle": "No Full Access",
+		"noAnswersMessage": "Sending this email will probably work if you have \"Send As\" or \"Send on behalf of\" permissions to {{mailbox}}, but the answers will not be visible in this issue as you do not have Full Access permissions to {{mailbox}}"
     },
     "flag": {
         "successTitle": "Success",

@@ -363,7 +363,11 @@
         "generic": "Etwas ist schiefgelaufen",
         "tooBigAttachmentsTitle": "Die Anhänge sind zu groß.",
         "tooBigAttachmentsMessage": "Es ist momentan nur möglich, Anhänge bis zu einer Gesamtgröße von ca. 2.5MB zu versenden. Wir arbeiten daran, auch größere Anhänge zu ermöglichen.",
-        "saveTitle": "Speichern der Einstellungen fehlgeschlagen"
+		"saveTitle": "Speichern der Einstellungen fehlgeschlagen",
+		"mailboxNotFoundTitle": "Mailbox nicht gefunden",
+		"mailboxNotFoundMessage": "Wir konnten die Mailbox {{mailbox}} nicht finden. Bitte stelle sicher, dass du die nötigen Berechtigungen hast, um aus dieser Mailbox E-Mails senden zu können.",
+		"noAnswersTitle": "Kein Vollzugriff auf Mailbox",
+		"noAnswersMessage": "Das Senden dieser E-Mail kann funktionieren, falls du \"Senden als\" oder \"Senden im Namen von\" Berechtigungen auf {{mailbox}} hast, aber die Antworten werden in diesem Vorgang nicht sichtbar sein, da dir der Vollzugriff auf {{mailbox}} fehlt."
     },
     "flag": {
         "successTitle": "Erfolg",
