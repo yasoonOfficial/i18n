@@ -218,7 +218,8 @@
         "description": "Beschreibung",
         "subtasks": "Untergeordnete Vorgänge",
         "involvedPeople": "Involvierte Personen",
-        "relatedConversations": "Verknüpfte Teams-Konversationen"
+        "relatedConversations": "Verknüpfte Teams-Konversationen",
+        "showBacklogColumn": "Backlog-Spalte anzeigen"
     },
     "support": {
         "faq": "FAQ",

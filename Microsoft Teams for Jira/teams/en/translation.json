@@ -218,7 +218,8 @@
         "description": "Description",
         "subtasks": "Subtasks",
         "involvedPeople": "Involved people",
-        "relatedConversations": "Related Teams conversations"
+        "relatedConversations": "Related Teams conversations",
+        "showBacklogColumn": "Show backlog column"
     },
     "support": {
         "faq": "FAQ",
