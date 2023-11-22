@@ -12,6 +12,16 @@
     "sendEmailErrorFlag": {
         "title": "E-Mail konnte nicht gesendet werden"
     },
+	"scheduleMeetingErrorFlag": {
+		"commentCreationFailedTitle": "Fehler beim anlegen des Kommentars",
+		"commentCreationFailedBody": "Das Meeting wurde erstellt aber es konnte kein Kommentar hinzugefügt werden. Wahrscheinlich fehlen dir die benötigten Berechtigungen für diesen Vorgang",
+		"meetingCreationFailedTitle": "Fehler beim erstellen des Meetings oder Chats",
+		"meetingCreationFailedBody": "Meeting oder Chat konnte nicht erstellt werden."
+	},
+	"cancelMeetingErrorFlag": {
+		"meetingCancellationFailedTitle": "Fehler beim löschen des Meetings",
+		"meetingCancellationFailedBody": "Meeting konnte nicht gelöscht werden: {{errorMessage}}"
+	},
     "renderingTemplateErrorFlag": {
         "title": "Rendern der Vorlage fehlgeschlagen",
         "mainBody": "Die Vorlage konnte nicht angewandt werden. Ihr Inhalt ist wahrscheinlich fehlerhaft konfiguriert. Bitte kontaktiere deinen Administrator oder den Ersteller der Vorlage zum Beheben des Problems."

@@ -13,8 +13,14 @@
         "title": "Email could not be sent"
     },
 	"scheduleMeetingErrorFlag": {
-		"title": "Meeting or chat creation issue",
-		"body": "Meeting has been created, but comment could not be added. Most likely you do not have the permissions on this issue"
+		"commentCreationFailedTitle": "Error during comment creation",
+		"commentCreationFailedBody": "Meeting has been created, but comment could not be added. Most likely you do not have the permissions on this issue",
+		"meetingCreationFailedTitle": "Meeting or chat creation issue",
+		"meetingCreationFailedBody": "Meeting or chat could not be created"
+	},
+	"cancelMeetingErrorFlag": {
+		"meetingCancellationFailedTitle": "Meeting cancellation issue",
+		"meetingCancellationFailedBody": "Meeting could not be cancelled: {{errorMessage}}"
 	},
     "renderingTemplateErrorFlag": {
         "title": "Rendering template failed",
