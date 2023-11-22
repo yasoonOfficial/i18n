@@ -231,8 +231,9 @@
             "actions": "Aktionen",
             "trigger": "Trigger",
             "auditLog": "Audit-Protokoll",
-            "help": "Hilfe"
-        }
+			"help": "Hilfe",
+			"comingSoon": "Bald verfügbar"
+		}
     },
     "gettingStartedScreen": {
         "heading": "Verbinde Jira Automation mit Microsoft 365",
