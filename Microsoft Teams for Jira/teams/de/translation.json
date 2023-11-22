@@ -221,6 +221,15 @@
         "relatedConversations": "Verknüpfte Teams-Konversationen",
         "showBacklogColumn": "Backlog-Spalte anzeigen"
     },
+    "boardDetailView": {
+        "editorPlaceholder": "Schreibe einen Kommentar ...",
+        "viewOlderComments": "Zeige ältere Kommentare ({{amount}})",
+        "addPublicCommentLabel": "Kommentar hinzufügen",
+        "addInternalCommentLabel": "Internen Hinweis hinzufügen",
+        "uploadAttachments": "Anhänge hochladen",
+        "noComments": "Keine Kommentare",
+        "loginRequiredForCommentPosting": "Um Kommentare zu posten ist ein Login mit Jira notwendig."
+    },
     "support": {
         "faq": "FAQ",
         "contactUs": "Kontaktiere uns",
