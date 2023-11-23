@@ -4,7 +4,11 @@
 	},
 	"people": {
 		"header": "People",
-		"noPeople": "No people found"
+		"noPeople": "No people found",
+		"callMobile": "Call via Phone",
+		"callOnline": "Call via Teams",
+		"startChat": "Send message",
+		"scheduleMeeting": "Schedule meeting"
 	},
 	"channelConversations": {
 		"header": "Channel conversations",
