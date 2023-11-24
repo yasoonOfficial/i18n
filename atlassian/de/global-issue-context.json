@@ -1,12 +1,12 @@
 {
 	"heading": {
-		"showMore": "Zeige mehr"
+		"showMore": "Mehr anzeigen"
 	},
 	"people": {
 		"header": "Personen",
 		"noPeople": "Keine Personen gefunden",
-		"callMobile": "Anrufen mit Telefon",
-		"callOnline": "Anrufen mit Teams",
+		"callMobile": "Anrufen via Telefon",
+		"callOnline": "Anrufen via Teams",
 		"startChat": "Sende eine Nachricht",
 		"scheduleMeeting": "Sende ein Meeting"
 	},
@@ -20,9 +20,9 @@
 		"noMessages": "Keine Chat Nachrichten gefunden"
 	},
 	"mails": {
-		"header": "Mails",
-		"noMails": "Keine mails",
-		"messages": "mails in dieser Konversation"
+		"header": "E-Mails",
+		"noMails": "Keine E-Mails",
+		"messages": "E-Mails in dieser Konversation"
 	},
 	"meetings": {
 		"header": "Meetings",

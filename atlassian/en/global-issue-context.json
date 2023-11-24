@@ -5,7 +5,7 @@
 	"people": {
 		"header": "People",
 		"noPeople": "No people found",
-		"callMobile": "Call via Phone",
+		"callMobile": "Call via phone",
 		"callOnline": "Call via Teams",
 		"startChat": "Send message",
 		"scheduleMeeting": "Schedule meeting"
@@ -20,8 +20,8 @@
 		"noMessages": "There are no messages in this chat"
 	},
 	"mails": {
-		"header": "Mails",
-		"noMails": "No mails",
+		"header": "Emails",
+		"noMails": "No emails",
 		"messages": "messages in this conversation"
 	},
 	"meetings": {
