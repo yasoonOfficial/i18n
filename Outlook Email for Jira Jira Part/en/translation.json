@@ -288,6 +288,7 @@
     },
     "conversationScreen": {
         "newEmail": "Send new email",
+		"backupAllEmails": "Backup all emails to attachments",
         "relatedEmailsCount": "{{count}} related emails for this issue",
         "relatedEmailsCountSingle": "1 related email for this issue",
         "noMailEmptyStateWithLoginHint": "This issue has no related emails you are allowed to see. There might be private mails here. You might see more if you login with Microsoft.",

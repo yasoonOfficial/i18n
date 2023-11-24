@@ -288,6 +288,7 @@
     },
     "conversationScreen": {
         "newEmail": "Neue E-Mail senden",
+		"backupAllEmails": "Alle E-Mails an diesem Vorgang sichern",
         "relatedEmailsCount": "{{count}} verknüpfte E-Mails zu diesem Vorgang",
         "relatedEmailsCountSingle": "1 verknüpfte E-Mail zu diesem Vorgang",
         "noMailEmptyStateWithLoginHint": "Der Vorgang hat keine für dich sichtbaren verknüpften E-Mails. Möglicherweise gibt es private E-Mails, die du nach Anmelden mit Microsoft sehen kannst.",
