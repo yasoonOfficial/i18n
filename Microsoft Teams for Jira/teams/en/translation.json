@@ -221,6 +221,15 @@
         "relatedConversations": "Related Teams conversations",
         "showBacklogColumn": "Show backlog column"
     },
+    "boardDetailView": {
+        "editorPlaceholder": "Write a comment ...",
+        "viewOlderComments": "View older comments ({{amount}})",
+        "addPublicCommentLabel": "Publish comment",
+        "addInternalCommentLabel": "Add internal notice",
+        "uploadAttachments": "Upload attachments",
+        "noComments": "No comments yet",
+        "loginRequiredForCommentPosting": "To post comments, a Jira login is required."
+    },
     "support": {
         "faq": "FAQ",
         "contactUs": "Contact us",
