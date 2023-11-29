@@ -175,7 +175,7 @@
     "createOutlookMeetingScreenModel": {
         "mainCalendarLabel": "Hauptkalender",
 		"meetingCreatedFlagTitle": "Meeting erstellt",
-		"meetingCreatedFagBody":"Das Meeting wurde erstellt und alle Teilnehmer haben ihre Einladung erhalten.",
+		"meetingCreatedFlagBody":"Das Meeting wurde erstellt und alle Teilnehmer haben ihre Einladung erhalten.",
 		"errorSavingIssuePropertyFlagTitle":"Issue konnte nicht aktualisiert werden",
 		"errorSavingIssuePropertyFlagBody": "Es scheint, als hättest du nicht die Berechtigung dieses Issue zu bearbeiten.",
 		"genericErrorFlatTitle": "Fehler beim Meeting anlegen",

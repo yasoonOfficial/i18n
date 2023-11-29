@@ -175,7 +175,7 @@
     "createOutlookMeetingScreenModel": {
         "mainCalendarLabel": "Main calendar",
 		"meetingCreatedFlagTitle": "Meeting scheduled",
-		"meetingCreatedFagBody":"The meeting has been scheduled and all participants have received their invite.",
+		"meetingCreatedFlagBody":"The meeting has been scheduled and all participants have received their invite.",
 		"errorSavingIssuePropertyFlagTitle":"Edit issue property failed",
 		"errorSavingIssuePropertyFlagBody": "It seems like you do not have the permissions to edit this issue.",
 		"genericErrorFlatTitle": "Error scheduling meeting",
