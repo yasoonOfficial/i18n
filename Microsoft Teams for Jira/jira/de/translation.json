@@ -378,7 +378,7 @@
         "headline": "Benachrichtigungen in Teams",
         "intro": "Benachrichtungen bei Vorgangsänderungen",
         "helpText": "Wähle aus, welche Vorgangsänderungen in Microsoft Teams-Konversationen & Chats gepostet werden sollen.",
-        "customerChatNotifications": "Diese Einstellung finden keine Anwendung bei JSM Chats. JSM Chat Benachrichtigungen können im 'Kunden-Portal' Tab aktiviert werden.",
+        "customerChatNotifications": "Diese Einstellung finden keine Anwendung bei JSM Kunden-Chats. JSM Chat Benachrichtigungen können im 'Kunden-Portal' Tab aktiviert werden.",
         "newComment": "Neuer Kommentar",
         "includeInternal": "Einschließlich interner Kommentare",
         "statusChange": "Statusänderungen",
@@ -386,7 +386,18 @@
         "issueChanges": "Änderungen am Vorgang",
         "issueFieldChanges": "Änderungen an Vorgangsfeldern",
         "assigneeChange": "Änderungen des Bearbeiters",
-        "dueDateChange": "Änderungen des Fälligkeitsdatums"
+        "dueDateChange": "Änderungen des Fälligkeitsdatums",
+        "approveNotificationsTooltip": "Damit Smart Connect Benachrichtigungen schicken darf muss sie von einem Teams Admin berechtigt werden.",
+        "approveNotifications": "Benachrichtigungen einschalten",
+        "approveNotificationsInfo": "Um Benachrichtigungen für Smart Connect zu berechtigen, muss sie zuerst in Microsoft Teams installiert werden.",
+        "notificationsApproveSuccess": "Benachrichtigungen genehmigt",
+        "notificationsApproveSuccessBody": "Smart Connect ist jetzt berechtigt, Benachrichtigungen in Chats zu posten.",
+        "notificationsApproveFailed": "Benachrichtigungen konnten nicht berechtigt werden",
+        "notificationsApproveFailedBody": "Smart Connect konnte nicht berechtigt werden, Benachrichtigungen in Chats zu posten. Das kann passieren, wenn die App noch nicht in Teams installiert wurde.",
+        "adminConsentRequired": "Genehmigung eines Microsoft Admins benötigt",
+        "adminConsentRequiredInfo": "Um Benachrichtungen zu posten, benötigt Smart Connect die folgenden Microsoft Scopes. Wenn du kein Microsoft Admin bist, schicke ihr diesen Link.",
+        "adminConsentCTA": "Als Microsoft Admin berechtigen",
+        "removeNotifications": "Benachrichtigungen ausschalten"
     },
     "projectSettings": {
         "defaultsTabHeading": "Voreinstellungen",
@@ -465,12 +476,12 @@
         "notificationsApproveSuccess": "Benachrichtigungen genehmigt",
         "notificationsApproveSuccessBody": "{{appName}} ist jetzt berechtigt um Benachrichtigungen in Chats zu posten.",
         "notificationsApproveFailed": "Benachrichtigungen konnten nicht berechtigt werden",
-        "notificationsApproveFailedBody": "{{appName}} konnte nicht berechtigt werden, Benachrichtigungen in Chats zu posten. Das kann passieren, wenn die App noch nicht in den Teams App-Katalog installiert wurde!",
-        "adminConsentRequired": "Approval eines Microsoft Admins benötigt",
-        "adminConsentRequiredInfo": "Um Benachrichtungen zu posten, benötigt die App den TeamsAppInstallation.ReadWriteForChat Microsoft Scope. Wenn du kein Microsoft Admin bist, schicke ihr diesen Link.",
+        "notificationsApproveFailedBody": "{{appName}} konnte nicht berechtigt werden, Benachrichtigungen in Chats zu posten. Das kann passieren, wenn die App noch nicht in den Teams App-Katalog installiert wurde,",
+        "adminConsentRequired": "Genehmigung eines Microsoft Admins benötigt",
+        "adminConsentRequiredInfo": "Um Benachrichtungen zu posten, benötigt die App die folgenden Microsoft Scopes. Wenn du kein Microsoft Admin bist, schicke ihr diesen Link.",
         "adminConsentCTA": "Als Microsoft Admin berechtigen",
         "removeNotifications": "Benachrichtigungen ausschalten",
-        "enableNotificationsAskAdmin": "Um Benachrichtigungen zu posten, müssen diese in den Einstellungen des Kunden-Portals aktiviert werden."
+        "enableNotificationsAskAdmin": "Um Benachrichtigungen zu posten, müssen diese in den Einstellungen aktiviert werden."
     },
     "templatePicker": {
         "recents": "Zuletzt verwendet",
