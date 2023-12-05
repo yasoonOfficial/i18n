@@ -91,7 +91,8 @@
     "scheduleMeetingDialogHeader": {
 		"createHeading": "Neues Meeting planen",
         "editHeading": "Meeting editieren",
-        "closeLabel": "Schließen",
+		"commentChooserDisabledTooltip": "Kein Vorgang ausgewählt",
+		"closeLabel": "Schließen",
         "help": "Hilfe",
         "meetingsDoc": "Dokumentation",
         "settings": "Einstellungen",

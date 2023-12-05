@@ -91,6 +91,7 @@
     "scheduleMeetingDialogHeader": {
         "createHeading": "Schedule new meeting",
         "editHeading": "Edit this meeting",
+		"commentChooserDisabledTooltip": "No Issue selected",
         "closeLabel": "Close",
         "help": "Help",
         "meetingsDoc": "Documentation",
