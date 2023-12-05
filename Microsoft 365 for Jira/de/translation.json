@@ -638,7 +638,7 @@
     },
     "automationPageHeading": "Automation",
     "multipleRundSettings": {
-        "label": "Erlaube der Aktion mehrmals ausgeführt zu werden"
+		"label": "Aktiviere diese Option, um die Aktion nur einmal pro Vorgang auszuführen. Dies ist nützlich, um zu verhindern, dass die selbe Aktion auf demselben Vorgang ausgeführt wird."
     },
     "userField": {
         "microsoftUser": "Microsoft Nutzer",

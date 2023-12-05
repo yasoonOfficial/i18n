@@ -637,7 +637,7 @@
     },
     "automationPageHeading": "Automation",
     "multipleRundSettings": {
-        "label": "Allow the action to run multiple times"
+		"label": "Check to allow the automation action to only run once per issue. This is useful to prevent multiple actions from running on the same issue."
     },
     "userField": {
         "microsoftUser": "Microsoft user",
