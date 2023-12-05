@@ -315,7 +315,7 @@
         "disableKbArticlesHelpText": "Disables knowledge base article suggestions inside of the request creation form and search.",
         "collectCsat": "Collect CSAT",
         "collectCsatHelpText": "Collect CSAT feedback after a request has been resolved. Requires enabled notifications for this portal.",
-        "audienceTooltip": "The audience of this chat is determined based on the email addresses of the chat participants.",
+        "audienceTooltip": "The audience of this chat is determined based on the email address domains of the chat participants and the reporter and request participants fields.",
         "notificationsInternalInfo": "Notifications only available for customer chats",
         "notificationsInternalInfo2": "Notifications for internal chats will be available soon.",
         "quote": "Quote",
@@ -375,9 +375,10 @@
         "rememberUserChoice": "Remember last user choice"
     },
     "notificationSettings": {
-        "headline": "Channel notifications in Teams",
+        "headline": "Notifications in Teams",
         "intro": "Configure notifications for linked issues",
-        "helpText": "Choose which updates to linked issues should be posted into Microsoft Teams channels.",
+        "helpText": "Choose which updates to linked issues should be posted into Microsoft Teams chats and channels.",
+        "customerChatNotifications": "These settings do not apply to JSM chats. Those can be enabled separately in the 'Customer portal' tab.",
         "newComment": "New comment",
         "includeInternal": "Include internal comments",
         "statusChange": "Status changes",
@@ -385,9 +386,7 @@
         "issueChanges": "Issue changes",
         "issueFieldChanges": "Issue field changes",
         "assigneeChange": "Assignee changes",
-        "dueDateChange": "Due date changes",
-        "chatNotifications": "Chat notifications in Teams",
-        "chatNotificationsComingSoon": "You can already use chat notifications when using the JSM Teams portal. Configure them in the Customer portal tab."
+        "dueDateChange": "Due date changes"
     },
     "projectSettings": {
         "defaultsTabHeading": "Defaults",
@@ -472,7 +471,7 @@
         "adminConsentRequiredInfo2": "If you are not a Microsoft admin, send this link to them.",
         "adminConsentCTA": "Approve as Microsoft admin",
         "removeNotifications": "Disable notifications",
-        "enableNotificationsAskAdmin": "To post updates, enable notifications in the customer portal settings."
+        "enableNotificationsAskAdmin": "To post updates, enable notifications in the admin settings."
     },
     "templatePicker": {
         "recents": "Recents",
