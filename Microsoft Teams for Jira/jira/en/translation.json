@@ -193,7 +193,7 @@
         "staticIPHelpText3": "To use the app, your Jira system will need to be reachable by our servers. If your system is behind a firewall, you can allow access for the following IPs - all requests will come from these IPs.",
         "setupHeader": "Setup the Teams app",
         "setupSubHeader": "Setting up the Microsoft Teams app",
-        "setupHelpText1": "To use 'Microsoft Teams for Jira' with all its features, you'll need to install the app 'Smart Connect for Jira' in Microsoft Teams.",
+        "setupHelpText1": "To use 'Microsoft 365 for Jira' with all its features, you'll need to install the app 'Smart Connect for Jira' in Microsoft Teams.",
         "setupHelpText2": "Just add it to the desired team",
         "setupHelpText3": "Please note that you'll have to be the team owner to install the app.",
         "setupHelpText4": "Please make sure to use 'Add to a team' as shown in the screenshot below!",
