@@ -398,7 +398,9 @@
         "adminConsentRequiredInfo1": "You need to consent the following Microsoft Graph scopes for your organization to receive notifcations in software chats via Smart Connect.",
         "adminConsentRequiredInfo2": "If you are not a Microsoft admin, send this link to them.",
         "adminConsentCTA": "Approve as Microsoft admin",
-        "removeNotifications": "Disable notifications"
+        "removeNotifications": "Disable notifications",
+        "chatNotifications": "Chat notifications in Teams",
+        "chatNotificationsComingSoon": "You can already use chat notifications when using the JSM Teams portal. Configure them in the Customer portal tab."
     },
     "projectSettings": {
         "defaultsTabHeading": "Defaults",
