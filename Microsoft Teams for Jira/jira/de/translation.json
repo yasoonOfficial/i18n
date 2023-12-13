@@ -389,7 +389,7 @@
         "dueDateChange": "Änderungen des Fälligkeitsdatums",
         "approveNotificationsTooltip": "Damit Smart Connect Benachrichtigungen schicken darf muss sie von einem Teams Admin berechtigt werden.",
         "approveNotifications": "Benachrichtigungen einschalten",
-        "approveNotificationsInfo": "Um Benachrichtigungen für Smart Connect zu berechtigen, muss sie zuerst in Microsoft Teams installiert werden.",
+        "approveNotificationsInfo": "Um Benachrichtigungen in Software Chats via Smart Connect einzuschalten, müssen zunächst gewissen Microsoft Scopes genehmigt werden.",
         "notificationsApproveSuccess": "Benachrichtigungen genehmigt",
         "notificationsApproveSuccessBody": "Smart Connect ist jetzt berechtigt, Benachrichtigungen in Chats zu posten.",
         "notificationsApproveFailed": "Benachrichtigungen konnten nicht berechtigt werden",

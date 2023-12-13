@@ -389,7 +389,7 @@
         "dueDateChange": "Due date changes",
         "approveNotificationsTooltip": "For Smart Connect to send notifications into chats, you need to approve it as an admin user.",
         "approveNotifications": "Enable notifications",
-        "approveNotificationsInfo": "To enable chat notifications via Smart Connect, you need to install it in Microsoft Teams first.",
+        "approveNotificationsInfo": "To enable chat notifications via Smart Connect, you need to approve certain scopes first.",
         "notificationsApproveSuccess": "Notifications approved",
         "notificationsApproveSuccessBody": "Smart Connect is now approved to send notifications into chats.",
         "notificationsApproveFailed": "Notification approval failed",
