@@ -333,7 +333,7 @@
         "viewInTeams": "View board in Teams",
         "addToAnotherChannel": "Add to another channel",
         "setup": "Set up",
-        "instructions1": "You can add this board view to Teams as a tab via 'Smart Connect for Jira'.",
+        "instructions1": "You can add this board view to Teams as a tab via 'Smart Connect for Jira'. You can also manually add this tab to a group chat in Teams.",
         "instructions2": "Select a Teams channel and configure the tab to start using boards in Teams."
     },
     "support": {
