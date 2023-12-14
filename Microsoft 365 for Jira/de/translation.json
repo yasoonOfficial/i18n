@@ -784,9 +784,10 @@
         "emailTabname": "E-Mail",
         "meetingsTabname": "Meetings",
         "chatTabname": "Chat",
-        "description": "Erstelle und editiere Vorlagen für Microsoft 365 (E-Mail, Meetings, Teams).\nAktive Vorlagen können dann ausgewählt und benutzt werden, um die korrespondierenden Felder vorzubefüllen.",
+		"description": "Erstelle und editiere Vorlagen für Microsoft 365 (E-Mail, Meetings, Teams).\nAktive Vorlagen können dann ausgewählt und benutzt werden, um die korrespondierenden Felder vorzubefüllen. ",
         "pageHeading": "Vorlagen",
-        "missingPermission": "Du hast keine Berechtigung zum Anzeigen dieser Seite."
+		"missingPermission": "Du hast keine Berechtigung zum Anzeigen dieser Seite.",
+		"learnMore": "Mehr erfahren."
     },
     "templateTab": {
         "deleteSuccessTitle": "Vorlage gelöscht",

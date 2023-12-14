@@ -783,9 +783,10 @@
         "emailTabname": "Email",
         "meetingsTabname": "Meetings",
         "chatTabname": "Chat",
-        "description": "Create and edit templates for Microsoft 365 (Email, Meetings, Teams).\nActive templates may then be selected and used to prefill the corresponding fields.",
+		"description": "Create and edit templates for Microsoft 365 (Email, Meetings, Teams).\nActive templates may then be selected and used to prefill the corresponding fields. ",
         "pageHeading": "Templates",
-        "missingPermission": "You don't have the permissions to view this site."
+		"missingPermission": "You don't have the permissions to view this site.",
+		"learnMore": "Learn more."
     },
     "templateTab": {
         "deleteSuccessTitle": "Template deleted",
