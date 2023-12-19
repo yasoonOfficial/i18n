@@ -138,7 +138,7 @@
         "createNewJiraIssue": "Neuen Jira Vorgang anlegen",
         "linkConversation": "Konversation verknüpfen",
         "jiraAppNotInstalled": "Jira App nicht installiert",
-        "jiraAppHelpText": "Bitte installiere oder update die Jira App vom Atlassian Marketplace, um diese App nutzen zu können.",
+        "jiraAppHelpText": "Bitte installiere die Jira App aus dem Atlassian Marketplace, um diese App nutzen zu können. Du brauchst entweder die App 'Teams for Jira - Smart Connect' oder 'Microsoft 365 for Jira'.",
         "requestAppFromAdmin": "App vom Jira Admin anfragen",
         "contextGroupChat": "Gruppenchat",
         "contextConversation": "Konversation",
