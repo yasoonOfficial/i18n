@@ -1,6 +1,9 @@
 {
 	"heading": {
-		"showMore": "Show more"
+		"showMore": "Show more",
+		"startTeamsConversation": "Start Teams conversation",
+		"scheduleMeeting": "Schedule meeting",
+		"sendMail": "Send email"
 	},
 	"people": {
 		"header": "People",
