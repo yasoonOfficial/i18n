@@ -441,6 +441,9 @@
         "disableConversationLabel": "Erstellen von Kanalkonversationen deaktivieren",
         "disableChatOrConversationHelpText": "Wähe aus, ob Chats oder Konversationen deaktiviert werden sollen, oder erlaube beides."
     },
+    "personalNotificationsTab": {
+        "helpText": "Persönliche Benachrichtigungen können in JSM Projekten aktiviert werden. Dadurch werden Ersteller und Vorgangsteilnehmer per Teams-Benachrichtigung über Statusänderungen, Approvals, Kommentare und Resolutions informiert. Dafür muss die Kunden-Portal App installiert sein."
+    },
     "templatesTab": {
         "sectionMoved": "Diese Seite wurde zu einem eigenen Navigationseintrag umgezogen. Du kannst jetzt deine Vorlagen einfacher und flexibler konfigurieren.",
         "sectionMovedLinkLabel": "Mehr erfahren",

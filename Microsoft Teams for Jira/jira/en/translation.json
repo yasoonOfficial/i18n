@@ -442,6 +442,9 @@
         "disableConversationLabel": "Disable creating channel conversations",
         "disableChatOrConversationHelpText": "Choose to disable chats or conversations, or allow both."
     },
+    "personalNotificationsTab": {
+        "helpText": "You can enable personal notifications in JSM projects. This will send customer facing status updates, approvals, comments and resolutions to the reporter and request participants as Teams notifications. The customer portal app needs to be installed."
+    },
     "templatesTab": {
         "sectionMoved": "This page has been moved to its own navigation section. You can now configure your templates in a more comfortable and flexible way.",
         "sectionMovedLinkLabel": "Learn more",
