@@ -403,7 +403,8 @@
     },
     "projectSettings": {
         "defaultsTabHeading": "Voreinstellungen",
-        "templatesTabHeading": "Vorlagen"
+        "templatesTabHeading": "Vorlagen",
+        "personalNotifications": "Persönliche Benachrichtigungen"
     },
     "defaultsTab": {
         "descriptionGlobal": "Du kannst die Einstellungen wählen, die voreingestellt sind, wenn ein Chat erstellt oder in einen Channel gepostet wird. Diese Einstellungen können in jedem Projekt überschrieben werden.",

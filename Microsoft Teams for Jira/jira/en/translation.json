@@ -404,7 +404,8 @@
     },
     "projectSettings": {
         "defaultsTabHeading": "Defaults",
-        "templatesTabHeading": "Templates"
+        "templatesTabHeading": "Templates",
+        "personalNotifications": "Personal notifications"
     },
     "defaultsTab": {
         "descriptionGlobal": "You can configure the settings that are selected by default when creating a chat or posting into a channel. These can be overwritten in each project.",
