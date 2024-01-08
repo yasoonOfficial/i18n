@@ -320,7 +320,9 @@
         "notificationsInternalInfo2": "Benachrichtigung für interne Chats stehen bald zur Verfügung.",
         "quote": "Zitieren",
         "loginGuardInfo": "Um dieses Feature in vollem Umfang nutzen zu können ist ein Login mit deinem Microsoft 365-Konto erforderlich.",
-        "requiresNotifications": "Benötigt Benachrichtigungen"
+        "requiresNotifications": "Benötigt Benachrichtigungen",
+		"chatDensityLabel": "Kompakt",
+		"chatDensityHelpText": "Wähle zwischen kompakter oder komfortabler Darstellung."
     },
     "addBoardToTeams": {
         "addBoardToTeams": "Board zu Teams hinzufügen",
