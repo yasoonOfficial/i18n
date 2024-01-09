@@ -667,7 +667,12 @@
         "fetchConnectionsFlagErrorTitle": "Laden der Verbindungen fehlgeschlagen.",
         "fetchConnectionsFlagErrorMessage": "Beim Laden der Verbindungen ist etwas schiefgegangen. Lade die Seite neu und versuche es noch einmal.",
         "noAppsEnabled": "Du bist noch nicht eingeloggt.",
-        "showDebugInformation": "Zeige Debug Informationen"
+        "showDebugInformation": "Zeige Debug Informationen",
+		"densityComfy": "Komfortabel",
+		"densityCompact": "Kompakt",
+		"appearance": "Darstellung",
+		"densityIntro": "Chat Darstellung",
+		"densityHelpText": "Wähle die Darstellung deiner Teams Chats aus. Du kannst zwischen komfortabel und kompakt wählen."
     },
     "officeLoginButton": {
         "login": "Login",
