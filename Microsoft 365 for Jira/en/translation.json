@@ -666,7 +666,12 @@
         "fetchConnectionsFlagErrorTitle": "Failed to load connections",
         "fetchConnectionsFlagErrorMessage": "Something has gone wrong while trying to load the connections. Reload the page and try again.",
         "noAppsEnabled": "You are not logged in yet.",
-        "showDebugInformation": "Show debug information"
+        "showDebugInformation": "Show debug information",
+		"densityComfy": "Comfy",
+		"densityCompact": "Compact",
+		"appearance": "Appearance",
+		"densityIntro": "Chat density",
+		"densityHelpText": "Choose the density of your Teams layout. You can choose between comfy and compact."
     },
     "officeLoginButton": {
         "login": "Login",
