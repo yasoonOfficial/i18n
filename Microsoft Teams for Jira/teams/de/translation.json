@@ -206,6 +206,7 @@
         "createBacklogIssue": "Backlog-Vorgang erstellen",
         "wrongInstance1": "Dieses Board gehört zu einer Jira Instanz die sich von der unterscheidet, in die du aktuell eingeloggt bist, und es ist kein Sharing konfiguriert.",
         "wrongInstance2": "Bitte logge dich über das Benutzermenü in der oberen rechten Ecke aus, und logge dich in die korrekte Instanz ein.",
+        "wrongInstance3": "Die Jira-Instanz, in der Sie angemeldet sind, unterscheidet sich von derjenigen, zu der dieses Board gehört.",
         "yourInstance": "Deine aktuelle Jira Instanz",
         "boardInstance": "Die Jira Instanz dieses Boards",
         "nonJiraUserPermissions": "Nutzer ohne Jira Account dürfen",

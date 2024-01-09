@@ -206,6 +206,7 @@
         "createBacklogIssue": "Create backlog issue",
         "wrongInstance1": "The Jira instance you are logged in to is different from the one this board belongs to, and no sharing was configured.",
         "wrongInstance2": "Please log out using the user menu in the top right corner, then log in to the correct Jira instance to view this board.",
+        "wrongInstance3": "The Jira instance you are logged in to is different from the one this board belongs to.",
         "yourInstance": "Your current Jira instance",
         "boardInstance": "This boards Jira instance",
         "nonJiraUserPermissions": "Allow users without Jira account",
