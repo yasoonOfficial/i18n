@@ -400,6 +400,7 @@
         "adminConsentRequiredInfo": "Um Benachrichtungen zu posten, benötigt Smart Connect die folgenden Microsoft Scopes. Wenn du kein Microsoft Admin bist, schicke ihr diesen Link.",
         "adminConsentCTA": "Als Microsoft Admin berechtigen",
         "removeNotifications": "Benachrichtigungen ausschalten",
+        "enableSoftwareChatNotifications": "Software-Chat-Benachrichtigung einschalten",
         "chatNotifications": "Benachrichtigungen in Teams-Chats",
         "chatNotificationsComingSoon": "Benachrichtigungen in Teams-Chats sind bereits über das JSM-Kundenportal in Microsoft Teams verfügbar. Konfiguriere Benachrichtigungen im Tab Kunden-Portal."
     },

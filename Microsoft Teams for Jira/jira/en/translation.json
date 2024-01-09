@@ -401,6 +401,7 @@
         "adminConsentRequiredInfo2": "If you are not a Microsoft admin, send this link to them.",
         "adminConsentCTA": "Approve as Microsoft admin",
         "removeNotifications": "Disable notifications",
+        "enableSoftwareChatNotifications": "Enable software chat notifications",
         "chatNotifications": "Chat notifications in Teams",
         "chatNotificationsComingSoon": "You can already use chat notifications when using the JSM Teams portal. Configure them in the Customer portal tab."
     },
