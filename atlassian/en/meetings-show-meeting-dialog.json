@@ -83,11 +83,11 @@
     },
     "sendbutton": {
         "label": "Send",
-        "sendMeetingTooltip": "Send an Outlook meeting request to all attendees and - if selected - add an issue comment with the meeting details"
+        "sendMeetingTooltip": "Send an Outlook meeting request to all attendees and - if selected - add an issue comment with the meeting details (Ctrl+Enter)"
     },
     "updateMeetingButton": {
         "label": "Update",
-        "updateTooltip": "Updates the meeting"
+        "updateTooltip": "Updates the meeting (Ctrl+Enter)"
     },
     "dialogfooter": {
         "cancelButtonLabel": "Cancel"
