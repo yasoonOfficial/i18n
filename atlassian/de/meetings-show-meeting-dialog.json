@@ -79,11 +79,11 @@
     },
     "sendbutton": {
         "label": "Senden",
-        "sendMeetingTooltip": "Outlook Meetinganfrage an alle Teilnehmer senden und - falls ausgewählt - einen Kommentar mit Meetingdetails an den Vorgang hinzufügen"
+        "sendMeetingTooltip": "Outlook Meetinganfrage an alle Teilnehmer senden und - falls ausgewählt - einen Kommentar mit Meetingdetails an den Vorgang hinzufügen (Strg+Enter)"
     },
 	"updateMeetingButton": {
         "label": "Updaten",
-        "updateTooltip": "Änderungen abschicken"
+        "updateTooltip": "Änderungen abschicken (Strg+Enter)"
     },
     "dialogfooter": {
         "cancelButtonLabel": "Abbrechen"

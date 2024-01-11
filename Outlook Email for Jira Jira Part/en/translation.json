@@ -221,7 +221,8 @@
         "unlinkConversation": "Remove this conversation",
 		"deleteScheduledDraft": "Delete email",
 		"backupEmail": "Backup email",
-		"backupConversation": "Backup conversation"
+		"backupConversation": "Backup conversation",
+		"sendMailTooltip": "Send Outlook email (Ctrl+Enter)"
     },
     "emptyState": {
         "noAdminEmptyState": "You need admin permissions to view this page"
