@@ -15,9 +15,13 @@
         "today": "Heute",
         "nextTimeUnitTooltip": "Vor"
     },
-    "compactCalendar": {
-        "pickADateTooltip": "Wähle ein Datum"
-    },
+	"calendarPicker": {
+		"ownCalendars": "Eigene Kalender",
+		"sharedWithMe": "Mit mir geteilt"
+	},
+	"compactCalendar": {
+		"pickADateTooltip": "Wähle ein Datum"
+	},
     "categoryPicker": {
         "formatCreateCategoryLabel": "Kategorie erstellen",
         "categoryNoOptionsMessage": "Keine Kategorien gefunden",

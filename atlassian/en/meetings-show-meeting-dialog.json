@@ -15,6 +15,10 @@
         "today": "Today",
         "nextTimeUnitTooltip": "Next"
     },
+	"calendarPicker": {
+		"ownCalendars": "Own calendars",
+		"sharedWithMe": "Shared with me"
+	},
     "compactCalendar": {
         "pickADateTooltip": "Pick a date"
     },
