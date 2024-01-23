@@ -160,7 +160,8 @@
             "heading": "Issue created successfully",
             "description": "The issue {link} has been created successfully. You can now view this issue in Jira.",
             "viewIssueInJiraButton": "View in Jira",
-            "disableSettingButton": "Don't show this again"
+            "disableSettingButton": "Don't show this again",
+            "addedToBacklog": "The issue has been successfully added to the backlog."
         }
     },
     "boardView": {
