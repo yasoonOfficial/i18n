@@ -323,6 +323,7 @@
         "notificationsInternalInfo2": "Benachrichtigung für interne Chats stehen bald zur Verfügung.",
         "quote": "Zitieren",
         "comment": "Erstelle eine Jira Kommentar von dieser Nachricht",
+		"internalComment": "Erstelle ein internes Jira Kommentar von dieser Nachricht",
 		"commentGeneratedTitle": "Kommentar erstellt",
 		"commentGeneratedBody": "Das Kommentar für diese Nachricht wurde erstellt. Falls es noch nicht sichtbar ist muss die Seite einmal neu geladen werden.",
 		"commentGenerationFailedTitle": "Kommentar konnte nicht erstellt werden",

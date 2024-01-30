@@ -323,6 +323,7 @@
         "notificationsInternalInfo2": "Notifications for internal chats will be available soon.",
         "quote": "Quote",
         "comment": "Create Jira comment from message",
+		"internalComment": "Create internal Jira comment from message",
 		"commentGeneratedTitle": "Comment generated",
 		"commentGeneratedBody": "The comment has been generated from this message. If it is not visible you need to reload the page.",
 		"commentGenerationFailedTitle": "Comment generation failed",
