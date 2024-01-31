@@ -161,7 +161,8 @@
             "description": "Der Vorgang {link} wurde erfolgreich erstellt. Wenn du möchtest, kannst du dir diesen nun in Jira ansehen.",
             "viewIssueInJiraButton": "Vorgang in Jira anzeigen",
             "disableSettingButton": "In Zukunft nicht mehr anzeigen",
-            "addedToBacklog": "Der Vorgang wurde erfolgreich in den Backlog eingefügt."
+            "addedToBacklog": "Der Vorgang wurde erfolgreich in den Backlog eingefügt.",
+            "addedToBoard": "Der Vorgang wurde erfolgreich auf dem Board eingefügt."
         }
     },
     "boardView": {
