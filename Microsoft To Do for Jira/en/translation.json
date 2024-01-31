@@ -94,8 +94,7 @@
         "onlyCurrentProjektInfo": "Issue Criteria (only matches issues in current project)"
     },
     "jqlInfo": {
-        "aboutToSyncInfo_0": "There are currently no issues matching your criteria.",
-        "aboutToSyncInfo": "You are about to sync 1 issue to Microsoft To Do.",
+		"aboutToSyncInfo_0": "There are currently no issues matching your criteria.",
         "aboutToSyncInfo_plural": "You are about to sync {{count}} issues to Microsoft To Do.",
         "syncWillStayActiveInfo": "Afterwards, we'll continuously sync new and updated Jira issues automatically.",
         "syncWillStayActiveAfterZeroInfo": "If you start the sync, new and updated Jira issues matching your criteria will continuously be synced."
