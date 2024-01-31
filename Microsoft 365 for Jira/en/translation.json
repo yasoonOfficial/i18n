@@ -894,7 +894,9 @@
         "issuePickerPlaceholder": "Select issue",
         "renderErrorTitle": "Syntax error",
         "renderErrorMessage": "The template contains a syntax error and could not be rendered. Please check the template and try again.",
-        "noIssueSelectedTooltip": "Please select an issue first to preview the template."
+		"noIssueSelectedTooltip": "Please select an issue first to preview the template.",
+		"requiresOAuth1aTitle": "Login required",
+		"requiresOAuth1aMessage": "To show the template preview you need to login fist."
     },
     "templateEditor": {
         "actions": {

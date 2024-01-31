@@ -895,7 +895,9 @@
         "issuePickerPlaceholder": "Vorgang auswählen",
         "renderErrorTitle": "Syntaxfehler",
         "renderErrorMessage": "Die Vorlage enthält einen Syntaxfehler und konnte nicht gerendert werden. Bitte überprüfe die Vorlage und versuche es erneut.",
-        "noIssueSelectedTooltip": "Bitte wähle zuerst einen Vorgang aus, um die Vorschau der Vorlage zu sehen."
+		"noIssueSelectedTooltip": "Bitte wähle zuerst einen Vorgang aus, um die Vorschau der Vorlage zu sehen.",
+		"requiresOAuth1aTitle": "Anmeldung erforderlich",
+		"requiresOAuth1aMessage": "Um die Vorlage anzuzeigen, musst du dich zuerst in der App anmelden."
     },
     "templateEditor": {
         "actions": {
