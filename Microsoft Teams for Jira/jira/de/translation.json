@@ -117,7 +117,7 @@
         "appNotInstalledInTeam": "Die App ist noch nicht in diesem Team installiert.",
         "additionalContentInTeams": "Diese Nachricht hat zusätzlichen Inhalt der in Teams einsehbar ist.",
         "loopContentInBrowser": "Diese Nachricht enthält eine Loop Komponente, die in Ihrem Browser angezeigt werden kann.",
-        "conversationStarted": "Zu diesem Ticket wurde ein Unterhaltung gestartet",
+        "conversationStarted": "Zu diesem Ticket wurde ein Unterhaltung gestartet. Mehr dazu in Teams.",
         "relatedTeamsChats": "Zugehörige Teams-Chats",
         "noChatLinked": "Noch kein Chat verknüpft",
         "noChannelLinked": "Noch keine Konversation verküpft.",

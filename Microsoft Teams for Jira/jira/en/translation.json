@@ -117,7 +117,7 @@
         "appNotInstalledInTeam": "The app is not installed in this team yet.",
         "additionalContentInTeams": "This message has additional content you can view in Teams",
         "loopContentInBrowser": "This message includes a Loop component you can view in your browser",
-        "conversationStarted": "Conversation was started for this issue",
+        "conversationStarted": "Conversation was started for this issue. View more content in Teams. ",
         "relatedTeamsChats": "Related Teams Chats",
         "noChatLinked": "No chat linked yet.",
         "noChannelLinked": "No channel conversation linked yet.",
