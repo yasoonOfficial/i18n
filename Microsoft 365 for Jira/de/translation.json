@@ -22,7 +22,8 @@
         "disabledTooltip": "Dieses Feature ist nur in unserer App 'Microsoft 365 for Jira' verfügbar.",
         "projectVisibilityToggleDisabledTooltip": "Das Ändern dieser Einstellung ist nur in Microsoft 365 for Jira möglich.",
         "projectsDescription": "Wähle die Jira-Projekte, bei denen abweichende Features aktiv sein sollen.",
-        "globalDescription": "Aktiviere die Features projektübergreifend. Passe unten Features für spezifische Jira-Projekte an."
+        "globalDescription": "Aktiviere die Features projektübergreifend. Passe unten Features für spezifische Jira-Projekte an.",
+        "describePermission": "Aktive Features benötigen zusätzlich, dass die Benutzer die globale Berechtigung zugeordnet haben."
     },
     "projectSelect": {
         "placeholder": "Projekt wählen"
