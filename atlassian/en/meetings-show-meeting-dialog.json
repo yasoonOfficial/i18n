@@ -218,5 +218,9 @@
         "noSuggestionsAttendeesUnavailableOrUnknown": "We could not determine the availabilities for some users and in total to few attendees are available. Please select a different time range",
         "noSuggestionsOrganizerUnavailable": "You are not available in the given time range. Please select a different time range to load more suggestions",
         "alldayDisabled": "Meeting time suggestions not available for allday events"
-    }
+    },
+	"officeCurrentUserCalendar": {
+		"description": "Your main calendar",
+		"name": "My calendar"
+	}
 }

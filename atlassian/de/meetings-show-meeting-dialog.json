@@ -1,20 +1,20 @@
 {
-    "attendeesField": {
-        "createOption": "Manuell hinzufügen"
-    },
-    "attendeeContainer": {
-        "fieldLabelAttendees": "Teilnehmer",
-        "fieldLabelAttendeesOptional": "Optionale Teilnehmer",
-        "atleastOneNotAvailable": "Mindestens ein Teilnehmer ist nicht verfügbar",
-        "attendeesPlaceholder": "Tippe zum suchen ...",
-        "attendeesNoOptionsMessage": "Keine passenden Teilnehmer",
-		"addOptionalButtonLabel":"Optionale hinzufügen"
-    },
-    "calendarToolbar": {
-        "previousTimeUnitTooltip": "Zurück",
-        "today": "Heute",
-        "nextTimeUnitTooltip": "Vor"
-    },
+	"attendeesField": {
+		"createOption": "Manuell hinzufügen"
+	},
+	"attendeeContainer": {
+		"fieldLabelAttendees": "Teilnehmer",
+		"fieldLabelAttendeesOptional": "Optionale Teilnehmer",
+		"atleastOneNotAvailable": "Mindestens ein Teilnehmer ist nicht verfügbar",
+		"attendeesPlaceholder": "Tippe zum suchen ...",
+		"attendeesNoOptionsMessage": "Keine passenden Teilnehmer",
+		"addOptionalButtonLabel": "Optionale hinzufügen"
+	},
+	"calendarToolbar": {
+		"previousTimeUnitTooltip": "Zurück",
+		"today": "Heute",
+		"nextTimeUnitTooltip": "Vor"
+	},
 	"calendarPicker": {
 		"ownCalendars": "Eigene Kalender",
 		"sharedWithMe": "Mit mir geteilt"
@@ -22,201 +22,205 @@
 	"compactCalendar": {
 		"pickADateTooltip": "Wähle ein Datum"
 	},
-    "categoryPicker": {
-        "formatCreateCategoryLabel": "Kategorie erstellen",
-        "categoryNoOptionsMessage": "Keine Kategorien gefunden",
-        "label": "Kategorie",
-        "placeholderWithoutScope": "Kategorie anlegen",
-        "placeholderWithScope": "Kategorie anlegen oder wählen"
-    },
-    "alldayToggle": {
-        "label": "Ganztägig"
-    },
-    "datetimeComponent": {
-        "meetingInPastTooltip": "Meeting liegt in der Vergangenheit",
-        "differentTimeZone": "Deine lokale Zeit {{time}}"
-    },
-    "endField": {
-        "dateLabel": "Enddatum",
-        "timeLabel": "Endzeit"
-    },
-    "startField": {
-        "dateLabel": "Startdatum",
-        "timeLabel": "Startzeit"
-    },
-    "systemTemplate": {
-        "email": {
-            "displayName": "Standardvorlage E-Mail",
-            "detailDescription": "Standardvorlage für E-Mails. Sie befüllt den Betreff mit der Zusammenfassung des Issues."
-        },
-        "meetings": {
-            "displayName": "Standardvorlage Meetings",
-            "detailDescription": "Standardvorlage für Meetings. Sie befüllt den Titel mit dem Key und der Zusammenfassung des Issues. Im Inhalt wird ein Link zum Issue eingefügt."
-        },
-        "chat": {
-            "displayName": "Standardvorlage Chat",
-            "detailDescription": "Standardvorlage für Chats. Sie befüllt den Titel mit dem Key und der Zusammenfassung des Issues. Im Inhalt wird ein Link zum Issue eingefügt."
-        }
-    },
-    "reminder": {
-        "label": "Erinnerung",
-        "placeholder": "Erinnerung setzen",
-        "doNotSet": "Nicht setzen",
-        "15min": "15 Min",
-        "30min": "30 Min",
-        "oneHour": "1 Stunde",
-        "oneDay": "1 Tag"
-    },
-    "timezone": {
-        "label": "Zeitzone"
-    },
-    "commentVisibility": {
-        "choose": "Wähle, ob ein Kommentar am Vorgang erstellt werden soll",
-        "none": "Kein Kommentar",
-        "internal": "Interner Kommentar",
-        "public": "Kunden Kommentar",
-        "softwareAddComment": "Kommentar hinzufügen",
-        "internalShort": "Intern",
-        "publicShort": "Öffentlich",
-        "softwareAddCommentShort": "Mit Kommentar",
-        "tooltipExplanation": "Wähle, ob ein Kommentar erstellt werden soll"
-    },
-    "sendbutton": {
-        "label": "Senden",
-        "sendMeetingTooltip": "Outlook Meetinganfrage an alle Teilnehmer senden und - falls ausgewählt - einen Kommentar mit Meetingdetails an den Vorgang hinzufügen (Strg+Enter)"
-    },
+	"categoryPicker": {
+		"formatCreateCategoryLabel": "Kategorie erstellen",
+		"categoryNoOptionsMessage": "Keine Kategorien gefunden",
+		"label": "Kategorie",
+		"placeholderWithoutScope": "Kategorie anlegen",
+		"placeholderWithScope": "Kategorie anlegen oder wählen"
+	},
+	"alldayToggle": {
+		"label": "Ganztägig"
+	},
+	"datetimeComponent": {
+		"meetingInPastTooltip": "Meeting liegt in der Vergangenheit",
+		"differentTimeZone": "Deine lokale Zeit {{time}}"
+	},
+	"endField": {
+		"dateLabel": "Enddatum",
+		"timeLabel": "Endzeit"
+	},
+	"startField": {
+		"dateLabel": "Startdatum",
+		"timeLabel": "Startzeit"
+	},
+	"systemTemplate": {
+		"email": {
+			"displayName": "Standardvorlage E-Mail",
+			"detailDescription": "Standardvorlage für E-Mails. Sie befüllt den Betreff mit der Zusammenfassung des Issues."
+		},
+		"meetings": {
+			"displayName": "Standardvorlage Meetings",
+			"detailDescription": "Standardvorlage für Meetings. Sie befüllt den Titel mit dem Key und der Zusammenfassung des Issues. Im Inhalt wird ein Link zum Issue eingefügt."
+		},
+		"chat": {
+			"displayName": "Standardvorlage Chat",
+			"detailDescription": "Standardvorlage für Chats. Sie befüllt den Titel mit dem Key und der Zusammenfassung des Issues. Im Inhalt wird ein Link zum Issue eingefügt."
+		}
+	},
+	"reminder": {
+		"label": "Erinnerung",
+		"placeholder": "Erinnerung setzen",
+		"doNotSet": "Nicht setzen",
+		"15min": "15 Min",
+		"30min": "30 Min",
+		"oneHour": "1 Stunde",
+		"oneDay": "1 Tag"
+	},
+	"timezone": {
+		"label": "Zeitzone"
+	},
+	"commentVisibility": {
+		"choose": "Wähle, ob ein Kommentar am Vorgang erstellt werden soll",
+		"none": "Kein Kommentar",
+		"internal": "Interner Kommentar",
+		"public": "Kunden Kommentar",
+		"softwareAddComment": "Kommentar hinzufügen",
+		"internalShort": "Intern",
+		"publicShort": "Öffentlich",
+		"softwareAddCommentShort": "Mit Kommentar",
+		"tooltipExplanation": "Wähle, ob ein Kommentar erstellt werden soll"
+	},
+	"sendbutton": {
+		"label": "Senden",
+		"sendMeetingTooltip": "Outlook Meetinganfrage an alle Teilnehmer senden und - falls ausgewählt - einen Kommentar mit Meetingdetails an den Vorgang hinzufügen (Strg+Enter)"
+	},
 	"updateMeetingButton": {
-        "label": "Updaten",
-        "updateTooltip": "Änderungen abschicken (Strg+Enter)"
-    },
-    "dialogfooter": {
-        "cancelButtonLabel": "Abbrechen"
-    },
-    "scheduleMeetingDialogHeader": {
+		"label": "Updaten",
+		"updateTooltip": "Änderungen abschicken (Strg+Enter)"
+	},
+	"dialogfooter": {
+		"cancelButtonLabel": "Abbrechen"
+	},
+	"scheduleMeetingDialogHeader": {
 		"createHeading": "Neues Meeting planen",
-        "editHeading": "Meeting editieren",
+		"editHeading": "Meeting editieren",
 		"commentChooserDisabledTooltip": "Kein Vorgang ausgewählt",
 		"closeLabel": "Schließen",
-        "help": "Hilfe",
-        "meetingsDoc": "Dokumentation",
-        "settings": "Einstellungen",
-        "settingsButtonLabel": "Persönliche Einstellungen",
+		"help": "Hilfe",
+		"meetingsDoc": "Dokumentation",
+		"settings": "Einstellungen",
+		"settingsButtonLabel": "Persönliche Einstellungen",
 		"loginRequiredHeading": "Login erforderlich"
-    },
-    "editorField": {
-        "label": "Kommentar"
-    },
-    "freeBusyPicker": {
-        "free": "Frei",
-        "workingElsewhere": "An anderem Ort tätig",
-        "tentative": "Mit Vorbehalt",
-        "busy": "Beschäftigt",
-        "oof": "Abwesend",
-        "showAs": "Anzeigen als",
-        "label": "Verfügbarkeit"
-    },
-    "suggestedMeetingTimesToolbar": {
-        "label": "Vorschläge"
-    },
-    "privateToggle": {
-        "label": "Privat"
-    },
-    "isPrivatePicker": {
-        "label": "Outlook Sensitivität",
-        "private": "Privat",
-        "notPrivate": "Standard"
-    },
-    "issuePicker": {
-        "linkWithIssue": "Mit Vorgang verknüpfen",
-        "placeholder": "Vorgang wählen"
-    },
-    "locationPicker": {
-        "locationFieldPlaceholder": "Suchen ...",
-        "notAvailableLabel": "Nicht verfügbar",
-        "availableLabel": "Verfügbar",
-        "unknownLabel": "Unbekannt",
-        "createTeamsMeetingTooltip": "Microsoft Teams Meetinglink hinzufügen",
-        "onlineMeetingLabel": "Teams Meeting",
-        "ownLocationLabel": "Eigener Ort",
-        "fieldLabel": "Ort"
-    },
-    "meetingSuggestion": {
-        "allAvailable": "Verfügbar: alle",
-        "someUnavailable": "Nicht verfügbar"
-    },
-    "meetingSuggestionsToolbar": {
-        "nextAvailable": "Nächste verfügbare",
-        "nextWeek": "Nächste Woche",
-        "nextMonth": "Nächsten Monat",
-        "minuteShort": "min",
-        "meetingDuration": "Meetingdauer",
-        "minutesShort": "{{minutes}} min",
-        "meetingDurationTooltip": "Meetingdauer ändern",
-        "allDay": "Ganztägig",
-        "custom": "Benutzerdefiniert",
-        "duration": "Dauer",
-        "showMoreOptions": "Zeige mehr Optionen",
-        "suggestionRangeLabel": "Vorschlagsspanne"
-    },
-    "timezonePicker": {
-        "placeholder": "Zeitzone wählen"
-    },
-    "createMeetingForm": {
-        "buttonLabelSimple": "Normal",
-        "buttonLabelAdvanced": "Fortgeschritten",
+	},
+	"editorField": {
+		"label": "Kommentar"
+	},
+	"freeBusyPicker": {
+		"free": "Frei",
+		"workingElsewhere": "An anderem Ort tätig",
+		"tentative": "Mit Vorbehalt",
+		"busy": "Beschäftigt",
+		"oof": "Abwesend",
+		"showAs": "Anzeigen als",
+		"label": "Verfügbarkeit"
+	},
+	"suggestedMeetingTimesToolbar": {
+		"label": "Vorschläge"
+	},
+	"privateToggle": {
+		"label": "Privat"
+	},
+	"isPrivatePicker": {
+		"label": "Outlook Sensitivität",
+		"private": "Privat",
+		"notPrivate": "Standard"
+	},
+	"issuePicker": {
+		"linkWithIssue": "Mit Vorgang verknüpfen",
+		"placeholder": "Vorgang wählen"
+	},
+	"locationPicker": {
+		"locationFieldPlaceholder": "Suchen ...",
+		"notAvailableLabel": "Nicht verfügbar",
+		"availableLabel": "Verfügbar",
+		"unknownLabel": "Unbekannt",
+		"createTeamsMeetingTooltip": "Microsoft Teams Meetinglink hinzufügen",
+		"onlineMeetingLabel": "Teams Meeting",
+		"ownLocationLabel": "Eigener Ort",
+		"fieldLabel": "Ort"
+	},
+	"meetingSuggestion": {
+		"allAvailable": "Verfügbar: alle",
+		"someUnavailable": "Nicht verfügbar"
+	},
+	"meetingSuggestionsToolbar": {
+		"nextAvailable": "Nächste verfügbare",
+		"nextWeek": "Nächste Woche",
+		"nextMonth": "Nächsten Monat",
+		"minuteShort": "min",
+		"meetingDuration": "Meetingdauer",
+		"minutesShort": "{{minutes}} min",
+		"meetingDurationTooltip": "Meetingdauer ändern",
+		"allDay": "Ganztägig",
+		"custom": "Benutzerdefiniert",
+		"duration": "Dauer",
+		"showMoreOptions": "Zeige mehr Optionen",
+		"suggestionRangeLabel": "Vorschlagsspanne"
+	},
+	"timezonePicker": {
+		"placeholder": "Zeitzone wählen"
+	},
+	"createMeetingForm": {
+		"buttonLabelSimple": "Normal",
+		"buttonLabelAdvanced": "Fortgeschritten",
 		"scheduleDetailsHeading": "Scheduling details"
-    },
-    "templatePicker": {
-        "recents": "Vorherige",
-        "others": "Andere",
-        "templateButton": "Templates",
-        "noTemplatesGlobalAdminTooltip": "Bisher wurden keine Templates konfiguriert. Du kannst neue Templates in den globalen Appeinstellungen oder Projekteinstellungen anlegen.",
-        "noTemplatesProjectAdminTooltip": "Bisher wurden keine Templates konfiguriert. Du kannst neue Templates in den Projekteinstellungen anlegen."
-    },
-    "titleCompoent": {
-        "fieldLabel": "Titel",
-        "placeholder": "Bitte füge einen Titel hinzu"
-    },
-    "createOutlookMeetingScreenModel": {
-        "mainCalendarLabel": "Hauptkalender",
+	},
+	"templatePicker": {
+		"recents": "Vorherige",
+		"others": "Andere",
+		"templateButton": "Templates",
+		"noTemplatesGlobalAdminTooltip": "Bisher wurden keine Templates konfiguriert. Du kannst neue Templates in den globalen Appeinstellungen oder Projekteinstellungen anlegen.",
+		"noTemplatesProjectAdminTooltip": "Bisher wurden keine Templates konfiguriert. Du kannst neue Templates in den Projekteinstellungen anlegen."
+	},
+	"titleCompoent": {
+		"fieldLabel": "Titel",
+		"placeholder": "Bitte füge einen Titel hinzu"
+	},
+	"createOutlookMeetingScreenModel": {
+		"mainCalendarLabel": "Hauptkalender",
 		"meetingCreatedFlagTitle": "Meeting erstellt",
-		"meetingCreatedFlagBody":"Das Meeting wurde erstellt und alle Teilnehmer haben ihre Einladung erhalten.",
-		"errorSavingIssuePropertyFlagTitle":"Issue konnte nicht aktualisiert werden",
+		"meetingCreatedFlagBody": "Das Meeting wurde erstellt und alle Teilnehmer haben ihre Einladung erhalten.",
+		"errorSavingIssuePropertyFlagTitle": "Issue konnte nicht aktualisiert werden",
 		"errorSavingIssuePropertyFlagBody": "Es scheint, als hättest du nicht die Berechtigung dieses Issue zu bearbeiten.",
 		"genericErrorFlatTitle": "Fehler beim Meeting anlegen",
 		"errorLoadingEvent": "Meeting konnte nicht geladen werden",
-		"errorLoadingEventBody":"Das Meeting konnte vor dem Bearbeiten nicht geladen werden. Möglicherweise wurde es gelöscht"
-    },
-    "officeLoginScreen": {
-        "loginButtonLabel": "Mit Microsoft 365 anmelden",
-        "heading": "Willkommen bei {{ appName }}",
-        "description": "Scheinbar nutzt du die App zum ersten Mal! Bitte melde dich mit deinem Microsoft 365-Konto an, um loszulegen."
-    },
-    "officeLoginButton": {
-        "login": "Login",
-        "loginAs": "Login als",
-        "loginWithAccountChooser": "Login mit Account-Auswahl"
-    },
-    "atlassianProduct": {
-        "jira": "Jira",
-        "confluence": "Confluence"
-    },
-    "sharingChooser": {
-        "headingPrivate": "Privat",
-        "headingPublic": "Öffentlich",
-        "shared": "Geteilt",
-        "privateDescription": "Nur Meeting Teilnehmer können beitreten",
-        "publicDescription": "Alle Benutzer können am Meeting teilnehmen",
-        "chooseMeetingPermissions": "Wähle wer sich in das Meeting einwählen kann",
-        "chooseMeetingAccess": "Wähle die Meeting Berechtigungen"
-    },
-    "warnings": {
-        "privateMeetingIsSharedWarning": "Bist du dir sicher, dass du ein privates Meeting am Issue öffentlich teilen möchtest?"
-    },
-    "meetingSuggestionContainer": {
-        "noSuggestionsAttendeesUnavailable": "Im gewählten Zeitraum sind zu wenige Teilnehmer verfügbar. Versuche einen anderen Zeitraum um mehr Vorschläge zu erhalten.",
-        "noSuggestionsAttendeesUnavailableOrUnknown": "Für einige Teilnehmer konnte keine Verfügbarkeit ermittelt werden. Im gewählten Zeitraum sind daher zu wenige Teilnehmer verfügbar. Versuche einen anderen Zeitraum um mehr Vorschläge zu erhalten.",
-        "noSuggestionsOrganizerUnavailable": "Du bist im gewählten Zeitraum nicht verfügbar. Versuche einen anderen Zeitraum um mehr Vorschläge zu erhalten.",
-        "alldayDisabled": "Terminvorschläge sind für ganztägige Termine nicht verfügbar."
-    }
+		"errorLoadingEventBody": "Das Meeting konnte vor dem Bearbeiten nicht geladen werden. Möglicherweise wurde es gelöscht"
+	},
+	"officeLoginScreen": {
+		"loginButtonLabel": "Mit Microsoft 365 anmelden",
+		"heading": "Willkommen bei {{ appName }}",
+		"description": "Scheinbar nutzt du die App zum ersten Mal! Bitte melde dich mit deinem Microsoft 365-Konto an, um loszulegen."
+	},
+	"officeLoginButton": {
+		"login": "Login",
+		"loginAs": "Login als",
+		"loginWithAccountChooser": "Login mit Account-Auswahl"
+	},
+	"atlassianProduct": {
+		"jira": "Jira",
+		"confluence": "Confluence"
+	},
+	"sharingChooser": {
+		"headingPrivate": "Privat",
+		"headingPublic": "Öffentlich",
+		"shared": "Geteilt",
+		"privateDescription": "Nur Meeting Teilnehmer können beitreten",
+		"publicDescription": "Alle Benutzer können am Meeting teilnehmen",
+		"chooseMeetingPermissions": "Wähle wer sich in das Meeting einwählen kann",
+		"chooseMeetingAccess": "Wähle die Meeting Berechtigungen"
+	},
+	"warnings": {
+		"privateMeetingIsSharedWarning": "Bist du dir sicher, dass du ein privates Meeting am Issue öffentlich teilen möchtest?"
+	},
+	"meetingSuggestionContainer": {
+		"noSuggestionsAttendeesUnavailable": "Im gewählten Zeitraum sind zu wenige Teilnehmer verfügbar. Versuche einen anderen Zeitraum um mehr Vorschläge zu erhalten.",
+		"noSuggestionsAttendeesUnavailableOrUnknown": "Für einige Teilnehmer konnte keine Verfügbarkeit ermittelt werden. Im gewählten Zeitraum sind daher zu wenige Teilnehmer verfügbar. Versuche einen anderen Zeitraum um mehr Vorschläge zu erhalten.",
+		"noSuggestionsOrganizerUnavailable": "Du bist im gewählten Zeitraum nicht verfügbar. Versuche einen anderen Zeitraum um mehr Vorschläge zu erhalten.",
+		"alldayDisabled": "Terminvorschläge sind für ganztägige Termine nicht verfügbar."
+	},
+	"officeCurrentUserCalendar": {
+		"description": "Dein Hauptkalender",
+		"name": "Mein Kalender"
+	}
 }
