@@ -954,8 +954,12 @@
     "webhookConfigScreen": {
         "descriptionHeading": "Jira Automation “Send webrequest” config",
         "description": "Please configure a “Send web request” action in Jira automation, matching the configuration below.",
+		"descriptionPostFunction": "Create a system webhook with this URL. If you need help, you can find the guide in our ",
         "lineText": "<Your existing Jira automation rule>",
         "heading": "Send web request",
+		"headingPostFunction": "Create system webhook",
+		"CreateWebhookLinkTooltip": "Create a system webhook with the URL here",
+		"PostFunctionDocumentationLinkText": "documentation.",
         "urlField": "Webhook URL",
         "methodField": "HTTP method",
         "postLabel": "POST",

@@ -955,8 +955,12 @@
     "webhookConfigScreen": {
         "descriptionHeading": "Jira Automation “Web-Anfrage senden” konfiguration",
         "description": "Bitte konfiguriere eine “Web-Anfrage senden” Aktion in der Jira Automation, die der folgenden Konfiguration entspricht.",
+		"descriptionPostFunction": "Erstellen Sie mit dieser URL einen System Webhook. Falls Sie Hilfe brauchen, finden Sie die Anleitung in unserer ",
         "lineText": "<Deine bestehende Jira Automation>",
         "heading": "Web-Anfrage senden konfigurieren",
+		"headingPostFunction": "System Webhook konfigurieren",
+		"CreateWebhookLinkTooltip": "Erstellen Sie einen System Webhook mit der Url hier",
+		"PostFunctionDocumentationLinkText": "Dokumentation.",
         "urlField": "URL der Web-Anfrage",
         "methodField": "HTTP-Methode",
         "postLabel": "POST",
