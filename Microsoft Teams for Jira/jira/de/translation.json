@@ -337,7 +337,8 @@
 		"chatDensityLabel": "Kompakt",
 		"chatDensityHelpText": "Wähle zwischen kompakter oder komfortabler Darstellung.",
 		"sendToTeamsButtonTooltip": "Verknüpfe diesen Chat mit Teams (Strg+Enter)",
-		"replyButtonTooltip": "Antworte in Teams (Strg+Enter)"
+        "replyButtonTooltip": "Antworte in Teams (Strg+Enter)",
+        "enableNotificationsAskAdmin": "Um Benachrichtigungen zu posten, müssen diese in den Addon-Admin-Einstellungen aktiviert werden."
     },
     "addBoardToTeams": {
         "addBoardToTeams": "Board zu Teams hinzufügen",
@@ -505,7 +506,7 @@
         "adminConsentRequiredInfo": "Um Benachrichtungen zu posten, benötigt die App die folgenden Microsoft Scopes. Wenn du kein Microsoft Admin bist, schicke ihr diesen Link.",
         "adminConsentCTA": "Als Microsoft Admin berechtigen",
         "removeNotifications": "Benachrichtigungen ausschalten",
-        "enableNotificationsAskAdmin": "Um Benachrichtigungen zu posten, müssen diese in den Einstellungen aktiviert werden."
+        "enableNotificationsAskAdmin": "Um Benachrichtigungen zu posten, müssen diese in den JSM-Portal-Einstellungen aktiviert werden."
     },
     "templatePicker": {
         "recents": "Zuletzt verwendet",

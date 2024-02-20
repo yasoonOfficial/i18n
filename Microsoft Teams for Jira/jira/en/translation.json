@@ -337,7 +337,8 @@
 		"chatDensityLabel": "Compact",
 		"chatDensityHelpText": "Choose between compact and comfy density.",
 		"sendToTeamsButtonTooltip": "Link this chat to teams (Ctrl+Enter)",
-		"replyButtonTooltip": "Reply in teams (Ctrl+Enter)"
+        "replyButtonTooltip": "Reply in teams (Ctrl+Enter)",
+        "enableNotificationsAskAdmin": "To post updates, enable notifications in the addon admin settings."
     },
     "addBoardToTeams": {
         "addBoardToTeams": "Add board to Teams",
@@ -507,7 +508,7 @@
         "adminConsentRequiredInfo2": "If you are not a Microsoft admin, send this link to them.",
         "adminConsentCTA": "Approve as Microsoft admin",
         "removeNotifications": "Disable notifications",
-        "enableNotificationsAskAdmin": "To post updates, enable notifications in the admin settings."
+        "enableNotificationsAskAdmin": "To post updates, enable notifications in the JSM portal settings."
     },
     "templatePicker": {
         "recents": "Recents",
