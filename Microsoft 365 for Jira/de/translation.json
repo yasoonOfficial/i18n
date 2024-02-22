@@ -953,7 +953,7 @@
         "exampleText": "Zum Beispiel: "
     },
     "webhookConfigScreen": {
-        "descriptionHeading": "Jira Automation “Web-Anfrage senden” konfiguration",
+        "descriptionHeading": "Jira Konfiguration",
         "description": "Bitte konfiguriere eine “Web-Anfrage senden” Aktion in der Jira Automation, die der folgenden Konfiguration entspricht.",
 		"descriptionPostFunction": "Erstellen Sie mit dieser URL einen System Webhook. Falls Sie Hilfe brauchen, finden Sie die Anleitung in unserer ",
         "lineText": "<Deine bestehende Jira Automation>",
