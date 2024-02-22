@@ -958,7 +958,7 @@
         "lineText": "<Your existing Jira automation rule>",
         "heading": "Send web request",
 		"headingPostFunction": "Create system webhook",
-		"CreateWebhookLinkTooltip": "Create a system webhook with the URL here",
+		"createWebhookLinkTooltip": "Create a system webhook with the URL here",
 		"postFunctionDocumentationLinkText": "documentation.",
 		"postFunctionHeader": "Post function",
         "urlField": "Webhook URL",

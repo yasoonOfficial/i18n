@@ -959,7 +959,7 @@
         "lineText": "<Deine bestehende Jira Automation>",
         "heading": "Web-Anfrage senden konfigurieren",
 		"headingPostFunction": "System Webhook konfigurieren",
-		"CreateWebhookLinkTooltip": "Erstellen Sie einen System Webhook mit der Url hier",
+		"createWebhookLinkTooltip": "Erstellen Sie einen System Webhook mit der Url hier",
 		"postFunctionHeader": "Folgefunktion",
 		"postFunctionDocumentationLinkText": "Dokumentation.",
         "urlField": "URL der Web-Anfrage",
