@@ -65,6 +65,7 @@
         "userFieldLoading": "Ładowanie użytkowników ...",
         "userFieldPlaceholder": "Wybierz użytkownika",
         "userFieldNoResults": "Nie udało się znaleźć pasującego użytkownika.",
+        "assignToMe": "Przypisz mi",
         "raiseOnBehalfOf": "Podnieść w imieniu"
     },
     "myRequests": {

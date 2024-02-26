@@ -64,6 +64,7 @@
         "userFieldLoading": "Lade Benutzer ...",
         "userFieldPlaceholder": "Benutzer auswählen",
         "userFieldNoResults": "Keine passenden Benutzer gefunden.",
+        "assignToMe": "Mir zuweisen",
         "raiseOnBehalfOf": "Erstellen im Namen von"
     },
     "myRequests": {
