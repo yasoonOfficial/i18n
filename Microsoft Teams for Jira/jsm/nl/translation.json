@@ -65,6 +65,7 @@
         "userFieldLoading": "Gebruikers laden..",
         "userFieldPlaceholder": "Selecteer een gebruiker",
         "userFieldNoResults": "We konden geen overeenkomende gebruiker vinden.",
+        "assignToMe": "Geef mij de opdracht",
         "raiseOnBehalfOf": "Verhogen namens"
     },
     "myRequests": {

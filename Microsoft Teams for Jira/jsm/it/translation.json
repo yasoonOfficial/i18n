@@ -65,6 +65,7 @@
         "userFieldLoading": "Carica utente ...",
         "userFieldPlaceholder": "Scegli utente",
         "userFieldNoResults": "Nessun utente adatto trovato.",
+        "assignToMe": "Assegnami",
         "raiseOnBehalfOf": "Sollevare per conto di"
     },
     "myRequests": {

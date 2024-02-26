@@ -65,6 +65,7 @@
         "userFieldLoading": "Loading users ...",
         "userFieldPlaceholder": "Select a user",
         "userFieldNoResults": "We couldn't find a matching user.",
+        "assignToMe": "Assign to me",
         "raiseOnBehalfOf": "Raise on behalf of"
     },
     "myRequests": {
