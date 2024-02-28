@@ -509,7 +509,10 @@
         "adminConsentRequiredInfo2": "If you are not a Microsoft admin, send this link to them.",
         "adminConsentCTA": "Approve as Microsoft admin",
         "removeNotifications": "Disable notifications",
-        "enableNotificationsAskAdmin": "To post updates, enable notifications in the JSM portal settings."
+        "enableNotificationsAskAdmin": "To post updates, enable notifications in the JSM portal settings.",
+        "aboutMultiPortals": "About multiple portals",
+        "multiPortalInfo1": "Multiple portals are currently being reworked to prepare for future updates and features.",
+        "multiPortalInfo2": "Please get in touch with us if you need to manage multiple portals."
     },
     "templatePicker": {
         "recents": "Recents",
