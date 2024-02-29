@@ -164,7 +164,7 @@
 	"createMeetingForm": {
 		"buttonLabelSimple": "Normal",
 		"buttonLabelAdvanced": "Fortgeschritten",
-		"scheduleDetailsHeading": "Scheduling details"
+		"scheduleDetailsHeading": "Terminplanung"
 	},
 	"templatePicker": {
 		"recents": "Vorherige",

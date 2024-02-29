@@ -59,5 +59,9 @@
         "callTeamsDropdownItemLabel": "Call via Teams",
         "callPhoneDropdownItemLabel": "Call via Phone",
         "noAvailabilityInformationPlaceholder": "Could not read availability information."
-    }
+    },
+	"deleteMessage": {
+		"title": "Meeting cancelled",
+		"message": "The meeting was successfully deleted."
+	}
 }

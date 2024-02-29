@@ -59,5 +59,9 @@
         "callTeamsDropdownItemLabel": "Anrufen mit Teams",
         "callPhoneDropdownItemLabel": "Anrufen per Telefon",
         "noAvailabilityInformationPlaceholder": "Verfügbarkeitsinformationen konnten nicht geladen werden"
-    }
+    },
+	"deleteMessage": {
+		"title": "Meeting abgesagt",
+		"message": "Das Meeting wurde erfolgreich abgesagt."
+	}
 }
