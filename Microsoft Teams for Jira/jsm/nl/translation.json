@@ -96,5 +96,21 @@
         "selectRequestParticipants": "Selecteer verzoekdeelnemers",
         "requestParticipantsNotAllAdded": "Niet alle deelnemers konden worden toegevoegd.",
         "participantsNoResults": "Geen resultaten"
+    },
+    "forms": {
+        "validation": {
+            "invalidEmail": "Ongeldig e-mailadres",
+            "invalidUrl": "Ongeldige URL",
+            "invalidNumber": "Ongeldig nummer",
+            "invalidRegex": "Ongeldige invoer",
+            "invalidNumberBetween": "Waarde moet tussen {{minNumber}} en {{maxNumber}} liggen",
+            "invalidNumberGreater": "Waarde moet groter of gelijk zijn aan {{number}}",
+            "invalidNumberSmaller": "Waarde moet kleiner of gelijk zijn aan {{number}}",
+            "invalidStringBetween": "Lengte moet tussen {{minNumber}} en {{maxNumber}} liggen",
+            "invalidStringGreater": "Lengte moet groter of gelijk zijn aan {{number}}",
+            "invalidStringSmaller": "Lengte moet kleiner of gelijk zijn aan {{number}}"
+        },
+        "selectPlaceholder": "Selecteer ...",
+        "selectNoResultsFor": "Geen resultaten voor"
     }
 }

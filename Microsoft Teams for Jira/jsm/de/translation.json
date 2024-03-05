@@ -95,5 +95,21 @@
         "selectRequestParticipants": "Wähle Teilnehmer",
         "requestParticipantsNotAllAdded": "Nicht alle Teilnehmer konnten hinzugefügt werden.",
         "participantsNoResults": "Kein Ergebnis"
+    },
+    "forms": {
+        "validation": {
+            "invalidEmail": "Ungültige Email",
+            "invalidUrl": "Ungültige URL",
+            "invalidNumber": "Ungültige Zahl",
+            "invalidRegex": "Ungültige Eingabe",
+            "invalidNumberBetween": "Wert muss zwischen {{minNumber}} und {{maxNumber}} liegen",
+            "invalidNumberGreater": "Wert muss größer als oder gleich {{number}} sein",
+            "invalidNumberSmaller": "Wert muss kleiner oder gleich {{number}} sein",
+            "invalidStringBetween": "Länge muss zwischen {{minNumber}} und {{maxNumber}} liegen",
+            "invalidStringGreater": "Länge muss größer als oder gleich {{number}} sein",
+            "invalidStringSmaller": "Länge muss kleiner oder gleich {{number}} sein"
+        },
+        "selectPlaceholder": "Auswahl ...",
+        "selectNoResultsFor": "Keine Ergebnisse für"
     }
 }

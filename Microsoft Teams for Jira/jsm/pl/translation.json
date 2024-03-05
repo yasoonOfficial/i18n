@@ -96,5 +96,21 @@
         "selectRequestParticipants": "Wybierz uczestników żądania",
         "requestParticipantsNotAllAdded": "Nie wszyscy uczestnicy mogli zostać dodani.",
         "participantsNoResults": "Brak wyników"
+    },
+    "forms": {
+        "validation": {
+            "invalidEmail": "Nieprawidłowy adres email",
+            "invalidUrl": "Nieprawidłowy URL",
+            "invalidNumber": "Nieprawidłowa liczba",
+            "invalidRegex": "Nieprawidłowe dane wejściowe",
+            "invalidNumberBetween": "Wartość musi być między {{minNumber}} a {{maxNumber}}",
+            "invalidNumberGreater": "Wartość musi być większa lub równa {{number}}",
+            "invalidNumberSmaller": "Wartość musi być mniejsza lub równa {{number}}",
+            "invalidStringBetween": "Długość musi być między {{minNumber}} a {{maxNumber}}",
+            "invalidStringGreater": "Długość musi być większa lub równa {{number}}",
+            "invalidStringSmaller": "Długość musi być mniejsza lub równa {{number}}"
+        },
+        "selectPlaceholder": "Wybierz ...",
+        "selectNoResultsFor": "Brak wyników dla"
     }
 }
