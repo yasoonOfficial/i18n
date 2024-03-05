@@ -96,5 +96,18 @@
         "selectRequestParticipants": "Select request participants",
         "requestParticipantsNotAllAdded": "Not all participants could be added.",
         "participantsNoResults": "No results"
+    },
+    "forms": {
+        "validation": {
+            "invalidEmail": "Invalid email",
+            "invalidUrl": "Invalid URL",
+            "invalidNumber": "Invalid number",
+            "invalidRegex": "Invalid input",
+            "invalidInputBetween": "{{valueType}} must be between {{minNumber}} and {{maxNumber}}",
+            "invalidInputGreater": "{{valueType}} must be greater or equal than {{number}}",
+            "invalidInputSmaller": "{{valueType}} must be smaller or equal than {{number}}"
+        },
+        "selectPlaceholder": "Select ..",
+        "selectNoResultsFor": "No results for"
     }
 }
