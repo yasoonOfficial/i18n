@@ -13,7 +13,8 @@
         "loading": "Sta caricando ...",
         "selectOption": "Scegli un'opzione",
         "share": "Condividi",
-        "Add": "Aggiungi"
+        "Add": "Aggiungi",
+        "none": "Nessuno"
     },
     "error": {
         "microsoftLogin": "Microsoft login fallito. Ricaricare per favore.",

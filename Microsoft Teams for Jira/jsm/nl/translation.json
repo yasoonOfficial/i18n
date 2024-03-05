@@ -13,7 +13,8 @@
         "loading": "Laden..",
         "selectOption": "Selecteer een optie:",
         "share": "Delen",
-        "add": "Toevoegen"
+        "add": "Toevoegen",
+        "none": "Geen"
     },
     "error": {
         "microsoftLogin": "Kan Microsoft-login niet verifiéren. Vernieuw de pagina en probeer het opnieuw.",

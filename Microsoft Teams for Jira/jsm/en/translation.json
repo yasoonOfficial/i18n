@@ -13,7 +13,8 @@
         "loading": "Loading ...",
         "selectOption": "Select an option",
         "share": "Share",
-        "add": "Add"
+        "add": "Add",
+        "none": "None"
     },
     "error": {
         "microsoftLogin": "Could not verify Microsoft login. Please refresh and try again.",

@@ -13,7 +13,8 @@
         "loading": "Lade ...",
         "selectOption": "Wähle eine Option",
         "share": "Teilen",
-        "Add": "Hinzufügen"
+        "Add": "Hinzufügen",
+        "none": "Keine"
     },
     "error": {
         "microsoftLogin": "Microsoft login fehlgeschlagen. Bitte neu laden.",

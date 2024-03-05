@@ -13,7 +13,8 @@
         "loading": "Ładowanie ...",
         "selectOption": "Wybierz opcję",
         "share": "Dzielić",
-        "add": "Dodaj"
+        "add": "Dodaj",
+        "none": "Żaden"
     },
     "error": {
         "microsoftLogin": "Nie można zweryfikować logowania Microsoft. Odswież stronę i spróbuj ponownie.",
