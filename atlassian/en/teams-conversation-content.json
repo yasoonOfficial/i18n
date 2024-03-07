@@ -421,6 +421,12 @@
         "chatNotifications": "Chat notifications in Teams",
         "chatNotificationsComingSoon": "You can already use chat notifications when using the JSM Teams portal. Configure them in the Customer portal tab."
     },
+	"autolinkSettings": {
+		"headline": "Automatic linking",
+		"intro": "Configure automatic linking",
+		"helpText": "Select wheter an issue should be linked when the issue key is mentioned in a channel where the bot is installed.",
+		"autolinkIssues": "Automatic linking"
+	},
     "projectSettings": {
         "defaultsTabHeading": "Defaults",
         "templatesTabHeading": "Templates",
