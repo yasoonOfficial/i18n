@@ -1,0 +1,26 @@
+{
+	"tableHeader":{
+		"id":"Log ID",
+		"userId":"User",
+		"eventType":"Event Type",
+		"eventTarget":"Event Target",
+		"createdAt": "Event Time"
+	},
+	"filterSelectOptionHeader": {
+		"userSelectOption": "Select User",
+		"eventTargetSelectOption": "Select Event Target",
+		"eventTypeSelectOption": "Select Event Type",
+		"startDateSelectOption": "Select Start Date",
+		"endDateSelectOption": "Select End Date"
+	},
+	"eventDataField": {
+		"eventDataTag": "Event Data"
+	},
+	"eventType": {
+		"edit": "Edit",
+		"toggle": "Toggle",
+		"create": "Create",
+		"delete": "Delete",
+		"unknown": "Unknown"
+	}
+}

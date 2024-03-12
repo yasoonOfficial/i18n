@@ -1,0 +1,27 @@
+{
+	"tableHeader":{
+		"id":"Log-ID",
+		"userId":"Benutzer",
+		"eventType":"Ereignisart",
+		"eventTarget":"Ereignisziel",
+		"createdAt": "Ereigniszeit"
+	},
+	"filterSelectOptionHeader": {
+		"userSelectOption": "Benutzer auswählen",
+		"eventTargetSelectOption": "Ereignisziel auswählen",
+		"eventTypeSelectOption": "Ereignistyp auswählen",
+		"startDateSelectOption": "Startdatum auswählen",
+		"endDateSelectOption": "Enddatum auswählen"
+	},
+	"eventDataField": {
+		"eventDataTag": "Ereignisdaten"
+	},
+	"eventType": {
+		"edit": "Bearbeitung",
+		"toggle": "Toggle",
+		"create": "Erstellt",
+		"delete": "Gelöscht",
+		"unknown": "Unbekannt"
+	}
+
+}
