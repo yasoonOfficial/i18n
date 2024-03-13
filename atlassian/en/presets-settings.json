@@ -1,6 +1,4 @@
 {
-	"chat": "Chat",
-	"channel": "Channel",
 	"settingsScreen": {
 		"heading": {
 			"title": "Preset Settings",
@@ -24,6 +22,7 @@
 				"creator": "Creator",
 				"actions": "Actions"
 			},
+			"dragToActivate": "Drag to activate",
 			"actions": {
 				"view": "View",
 				"activate": "Activate",
