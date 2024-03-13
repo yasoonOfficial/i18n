@@ -11,7 +11,8 @@
 		"callMobile": "Call via phone",
 		"callOnline": "Call via Teams",
 		"startChat": "Send message",
-		"scheduleMeeting": "Schedule meeting"
+		"scheduleMeeting": "Schedule meeting",
+		"statusMessage": "Status message"
 	},
 	"channelConversations": {
 		"header": "Channel conversations",
