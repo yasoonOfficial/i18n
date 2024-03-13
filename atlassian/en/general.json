@@ -10,6 +10,10 @@
             "appSettings": "App settings",
             "helpSection": "Help"
         },
+		"presets": {
+			"choosePreset": "Choose a preset",
+			"emptyDescription": "Hover over one of the presets to view the details"
+		},
         "footer": {
             "close": "Close",
             "cancel": "Cancel",
