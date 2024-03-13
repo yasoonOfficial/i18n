@@ -112,6 +112,7 @@
             "invalidStringSmaller": "La lunghezza deve essere minore o uguale a {{number}}"
         },
         "selectPlaceholder": "Seleziona ...",
-        "selectNoResultsFor": "Nessun risultato per"
+        "selectNoResultsFor": "Nessun risultato per",
+        "crashMessage": "Il modulo ha riscontrato un errore."
     }
 }

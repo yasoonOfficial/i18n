@@ -112,6 +112,7 @@
             "invalidStringSmaller": "Długość musi być mniejsza lub równa {{number}}"
         },
         "selectPlaceholder": "Wybierz ...",
-        "selectNoResultsFor": "Brak wyników dla"
+        "selectNoResultsFor": "Brak wyników dla",
+        "crashMessage": "Formularz napotkał błąd."
     }
 }

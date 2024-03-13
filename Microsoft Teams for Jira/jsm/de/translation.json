@@ -111,6 +111,7 @@
             "invalidStringSmaller": "Länge muss kleiner oder gleich {{number}} sein"
         },
         "selectPlaceholder": "Auswahl ...",
-        "selectNoResultsFor": "Keine Ergebnisse für"
+        "selectNoResultsFor": "Keine Ergebnisse für",
+        "crashMessage": "Das Formular hat einen Fehler festgestellt."
     }
 }

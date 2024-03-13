@@ -112,6 +112,7 @@
             "invalidStringSmaller": "Length must be smaller or equal than {{number}}"
         },
         "selectPlaceholder": "Select ...",
-        "selectNoResultsFor": "No results for"
+        "selectNoResultsFor": "No results for",
+        "crashMessage": "Form encountered an error."
     }
 }

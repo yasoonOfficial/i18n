@@ -112,6 +112,7 @@
             "invalidStringSmaller": "Lengte moet kleiner of gelijk zijn aan {{number}}"
         },
         "selectPlaceholder": "Selecteer ...",
-        "selectNoResultsFor": "Geen resultaten voor"
+        "selectNoResultsFor": "Geen resultaten voor",
+        "crashMessage": "Het formulier heeft een fout aangetroffen."
     }
 }
