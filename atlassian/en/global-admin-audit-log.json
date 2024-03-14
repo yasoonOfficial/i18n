@@ -22,5 +22,11 @@
 		"create": "Create",
 		"delete": "Delete",
 		"unknown": "Unknown"
+	},
+	"eventTarget": {
+		"automation": "Automation",
+		"feature": "Feature",
+		"trigger": "Trigger",
+		"template": "Template"
 	}
 }
