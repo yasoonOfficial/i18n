@@ -90,6 +90,80 @@
 				"description": "Select which notifications you want to receive within the Teams chat during the chat lifecycle."
 			}
 		},
+		"channel": {
+			"defaultSettings": {
+				"title": "Default Settings",
+				"description": "Choose the settings that should be pre-populated when opening the Teams dialog. You can choose wether the setting should be editable by the enduser. This text might be a bit longer to explain the logic behind this."
+			},
+			"template": {
+				"title": "Template",
+				"description": "Choose the settings that should be pre-populated when opening the Teams dialog."
+			},
+			"lifecycleSettings": {
+				"title": "Lifecycle Settings",
+				"description": "You can predefine settings that apply once a Teams chat has been created in an Jira issue. These control the behaviour of the chat during his lifecycle. This description is poor and should be rewritten."
+			},
+			"chatAccess": {
+				"title": "Chat Access",
+				"description": "Choose the chat access. This setting defines which users can see the chat within the issue."
+			},
+			"notificationComment": {
+				"title": "Notification Comment",
+				"description": "Select which notifications you want to receive within the Teams chat during the chat lifecycle."
+			}
+		},
+		"email": {
+			"defaultSettings": {
+				"title": "Default Settings",
+				"description": "Choose the settings that should be pre-populated when opening the Teams dialog. You can choose wether the setting should be editable by the enduser. This text might be a bit longer to explain the logic behind this."
+			},
+			"template": {
+				"title": "Template",
+				"description": "Choose the settings that should be pre-populated when opening the Teams dialog."
+			},
+			"replyTemplate": {
+				"title": "Reply template",
+				"description": "Choose the settings that should be pre-populated when opening the Teams dialog."
+			},
+			"lifecycleSettings": {
+				"title": "Lifecycle Settings",
+				"description": "You can predefine settings that apply once a Teams chat has been created in an Jira issue. These control the behaviour of the chat during his lifecycle. This description is poor and should be rewritten."
+			},
+			"notificationComment": {
+				"title": "Notification Comment",
+				"description": "Select which notifications you want to receive within the Teams chat during the chat lifecycle."
+			},
+			"addAsParticipants": {
+				"title": "Add as Participants",
+				"description": "Select which participants you want to add to the email conversation."
+			},
+			"sharingType": {
+				"title": "Sharing type",
+				"description": "Select how you want to share the conversations."
+			}
+		},
+		"meetings": {
+			"defaultSettings": {
+				"title": "Default Settings",
+				"description": "Choose the settings that should be pre-populated when opening the Teams dialog. You can choose wether the setting should be editable by the enduser. This text might be a bit longer to explain the logic behind this."
+			},
+			"template": {
+				"title": "Template",
+				"description": "Choose the settings that should be pre-populated when opening the Teams dialog."
+			},
+			"lifecycleSettings": {
+				"title": "Lifecycle Settings",
+				"description": "You can predefine settings that apply once a Teams chat has been created in an Jira issue. These control the behaviour of the chat during his lifecycle. This description is poor and should be rewritten."
+			},
+			"chatAccess": {
+				"title": "Chat Access",
+				"description": "Choose the chat access. This setting defines which users can see the chat within the issue."
+			},
+			"notificationComment": {
+				"title": "Notification Comment",
+				"description": "Select which notifications you want to receive within the Teams chat during the chat lifecycle."
+			}
+		},
 		"presetSetting": {
 			"editable": "Editable",
 			"notEditable": "Not editable",
