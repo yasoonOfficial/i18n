@@ -1,4 +1,8 @@
 {
+	"chat": "Chat",
+	"channel": "Channel",
+	"meeting": "Meeting",
+	"email": "Email",
     "errorMessages": {
         "authenticationErrorTitle": "Refresh page",
         "authenticationErrorBody": "Connection with Microsoft 365 has been lost and data might be outdated. Please refresh the page."
@@ -10,6 +14,10 @@
             "appSettings": "App settings",
             "helpSection": "Help"
         },
+		"presets": {
+			"choosePreset": "Choose a preset",
+			"emptyDescription": "Hover over one of the presets to view the details"
+		},
         "footer": {
             "close": "Close",
             "cancel": "Cancel",

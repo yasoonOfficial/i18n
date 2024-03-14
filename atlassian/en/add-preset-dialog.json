@@ -1,0 +1,18 @@
+{
+	"dialog": {
+		"title": "Create a new {{type}} preset",
+		"createButton": "Create",
+		"createButtonTooltip": "Create a new preset from scratch\n (Ctrl + Enter)",
+		"createFromBlueprintButton": "Create from blueprint",
+		"createFromBlueprintButtonTooltip": "Create a new preset from the selected blueprint (Ctrl + Enter)"
+	},
+	"selectionPanel": {
+		"newPreset": "new preset",
+		"presetFromScratch": "Create a preset from scratch",
+		"presetFrom": "preset from"
+	},
+	"descriptionPanel": {
+		"description": "Description",
+		"createdBy": "Created by"
+	}
+}

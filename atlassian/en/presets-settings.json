@@ -1,0 +1,99 @@
+{
+	"settingsScreen": {
+		"heading": {
+			"title": "Preset Settings",
+			"subtitle": "Presets allow you to configure how a Microsoft entity like chat or email links to a Jira issue."
+		},
+		"teams": {
+			"newButton": "New",
+			"visibility": {
+				"title": "Visibility Settings",
+				"description": "Choose where the Microsoft Teams chat and conversation view is visible. By default, it is located in the issue content. Choose to position it less prominently in the activity tab area besides the comments tab."
+			},
+			"presets": {
+				"title": "Preset Settings",
+				"description": "Choose the presets that are available when clicking on the Teams button within the current project. You can choose between global presets, use-case based presets or create a new one from scratch."
+			}
+		},
+		"email": {
+			"newButton": "New",
+			"visibility": {
+				"title": "Visibility Settings",
+				"description": "Choose where the Microsoft Teams chat and conversation view is visible. By default, it is located in the issue content. Choose to position it less prominently in the activity tab area besides the comments tab."
+			},
+			"presets": {
+				"title": "Preset Settings",
+				"description": "Choose the presets that are available when clicking on the Teams button within the current project. You can choose between global presets, use-case based presets or create a new one from scratch."
+			}
+		},
+		"meetings": {
+			"newButton": "New",
+			"visibility": {
+				"title": "Visibility Settings",
+				"description": "Choose where the Microsoft Teams chat and conversation view is visible. By default, it is located in the issue content. Choose to position it less prominently in the activity tab area besides the comments tab."
+			},
+			"presets": {
+				"title": "Preset Settings",
+				"description": "Choose the presets that are available when clicking on the Teams button within the current project. You can choose between global presets, use-case based presets or create a new one from scratch."
+			}
+		},
+		"presetsTable": {
+			"columns": {
+				"preset": "Preset",
+				"description": "Description",
+				"creator": "Creator",
+				"actions": "Actions"
+			},
+			"dragToActivate": "Drag to activate",
+			"actions": {
+				"view": "View",
+				"activate": "Activate",
+				"deactivate": "Deactivate"
+			}
+		}
+	},
+	"createScreen": {
+		"heading": {
+			"createTitle": "Create new preset",
+			"editTitle": "Edit preset",
+			"subtitle": "Configure a new preset from scratch based on your requirements"
+		},
+		"restrictedBanner": {
+			"title": "Editing is restricted",
+			"description": "You're not allowed to edit this preset, as it is a global preset and you are not a global admin."
+		},
+		"presetIcon": "Preset Icon",
+		"presetName": "Preset Name",
+		"presetDescription": "Preset description",
+		"cancelButton": "Cancel",
+		"createPresetButton": "Create Preset",
+		"updatePresetButton": "Update Preset",
+		"chat": {
+			"defaultSettings": {
+				"title": "Default Settings",
+				"description": "Choose the settings that should be pre-populated when opening the Teams dialog. You can choose wether the setting should be editable by the enduser. This text might be a bit longer to explain the logic behind this."
+			},
+			"template": {
+				"title": "Template",
+				"description": "Choose the settings that should be pre-populated when opening the Teams dialog."
+			},
+			"lifecycleSettings": {
+				"title": "Lifecycle Settings",
+				"description": "You can predefine settings that apply once a Teams chat has been created in an Jira issue. These control the behaviour of the chat during his lifecycle. This description is poor and should be rewritten."
+			},
+			"chatAccess": {
+				"title": "Chat Access",
+				"description": "Choose the chat access. This setting defines which users can see the chat within the issue."
+			},
+			"notificationComment": {
+				"title": "Notification Comment",
+				"description": "Select which notifications you want to receive within the Teams chat during the chat lifecycle."
+			}
+		},
+		"presetSetting": {
+			"editable": "Editable",
+			"notEditable": "Not editable",
+			"hidden": "Hidden"
+		}
+	}
+}
