@@ -56,7 +56,14 @@
 		"heading": {
 			"createTitle": "Create new preset",
 			"editTitle": "Edit preset",
-			"subtitle": "Configure a new preset from scratch based on your requirements"
+			"subtitle": "Configure a new preset from scratch based on your requirements",
+			"deleteButton": "Delete",
+			"deleteBanner": {
+				"title": "Delete Preset",
+				"description": "Are you sure you want to delete this preset? This action cannot be undone.",
+				"cancelButton": "Cancel",
+				"confirmButton": "Delete"
+			}
 		},
 		"restrictedBanner": {
 			"title": "Editing is restricted",
@@ -67,7 +74,9 @@
 		"presetDescription": "Preset description",
 		"cancelButton": "Cancel",
 		"createPresetButton": "Create Preset",
+		"createAndActivatePresetButton": "Create and Activate Preset",
 		"updatePresetButton": "Update Preset",
+		"updateAndActivatePresetButton": "Update and Activate Preset",
 		"chat": {
 			"defaultSettings": {
 				"title": "Default Settings",
