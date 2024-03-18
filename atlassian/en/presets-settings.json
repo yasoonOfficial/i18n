@@ -57,9 +57,9 @@
 			"createTitle": "Create new preset",
 			"editTitle": "Edit preset",
 			"subtitle": "Configure a new preset from scratch based on your requirements",
-			"deleteButton": "Delete",
+			"deleteButton": "Delete preset",
 			"deleteBanner": {
-				"title": "Delete Preset",
+				"title": "Delete preset",
 				"description": "Are you sure you want to delete this preset? This action cannot be undone.",
 				"cancelButton": "Cancel",
 				"confirmButton": "Delete"
