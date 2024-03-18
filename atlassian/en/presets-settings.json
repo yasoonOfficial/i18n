@@ -69,6 +69,11 @@
 			"title": "Editing is restricted",
 			"description": "You're not allowed to edit this preset, as it is a global preset and you are not a global admin."
 		},
+		"globalPresetBanner": {
+			"title": "Global Preset",
+			"description": "This is a global preset. It is available in all projects if not overridden by a project preset. You can edit this preset in the global settings.",
+			"editButton": "Edit in global settings"
+		},
 		"presetIcon": "Preset Icon",
 		"presetName": "Preset Name",
 		"presetDescription": "Preset description",
