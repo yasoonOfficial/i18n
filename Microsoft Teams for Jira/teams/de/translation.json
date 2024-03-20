@@ -224,7 +224,8 @@
         "relatedConversations": "Verknüpfte Teams-Konversationen",
         "showBacklogColumn": "Backlog-Spalte anzeigen",
         "missingJsmBoardCTA": "Fehlendes JSM Board?",
-        "missingJsmBoardInfo": "Füge die URL zum gewünschten Board in das untenstehende Feld ein."
+        "missingJsmBoardInfo": "Füge die URL zum gewünschten Board in das untenstehende Feld ein",
+        "missingJsmBoardInvalidInput": "Die URL konnte nicht evaluiert werden"
     },
     "boardDetailView": {
         "editorPlaceholder": "Schreibe einen Kommentar ...",
