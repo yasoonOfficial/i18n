@@ -222,7 +222,9 @@
         "subtasks": "Subtasks",
         "involvedPeople": "Involved people",
         "relatedConversations": "Related Teams conversations",
-        "showBacklogColumn": "Show backlog column"
+        "showBacklogColumn": "Show backlog column",
+        "missingJsmBoardCTA": "Can't find a specific JSM board?",
+        "missingJsmBoardInfo": "Please paste the URL to the desired JSM board into the input below."
     },
     "boardDetailView": {
         "editorPlaceholder": "Write a comment ...",

@@ -222,7 +222,9 @@
         "subtasks": "Untergeordnete Vorgänge",
         "involvedPeople": "Involvierte Personen",
         "relatedConversations": "Verknüpfte Teams-Konversationen",
-        "showBacklogColumn": "Backlog-Spalte anzeigen"
+        "showBacklogColumn": "Backlog-Spalte anzeigen",
+        "missingJsmBoardCTA": "Fehlendes JSM Board?",
+        "missingJsmBoardInfo": "Füge die URL zum gewünschten Board in das untenstehende Feld ein."
     },
     "boardDetailView": {
         "editorPlaceholder": "Schreibe einen Kommentar ...",
