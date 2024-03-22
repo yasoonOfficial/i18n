@@ -1,0 +1,14 @@
+{
+	"sharing": {
+		"private": "Private",
+		"privateDescription": "Only you and participants can see this.",
+		"shared": "Shared",
+		"sharedDescription": "Anyone in Jira can see this.",
+		"sharedAndAllowJoining": "Shared & allow joining",
+		"sharedAndAllowJoiningDescription": "Anyone in Jira can see this and join.",
+		"rememberUserChoice": "User choice",
+		"rememberUserChoiceDescription": "Remember the users choice."
+	},
+	"chooseChatPermissions": "Choose who should have access to this chat in Jira",
+	"chooseChatAccess": "Choose chat access"
+}

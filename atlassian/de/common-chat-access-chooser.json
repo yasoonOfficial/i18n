@@ -1,0 +1,14 @@
+{
+	"sharing": {
+		"private": "Privat",
+		"privateDescription": "Nur Meeting Teilnehmer können beitreten",
+		"shared": "Geteilt",
+		"sharedDescription": "Kann von jedem in Jira eingesehen werden",
+		"sharedAndAllowJoining": "Geteilt & beitreten erlauben",
+		"sharedAndAllowJoiningDescription": "Kann von jedem in Jira eingesehen werden und jeder dem Chat beitreten",
+		"rememberUserChoice": "Nutzerauswahl",
+		"rememberUserChoiceDescription": "Merke die letzte Auswahl des Nutzers"
+	},
+	"choosePermissions": "Wähle, wer Zugriff auf diesen Chat in Jira hat:",
+	"chooseAccess": "Zugang zu Chat auswählen"
+}
