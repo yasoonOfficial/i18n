@@ -82,6 +82,7 @@
 		"createAndActivatePresetButton": "Create and Activate Preset",
 		"updatePresetButton": "Update Preset",
 		"updateAndActivatePresetButton": "Update and Activate Preset",
+		"updateAndDeactivatePresetButton": "Update and Deactivate Preset",
 		"chat": {
 			"defaultSettings": {
 				"title": "Default Settings",
