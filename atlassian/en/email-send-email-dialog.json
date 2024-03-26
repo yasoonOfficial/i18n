@@ -1,0 +1,80 @@
+{
+	"dialog": {
+		"heading": "Send email",
+		"loginRequiredHeading": "Login required"
+	},
+	"sendButton": {
+		"tooltip": "Send email",
+		"label": "Send",
+		"sendMailLater": "Send {{date}}"
+	},
+	"attachments": {
+		"seeLess": "See less",
+		"showAll": "Show all attachments ({{amount}})",
+		"fileUploadButton": " Browse.",
+		"fileUploadButtonPreText": "Drop files to attach, or"
+	},
+	"openInBrowser": {
+		"encryptedLabel": "Open in Outlook to view attachments of encrypted or signed mails",
+		"encryptedExplanation": "This email is signed or encrypted. Due to technical limitations only recipients can see the attachments directly in Outlook."
+	},
+	"from": {
+		"noOptionsMessage": "No matching options",
+		"placeholder": "Type to search ...",
+		"label": "From"
+	},
+	"subject": {
+		"placeholder": "Enter a subject",
+		"label": "Subject"
+	},
+	"recipients": {
+		"noOptionsMessage": "No matching options",
+		"placeholder": "Type to search ...",
+		"label": "To"
+	},
+	"ccRecipients": {
+		"noOptionsMessage": "No matching options",
+		"placeholder": "Type to search ...",
+		"label": "Cc"
+	},
+	"bccRecipients": {
+		"noOptionsMessage": "No matching options",
+		"placeholder": "Type to search ...",
+		"label": "Bcc"
+	},
+	"body": {
+		"label": "Email"
+	},
+	"replyBody": {
+		"label": "Reply",
+		"prefix": "RE: "
+	},
+	"includeIssueCard": {
+		"label": "Append issue details"
+	},
+	"errorMessages": {
+		"createDraftTitle": "Failed to create a draft",
+		"createDraftMessage": "This feature requires an Exchange Online mailbox. If you are in a hybrid environment make sure your mailbox was already migrated to Exchange Online",
+		"noAnswersTitle": "No Full Access",
+		"noAnswersMessage": "Sending this email will probably work if you have \"Send As\" or \"Send on behalf of\" permissions to {{mailbox}}, but the answers will not be visible in this issue as you do not have Full Access permissions to {{mailbox}}"
+	},
+	"comment": {
+		"cc": "Cc: ",
+		"to": "To: ",
+		"subject": "Subject: ",
+		"attachments": "Attachments: ",
+		"imageRemoved": "[Image Removed - Open the email to see this image]",
+		"emailAddedPhrase": "An email has been sent for this issue:",
+		"tooLongMessage": "[The body of the email is too long to be included in the comment. It was removed from the comment intentionally]"
+	},
+	"officeLoginScreen": {
+		"loginButtonLabel": "Log in with Microsoft 365",
+		"heading": "Welcome to {{ appName }}",
+		"description": "Looks like you're using the app for the first time. Please log in with your Microsoft 365 account to get started!"
+	},
+	"officeLoginButton": {
+		"login": "Login",
+		"loginAs": "Login as",
+		"loginWithAccountChooser": "Login with account chooser"
+	}
+}

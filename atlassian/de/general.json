@@ -6,7 +6,7 @@
     "dialog": {
         "header": {
             "settingsSection": "Einstellungen",
-            "personalSettings": "persönliche Einstellungen",
+			"personalSettings": "Persönliche Einstellungen",
             "appSettings": "App Einstellungen",
             "helpSection": "Hilfe"
         },
