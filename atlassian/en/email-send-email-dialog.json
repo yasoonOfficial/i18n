@@ -6,7 +6,7 @@
 	"sendButton": {
 		"tooltip": "Send email",
 		"label": "Send",
-		"sendMailLater": "Send {{date}}"
+		"sendLaterLabel": "Send {{date}}"
 	},
 	"attachments": {
 		"seeLess": "See less",
@@ -76,5 +76,45 @@
 		"login": "Login",
 		"loginAs": "Login as",
 		"loginWithAccountChooser": "Login with account chooser"
+	},
+	"sendLater": {
+		"sectionTitle": "Choose a time for the email to be sent",
+		"timePickerPlaceholder": "Please select a time",
+		"description": "You can decide to send the email at a later time. It will be saved as a draft and sent at the specified time automatically by Outlook.",
+		"triggerTooltip": "Choose a time for the email to be sent",
+		"clear": "Clear"
+	},
+	"sharing": {
+		"privateLabel": "Private",
+		"azureTenantLabel": "Organization",
+		"atlassianCloudLabel": "Issue access",
+		"privateDescription": "Only I can see this conversation",
+		"agent": "agent",
+		"user": "user",
+		"azureTenantDescription": "Every {{user}} in my organization can see this conversation",
+		"atlassianCloudDescription": "Every {{user}} with access to this issue can see this conversation",
+		"sectionTitle": "Choose who should be able to see this conversation",
+		"triggerTooltip": "Choose who should be able to see this conversation"
+	},
+	"commentVisibility": {
+		"choose": "Choose if a comment should be added to the issue",
+		"none": "No comment",
+		"internal": "Internal comment",
+		"public": "Customer comment",
+		"softwareAddComment": "Add comment",
+		"internalShort": "Internal",
+		"publicShort": "Public",
+		"softwareAddCommentShort": "With comment",
+		"tooltipExplanation": "Choose if a comment should be added"
+	},
+	"addAsParticipants": {
+		"noneDescription": "No additional request participants will be added.",
+		"existingOnlyDescription": "Only already existing users and customer users will be added.",
+		"createOnDemandDescription": "Add existing users and create customer users if necessary.",
+		"noneLabel": "None",
+		"existingOnlyLabel": "Existing users",
+		"createOnDemandLabel": "Create new customers",
+		"sectionTitle": "Choose if \"To\" and \"Cc\" recipients should be added as request participants",
+		"tooltipExplanation": "Choose if recipients should be added as participants"
 	}
 }
