@@ -1,0 +1,118 @@
+{
+    "general": {
+        "create": "Créer",
+        "cancel": "Annuler",
+        "remove": "Supprimer",
+        "browse": "Parcourir",
+        "loadMore": "Charger plus",
+        "learnMore": "En savoir plus",
+        "showMore": "Afficher plus",
+        "showFewer": "Afficher moins",
+        "decline": "Refuser",
+        "approve": "Approuver",
+        "loading": "Chargement...",
+        "selectOption": "Sélectionner une option",
+        "share": "Partager",
+        "add": "Ajouter",
+        "none": "Aucune"
+    },
+    "error": {
+        "microsoftLogin": "Impossible de vérifier la connexion Microsoft. Veuillez actualiser et réessayer.",
+        "createIssue": "Impossible de créer le problème, veuillez vérifier les champs.",
+        "fileUpload": "Certains de vos fichiers semblent être invalides.",
+        "noUserFound": "Aucun utilisateur avec l'adresse e-mail {{email}} n'a été trouvé dans ce portail de service.",
+        "noIssueFound": "Problème introuvable ou vous n'avez pas la permission de le voir.",
+        "transitionError": "Impossible d'effectuer la transition. Veuillez réessayer plus tard.",
+        "urlError": "Les URLs valides doivent avoir un schéma ('http: //' ou 'https://')"
+    },
+    "search": {
+        "placeholder": "Rechercher des problèmes courants...",
+        "noResultsFor": "Aucun résultat trouvé pour '{{query}}'.",
+        "articles": "Articles",
+        "requestTypes": "Envoyer une demande à propos de"
+    },
+    "chooseDesk": {
+        "heading": "Choisissez un portail de service",
+        "subHeading": "Bienvenue! Choisissez un portail de service et soumettez votre demande d'assistance.",
+        "typeChooserPlaceholder": "Sélectionner un portail de service"
+    },
+    "welcomeChooseInfo": "Bienvenue! Soumettez une demande de service pour {{serviceDeskName}} parmi les options proposées.",
+    "createTicket": {
+        "typeChooserLabel": "Comment pouvons-nous vous aider?",
+        "submitSuccess": "Votre demande {{issueKey}} a été soumise.",
+        "selectLabel": "Sélectionner des étiquettes",
+        "labelsLoading": "Chargement des étiquettes..."
+    },
+    "missingFields": {
+        "mandatoryFieldsMissing": "Certains champs obligatoires ne peuvent pas être affichés.",
+        "raiseInWeb": "Soumettre une demande sur le Web",
+        "contactSupport": "Communiquer avec le soutien technique",
+        "optionalFieldsMissing": "Certains champs optionnels ne peuvent pas être affichés",
+        "affectedFields": "Champs affectés :"
+    },
+    "fieldErrorBoundary": {
+        "errorMessage": "Ce champ a planté.",
+        "reportInstruction": "Envoyer un retour d'information"
+    },
+    "jiraUserContextMenu": {
+        "openJira": "Ouvrir Jira",
+        "relogin": "Actualiser la connexion"
+    },
+    "suggestions": {
+        "heading": "Articles suggérés"
+    },
+    "fields": {
+        "dropzoneHelptext": "Déposer des fichiers ou cliquer pour sélectionner",
+        "userFieldLoading": "Chargement des utilisateurs...",
+        "userFieldPlaceholder": "Sélectionner un utilisateur",
+        "userFieldNoResults": "Nous n'avons trouvé aucun utilisateur correspondant.",
+        "assignToMe": "Assigne-moi",
+        "raiseOnBehalfOf": "Soumettre au nom de"
+    },
+    "myRequests": {
+        "heading": "Mes demandes",
+        "newRequest": "Nouvelle demande",
+        "tableHeader": {
+            "type": "Type",
+            "reference": "Référence",
+            "summary": "Résumé",
+            "status": "Statut",
+            "serviceProject": "Projet de service"
+        },
+        "noSummary": "Aucun résumé",
+        "activity": "Activité",
+        "editorPlaceholder": "Que voulez-vous dire?",
+        "requestType": "Type de demande",
+        "status": "Statut",
+        "viewInJira": "Voir dans Jira",
+        "viewMoreInJira": "En voir plus dans Jira",
+        "showMore": "Afficher {{amount}} de plus",
+        "raisedThis": "a soumis ceci",
+        "relatedChats": "Conversations associées",
+        "optionalComment": "Commentaire facultatif",
+        "attachmentsNotice": "Voir les pièces jointes ci-dessous",
+        "approvalRequired": "Cette demande nécessite votre approbation",
+        "sharedWith": "Partagé avec",
+        "creator": "Créateur",
+        "selectRequestParticipants": "Sélectionner les participants à la demande de",
+        "requestParticipantsNotAllAdded": "Tous les participants n'ont pu être ajoutés.",
+        "participantsNoResults": "Aucun résultat"
+    },
+    "forms": {
+        "validation": {
+            "invalidEmail": "Adresse e-mail invalide",
+            "invalidUrl": "URL invalide",
+            "invalidNumber": "Numéro invalide",
+            "invalidRegex": "Entrée invalide",
+            "invalidNumberBetween": "La valeur doit être entre {{minNumber}} et {{maxNumber}}",
+            "invalidNumberGreater": "La valeur doit être supérieure ou égale à {{number}}",
+            "invalidNumberSmaller": "La valeur doit être inférieure ou égale à {{number}}",
+            "invalidStringBetween": "La longueur doit être entre {{minNumber}} et {{maxNumber}}",
+            "invalidStringGreater": "La longueur doit être supérieure ou égale à {{number}}",
+            "invalidStringSmaller": "La longueur doit être inférieure ou égale à {{number}}"
+        },
+        "selectPlaceholder": "Sélectionnez ...",
+        "selectNoResultsFor": "Aucun résultat pour",
+        "crashMessage": "Le formulaire a rencontré une erreur."
+    }
+}
