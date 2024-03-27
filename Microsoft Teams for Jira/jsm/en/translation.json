@@ -109,7 +109,10 @@
             "invalidNumberSmaller": "Value must be smaller or equal than {{number}}",
             "invalidStringBetween": "Length must be between {{minNumber}} and {{maxNumber}}",
             "invalidStringGreater": "Length must be greater or equal than {{number}}",
-            "invalidStringSmaller": "Length must be smaller or equal than {{number}}"
+            "invalidStringSmaller": "Length must be smaller or equal than {{number}}",
+            "invalidChoiceAmountBetween": "Select between {{minNumber}} and {{maxNumber}} options",
+            "invalidChoiceAmountGreater": "Select at least {{number}} options",
+            "invalidChoiceAmountSmaller": "Select at most {{number}} options"
         },
         "selectPlaceholder": "Select ...",
         "selectNoResultsFor": "No results for",

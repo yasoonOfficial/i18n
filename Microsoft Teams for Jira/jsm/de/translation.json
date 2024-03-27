@@ -108,7 +108,10 @@
             "invalidNumberSmaller": "Wert muss kleiner oder gleich {{number}} sein",
             "invalidStringBetween": "Länge muss zwischen {{minNumber}} und {{maxNumber}} liegen",
             "invalidStringGreater": "Länge muss größer als oder gleich {{number}} sein",
-            "invalidStringSmaller": "Länge muss kleiner oder gleich {{number}} sein"
+            "invalidStringSmaller": "Länge muss kleiner oder gleich {{number}} sein",
+            "invalidChoiceAmountBetween": "Wählen Sie zwischen {{minNumber}} und {{maxNumber}} Optionen aus",
+            "invalidChoiceAmountGreater": "Wählen Sie mindestens {{number}} Optionen aus",
+            "invalidChoiceAmountSmaller": "Wählen Sie höchstens {{number}} Optionen aus"
         },
         "selectPlaceholder": "Auswahl ...",
         "selectNoResultsFor": "Keine Ergebnisse für",

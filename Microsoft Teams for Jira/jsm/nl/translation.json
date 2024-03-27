@@ -109,7 +109,10 @@
             "invalidNumberSmaller": "Waarde moet kleiner of gelijk zijn aan {{number}}",
             "invalidStringBetween": "Lengte moet tussen {{minNumber}} en {{maxNumber}} liggen",
             "invalidStringGreater": "Lengte moet groter of gelijk zijn aan {{number}}",
-            "invalidStringSmaller": "Lengte moet kleiner of gelijk zijn aan {{number}}"
+            "invalidStringSmaller": "Lengte moet kleiner of gelijk zijn aan {{number}}",
+            "invalidChoiceAmountBetween": "Selecteer tussen {{minNumber}} en {{maxNumber}} opties",
+            "invalidChoiceAmountGreater": "Selecteer minstens {{number}} opties",
+            "invalidChoiceAmountSmaller": "Selecteer hoogstens {{number}} opties"
         },
         "selectPlaceholder": "Selecteer ...",
         "selectNoResultsFor": "Geen resultaten voor",
