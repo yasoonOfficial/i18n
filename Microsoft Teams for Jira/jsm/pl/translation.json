@@ -41,7 +41,8 @@
         "typeChooserLabel": "W czym możemy Ci pomóc?",
         "submitSuccess": "Twój wniosek {{issueKey}} został złożony.",
         "selectLabel": "Wybierz etykiety",
-        "labelsLoading": "ładowanie labels ..."
+        "labelsLoading": "ładowanie labels ...",
+        "fillRequiredFields": "Proszę wypełnić wymagane pola"
     },
     "missingFields": {
         "mandatoryFieldsMissing": "Niektórych pól obowiązkowych nie można wyświetlić.",

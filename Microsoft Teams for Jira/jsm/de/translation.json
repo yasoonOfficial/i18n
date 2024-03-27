@@ -40,7 +40,8 @@
         "typeChooserLabel": "Wobei können wir helfen?",
         "submitSuccess": "Deine Supportanfrage {{issueKey}} wurde übermittelt.",
         "selectLabel": "Labels auswählen",
-        "labelsLoading": "Lade Labels ..."
+        "labelsLoading": "Lade Labels ...",
+        "fillRequiredFields": "Bitte fülle die erforderlichen Felder aus"
     },
     "fieldErrorBoundary": {
         "errorMessage": "Komponente fehlerhaft.",

@@ -41,7 +41,8 @@
         "typeChooserLabel": "Waar kunnen we je mee helpen?",
         "submitSuccess": "Uw aanvraag {{issueKey}} is ingediend.",
         "selectLabel": "Selecteer labels",
-        "labelsLoading": "Labels laden.."
+        "labelsLoading": "Labels laden..",
+        "fillRequiredFields": "Vul de verplichte velden in"
     },
     "missingFields": {
         "mandatoryFieldsMissing": "Sommige verplichte velden kunnen niet worden weergegeven.",

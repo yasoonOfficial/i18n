@@ -41,7 +41,8 @@
         "typeChooserLabel": "Comment pouvons-nous vous aider?",
         "submitSuccess": "Votre demande {{issueKey}} a été soumise.",
         "selectLabel": "Sélectionner des étiquettes",
-        "labelsLoading": "Chargement des étiquettes..."
+        "labelsLoading": "Chargement des étiquettes...",
+        "fillRequiredFields": "Veuillez remplir les champs obligatoires"
     },
     "missingFields": {
         "mandatoryFieldsMissing": "Certains champs obligatoires ne peuvent pas être affichés.",

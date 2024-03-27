@@ -41,7 +41,8 @@
         "typeChooserLabel": "Come possiamo aiutare??",
         "submitSuccess": "La tua richiesta di assistenza {{issueKey}} è stata trasmessa.",
         "selectLabel": "Scegli Labels",
-        "labelsLoading": "Caricamento labels ..."
+        "labelsLoading": "Caricamento labels ...",
+        "fillRequiredFields": "Si prega di compilare i campi obbligatori"
     },
     "missingFields": {
         "mandatoryFieldsMissing": "Alcuni campi obbligatori non possono essere visualizzati.",

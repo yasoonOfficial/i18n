@@ -41,7 +41,8 @@
         "typeChooserLabel": "What can we help you with?",
         "submitSuccess": "Your request {{issueKey}} has been submitted.",
         "selectLabel": "Select labels",
-        "labelsLoading": "Loading labels ..."
+        "labelsLoading": "Loading labels ...",
+        "fillRequiredFields": "Please fill in required fields"
     },
     "missingFields": {
         "mandatoryFieldsMissing": "Some mandatory fields cannot be displayed.",
