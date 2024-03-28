@@ -6,6 +6,8 @@
 		},
 		"teams": {
 			"newButton": "New",
+			"chatButtonDescription": "Create a new chat preset",
+			"channelButtonDescription": "Create a new channel preset",
 			"visibility": {
 				"title": "Visibility Settings",
 				"description": "Choose where the Microsoft Teams chat and conversation view is visible. By default, it is located in the issue content. Choose to position it less prominently in the activity tab area besides the comments tab."
