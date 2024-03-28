@@ -1,0 +1,14 @@
+{
+	"commentVisibility": {
+        "choose": "Choose if a comment should be added to the issue",
+        "none": "No comment",
+        "internal": "Internal comment",
+        "public": "Customer comment",
+        "softwareAddComment": "Add comment",
+        "internalShort": "Internal",
+        "publicShort": "Public",
+        "softwareAddCommentShort": "With comment",
+        "tooltipExplanation": "Choose if a comment should be added",
+		"remember": "Remember user choice"
+    }
+}
