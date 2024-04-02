@@ -8,6 +8,7 @@
 	"people": {
 		"header": "Personen",
 		"noPeople": "Keine Personen gefunden",
+		"noLogin": "Nicht eingeloggt, logge dich ein um mit dem Vorgang involvierte Personen zu sehen.",
 		"callMobile": "Anrufen via Telefon",
 		"callOnline": "Anrufen via Teams",
 		"startChat": "Sende eine Nachricht",

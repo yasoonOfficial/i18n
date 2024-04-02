@@ -8,6 +8,7 @@
 	"people": {
 		"header": "People",
 		"noPeople": "No people found",
+		"noLogin": "Not logged-in, please log-in to see people involved in the Issue.",
 		"callMobile": "Call via phone",
 		"callOnline": "Call via Teams",
 		"startChat": "Send message",
