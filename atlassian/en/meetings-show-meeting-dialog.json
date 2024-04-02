@@ -30,7 +30,8 @@
         "placeholderWithScope": "Create or select categories"
     },
     "alldayToggle": {
-        "label": "All day"
+        "label": "All day",
+		"disabledByPresetTooltip": "Disabled by preset"
     },
     "datetimeComponent": {
         "meetingInPastTooltip": "Meeting occurs in the past",
@@ -96,6 +97,7 @@
         "createHeading": "Schedule new meeting",
         "editHeading": "Edit this meeting",
 		"commentChooserDisabledTooltip": "No Issue selected",
+		"commentChooserDisabledByPresetTooltip": "Disabled by preset",
         "closeLabel": "Close",
         "help": "Help",
         "meetingsDoc": "Documentation",

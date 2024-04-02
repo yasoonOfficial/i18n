@@ -30,7 +30,8 @@
 		"placeholderWithScope": "Kategorie anlegen oder wählen"
 	},
 	"alldayToggle": {
-		"label": "Ganztägig"
+		"label": "Ganztägig",
+		"disabledByPresetTooltip": "Durch Preset deaktiviert"
 	},
 	"datetimeComponent": {
 		"meetingInPastTooltip": "Meeting liegt in der Vergangenheit",
@@ -96,6 +97,7 @@
 		"createHeading": "Neues Meeting planen",
 		"editHeading": "Meeting editieren",
 		"commentChooserDisabledTooltip": "Kein Vorgang ausgewählt",
+		"commentChooserDisabledByPresetTooltip": "Durch Preset deaktiviert",
 		"closeLabel": "Schließen",
 		"help": "Hilfe",
 		"meetingsDoc": "Dokumentation",
