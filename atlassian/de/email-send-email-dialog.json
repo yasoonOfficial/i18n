@@ -1,0 +1,125 @@
+{
+	"dialog": {
+		"heading": "Neue E-Mail",
+		"replyHeading": "Auf diese E-Mail antworten",
+		"loginRequiredHeading": "Anmeldung erforderlich"
+	},
+	"sendButton": {
+		"tooltip": "E-Mail abschicken",
+		"label": "Abschicken",
+		"sendLaterLabel": "Am {{date}} abschicken",
+		"alreadySending": "Schicke E-Mail...",
+		"subjectRequired": "Betreff ist erforderlich",
+		"recipientsRequired": "Mindestens ein Empfänger ist erforderlich",
+		"sendLaterInPast": "Du kannst keine E-Mail in der Vergangenheit senden"
+	},
+	"attachments": {
+		"seeLess": "Weniger anzeigen",
+		"showAll": "Alle Anhänge anzeigen ({{amount}})",
+		"fileUploadButton": " suchen.",
+		"fileUploadButtonPreText": "Dateien hierherziehen, oder"
+	},
+	"openInBrowser": {
+		"encryptedLabel": "In Outlook öffnen um Anhänge von signierten oder versclüsselten E-Mails zu sehen",
+		"encryptedExplanation": "Diese E-Mail ist signiert oder verschlüsselt. Aufgrund technischer Einschränkungen kann nur der Empfänger die Anhänge in Outlook sehen."
+	},
+	"from": {
+		"noOptionsMessage": "Keine Ergebnisse",
+		"placeholder": "Zum Suchen tippen ...",
+		"label": "Von"
+	},
+	"subject": {
+		"placeholder": "Enter a subject",
+		"label": "Betreff"
+	},
+	"recipients": {
+		"noOptionsMessage": "Keine Ergebnisse",
+		"placeholder": "Zum Suchen tippen ...",
+		"label": "An"
+	},
+	"ccRecipients": {
+		"noOptionsMessage": "Keine Ergebnisse",
+		"placeholder": "Zum Suchen tippen ...",
+		"label": "Cc"
+	},
+	"bccRecipients": {
+		"noOptionsMessage": "Keine Ergebnisse",
+		"placeholder": "Zum Suchen tippen ...",
+		"label": "Bcc"
+	},
+	"body": {
+		"label": "E-Mail"
+	},
+	"replyBody": {
+		"label": "Antwort",
+		"prefix": "AW: "
+	},
+	"includeIssueCard": {
+		"label": "Vorgangsdetails anhängen"
+	},
+	"errorMessages": {
+		"createDraftTitle": "Erstellen des Entwurfs fehlgeschlagen",
+		"createDraftMessage": "Dieses Feature benötigt eine Mailbox in Exchange Online. Wenn du dich in einer hybriden Umgebung befindest, stelle bitte sicher, dass deine Mailbox bereits nach Exchange Online migriert wurde",
+		"noAnswersTitle": "Kein Vollzugriff auf Mailbox",
+		"noAnswersMessage": "Das Senden dieser E-Mail kann funktionieren, falls du \"Senden als\" oder \"Senden im Namen von\" Berechtigungen auf {{mailbox}} hast, aber die Antworten werden in diesem Vorgang nicht sichtbar sein, da dir der Vollzugriff auf {{mailbox}} fehlt."
+	},
+	"comment": {
+		"cc": "Cc: ",
+		"to": "An: ",
+		"subject": "Betreff: ",
+		"attachments": "Anhänge: ",
+		"imageRemoved": "[Bild entfernt - Öffne bitte die E-Mail um dieses Bild zu sehen]",
+		"emailAddedPhrase": "Zu diesem Vorgang wurde eine E-Mail gesendet:",
+		"tooLongMessage": "[Der Inhalt der E-Mail ist zu lang für einen Kommentar in Jira und wurde bewusst entfernt.]"
+	},
+	"officeLoginScreen": {
+		"loginButtonLabel": "Mit Microsoft 365 einloggen",
+		"heading": "Willkommen bei {{ appName }}",
+		"description": "Sieht so aus, als benutzt du diese Funktion das erste Mal. Bitte melde dich mit deinem Microsoft 365 Account an, um loszulegen!"
+	},
+	"officeLoginButton": {
+		"login": "Anmelden",
+		"loginAs": "Anmelden als",
+		"loginWithAccountChooser": "Anmelden mit Accountauswahl"
+	},
+	"sendLater": {
+		"sectionTitle": "Sendezeitpunkt der Email auswählen",
+		"timePickerPlaceholder": "Bitte wähle eine Zeit",
+		"description": "Du kannst entscheiden, dass die E-Mail erst zu einem späteren Zeitpunkt verschickt werden soll. Die E-Mail wird dann als Entwurf gespeichert und zur gewählten Zeit automatisch von Outlook versendet.",
+		"triggerTooltip": "Wähle, wann die E-Mail gesendet werden soll",
+		"clear": "Löschen"
+	},
+	"sharing": {
+		"privateLabel": "Privat",
+		"azureTenantLabel": "Organisation",
+		"atlassianCloudLabel": "Vorgangszugriff",
+		"privateDescription": "Nur ich kann diese Konversation sehen",
+		"agent": "Agent",
+		"user": "Nutzer",
+		"azureTenantDescription": "Jeder {{user}} in meiner Organisation kann diese Konversation sehen",
+		"atlassianCloudDescription": "Jeder {{user}} mit Zugriff auf diesen Vorgang kann diese Konversation sehen",
+		"sectionTitle": "Wähle, wer diese Konversation sehen können soll",
+		"triggerTooltip": "Wähle, wer diese Konversation sehen können soll"
+	},
+	"commentVisibility": {
+		"choose": "Wähle, ob ein Kommentar am Vorgang erstellt werden soll",
+		"none": "Kein Kommentar",
+		"internal": "Interner Kommentar",
+		"public": "Kunden Kommentar",
+		"softwareAddComment": "Kommentar hinzufügen",
+		"internalShort": "Intern",
+		"publicShort": "Öffentlich",
+		"softwareAddCommentShort": "Mit Kommentar",
+		"tooltipExplanation": "Wähle, ob ein Kommentar erstellt wird"
+	},
+	"addAsParticipants": {
+		"noneDescription": "Es werden keine weiteren Anfrageteilnehmer hinzugefügt.",
+		"existingOnlyDescription": "Nur bereits existierende Nutzer und Kunden werden hinzugefügt.",
+		"createOnDemandDescription": "Bereits existierende Nutzer hinzufügen und bei Bedarf neue Kunden erstellen.",
+		"noneLabel": "Keine",
+		"existingOnlyLabel": "Existierende Nutzer",
+		"createOnDemandLabel": "Neue Kunden erstellen",
+		"sectionTitle": "Wähle, ob \"An\"- und \"Cc\"-Empfänger als Anfrageteilnehmer hinzugefügt werden sollen",
+		"tooltipExplanation": "Wähle, ob die Empfänger als Anfrageteilnehmer hinzugefügt werden sollen"
+	}
+}

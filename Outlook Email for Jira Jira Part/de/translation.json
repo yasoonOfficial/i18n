@@ -307,7 +307,7 @@
         "cc": "Cc: ",
         "onBehalfOfSpacer": " im Namen von ",
         "attachments": "Anhänge",
-        "encryptedExplanation": "Diese E-Mail ist signiert oder verschlüsselt. Aufgrund technischer Einschränkungen kann nur der Empfänger kann die Anhänge in Outlook sehen."
+		"encryptedExplanation": "Diese E-Mail ist signiert oder verschlüsselt. Aufgrund technischer Einschränkungen kann nur der Empfänger die Anhänge in Outlook sehen."
     },
     "comment": {
         "cc": "Cc: ",

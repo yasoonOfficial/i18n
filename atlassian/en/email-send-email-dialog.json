@@ -6,7 +6,11 @@
 	"sendButton": {
 		"tooltip": "Send email",
 		"label": "Send",
-		"sendLaterLabel": "Send {{date}}"
+		"sendLaterLabel": "Send {{date}}",
+		"alreadySending": "Sending email...",
+		"subjectRequired": "Subject is required",
+		"recipientsRequired": "At least one recipient is required",
+		"sendLaterInPast": "The selected time is in the past"
 	},
 	"attachments": {
 		"seeLess": "See less",
