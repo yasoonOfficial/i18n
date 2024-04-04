@@ -162,7 +162,8 @@
             "viewIssueInJiraButton": "View in Jira",
             "disableSettingButton": "Don't show this again",
             "addedToBacklog": "The issue has been successfully added to the backlog.",
-            "addedToBoard": "The issue has been successfully added to the board."
+            "addedToBoard": "The issue has been successfully added to the board.",
+            "shareToChat": "Share to chat"
         }
     },
     "boardView": {

@@ -162,7 +162,8 @@
             "viewIssueInJiraButton": "Vorgang in Jira anzeigen",
             "disableSettingButton": "In Zukunft nicht mehr anzeigen",
             "addedToBacklog": "Der Vorgang wurde erfolgreich in den Backlog eingefügt.",
-            "addedToBoard": "Der Vorgang wurde erfolgreich auf dem Board eingefügt."
+            "addedToBoard": "Der Vorgang wurde erfolgreich auf dem Board eingefügt.",
+            "shareToChat": "Vorgang teilen"
         }
     },
     "boardView": {
