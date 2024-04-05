@@ -400,7 +400,10 @@
         "chatCreatorDescription": "Aus Sicherheitsgründen können Sie derzeit nur einen Benutzer als Chat-Ersteller auswählen und autorisieren. Dieser Benutzer wird auch Teil des Chats sein. Wir empfehlen, einen Service-Benutzer zu erstellen, bis wir die dynamische Benutzerauswahl unterstützen.",
         "placeholder": "Wähle den Chat-Ersteller",
         "noOptions": "Keine Optionen",
-        "typeToSearch": "Tippen Sie, um nach Benutzern zu suchen"
+		"typeToSearch": "Tippen Sie, um nach Benutzern zu suchen",
+		"postNotifications": "Benachrichtigungen posten",
+		"appToInstall": "App die im Chat installiert werden soll",
+		"appToInstallPlaceholder": "Wähle die App aus"
     },
     "replyTeamsChatScreen": {
         "heading": "Teams Chat beantworten",

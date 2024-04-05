@@ -400,7 +400,10 @@
         "chatCreatorDescription": "For security reasons, you can currently only select and authorize a single user as chat creator. This user will also be part of the chat. We recommend you to create a service user until we support dynamic user selection.",
         "placeholder": "Choose the chat creator",
         "noOptions": "No options",
-        "typeToSearch": "Type to search for users"
+		"typeToSearch": "Type to search for users",
+		"postNotifications": "Post notifications",
+		"appToInstall": "App to install in the chat",
+		"appToInstallPlaceholder": "Choose app"
     },
     "replyTeamsChatScreen": {
         "heading": "Reply Teams chat",
