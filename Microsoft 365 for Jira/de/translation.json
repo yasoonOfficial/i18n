@@ -599,7 +599,10 @@
         "heading": "Erneut mit Microsoft anmelden",
         "subHeading": "Du musst dich erneut anmelden. Dies wird wahrscheinlich von deinen Browsereinstellungen verursacht.",
         "reAuthenticateButtonLabel": "Erneut anmelden",
-        "backButtonLabel": "Zurück"
+        "backButtonLabel": "Zurück",
+		"officeLoginFailedFlagTitle": "Microsoft Login fehlgeschlagen",
+		"officeLoginFailedFlagBody": "Ihr Browser blockiert möglicherweise Cookies von Drittanbietern. Bitte überprüfen Sie die folgende Anleitung. Falls das Problem weiterhin besteht, kontaktieren Sie bitte unser Support-Team.",
+		"officeLoginFailedFlagUrlText": "Drittanbieter-Cookies aktivieren"
     },
     "userPicker": {
         "staticUser": "Statischer Benutzer",

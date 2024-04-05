@@ -598,7 +598,10 @@
         "heading": "Re-authenticate",
         "subHeading": "Your browser has restrictive privacy settings, so you need to re-authenticate every 24 hours.",
         "reAuthenticateButtonLabel": "Re-authenticate",
-        "backButtonLabel": "Back"
+        "backButtonLabel": "Back",
+		"officeLoginFailedFlagTitle": "Microsoft login failed",
+		"officeLoginFailedFlagBody": "Your browser might be blocking third-party cookies. Please check the following guide.\nIn case the issue persists, please contact our support team.",
+		"officeLoginFailedFlagUrlText": "Enable third-party cookies"
     },
     "userPicker": {
         "staticUser": "Static user",
