@@ -601,7 +601,7 @@
         "reAuthenticateButtonLabel": "Erneut anmelden",
         "backButtonLabel": "Zurück",
 		"officeLoginFailedFlagTitle": "Microsoft Login fehlgeschlagen",
-		"officeLoginFailedFlagBody": "Ihr Browser blockiert möglicherweise Cookies von Drittanbietern. Bitte überprüfen Sie die folgende Anleitung. Falls das Problem weiterhin besteht, kontaktieren Sie bitte unser Support-Team.",
+		"officeLoginFailedFlagBody": "Dein Browser blockiert möglicherweise Cookies von Drittanbietern. Bitte überprüfe die folgende Anleitung. Falls das Problem weiterhin besteht, kontaktiere bitte unser Support-Team.",
 		"officeLoginFailedFlagUrlText": "Drittanbieter-Cookies aktivieren"
     },
     "userPicker": {
