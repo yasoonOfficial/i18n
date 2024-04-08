@@ -1,0 +1,41 @@
+{
+	"backup": {
+		"initiatedFlagTitle": "Sicherung angestoßen",
+		"initiatedFlagBody": "Das kann etwas dauern. Wir werden die Sicherungsdatei an diesen Vorgang anhängen, sobald der Prozess abgeschlossen ist.",
+		"failedFlagTitle": "Sicherung fehlgeschlagen",
+		"failedFlagBody": "Das Erstellen einer Sicherungsdatei ist fehlgeschlagen. Versuche es noch einmal oder wende dich an den Support (https://yasoon.atlassian.net/servicedesk/customer/portal/3)."
+	},
+	"messageComponent": {
+		"sendLaterDate": "Diese Nachricht soll gesendet werden am ",
+		"onBehalfOf": "{{sender}} im Namen von {{from}}",
+		"sharedIconTooltip": "Diese E-Mail wurde direkt geteilt",
+		"attachmentsIconTooltip": "Diese E-Mail hat Anhänge"
+	},
+	"messageActionsDropdown": {
+		"openInBrowser": "In Outlook öffnen",
+		"deleteScheduledDraft": "E-Mail löschen",
+		"showDetail": "Öffnen",
+		"backupEmail": "E-Mail sichern",
+		"backupConversation": "Konversation sichern",
+		"unshare": "Verknüpfung entfernen",
+		"reply": "Antworten"
+	},
+	"conversationScreen": {
+		"newEmail": "Neue E-Mail senden",
+		"backupAllEmails": "Alle E-Mails an diesem Vorgang sichern",
+		"relatedEmailsCount": "{{count}} verknüpfte E-Mails zu diesem Vorgang",
+		"relatedEmailsCountSingle": "1 verknüpfte E-Mail zu diesem Vorgang",
+		"initSendMailDialog": "E-Mail schreiben",
+		"noMailEmptyStateHeader": "Keine E-Mails",
+		"noMailEmptyStateDescription": "Der Vorgang hat keine - oder keine für dich sichtbaren - verknüpften E-Mails.",
+		"learnMore": "Mehr erfahren ...",
+		"loadMore": "Mehr laden",
+		"getOutlookAddIn": "Get the Outlook add-in"
+	},
+	"deleteScheduledDraftConfirmationModal": {
+		"deleteScheduledDraft": "E-Mail löschen",
+		"delete": "Löschen",
+		"cancel": "Abbrechen",
+		"deleteScheduledDraftMessage": "Wenn du diese E-Mail löscht, wird die E-Mail nicht mehr gesendet und in Outlook gelöscht. Bist du sicher, dass du diese E-Mail löschen möchtest?"
+	}
+}
