@@ -16,7 +16,10 @@
         },
 		"presets": {
 			"choosePreset": "Choose a preset",
-			"emptyDescription": "Hover over one of the presets to view the details"
+			"emptyDescription": "Hover over one of the presets to view the details",
+			"default": "Default",
+			"removeDefault": "Remove default",
+			"setDefault": "Set default"
 		},
         "footer": {
             "close": "Close",

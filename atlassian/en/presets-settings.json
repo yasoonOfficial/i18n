@@ -184,7 +184,9 @@
 		"presetSetting": {
 			"editable": "Editable",
 			"notEditable": "Not editable",
-			"hidden": "Hidden"
+			"hidden": "Hidden",
+			"editableTooltip": "This setting is editable by the user",
+			"notEditableTooltip": "This setting is not editable by the user"
 		}
 	}
 }
