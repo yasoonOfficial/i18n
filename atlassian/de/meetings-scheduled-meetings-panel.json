@@ -21,7 +21,7 @@
     "scheduledMeetingCard": {
         "join": "Teilnehmen",
         "inviteMyself": "Mich einladen",
-        "sharedIconTooltip": "Öffentliched Meeting",
+        "sharedIconTooltip": "Öffentliches Meeting",
         "privateIconTooltip": "Privates Meeting",
         "legacyEventTooltip": "Dieses Meeting wurde mit einer älteren Version erstellt und kann daher nicht bearbeitet werden."
     },
