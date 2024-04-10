@@ -186,7 +186,8 @@
 			"notEditable": "Not editable",
 			"hidden": "Hidden",
 			"editableTooltip": "This setting is editable by the user",
-			"notEditableTooltip": "This setting is not editable by the user"
+			"notEditableTooltip": "This setting is not editable by the user",
+			"templateShortcut": "Open the template settings in this tab"
 		}
 	}
 }
