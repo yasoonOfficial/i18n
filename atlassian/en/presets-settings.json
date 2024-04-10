@@ -107,7 +107,7 @@
 				"description": "Select which notifications you want to receive within the Teams chat during the chat lifecycle."
 			}
 		},
-		"channel": {
+		"channelThread": {
 			"defaultSettings": {
 				"title": "Default Settings",
 				"description": "Choose the settings that should be pre-populated when opening the Teams dialog. You can choose wether the setting should be editable by the enduser. This text might be a bit longer to explain the logic behind this."
@@ -159,7 +159,7 @@
 				"description": "Select how you want to share the conversations."
 			}
 		},
-		"meetings": {
+		"meeting": {
 			"defaultSettings": {
 				"title": "Default Settings",
 				"description": "Choose the settings that should be pre-populated when opening the Teams dialog. You can choose wether the setting should be editable by the enduser. This text might be a bit longer to explain the logic behind this."
