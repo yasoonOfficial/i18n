@@ -18,7 +18,7 @@
 		"fileUploadButton": " Browse.",
 		"fileUploadButtonPreText": "Drop files to attach, or"
 	},
-	"openInBrowser": {
+	"attachmentCard": {
 		"encryptedLabel": "Open in Outlook to view attachments of encrypted or signed mails",
 		"encryptedExplanation": "This email is signed or encrypted. Due to technical limitations only recipients can see the attachments directly in Outlook."
 	},

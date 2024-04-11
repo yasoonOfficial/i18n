@@ -19,7 +19,7 @@
 		"fileUploadButton": " suchen.",
 		"fileUploadButtonPreText": "Dateien hierherziehen, oder"
 	},
-	"openInBrowser": {
+	"attachmentCard": {
 		"encryptedLabel": "In Outlook öffnen um Anhänge von signierten oder versclüsselten E-Mails zu sehen",
 		"encryptedExplanation": "Diese E-Mail ist signiert oder verschlüsselt. Aufgrund technischer Einschränkungen kann nur der Empfänger die Anhänge in Outlook sehen."
 	},

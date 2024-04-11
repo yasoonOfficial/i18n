@@ -1,0 +1,47 @@
+{
+	"dialog": {
+		"noSubjectHeading": "(No subject)"
+	},
+	"messageMeta": {
+		"to": "To: ",
+		"cc": "Cc: ",
+		"onBehalfOfSpacer": " on behalf of ",
+		"sendLaterDate": "This message is scheduled to send on ",
+		"attachments": "Attachments",
+		"encryptedExplanation": "This email is signed or encrypted. Due to technical limitations only recipients can see the attachments directly in Outlook."
+	},
+	"deleteScheduledDraftConfirmationModal": {
+		"deleteScheduledDraft": "Delete email",
+		"delete": "Delete",
+		"cancel": "Cancel",
+		"deleteScheduledDraftMessage": "Deleting this email will prevent the email from being sent and delete it in Outlook. Are you sure you want to delete this email?"
+	},
+	"unlinkConfirmationDropdown": {
+		"unlinkConversationDescription": "Remove currently {{amount}} emails and all future replies.",
+		"unlinkConversationDescriptionSingle": "Remove currently 1 email and all future replies.",
+		"unlinkMessageDescription": "Remove this email.",
+		"unlinkMessageFromConversationDescription": "Other emails are still linked to this issue.",
+		"unlinkMultiDisclaimer": "The emails themselves in Outlook are unaffected.",
+		"unlinkSingleDisclaimer": "The email itself in Outlook is unaffected."
+	},
+	"actions": {
+		"unlinkMessageFromConversation": "Remove this email",
+		"unlinkMessage": "Remove this email",
+		"unlinkConversation": "Remove this conversation",
+		"openInBrowser": "Open in Outlook",
+		"deleteScheduledDraft": "Delete email",
+		"unshare": "Remove",
+		"reply": "Reply",
+		"replyAll": "Reply all",
+		"sendToSender": "Email sender",
+		"sendToAll": "Email all"
+	},
+	"attachmentCard": {
+		"encryptedLabel": "Open in Outlook to view attachments of encrypted or signed mails",
+		"encryptedExplanation": "This email is signed or encrypted. Due to technical limitations only recipients can see the attachments directly in Outlook."
+	},
+	"attachments": {
+		"seeLess": "See less",
+		"showAll": "Show all attachments ({{amount}})"
+	}
+}

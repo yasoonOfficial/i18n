@@ -1,0 +1,47 @@
+{
+	"dialog": {
+		"noSubjectHeading": "(Kein Betreff)"
+	},
+	"messageDialog": {
+		"to": "An: ",
+		"cc": "Cc: ",
+		"onBehalfOfSpacer": " im Namen von ",
+		"sendLaterDate": "Diese Nachricht soll gesendet werden am ",
+		"attachments": "Anhänge",
+		"encryptedExplanation": "Diese E-Mail ist signiert oder verschlüsselt. Aufgrund technischer Einschränkungen kann nur der Empfänger die Anhänge in Outlook sehen."
+	},
+	"deleteScheduledDraftConfirmationModal": {
+		"deleteScheduledDraft": "E-Mail löschen",
+		"delete": "Löschen",
+		"cancel": "Abbrechen",
+		"deleteScheduledDraftMessage": "Wenn du diese E-Mail löscht, wird die E-Mail nicht mehr gesendet und in Outlook gelöscht. Bist du sicher, dass du diese E-Mail löschen möchtest?"
+	},
+	"unlinkConfirmationDropdown": {
+		"unlinkConversationDescription": "Die Konversation mit momentan {{amount}} E-Mails entfernen.",
+		"unlinkConversationDescriptionSingle": "Diese E-Mail und alle zukünftigen Antworten entfernen.",
+		"unlinkMessageDescription": "Diese E-Mail entfernen.",
+		"unlinkMessageFromConversationDescription": "Andere E-Mails der Konversation bleiben mit dem Vorgang verknüpft.",
+		"unlinkMultiDisclaimer": "Dies hat keine Auswirkungen auf die eigentlichen E-Mails in Outlook.",
+		"unlinkSingleDisclaimer": "Dies hat keine Auswirkungen auf die eigentliche E-Mail in Outlook."
+	},
+	"actions": {
+		"unlinkMessageFromConversation": "E-Mail entfernen",
+		"unlinkMessage": "E-Mail entfernen",
+		"unlinkConversation": "Konversation entfernen",
+		"openInBrowser": "In Outlook öffnen",
+		"deleteScheduledDraft": "E-Mail löschen",
+		"unshare": "Verknüpfung entfernen",
+		"reply": "Antworten",
+		"replyAll": "Allen antworten",
+		"sendToSender": "E-Mail an den Absender",
+		"sendToAll": "E-Mail an alle Beteiligten"
+	},
+	"attachmentCard": {
+		"encryptedLabel": "In Outlook öffnen um Anhänge von signierten oder versclüsselten E-Mails zu sehen",
+		"encryptedExplanation": "Diese E-Mail ist signiert oder verschlüsselt. Aufgrund technischer Einschränkungen kann nur der Empfänger die Anhänge in Outlook sehen."
+	},
+	"attachments": {
+		"seeLess": "Weniger anzeigen",
+		"showAll": "Alle Anhänge anzeigen ({{amount}})"
+	}
+}
