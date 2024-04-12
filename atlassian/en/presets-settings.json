@@ -51,7 +51,9 @@
 				"view": "View",
 				"activate": "Activate",
 				"deactivate": "Deactivate"
-			}
+			},
+			"global": "Global",
+			"project": "Project"
 		}
 	},
 	"createScreen": {
@@ -75,6 +77,9 @@
 			"title": "Global Preset",
 			"description": "This is a global preset. It is available in all projects if not overridden by a project preset. You can edit this preset in the global settings.",
 			"editButton": "Edit in global settings"
+		},
+		"emojiPicker": {
+			"remove": "Remove"
 		},
 		"presetIcon": "Preset Icon",
 		"presetName": "Preset Name",
