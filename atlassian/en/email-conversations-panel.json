@@ -18,6 +18,8 @@
 		"backupEmail": "Backup email",
 		"backupConversation": "Backup conversation",
 		"unshare": "Remove",
+		"unlinkMessageFromConversation": "Remove this email",
+		"unlinkConversation": "Remove this conversation",
 		"reply": "Reply"
 	},
 	"conversationScreen": {
@@ -32,10 +34,19 @@
 		"loadMore": "Load more",
 		"getOutlookAddIn": "Get the Outlook add-in"
 	},
+	"unlinkConfirmationDropdown": {
+		"unlinkConversationDescription": "Remove currently {{amount}} emails and all future replies.",
+		"unlinkConversationDescriptionSingle": "Remove currently 1 email and all future replies.",
+		"unlinkMessageDescription": "Remove this email.",
+		"unlinkMessageFromConversationDescription": "Other emails are still linked to this issue.",
+		"unlinkMultiDisclaimer": "The emails themselves in Outlook are unaffected.",
+		"unlinkSingleDisclaimer": "The email itself in Outlook is unaffected."
+	},
 	"deleteScheduledDraftConfirmationModal": {
 		"deleteScheduledDraft": "Delete email",
 		"delete": "Delete",
 		"cancel": "Cancel",
-		"deleteScheduledDraftMessage": "Deleting this email will prevent the email from being sent and delete it in Outlook. Are you sure you want to delete this email?"
+		"deleteScheduledDraftMessage": "Deleting this email will prevent the email from being sent and delete it in Outlook.",
+		"areYouSure": "Are you sure you want to delete this email?"
 	}
 }

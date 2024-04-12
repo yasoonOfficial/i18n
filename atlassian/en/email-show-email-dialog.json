@@ -14,7 +14,8 @@
 		"deleteScheduledDraft": "Delete email",
 		"delete": "Delete",
 		"cancel": "Cancel",
-		"deleteScheduledDraftMessage": "Deleting this email will prevent the email from being sent and delete it in Outlook. Are you sure you want to delete this email?"
+		"deleteScheduledDraftMessage": "Deleting this email will prevent the email from being sent and delete it in Outlook.",
+		"areYouSure": "Are you sure you want to delete this email?"
 	},
 	"unlinkConfirmationDropdown": {
 		"unlinkConversationDescription": "Remove currently {{amount}} emails and all future replies.",

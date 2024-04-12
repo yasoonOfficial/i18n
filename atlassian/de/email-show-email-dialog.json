@@ -14,7 +14,8 @@
 		"deleteScheduledDraft": "E-Mail löschen",
 		"delete": "Löschen",
 		"cancel": "Abbrechen",
-		"deleteScheduledDraftMessage": "Wenn du diese E-Mail löscht, wird die E-Mail nicht mehr gesendet und in Outlook gelöscht. Bist du sicher, dass du diese E-Mail löschen möchtest?"
+		"deleteScheduledDraftMessage": "Wenn du diese E-Mail löscht, wird die E-Mail nicht mehr gesendet und in Outlook gelöscht.",
+		"areYouSure": "Bist du sicher, dass du diese E-Mail löschen möchtest?"
 	},
 	"unlinkConfirmationDropdown": {
 		"unlinkConversationDescription": "Die Konversation mit momentan {{amount}} E-Mails entfernen.",
