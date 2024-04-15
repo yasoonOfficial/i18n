@@ -29,5 +29,11 @@
     "templateSingle": {
         "renderErrorTitle": "Syntaxfehler",
         "renderErrorMessage": "Die Vorlage enthält einen Syntaxfehler und konnte nicht gerendert werden. Bitte überprüfe die Vorlage und versuche es erneut."
-    }
+	},
+	"teams": {
+		"chatCreationError": {
+			"title": "Fehler beim Erstellen des Chats",
+			"unableToCreateChat": "Der Chat konnte wegen der folgenden Nutzer nicht erstellt werden: {{emails}}"
+		}
+	}
 }

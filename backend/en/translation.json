@@ -29,5 +29,11 @@
     "templateSingle": {
         "renderErrorTitle": "Syntax error",
         "renderErrorMessage": "The template contains a syntax error and could not be rendered. Please check the template and try again."
-    }
+	},
+	"teams": {
+		"chatCreationError": {
+			"title": "Chat creation error",
+			"unableToCreateChat": "The chat could not be created because of the following users: {{emails}}."
+		}
+	}
 }
