@@ -470,6 +470,13 @@
     "noOptionsPlaceholder": "No projects found",
     "resultsLabel": "Projects"
   },
+  "meetingCalendarScreen": {
+    "calendarDescription": "Events of project: {{description}} ({{url}})",
+    "defaultOptionsLabel": "Recent projects",
+    "heading": "Back to templates",
+    "noOptionsPlaceholder": "No projects found",
+    "resultsLabel": "Projects"
+  },
   "jiraSearchScreenBase": {
     "placeholderFallback": "Type to search",
     "voteForJiraFilterApi": "Searching filters not supported by Atlassian. Please {link} to bring it to their attention!",
@@ -753,7 +760,9 @@
     "teamsChannelCalendarDescription": "Show Teams channel events",
     "teamsChannelCalendarHeading": "Channel calendar",
     "userSearchDescription": "Show a calendar of a specific user",
-    "userSearchHeading": "User calendar"
+    "userSearchHeading": "User calendar",
+	"meetingCalendarHeading": "Meeting calendar",
+	"meetingCalendarDescription": "Show all events scheduled in a project"
   },
   "templateScreen": {
     "chooseCalendarHeading": "Choose Calendar Template",
