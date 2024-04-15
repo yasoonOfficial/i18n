@@ -22,7 +22,8 @@
         "fileUpload": "Upload fehlgeschlagen. Bitte Dateien überprüfen",
         "noUserFound": "Es wurde kein Benutzer mit der E-Mail-Adresse {{email}} in diesem Service-Portal gefunden.",
         "transitionError": "Fehler beim ändern des Status. Bitte versuche es später erneut.",
-        "urlError": "Gültige URLs müssen ein Schema haben ('http://' or 'https://')"
+        "urlError": "Gültige URLs müssen ein Schema haben ('http://' or 'https://')",
+        "portalDeleted": "Dieses Portal wurde gelöscht."
     },
     "search": {
         "placeholder": "Suchen..",

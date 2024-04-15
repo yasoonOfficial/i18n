@@ -23,7 +23,8 @@
         "noUserFound": "Een gebruiker met e-mailadres {{email}} is niet gevonden in deze serviceportaal.",
         "noIssueFound": "Ticket niet gevonden of u heeft geen toestemming om het te bekijken.",
         "transitionError": "Kon de overgang niet uitvoeren. Probeer het later nog eens.",
-        "urlError": "Geldige URL's moeten een schema hebben ('http://' of 'https://')"
+        "urlError": "Geldige URL's moeten een schema hebben ('http://' of 'https://')",
+        "portalDeleted": "Dit portaal is verwijderd."
     },
     "search": {
         "placeholder": "Zoek naar veelvoorkomende problemen..",

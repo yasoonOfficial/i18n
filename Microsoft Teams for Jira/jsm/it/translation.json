@@ -23,7 +23,8 @@
         "noUserFound": "Non è riuscito di trovare un'utente con l'indirizzo d'email {{email}} in questo portale di servizio.",
         "noIssueFound": "Il segnalazione non è stato trovato o non si ha il permesso di visualizzarlo.",
         "transitionError": "Impossibile eseguire la transizione. Riprovare più tardi.",
-        "urlError": "Gli URL validi devono avere uno schema ('http://' o 'https://')"
+        "urlError": "Gli URL validi devono avere uno schema ('http://' o 'https://')",
+        "portalDeleted": "Questo portale è stato eliminato."
     },
     "search": {
         "placeholder": "Cerca..",

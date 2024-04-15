@@ -23,7 +23,8 @@
         "noUserFound": "Aucun utilisateur avec l'adresse e-mail {{email}} n'a été trouvé dans ce portail de service.",
         "noIssueFound": "Problème introuvable ou vous n'avez pas la permission de le voir.",
         "transitionError": "Impossible d'effectuer la transition. Veuillez réessayer plus tard.",
-        "urlError": "Les URLs valides doivent avoir un schéma ('http: //' ou 'https://')"
+        "urlError": "Les URLs valides doivent avoir un schéma ('http: //' ou 'https://')",
+        "portalDeleted": "Ce portail a été supprimé."
     },
     "search": {
         "placeholder": "Rechercher des problèmes courants...",

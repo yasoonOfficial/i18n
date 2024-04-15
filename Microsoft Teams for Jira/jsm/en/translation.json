@@ -23,7 +23,8 @@
         "noUserFound": "A user with email address {{email}} was not found in this service portal.",
         "noIssueFound": "Issue not found, or you don't have permission to view it.",
         "transitionError": "Could not perform transition. Please try again later.",
-        "urlError": "Valid URLs must have scheme ('http://' or 'https://')"
+        "urlError": "Valid URLs must have scheme ('http://' or 'https://')",
+        "portalDeleted": "This portal has been deleted."
     },
     "search": {
         "placeholder": "Search for common issues..",
