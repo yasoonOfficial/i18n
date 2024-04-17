@@ -51,6 +51,7 @@
 			"inactiveEmptyState": "No inactive presets",
 			"actions": {
 				"view": "View",
+				"edit": "Edit",
 				"activate": "Activate",
 				"deactivate": "Deactivate"
 			},
