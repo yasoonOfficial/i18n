@@ -39,6 +39,7 @@
 				"description": "Choose the presets that are available when clicking on the Teams button within the current project. You can choose between global presets, use-case based presets or create a new one from scratch."
 			}
 		},
+		"lastActive": "This is the last active preset and cannot be deactivated or deleted",
 		"presetsTable": {
 			"columns": {
 				"preset": "Preset",
