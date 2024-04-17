@@ -84,6 +84,7 @@
 		"presetIcon": "Preset Icon",
 		"presetName": "Preset Name",
 		"presetDescription": "Preset description",
+		"notValidTooltip": "Make sure that you set an icon and a name for the preset",
 		"cancelButton": "Cancel",
 		"createPresetButton": "Create Preset",
 		"createAndActivatePresetButton": "Create and Activate Preset",
