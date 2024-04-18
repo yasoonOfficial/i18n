@@ -13,7 +13,8 @@
 		"callOnline": "Call via Teams",
 		"startChat": "Send message",
 		"scheduleMeeting": "Schedule meeting",
-		"statusMessage": "Status message"
+		"statusMessage": "Status message",
+		"presenceNotAvailable": "The permission scope for \"Presence.Read.All\" is currently unavailable, so we are unable to display the presence of other users."
 	},
 	"channelConversations": {
 		"header": "Channel conversations",

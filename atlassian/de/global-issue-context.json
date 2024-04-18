@@ -13,7 +13,8 @@
 		"callOnline": "Anrufen via Teams",
 		"startChat": "Sende eine Nachricht",
 		"scheduleMeeting": "Sende ein Meeting",
-		"statusMessage": "Statusmeldung"
+		"statusMessage": "Statusmeldung",
+		"presenceNotAvailable": "Der Berechtigungsumfang für \"Presence.Read.All\" ist derzeit nicht verfügbar, daher können wir die Anwesenheit anderer Benutzer nicht anzeigen."
 	},
 	"channelConversations": {
 		"header": "Channel Konversationen",
