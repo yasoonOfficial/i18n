@@ -62,8 +62,8 @@
 	},
 	"createScreen": {
 		"heading": {
-			"createTitle": "Create new preset",
-			"editTitle": "Edit preset",
+			"createTitle": "Create new {{context}} preset",
+			"editTitle": "Edit {{context}} preset",
 			"subtitle": "Configure a new preset from scratch based on your requirements",
 			"deleteButton": "Delete preset",
 			"deleteBanner": {
