@@ -24,7 +24,8 @@
 		"header": "Chats",
 		"noChats": "No chats found",
 		"noMessages": "There are no messages in this chat",
-		"systemMessage": "System message"
+		"systemMessage": "System message",
+		"unknownMessage": "Unknown message"
 	},
 	"mails": {
 		"header": "Emails",
