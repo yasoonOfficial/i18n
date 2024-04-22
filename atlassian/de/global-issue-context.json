@@ -23,7 +23,8 @@
 	"chats": {
 		"header": "Chats",
 		"noChats": "Keine Chats gefunden",
-		"noMessages": "Keine Chat Nachrichten gefunden"
+		"noMessages": "Keine Chat Nachrichten gefunden",
+		"systemMessage": "System Nachricht"
 	},
 	"mails": {
 		"header": "E-Mails",
