@@ -450,6 +450,9 @@
   "jiraReleaseEventHover": {
     "released": "Veröffentlicht"
   },
+  "meetingEventHover": {
+	"genericError": "Das Event konnte nicht geladen werden. Möglicherweise wurde es gelöscht."
+},
   "jiraSearchFiltersScreen": {
     "defaultOptionsLabel": "Filter mit Stern",
     "heading": "Zurück zu Templates",
