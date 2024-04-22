@@ -21,7 +21,8 @@
 			"emptyDescription": "Hover over one of the presets to view the details",
 			"default": "Default",
 			"removeDefault": "Remove default",
-			"setDefault": "Set default"
+			"setDefault": "Set default",
+			"noClose": "You cannot close this dialog. You have to choose a preset."
 		},
         "footer": {
             "close": "Close",
