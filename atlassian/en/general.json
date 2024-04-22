@@ -64,5 +64,10 @@
 		"tentative": "Tentative",
 		"unknown": "Unknown",
 		"workingElsewhere": "Working elsewhere"
+	},
+	"officeLoginButton": {
+		"login": "Login",
+		"loginAs": "Login as",
+		"loginWithAccountChooser": "Login with account chooser"
 	}
 }

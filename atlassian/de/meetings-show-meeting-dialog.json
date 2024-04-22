@@ -194,11 +194,11 @@
 		"heading": "Willkommen bei {{ appName }}",
 		"description": "Scheinbar nutzt du die App zum ersten Mal! Bitte melde dich mit deinem Microsoft 365-Konto an, um loszulegen."
 	},
-	"officeLoginButton": {
-		"login": "Login",
-		"loginAs": "Login als",
-		"loginWithAccountChooser": "Login mit Account-Auswahl"
-	},
+    "officeLoginButton": {
+        "login": "Anmelden",
+        "loginAs": "Anmelden als",
+        "loginWithAccountChooser": "Anmelden mit Accountauswahl"
+    },
 	"atlassianProduct": {
 		"jira": "Jira",
 		"confluence": "Confluence"
