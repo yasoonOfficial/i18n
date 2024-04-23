@@ -22,7 +22,9 @@
 			"default": "Default",
 			"removeDefault": "Remove default",
 			"setDefault": "Set default",
-			"noClose": "You cannot close this dialog. You have to choose a preset."
+			"noClose": "You cannot close this dialog. You have to choose a preset.",
+			"descriptionHeader": "Description",
+			"typeHeader": "Type"
 		},
         "footer": {
             "close": "Close",
