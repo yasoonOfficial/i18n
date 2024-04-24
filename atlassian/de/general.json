@@ -23,7 +23,8 @@
 			"messagesPopupSection":"Nachrichten",
 			"errorIconLabel":"Fehler",
 			"warningIconLabel":"Warnung",
-			"infoIconLabel":"Info"
+			"infoIconLabel": "Info",
+			"messagesPopupButton": "Bitte fülle die erforderlichen Felder aus"
         }
     },
     "systemTemplate": {

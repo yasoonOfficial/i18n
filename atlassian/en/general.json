@@ -33,7 +33,8 @@
 			"messagesPopupSection":"Messages",
 			"errorIconLabel":"Error",
 			"warningIconLabel":"Warning",
-			"infoIconLabel":"Info"
+			"infoIconLabel": "Info",
+			"messagesPopupButton": "Please fill in required fields"
         }
     },
     "systemTemplate": {
