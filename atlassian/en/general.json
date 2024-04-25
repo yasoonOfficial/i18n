@@ -37,7 +37,7 @@
 					"body": "Meeting presets allow you to quickly schedule meetings with the people involved in this issue. Please select a preset that fits the type of meeting you want to schedule!"
 				}
 			},
-			"emails": {
+			"email": {
 				"emptyState": {
 					"heading": "Choose an email preset",
 					"body": "Email presets allow you to quickly send emails to the people involved in this issue. Please select a preset that fits the type of email you want to send!"
