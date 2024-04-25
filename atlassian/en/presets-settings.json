@@ -47,7 +47,7 @@
 				"creator": "Creator",
 				"actions": "Actions"
 			},
-			"dragToActivate": "Drag to activate/deactivate",
+			"dragToActivate": "Drag preset to activate/deactivate",
 			"activeEmptyState": "No active presets",
 			"inactiveEmptyState": "No inactive presets",
 			"actions": {
