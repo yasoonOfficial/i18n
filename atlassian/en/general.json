@@ -24,7 +24,25 @@
 			"setDefault": "Set default",
 			"noClose": "You cannot close this dialog. You have to choose a preset.",
 			"descriptionHeader": "Description",
-			"typeHeader": "Type"
+			"typeHeader": "Type",
+			"teams": {
+				"emptyState": {
+					"heading": "Choose a teams preset",
+					"body": "Team presets allow you to quickly create a team with the people involved in this issue. Please select a preset that fits the type of conversation you want to create!"
+				}
+			},
+			"meetings": {
+				"emptyState": {
+					"heading": "Choose a meeting preset",
+					"body": "Meeting presets allow you to quickly schedule meetings with the people involved in this issue. Please select a preset that fits the type of meeting you want to schedule!"
+				}
+			},
+			"emails": {
+				"emptyState": {
+					"heading": "Choose an email preset",
+					"body": "Email presets allow you to quickly send emails to the people involved in this issue. Please select a preset that fits the type of email you want to send!"
+				}
+			}
 		},
         "footer": {
             "close": "Close",
