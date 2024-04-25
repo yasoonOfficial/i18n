@@ -25,7 +25,7 @@
 			},
 			"presets": {
 				"title": "Preset Settings",
-				"description": "Choose the presets that are available when clicking on the Teams button within the current project. You can choose between global presets, use-case based presets or create a new one from scratch."
+				"description": "Choose the presets that are available when clicking on the send Email button within the current project. You can choose between global presets, use-case based presets or create a new one from scratch."
 			}
 		},
 		"meetings": {
@@ -36,7 +36,7 @@
 			},
 			"presets": {
 				"title": "Preset Settings",
-				"description": "Choose the presets that are available when clicking on the Teams button within the current project. You can choose between global presets, use-case based presets or create a new one from scratch."
+				"description": "Choose the presets that are available when clicking on the schedule meeting button within the current project. You can choose between global presets, use-case based presets or create a new one from scratch."
 			}
 		},
 		"lastActive": "This is the last active preset and cannot be deactivated or deleted",
@@ -142,23 +142,23 @@
 		"email": {
 			"defaultSettings": {
 				"title": "Default Settings",
-				"description": "Choose the settings that should be pre-populated when opening the Teams dialog. You can choose wether the setting should be editable by the enduser. This text might be a bit longer to explain the logic behind this."
+				"description": "Choose the settings that should be pre-populated when opening the send Email dialog. You can choose wether the setting should be editable by the enduser. This text might be a bit longer to explain the logic behind this."
 			},
 			"template": {
 				"title": "Template",
-				"description": "Choose the settings that should be pre-populated when opening the Teams dialog."
+				"description": "Choose the settings that should be pre-populated when opening the send Email dialog."
 			},
 			"replyTemplate": {
 				"title": "Reply template",
-				"description": "Choose the settings that should be pre-populated when opening the Teams dialog."
+				"description": "Choose the settings that should be pre-populated when opening the send Email dialog."
 			},
 			"lifecycleSettings": {
 				"title": "Lifecycle Settings",
-				"description": "You can predefine settings that apply once a Teams chat has been created in an Jira issue. These control the behaviour of the chat during his lifecycle. This description is poor and should be rewritten."
+				"description": "You can predefine settings that apply once a email has been created in an Jira issue. These control the behaviour of the chat during his lifecycle. This description is poor and should be rewritten."
 			},
 			"notificationComment": {
 				"title": "Notification Comment",
-				"description": "Select which notifications you want to receive within the Teams chat during the chat lifecycle."
+				"description": "Select which notifications you want to receive during the email conversation."
 			},
 			"addAsParticipants": {
 				"title": "Add as Participants",
@@ -172,11 +172,11 @@
 		"meeting": {
 			"defaultSettings": {
 				"title": "Default Settings",
-				"description": "Choose the settings that should be pre-populated when opening the Teams dialog. You can choose wether the setting should be editable by the enduser. This text might be a bit longer to explain the logic behind this."
+				"description": "Choose the settings that should be pre-populated when opening the schedule meeting dialog. You can choose wether the setting should be editable by the enduser. This text might be a bit longer to explain the logic behind this."
 			},
 			"template": {
 				"title": "Template",
-				"description": "Choose the settings that should be pre-populated when opening the Teams dialog."
+				"description": "Choose the settings that should be pre-populated when opening the schedule meeting dialog."
 			},
 			"lifecycleSettings": {
 				"title": "Lifecycle Settings",
