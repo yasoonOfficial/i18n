@@ -78,6 +78,7 @@
         "welcomeToAppForJira": "Welcome to {{appName}}",
         "loginWithAccountChooser": "Login with account chooser",
         "loginWithMicrosoft365": "Login with Microsoft 365",
-        "firstUseLoginInfo": "Looks like you are using the app for the first time. Please login with your Microsoft 365 account to get started!"
+        "firstUseLoginInfo": "Looks like you are using the app for the first time. Please login with your Microsoft 365 account to get started!",
+		"loginRequiredHeading": "Login required"
 	}
 }
