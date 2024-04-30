@@ -1,0 +1,69 @@
+{
+	"dialogHeading": {
+		"personalEdit": "Personal calendar settings",
+		"projectEdit": "Project calendar settings",
+		"spaceEdit": "Space calendar settings"
+	},
+	"calendarListScreen": {
+		"noCalendarSelectedMessage": "It seems that something went wrong. Please select a calendar on the left side"
+	},
+	"calendarList": {
+		"addCalendarButton": "+ Add calendar",
+		"anonymousUserError": "{{atlassianProduct}} User login required",
+		"calendars": "Calendars",
+		"ewsLoginRequired": "EWS login required",
+		"filteringCategoriesAndFreeBusyTypeLabel": "This calendar has been filtered for {{freeBusyStatus}} events with categories {{categories}}.",
+		"filteringCategoriesOnlyLabel": "This calendar has been filtered events with categories {{categories}}.",
+		"filteringCategoryAndFreeBusyTypeLabel": "This calendar has been filtered for {{freeBusyStatus}} events with category {{categories}}.",
+		"filteringCategoryOnlyLabel": "This calendar has been filtered for events with category {{categories}}.",
+		"filteringShowAsOnlyLabel": "This calendar has been filtered for {{freeBusyStatus}} events.",
+		"generalSettingsLabel": "General settings",
+		"loginButton": "Login",
+		"loginErrorMessage": "Login required",
+		"noFilterLabel": "The calendar has no filter criteria.",
+		"reauthenticateButton": "Re-authenticate",
+		"reauthenticateMessage": "Your browser has restrictive privacy settings, so you need to re-authenticate every 24 hours.",
+		"viewHeading": "Layout",
+		"userCantFetchCalendarMessage": "You are not able to load events from this calendar due to technical limitations. Please contact the calendar owner to add it with \"Shared Permissions\"."
+	},
+	"template": {
+		"createCalendarDescription": "Create a new Outlook calendar",
+		"createCalendarHeading": "New calendar",
+		"currentUserDescription": "Show the calendar of the current logged in user",
+		"currentUserHeading": "Current users calendar",
+		"globalMailboxDescription": "Show a pre-configured calendar",
+		"globalMailboxHeading": "Global calendars",
+		"groupCalendarDescription": "Show a calendar of an Outlook group",
+		"groupCalendarHeading": "Group calendar",
+		"jiraFiltersAsIssuesDescripion": "Show Jira issues from a filter, using any date field",
+		"jiraFiltersAsIssuesHeading": "Jira filter issues",
+		"jiraJQLAsIssuesDescripion": "Show Jira issues from a JQL query, using any date field",
+		"jiraJQLAsIssuesHeading": "JQL issues",
+		"jiraProjectsAsEventsDescripion": "Show Jira project issues, using any date field (e.g. due date)",
+		"jiraProjectsAsEventsHeading": "Jira project issues",
+		"jiraReleasesAsEventsDescripion": "Show Jira release dates",
+		"jiraReleasesAsEventsHeading": "Jira releases",
+		"jiraSprintsAsEventsDescripion": "Show Jira sprint dates",
+		"jiraSprintsAsEventsHeading": "Jira sprints",
+		"lozengeNew": "new",
+		"lozengePopular": "popular",
+		"lozengeSoon": "coming soon",
+		"ownCalendarDescription": "Show one of my calendars",
+		"ownCalendarHeading": "My calendar",
+		"requiresAppLink": "Requires admin config",
+		"resourceCalendarDescription": "Show a room or resource calendar",
+		"resourceCalendarHeading": "Room or resource calendar",
+		"teamsChannelCalendarDescription": "Show Teams channel events",
+		"teamsChannelCalendarHeading": "Channel calendar",
+		"userSearchDescription": "Show a calendar of a specific user",
+		"userSearchHeading": "User calendar",
+		"meetingCalendarHeading": "Meeting calendar",
+		"meetingCalendarDescription": "Show all events scheduled in a project"
+	},
+	"templateScreen": {
+		"chooseCalendarHeading": "Choose Calendar Template",
+		"jiraHeading": "Jira",
+		"outlookHeading": "Outlook",
+		"teamsHeading": "Microsoft Teams"
+	}
+}
