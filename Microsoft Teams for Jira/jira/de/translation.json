@@ -468,7 +468,7 @@
         "disableChatOrConversationHelpText": "Wähe aus, ob Chats oder Konversationen deaktiviert werden sollen, oder erlaube beides."
     },
     "personalNotificationsTab": {
-        "helpText": "Persönliche Benachrichtigungen können in JSM Projekten aktiviert werden. Dadurch werden Ersteller und Vorgangsteilnehmer per Teams-Benachrichtigung über Statusänderungen, Approvals, Kommentare und Resolutions informiert. Dafür muss die Kunden-Portal App installiert sein.",
+        "helpText": "Persönliche Benachrichtigungen können in JSM Projekten aktiviert werden. Dadurch werden Ersteller und Vorgangsteilnehmer per Teams-Benachrichtigung über die Ausgewählten Ereignisse informiert. Dafür muss die Kunden-Portal App installiert sein.",
         "enabled": "Persönliche Benachrichtigungen aktivieren",
         "requestCreated": "Anfrage erstellt",
         "publicCommentAdded": "Öffentlicher Kommentar hinzugefügt",
