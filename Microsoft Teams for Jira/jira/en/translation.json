@@ -431,7 +431,16 @@
     "projectSettings": {
         "defaultsTabHeading": "Defaults",
         "templatesTabHeading": "Templates",
-        "personalNotifications": "Personal notifications"
+        "personalNotifications": "Personal notifications",
+        "personalNotificationSettings": {
+            "enabled": "Enable personal notifications",
+            "requestCreated": "Request created",
+            "publicCommentAdded": "Public comment added",
+            "approvalRequired": "Approval required",
+            "customerVisibleStatusChanged": "Customer visible status changes",
+            "requestResolved": "Request resolved",
+            "requestReopened": "Request reopened"
+        }
     },
     "defaultsTab": {
         "descriptionGlobal": "You can configure the settings that are selected by default when creating a chat or posting into a channel. These can be overwritten in each project.",

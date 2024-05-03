@@ -430,7 +430,16 @@
     "projectSettings": {
         "defaultsTabHeading": "Voreinstellungen",
         "templatesTabHeading": "Vorlagen",
-        "personalNotifications": "Persönliche Benachrichtigungen"
+        "personalNotifications": "Persönliche Benachrichtigungen",
+        "personalNotificationSettings": {
+            "enabled": "Persönliche Benachrichtigungen aktivieren",
+            "requestCreated": "Anfrage erstellt",
+            "publicCommentAdded": "Öffentlicher Kommentar hinzugefügt",
+            "approvalRequired": "Freigabe erforderlich",
+            "customerVisibleStatusChanged": "Kunden-sichtbare Statusänderungen",
+            "requestResolved": "Anfrage abgeschlossen",
+            "requestReopened": "Anfrage erneut geöffnet"
+        }
     },
     "defaultsTab": {
         "descriptionGlobal": "Du kannst die Einstellungen wählen, die voreingestellt sind, wenn ein Chat erstellt oder in einen Channel gepostet wird. Diese Einstellungen können in jedem Projekt überschrieben werden.",
