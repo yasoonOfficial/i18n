@@ -430,16 +430,7 @@
     "projectSettings": {
         "defaultsTabHeading": "Voreinstellungen",
         "templatesTabHeading": "Vorlagen",
-        "personalNotifications": "Persönliche Benachrichtigungen",
-        "personalNotificationSettings": {
-            "enabled": "Persönliche Benachrichtigungen aktivieren",
-            "requestCreated": "Anfrage erstellt",
-            "publicCommentAdded": "Öffentlicher Kommentar hinzugefügt",
-            "approvalRequired": "Freigabe erforderlich",
-            "customerVisibleStatusChanged": "Kunden-sichtbare Statusänderungen",
-            "requestResolved": "Anfrage abgeschlossen",
-            "requestReopened": "Anfrage erneut geöffnet"
-        }
+        "personalNotifications": "Persönliche Benachrichtigungen"
     },
     "defaultsTab": {
         "descriptionGlobal": "Du kannst die Einstellungen wählen, die voreingestellt sind, wenn ein Chat erstellt oder in einen Channel gepostet wird. Diese Einstellungen können in jedem Projekt überschrieben werden.",
@@ -477,7 +468,14 @@
         "disableChatOrConversationHelpText": "Wähe aus, ob Chats oder Konversationen deaktiviert werden sollen, oder erlaube beides."
     },
     "personalNotificationsTab": {
-        "helpText": "Persönliche Benachrichtigungen können in JSM Projekten aktiviert werden. Dadurch werden Ersteller und Vorgangsteilnehmer per Teams-Benachrichtigung über Statusänderungen, Approvals, Kommentare und Resolutions informiert. Dafür muss die Kunden-Portal App installiert sein."
+        "helpText": "Persönliche Benachrichtigungen können in JSM Projekten aktiviert werden. Dadurch werden Ersteller und Vorgangsteilnehmer per Teams-Benachrichtigung über Statusänderungen, Approvals, Kommentare und Resolutions informiert. Dafür muss die Kunden-Portal App installiert sein.",
+        "enabled": "Persönliche Benachrichtigungen aktivieren",
+        "requestCreated": "Anfrage erstellt",
+        "publicCommentAdded": "Öffentlicher Kommentar hinzugefügt",
+        "approvalRequired": "Freigabe erforderlich",
+        "customerVisibleStatusChanged": "Kunden-sichtbare Statusänderungen",
+        "requestResolved": "Anfrage abgeschlossen",
+        "requestReopened": "Anfrage erneut geöffnet"
     },
     "templatesTab": {
         "sectionMoved": "Diese Seite wurde zu einem eigenen Navigationseintrag umgezogen. Du kannst jetzt deine Vorlagen einfacher und flexibler konfigurieren.",
