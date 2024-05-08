@@ -532,5 +532,11 @@
         "templateButton": "Templates",
         "noTemplatesGlobalAdminTooltip": "No templates have been configured yet. You can create new templates in the global app settings or project settings.",
         "noTemplatesProjectAdminTooltip": "No templates have been configured yet. You can create new templates for your project in the project settings."
-    }
+    },
+	"reaction": {
+		"like": "Like",
+		"heart": "Heart",
+		"laugh": "Laugh",
+		"surprised": "Surprised"
+	}
 }
