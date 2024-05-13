@@ -7,6 +7,9 @@
 	"calendarListScreen": {
 		"noCalendarSelectedMessage": "It seems that something went wrong. Please select a calendar on the left side"
 	},
+	"calendarListScreenModel": {
+		"unexpectedErrorFlagTitle": "Unexpected error occured"
+	},
 	"calendarList": {
 		"addCalendarButton": "+ Add calendar",
 		"anonymousUserError": "{{atlassianProduct}} User login required",
@@ -273,5 +276,30 @@
 	"splitResourcesSetting": {
 		"heading": "Split resources",
 		"subHeading": "Display calendars as separate columns"
+	},
+	"officeCurrentUserCalendar": {
+		"description": "Current users Outlook calendar",
+		"name": "My calendar"
+	},
+	"officeOwnCalendarScreen": {
+		"backButton": "Back to templates",
+		"calendarNameFallback": "Default Calendar Name",
+		"loadingPlaceholderText": "Loading own calendars",
+		"ownCalendarsHeading": "Own calendars",
+		"resultsLabel": "My calendars",
+		"sharedCalendarsHeading": "Shared with me",
+		"textfieldPlaceholderText": "Type to search for calendars"
+	},
+	"userModel": {
+		"toManyCalendarsFlagDescription": "Not all calendars can be shown",
+		"toManyCalendarsFlagTitle": "Too many calendars"
+	},
+	"searchTeamsChannelCalendarScreen": {
+		"backButton": "Back to templates",
+		"calendarDescription": "Channel calendar - {{channelName}} ({{teamName}})",
+		"calendarName": "Channel: {{channelName}}",
+		"loadingPlaceholderText": "Loading teams and channel calendars",
+		"resultsLabel": "Outlook Teams",
+		"textfieldPlaceholderText": "Type to search for teams/channels"
 	}
 }
