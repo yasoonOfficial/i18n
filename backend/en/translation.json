@@ -33,7 +33,11 @@
 	"teams": {
 		"chatCreationError": {
 			"title": "Chat creation error",
-			"unableToCreateChat": "The chat could not be created because of the following users: {{emails}}."
-		}
+            "unableToCreateChat": "The chat could not be created because the following users were not found: {{emails}}."
+        },
+        "conversationCreationError": {
+            "title": "Conversation creation error",
+            "channelModerationBlocked": "Posts in this channel are blocked by channel moderation."
+        }
 	}
 }
