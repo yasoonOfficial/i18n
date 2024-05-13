@@ -70,7 +70,8 @@
         "chatCreationFailedExternal": "Chat konnte nicht angelegt werden. Externe Empfänger konnten nicht gefunden werden.",
         "conversationCreationFailed": "Konversation konnte nicht angelegt werden.",
         "externalUsersNotFound": "Externe Empfänger konnten nicht gefunden werden: ",
-        "fetchTeamsMessages": "Fehler beim Laden von Teams-Nachrichten."
+        "fetchTeamsMessages": "Fehler beim Laden von Teams-Nachrichten.",
+        "channel_moderation_blocked": "Dieser Kanal ist moderiert und Beiträge können nicht gepostet werden."
     },
     "login": {
         "heading": "Mit Jira verbinden",

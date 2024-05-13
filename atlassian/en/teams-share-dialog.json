@@ -70,7 +70,8 @@
         "chatCreationFailedExternal": "Failed to create chat. Try removing external users.",
         "conversationCreationFailed": "Failed to create conversation.",
         "externalUsersNotFound": "Could not find external users: ",
-        "fetchTeamsMessages": "Error fetching Teams messages."
+        "fetchTeamsMessages": "Error fetching Teams messages.",
+        "channel_moderation_blocked": "Posts in this channel are blocked by channel moderation."
     },
     "login": {
         "heading": "Connect to Jira",
