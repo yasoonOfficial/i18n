@@ -507,6 +507,8 @@
         "meetingSubject": "Betreff",
         "attendees": "Teilnehmer",
         "attendeesPlaceholder": "Wähle die Teilnehmer aus",
+		"optionalAttendees": "Optionale Teilnehmer",
+		"optionalAttendeesPlaceholder": "Wähle die optionalen Teilnehmer aus",
         "meetingLocation": "Meeting Ort",
         "meetingDescription": "Beschreibung",
         "startDateField": "Startdatum",

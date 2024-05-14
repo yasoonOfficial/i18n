@@ -506,6 +506,8 @@
         "meetingSubject": "Subject",
         "attendees": "Attendees",
         "attendeesPlaceholder": "Choose attendees",
+		"optionalAttendees": "Optional attendees",
+		"optionalAttendeesPlaceholder": "Choose optional attendees",
         "meetingLocation": "Location",
         "meetingDescription": "Description",
         "startDateField": "Start date",
