@@ -796,7 +796,7 @@
     "templateOverviewScreen": {
         "emailTabname": "Email",
         "meetingsTabname": "Meetings",
-        "chatTabname": "Chat",
+		"chatTabname": "Teams",
 		"description": "Create and edit templates for Microsoft 365 (Email, Meetings, Teams).\nActive templates may then be selected and used to prefill the corresponding fields. ",
         "pageHeading": "Templates",
 		"missingPermission": "You don't have the permissions to view this site.",
