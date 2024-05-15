@@ -5,7 +5,9 @@
 		"userId":"Benutzer",
 		"eventType":"Ereignisart",
 		"eventTarget":"Ereignisziel",
-		"createdAt": "Ereigniszeit"
+		"createdAt": "Ereigniszeit",
+		"emptyAuditLog": "Es liegen derzeit keine Audit-Logs ihrer User vor.",
+		"auditLogDescription": "Diese Audit-Log-Seite bietet Ihnen eine umfassende Übersicht über die von Ihren Benutzern vorgenommenen Änderungen. Sie verfolgt und zeigt wichtige Aktivitäten wie die Aktivierung und Deaktivierung von Funktionen sowie das Erstellen, Bearbeiten und Löschen von Triggern, Templates und Automatisierungen."
 	},
 	"filterSelectOptionHeader": {
 		"userSelectOption": "Benutzer auswählen",
