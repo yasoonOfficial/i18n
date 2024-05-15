@@ -403,7 +403,11 @@
 		"typeToSearch": "Type to search for users",
 		"postNotifications": "Post notifications",
 		"appToInstall": "App to install in the chat",
-		"appToInstallPlaceholder": "Choose app"
+		"appToInstallPlaceholder": "Choose app",
+		"smartConnectLabel": "Smart Connect for Jira",
+		"sendUpdates": "Send updates",
+		"noUpdates": "No updates",
+		"sendUpdatesDescription": "Send updates to the chat when the issue is updated. The updates will be posted by the selected bot."
     },
     "replyTeamsChatScreen": {
         "heading": "Reply Teams chat",

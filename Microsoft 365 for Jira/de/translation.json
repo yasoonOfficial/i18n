@@ -403,8 +403,12 @@
 		"typeToSearch": "Tippen Sie, um nach Benutzern zu suchen",
 		"postNotifications": "Benachrichtigungen posten",
 		"appToInstall": "App die im Chat installiert werden soll",
-		"appToInstallPlaceholder": "Wähle die App aus"
-    },
+		"appToInstallPlaceholder": "Wähle die App aus",
+		"smartConnectLabel": "Smart Connect für Jira",
+		"sendUpdates": "Updates senden",
+		"noUpdates": "Keine Updates senden",
+		"sendUpdatesDescription": "Sende Updates an den Chat, wenn der Vorgang aktualisiert wird. Die Updates werden mit dem ausgewählten Bot gesendet."
+	},
     "replyTeamsChatScreen": {
         "heading": "Teams Chat beantworten",
         "description": "Bitte konfiguriere die Details der Chatnachricht. Die möglichen Einstellungen findest du in unserer Dokumentation.",
