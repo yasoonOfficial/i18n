@@ -1,5 +1,6 @@
 {
 	"tableHeader":{
+		"title": "Audit Log",
 		"id":"Log ID",
 		"userId":"User",
 		"eventType":"Event Type",
