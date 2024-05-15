@@ -403,7 +403,11 @@
 		"typeToSearch": "Type to search for users",
 		"postNotifications": "Post notifications",
 		"appToInstall": "App to install in the chat",
-		"appToInstallPlaceholder": "Choose app"
+		"appToInstallPlaceholder": "Choose app",
+		"smartConnectLabel": "Smart Connect for Jira",
+		"sendUpdates": "Send updates",
+		"noUpdates": "No updates",
+		"sendUpdatesDescription": "Send updates to the chat when the issue is updated. The updates will be posted by the selected bot."
     },
     "replyTeamsChatScreen": {
         "heading": "Reply Teams chat",
@@ -506,6 +510,8 @@
         "meetingSubject": "Subject",
         "attendees": "Attendees",
         "attendeesPlaceholder": "Choose attendees",
+		"optionalAttendees": "Optional attendees",
+		"optionalAttendeesPlaceholder": "Choose optional attendees",
         "meetingLocation": "Location",
         "meetingDescription": "Description",
         "startDateField": "Start date",
@@ -794,7 +800,7 @@
     "templateOverviewScreen": {
         "emailTabname": "Email",
         "meetingsTabname": "Meetings",
-        "chatTabname": "Chat",
+		"chatTabname": "Teams",
 		"description": "Create and edit templates for Microsoft 365 (Email, Meetings, Teams).\nActive templates may then be selected and used to prefill the corresponding fields. ",
         "pageHeading": "Templates",
 		"missingPermission": "You don't have the permissions to view this site.",

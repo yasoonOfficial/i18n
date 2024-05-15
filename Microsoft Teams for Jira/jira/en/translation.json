@@ -469,7 +469,14 @@
         "disableChatOrConversationHelpText": "Choose to disable chats or conversations, or allow both."
     },
     "personalNotificationsTab": {
-        "helpText": "You can enable personal notifications in JSM projects. This will send customer facing status updates, approvals, comments and resolutions to the reporter and request participants as Teams notifications. The customer portal app needs to be installed."
+        "helpText": "You can enable personal notifications in JSM projects. This will send Teams notifications about the selected events to customers (reporter and request participants or approvers). The customer portal app needs to be installed.",
+        "enabled": "Enable personal notifications",
+        "requestCreated": "Request created",
+        "publicCommentAdded": "Public comment added",
+        "approvalRequired": "Approval required",
+        "customerVisibleStatusChanged": "Customer visible status changes",
+        "requestResolved": "Request resolved",
+        "requestReopened": "Request reopened"
     },
     "templatesTab": {
         "sectionMoved": "This page has been moved to its own navigation section. You can now configure your templates in a more comfortable and flexible way.",

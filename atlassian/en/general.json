@@ -48,6 +48,8 @@
             "close": "Close",
             "cancel": "Cancel",
             "confirm": "Confirm",
+			"submit": "Submit",
+			"discard": "Discard",
 			"messagesPopupSection":"Messages",
 			"errorIconLabel":"Error",
 			"warningIconLabel":"Warning",
