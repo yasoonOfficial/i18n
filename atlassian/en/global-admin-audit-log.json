@@ -7,7 +7,7 @@
 		"eventTarget":"Event Target",
 		"createdAt": "Event Time",
 		"emptyAuditLog": "There are currently no audit logs from your users.",
-		"auditLogDescriptionLineOne": "This Audit Log page provides you with a comprehensive view of changes to triggers, templates, and automations made by your users."
+		"auditLogDescriptionLineOne": "This Audit Log page provides you with a comprehensive view of changes to triggers, templates and automations made by your users."
 	},
 	"filterSelectOptionHeader": {
 		"userSelectOption": "Select User",
