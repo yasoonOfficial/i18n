@@ -77,7 +77,8 @@
 	},
 	"navigationModel": {
 		"loginErrorFlagDescription": "If this issue is persistent please contact the support",
-		"loginErrorFlagTitle": "Error during logging in"
+		"loginErrorFlagTitle": "Error during logging in",
+		"yasoonBackenNotReachableFlagTitle": "yasoon backend could not be reached"
 	},
 	"legacyCalendarFlag": {
 		"jiraCalendarDescription": "If the calendar does not work as expected, please remove it and add it again.",
@@ -301,5 +302,8 @@
 		"loadingPlaceholderText": "Loading teams and channel calendars",
 		"resultsLabel": "Outlook Teams",
 		"textfieldPlaceholderText": "Type to search for teams/channels"
+	},
+	"officeSearchScreenBase": {
+		"searchPlaceholderFallback": "Type to search"
 	}
 }
