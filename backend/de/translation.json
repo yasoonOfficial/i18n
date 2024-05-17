@@ -16,7 +16,9 @@
 		"commentCreationFailedTitle": "Fehler beim anlegen des Kommentars",
 		"commentCreationFailedBody": "Das Meeting wurde erstellt aber es konnte kein Kommentar hinzugefügt werden. Wahrscheinlich fehlen dir die benötigten Berechtigungen für diesen Vorgang",
 		"meetingCreationFailedTitle": "Fehler beim erstellen des Meetings oder Chats",
-		"meetingCreationFailedBody": "Meeting oder Chat konnte nicht erstellt werden."
+		"meetingCreationFailedBody": "Meeting oder Chat konnte nicht erstellt werden.",
+		"meetingFailedMissingPermissionsTitle": "Fehler beim erstellen des Meetings",
+		"meetingFailedMissingPermissionsBody": "Besprechung kann nicht geplant werden. Sie verfügen möglicherweise nicht über die erforderlichen Outlook-Berechtigungen"
 	},
 	"cancelMeetingErrorFlag": {
 		"meetingCancellationFailedTitle": "Fehler beim löschen des Meetings",

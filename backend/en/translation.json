@@ -16,7 +16,9 @@
 		"commentCreationFailedTitle": "Error during comment creation",
 		"commentCreationFailedBody": "Meeting has been created, but comment could not be added. Most likely you do not have the permissions on this issue",
 		"meetingCreationFailedTitle": "Meeting or chat creation issue",
-		"meetingCreationFailedBody": "Meeting or chat could not be created"
+		"meetingCreationFailedBody": "Meeting or chat could not be created",
+		"meetingFailedMissingPermissionsTitle": "Scheduling meeting failed",
+		"meetingFailedMissingPermissionsBody": "Unable to schedule meeting. You might not have the necessary Outlook permissions"
 	},
 	"cancelMeetingErrorFlag": {
 		"meetingCancellationFailedTitle": "Meeting cancellation issue",
