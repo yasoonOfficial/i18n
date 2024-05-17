@@ -27,6 +27,7 @@
     "global.projectAdminTemplateTitle": "Microsoft 365 Vorlagen",
     "global.userSettingsButtonLabel": "Microsoft 365",
     "global.userSettingsTitle": "Microsoft 365",
+	"global.auditLogTitle": "Audit Log",
     "globalAdminSectionLabel": "Microsoft 365 for Jira",
     "meetings.adminSettingsTitle": "Outlook Meetings",
     "meetings.availabilitiesWebPanel": "Outlook Verfuegbarkeiten",
