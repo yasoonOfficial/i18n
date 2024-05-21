@@ -3,6 +3,7 @@
         "meetingCount": "Geplante Meetings: {{count}}",
         "noMeetingsScheduled": "Keine Meetings bisher geplant",
         "scheduleMeetingButton": "Plane ein neues Meeting",
+		"scheduleMeeting": "Meeting planen",
         "fetchingEvents": "Lade Meetings...",
         "mobileLoginNotSupported": "Login benötigt. Der Login ist derzeit nicht in der App möglich. Bitte logge dich einmalig auf der Webseite ein - anschließend kannst du auch die App nutzen."
     },

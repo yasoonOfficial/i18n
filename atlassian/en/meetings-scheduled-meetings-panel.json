@@ -3,6 +3,7 @@
         "meetingCount": "Scheduled meetings: {{count}}",
         "noMeetingsScheduled": "No meetings have been scheduled yet.",
         "scheduleMeetingButton": "Schedule a new meeting",
+		"scheduleMeeting": "Schedule meeting",
         "fetchingEvents": "Fetching events...",
         "mobileLoginNotSupported": "Login required. The login is currently not available for mobile devices. If you log in on a desktop device, you can use the add-in on mobile devices as well."
     },
