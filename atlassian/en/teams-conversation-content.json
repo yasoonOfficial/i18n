@@ -176,6 +176,7 @@
         "guestUser": "Guest user",
         "selectUserToStartChat": "Select participants to start a chat ...",
         "selectUserToAddToChat": "Select participants to add to the chat ...",
+		"selectChatOrChannelPreset": "You can switch between chat and channel by selecting a suitable preset.",
         "chatTitleTooLong": "Chat title too long (250+)",
         "typeEmailOrNameToSearch": "Type an email address or name to search ...",
         "onlyChatMembersCanReply": "Only chat members can reply.",
