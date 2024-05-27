@@ -426,7 +426,10 @@
 		"headline": "Automatic linking",
 		"intro": "Configure automatic linking",
         "helpText": "Select whether an issue should be linked when the issue key is mentioned in a channel where the bot is installed.",
-		"autolinkIssues": "Automatic linking"
+        "autolinkIssues": "Automatic linking",
+        "autolinkOn": "Always link",
+        "autolinkOff": "Never link",
+        "autolinkAsk": "Ask for linking"
 	},
     "projectSettings": {
         "defaultsTabHeading": "Defaults",

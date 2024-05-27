@@ -425,7 +425,10 @@
 		"headline": "Automatische Verlinkung",
 		"intro": "Konfiguriere die automatische Verlinkung",
 		"helpText": "Wähle aus, ob ein Vorgang verlinkt werden soll, wenn der Vorgangsschlüssel in einem Kanal erwähnt wird, in dem der Bot installiert ist.",
-		"autolinkIssues": "Automatische Verlinkung"
+        "autolinkIssues": "Automatische Verlinkung",
+        "autolinkOn": "Immer verlinken",
+        "autolinkOff": "Nie verlinken",
+        "autolinkAsk": "Nach Verlinkung fragen"
 	},
     "projectSettings": {
         "defaultsTabHeading": "Voreinstellungen",
