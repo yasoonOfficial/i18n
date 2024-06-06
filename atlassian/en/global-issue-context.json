@@ -1,4 +1,8 @@
 {
+	"general": {
+		"optInForPresenceScope": "Opt-in for missing permissions",
+		"dismiss": "Dismiss"
+	},
 	"heading": {
 		"showMore": "Show more",
 		"startTeamsConversation": "Start Teams conversation",
@@ -14,7 +18,7 @@
 		"startChat": "Send message",
 		"scheduleMeeting": "Schedule meeting",
 		"statusMessage": "Status message",
-		"presenceNotAvailable": "The permission scope for \"Presence.Read.All\" is currently unavailable, so we are unable to display the presence of other users."
+		"presenceNotAvailable": "The permission scope for \"Presence.Read.All\" is currently unavailable. Please re-login to add the missing permissions."
 	},
 	"channelConversations": {
 		"header": "Channel conversations",

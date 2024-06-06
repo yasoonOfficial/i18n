@@ -1,4 +1,8 @@
 {
+	"general": {
+		"optInForPresenceScope": "Fehlende Berechtigungen hinzufügen",
+		"dismiss": "Nicht mehr anzeigen"
+	},
 	"heading": {
 		"showMore": "Mehr anzeigen",
 		"startTeamsConversation": "Teams Konversation beginnen",
@@ -14,7 +18,7 @@
 		"startChat": "Sende eine Nachricht",
 		"scheduleMeeting": "Sende ein Meeting",
 		"statusMessage": "Statusmeldung",
-		"presenceNotAvailable": "Der Berechtigungsumfang für \"Presence.Read.All\" ist derzeit nicht verfügbar, daher können wir die Anwesenheit anderer Benutzer nicht anzeigen."
+		"presenceNotAvailable": "Der Berechtigungsumfang für \"Presence.Read.All\" ist derzeit nicht verfügbar. Bitte logge dich erneut ein, um die fehlenden Berechtigungen hinzuzufügen."
 	},
 	"channelConversations": {
 		"header": "Channel Konversationen",
