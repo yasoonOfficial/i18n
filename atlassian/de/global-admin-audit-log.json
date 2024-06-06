@@ -7,7 +7,7 @@
 		"eventTarget":"Ereignisziel",
 		"createdAt": "Ereigniszeit",
 		"emptyAuditLog": "Es liegen derzeit keine Audit-Logs ihrer User vor.",
-		"auditLogDescriptionLineOne": "Diese Audit-Log-Seite bietet Ihnen eine umfassende Übersicht über die von Ihren Benutzern vorgenommenen Änderungen an Triggern, Templates und Automatisierungen."
+		"auditLogDescriptionLineOne": "Diese Audit-Log-Seite bietet Ihnen eine umfassende Übersicht über die von Ihren Benutzern vorgenommenen Änderungen an Triggern, Templates und Aktionen."
 	},
 	"filterSelectOptionHeader": {
 		"userSelectOption": "Benutzer auswählen",
@@ -27,7 +27,7 @@
 		"unknown": "Unbekannt"
 	},
 	"eventTarget": {
-		"automation": "Automatisierung",
+		"automation": "Aktion",
 		"feature": "Feature",
 		"trigger": "Trigger",
 		"template": "Template"
