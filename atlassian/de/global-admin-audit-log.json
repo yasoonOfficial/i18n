@@ -10,6 +10,7 @@
 		"auditLogDescriptionLineOne": "Diese Audit-Log-Seite bietet Ihnen eine umfassende Übersicht über die von Ihren Benutzern vorgenommenen Änderungen an Triggern, Templates und Aktionen."
 	},
 	"filterSelectOptionHeader": {
+		"select": "Auswählen...",
 		"userSelectOption": "Benutzer auswählen",
 		"eventTargetSelectOption": "Ereignisziel auswählen",
 		"eventTypeSelectOption": "Ereignistyp auswählen",

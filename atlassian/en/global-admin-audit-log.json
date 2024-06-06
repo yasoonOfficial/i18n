@@ -10,6 +10,7 @@
 		"auditLogDescriptionLineOne": "This Audit Log page provides you with a comprehensive view of changes to triggers, templates and actions made by your users."
 	},
 	"filterSelectOptionHeader": {
+		"select": "Select...",
 		"userSelectOption": "Select User",
 		"eventTargetSelectOption": "Select Event Target",
 		"eventTypeSelectOption": "Select Event Type",
