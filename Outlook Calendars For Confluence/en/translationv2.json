@@ -182,6 +182,11 @@
     "noProjectEditPermissionTooltip": "It seems like you don't have project admin permissions",
     "sidebarHeading": "Calendars"
   },
+  "defaultFilterSetting": {
+	"heading": "Default Filter",
+	"subHeading": "Enter a filter value when you want a default filter active per default",
+	"elementAfterInputTooltip": "Want to learn more about live event filtering? Have a look into our How To's!"
+  },
   "compactCalendar": {
     "pickADateTooltip": "Pick a date directly",
     "goToDateIconLabel": "go to date"
