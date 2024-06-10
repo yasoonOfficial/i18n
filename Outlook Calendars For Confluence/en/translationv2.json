@@ -183,9 +183,9 @@
     "sidebarHeading": "Calendars"
   },
   "defaultFilterSetting": {
-	"heading": "Default Filter",
-	"subHeading": "Enter a filter value when you want a default filter active per default",
-	"elementAfterInputTooltip": "Want to learn more about live event filtering? Have a look into our How To's!"
+	"heading": "Default live filter",
+	"subHeading": "Enter a value to set a default filter in your calendar events via the search bar.",
+	"elementAfterInputTooltip": "Read the docs and learn more about live filtering of calendar events."
   },
   "compactCalendar": {
     "pickADateTooltip": "Pick a date directly",
@@ -333,7 +333,8 @@
   "generalViewSetting": {
     "agendaViewHeading": "Calendar view",
     "listViewHeading": "List view",
-    "schedulerViewHeading": "Timeline view"
+    "schedulerViewHeading": "Timeline view",
+	"showMoreButtonText": "More settings"
   },
   "genericFullpageMessage": {
     "editingOnDraftBlocked": {

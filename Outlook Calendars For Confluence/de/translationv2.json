@@ -182,6 +182,11 @@
     "noProjectEditPermissionTooltip": "Du hast keine Projektadmin Berechtigungen",
     "sidebarHeading": "Kalender"
   },
+  "defaultFilterSetting": {
+	"heading": "Default Live-Filter",
+	"subHeading": "Gib einen Wert ein, um einen Default-Filter für Kalender-Events über die Suchleiste festzulegen.",
+	"elementAfterInputTooltip": "Lies die Dokumentation und Erfahre mehr über Live-Filter von Kalender-Events."
+  },
   "compactCalendar": {
     "pickADateTooltip": "Datum wählen",
     "goToDateIconLabel": "zum Datum gehen"
@@ -328,7 +333,8 @@
   "generalViewSetting": {
     "agendaViewHeading": "Kalenderansicht",
     "listViewHeading": "Listenansicht",
-    "schedulerViewHeading": "Timeline Ansicht"
+    "schedulerViewHeading": "Timeline Ansicht",
+	"showMoreButtonText": "Mehr Settings"
   },
   "genericFullpageMessage": {
     "editingOnDraftBlocked": {
