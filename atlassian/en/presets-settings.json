@@ -71,7 +71,9 @@
 				"description": "Are you sure you want to delete this preset? This action cannot be undone.",
 				"cancelButton": "Cancel",
 				"confirmButton": "Delete"
-			}
+			},
+			"defaultSettings": "Default Settings",
+			"lifecycleSettings": "Lifecycle Settings"
 		},
 		"restrictedBanner": {
 			"title": "Editing is restricted",
@@ -97,7 +99,6 @@
 		"updateAndDeactivatePresetButton": "Update and Deactivate Preset",
 		"chat": {
 			"defaultSettings": {
-				"title": "Default Settings",
 				"description": "Choose the settings that should be pre-populated when opening the Teams dialog. You can choose wether the setting should be editable by the enduser. This text might be a bit longer to explain the logic behind this."
 			},
 			"template": {
@@ -105,7 +106,6 @@
 				"description": "Choose the settings that should be pre-populated when opening the Teams dialog."
 			},
 			"lifecycleSettings": {
-				"title": "Lifecycle Settings",
 				"description": "You can predefine settings that apply once a Teams chat has been created in an Jira issue. These control the behaviour of the chat during his lifecycle. This description is poor and should be rewritten."
 			},
 			"chatAccess": {
@@ -119,7 +119,6 @@
 		},
 		"channelThread": {
 			"defaultSettings": {
-				"title": "Default Settings",
 				"description": "Choose the settings that should be pre-populated when opening the Teams dialog. You can choose wether the setting should be editable by the enduser. This text might be a bit longer to explain the logic behind this."
 			},
 			"template": {
@@ -127,7 +126,6 @@
 				"description": "Choose the settings that should be pre-populated when opening the Teams dialog."
 			},
 			"lifecycleSettings": {
-				"title": "Lifecycle Settings",
 				"description": "You can predefine settings that apply once a Teams chat has been created in an Jira issue. These control the behaviour of the chat during his lifecycle. This description is poor and should be rewritten."
 			},
 			"chatAccess": {
@@ -141,7 +139,6 @@
 		},
 		"email": {
 			"defaultSettings": {
-				"title": "Default Settings",
 				"description": "Choose the settings that should be pre-populated when opening the send Email dialog. You can choose wether the setting should be editable by the enduser. This text might be a bit longer to explain the logic behind this."
 			},
 			"template": {
@@ -153,7 +150,6 @@
 				"description": "Choose the settings that should be pre-populated when opening the send Email dialog."
 			},
 			"lifecycleSettings": {
-				"title": "Lifecycle Settings",
 				"description": "You can predefine settings that apply once a email has been created in an Jira issue. These control the behaviour of the chat during his lifecycle. This description is poor and should be rewritten."
 			},
 			"notificationComment": {
@@ -171,15 +167,33 @@
 		},
 		"meeting": {
 			"defaultSettings": {
-				"title": "Default Settings",
-				"description": "Choose the settings that should be pre-populated when opening the schedule meeting dialog. You can choose wether the setting should be editable by the enduser. This text might be a bit longer to explain the logic behind this."
+				"description": "Choose the settings that should be pre-populated when opening the schedule meeting dialog. You can choose wether the setting should be editable by the enduser. This text might be a bit longer to explain the logic behind this.",
+				"startDate": {
+					"title": "Start Date",
+					"description": "Choose the start date of the meeting."
+				},
+				"endDate": {
+					"title": "End date",
+					"description": "Choose the end date of the meeting."
+				},
+				"isAllDay": {
+					"title": "All day",
+					"description": "Choose if the meeting is all day."
+				},
+				"onlineMeeting": {
+					"title": "Online Meeting",
+					"description": "Choose if the meeting is an online meeting."
+				},
+				"timePickerSteps": {
+					"title": "Time Picker Steps",
+					"description": "Choose the time picker steps."
+				}
 			},
 			"template": {
 				"title": "Template",
 				"description": "Choose the settings that should be pre-populated when opening the schedule meeting dialog."
 			},
 			"lifecycleSettings": {
-				"title": "Lifecycle Settings",
 				"description": "You can predefine settings that apply once a Teams chat has been created in an Jira issue. These control the behaviour of the chat during his lifecycle. This description is poor and should be rewritten."
 			},
 			"chatAccess": {
