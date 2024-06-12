@@ -28,7 +28,7 @@
 		"unknown": "Unknown"
 	},
 	"eventTarget": {
-		"automation": "Aktion",
+		"automation": "Action",
 		"feature": "Feature",
 		"trigger": "Trigger",
 		"template": "Template"
