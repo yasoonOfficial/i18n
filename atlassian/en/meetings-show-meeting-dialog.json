@@ -185,7 +185,8 @@
 		"meetingCreatedFlagBody":"The meeting has been scheduled and all participants have received their invite.",
 		"errorSavingIssuePropertyFlagTitle":"Edit issue property failed",
 		"errorSavingIssuePropertyFlagBody": "It seems like you do not have the permissions to edit this issue.",
-		"genericErrorFlatTitle": "Error scheduling meeting",
+		"genericErrorFlagTitleCreate": "Error scheduling meeting",
+		"genericErrorFlagTitleEdit": "Error editing meeting",
 		"errorLoadingEvent": "Error loading event",
 		"errorLoadingEventBody":"Could not load event before editing. It might have been deleted"
     },
