@@ -58,5 +58,16 @@
 		"tentative": "Mit Vorbehalt",
 		"unknown": "Unbekannt",
 		"workingElsewhere": "An anderem Ort tätig"
-	}
+	},
+	"officeLoginScreen": {
+		"loginButtonLabel": "Mit Microsoft 365 anmelden",
+		"heading": "Willkommen bei {{ appName }}",
+		"description": "Scheinbar nutzt du die App zum ersten Mal! Bitte melde dich mit deinem Microsoft 365-Konto an, um loszulegen."
+	},
+    "azureLoginButton": {
+        "login": "Anmelden",
+        "loginAs": "Anmelden als",
+        "loginWithAccountChooser": "Anmelden mit Accountauswahl",
+		"loginErrorTitle": "Login mit Microsoft 365 fehlgeschlagen"
+    }
 }
