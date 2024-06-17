@@ -305,15 +305,15 @@
             "reply-chatsDescription": "Antworte auf alle Teams-Chats, die mit dem Vorgang verknüpft sind und bei denen der Bot installiert ist.",
             "reply-chatsDescriptionPlaceholder": "Diese Aktion antwortet auf alle Teams-Chats, die mit dem Vorgang verknüpft sind und bei denen der Bot installiert ist, wenn (...).\nErstellt von: {{atlassianUser}}\nVerwendet in Projekt: (...)",
             "reply-chatsConfigDescription": "Chat-Nachricht-Einstellungen",
-            "create-conversationTitle": "Konversation in Teams erstellen",
+			"create-conversationTitle": "Konversation in Teams Kanal erstellen",
             "create-conversationDescription": "Sende eine Nachricht in einem Teams-Kanal.",
             "create-conversationConfigDescription": "Konversations-Einstellungen",
             "create-conversationDescriptionPlaceholder": "Diese Aktion erstellt eine Kanal-Konversation in Teams, wenn (...).\nErstellt von: {{atlassianUser}}\nVerwendet in Projekt: (...)",
-            "reply-conversationsTitle": "Teams-Konversation beantworten",
+			"reply-conversationsTitle": "Teams-Kanal Konversation beantworten",
             "reply-conversationsDescription": "Sende eine Nachricht in einem Teams-Kanal als Antwort auf eine Kanal-Konversation.",
             "reply-conversationsConfigDescription": "Konversations-Einstellungen",
             "reply-conversationsDescriptionPlaceholder": "Diese Aktion antwortet auf eine Kanal-Konversation in Teams, wenn (...).\nErstellt von: {{atlassianUser}}\nVerwendet in Projekt: (...)",
-            "reply-conversationTitle": "Teams-Konversation beantworten",
+			"reply-conversationTitle": "Teams-Kanal Konversation beantworten",
             "reply-conversationDescription": "Sende eine Nachricht in einem Teams-Kanal als Antwort auf eine Kanal-Konversation.",
             "reply-conversationConfigDescription": "Konversations-Einstellungen",
             "reply-conversationDescriptionPlaceholder": "Diese Aktion antwortet auf eine Kanal-Konversation in Teams, wenn (...).\nErstellt von: {{atlassianUser}}\nVerwendet in Projekt: (...)",
@@ -433,7 +433,7 @@
         "addKeywordCommentInfo": "Dadurch kann das Chat-Backup in Jira mit der nativen Suche gefunden werden."
     },
     "createConversationScreen": {
-        "heading": "Teams Unterhaltung erstellen",
+		"heading": "Teams Kanal Unterhaltung erstellen",
         "description": "Bitte konfiguriere die neue Kanal Unterhaltung. Sie wird mit dem ausgewählten Bot versenden und automatisch mit dem Issue aus der Automation Regel verknüpft.",
         "issueCard": "Vorgangskarte",
         "customMessage": "Eigene Nachricht",
@@ -450,7 +450,7 @@
         "comingSoon": "Bald verfügbar"
     },
     "replyTeamsConversationScreen": {
-        "heading": "Teams Unterhaltung beantworten",
+		"heading": "Teams Kanal Unterhaltung beantworten",
         "description": "Bitte konfiguriere Details der Kanal-Konversation. Die möglichen Einstellungen findest du in unserer Dokumentation.",
         "conversationMessage": "Unterhaltungs Nachricht",
         "specificConversation": "Einzelne Unterhaltung",
