@@ -25,6 +25,7 @@
 			"noClose": "You cannot close the preset chooser. Choose a preset or cancel the creation by pressing x.",
 			"descriptionHeader": "Description",
 			"typeHeader": "Type",
+			"cancel": "Cancel",
 			"teams": {
 				"emptyState": {
 					"heading": "Choose a teams preset",
