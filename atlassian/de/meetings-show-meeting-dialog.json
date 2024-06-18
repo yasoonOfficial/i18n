@@ -190,16 +190,6 @@
 		"errorLoadingEvent": "Meeting konnte nicht geladen werden",
 		"errorLoadingEventBody": "Das Meeting konnte vor dem Bearbeiten nicht geladen werden. Möglicherweise wurde es gelöscht"
 	},
-	"officeLoginScreen": {
-		"loginButtonLabel": "Mit Microsoft 365 anmelden",
-		"heading": "Willkommen bei {{ appName }}",
-		"description": "Scheinbar nutzt du die App zum ersten Mal! Bitte melde dich mit deinem Microsoft 365-Konto an, um loszulegen."
-	},
-    "officeLoginButton": {
-        "login": "Anmelden",
-        "loginAs": "Anmelden als",
-        "loginWithAccountChooser": "Anmelden mit Accountauswahl"
-    },
 	"atlassianProduct": {
 		"jira": "Jira",
 		"confluence": "Confluence"

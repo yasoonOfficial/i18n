@@ -71,16 +71,6 @@
 		"emailAddedPhrase": "An email has been sent for this issue:",
 		"tooLongMessage": "[The body of the email is too long to be included in the comment. It was removed from the comment intentionally]"
 	},
-	"officeLoginScreen": {
-		"loginButtonLabel": "Log in with Microsoft 365",
-		"heading": "Welcome to {{ appName }}",
-		"description": "Looks like you're using the app for the first time. Please log in with your Microsoft 365 account to get started!"
-	},
-	"officeLoginButton": {
-		"login": "Login",
-		"loginAs": "Login as",
-		"loginWithAccountChooser": "Login with account chooser"
-	},
 	"sendLater": {
 		"sectionTitle": "Choose a time for the email to be sent",
 		"timePickerPlaceholder": "Please select a time",

@@ -9,10 +9,5 @@
             "cancel": "Abbrechen",
             "confirm": "Bestätigen"
         }
-    },
-	"officeLoginButton": {
-        "login": "Anmelden",
-        "loginAs": "Anmelden als",
-        "loginWithAccountChooser": "Anmelden mit Accountauswahl"
     }
 }

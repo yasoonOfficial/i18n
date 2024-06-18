@@ -26,16 +26,6 @@
         "privateIconTooltip": "Private meeting",
         "legacyEventTooltip": "This meeting was created with an older version of the add-in. Some functionalities like canceling the event are not possible."
     },
-    "officeLoginScreen": {
-        "loginButtonLabel": "Log in with Microsoft 365",
-        "heading": "Welcome to {{ appName }}",
-        "description": "Looks like you're using the app for the first time. Please log in with your Microsoft 365 account to get started!"
-    },
-    "officeLoginButton": {
-        "login": "Login",
-        "loginAs": "Login as",
-        "loginWithAccountChooser": "Login with account chooser"
-    },
     "helperLabels": {
         "assignee": "Assignee",
         "reporter": "Reporter",

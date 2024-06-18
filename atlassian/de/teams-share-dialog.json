@@ -99,16 +99,6 @@
         "issueFieldPreFilledTooltip": "Der Vorgang wurde vorausgewählt basierend auf bereits mit dieser Konversation verknüpften Vorgängen.",
         "originalEstimate": "Ursprüngliche Schätzung"
     },
-	"officeLoginScreen": {
-        "loginButtonLabel": "Mit Microsoft 365 einloggen",
-        "heading": "Willkommen bei {{ appName }}",
-        "description": "Sieht so aus, als benutzt du diese Funktion das erste Mal. Bitte melde dich mit deinem Microsoft 365 Account an, um loszulegen!"
-    },
-    "officeLoginButton": {
-        "login": "Anmelden",
-        "loginAs": "Anmelden als",
-        "loginWithAccountChooser": "Anmelden mit Accountauswahl"
-    },
     "sharing": {
         "private": "Privat",
         "shared": "Geteilt",
