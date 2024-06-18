@@ -22,7 +22,7 @@
 			"default": "Default",
 			"removeDefault": "Remove default",
 			"setDefault": "Set default",
-			"noClose": "You cannot close the preset chooser. Choose a preset or cancel the creation by pressing x.",
+			"noClose": "You cannot close the preset chooser. Choose a preset or press cancel.",
 			"descriptionHeader": "Description",
 			"typeHeader": "Type",
 			"cancel": "Cancel",
