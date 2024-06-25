@@ -187,6 +187,15 @@
 				"timePickerSteps": {
 					"title": "Time Picker Steps",
 					"description": "Choose the time picker steps."
+				},
+				"userField": {
+					"staticUser": "Static user",
+        			"jiraField": "Jira field",
+					"emailAddress": "Email address"
+				},
+				"userPicker": {
+					"typeToSearch": "Type to search",
+					"noOptions": "No options"
 				}
 			},
 			"template": {
