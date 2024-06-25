@@ -178,7 +178,7 @@
 				},
 				"isAllDay": {
 					"title": "All day",
-					"description": "Choose if the meeting is all day."
+					"description": "Choose if the meeting is all day." 
 				},
 				"onlineMeeting": {
 					"title": "Online Meeting",
@@ -187,6 +187,18 @@
 				"timePickerSteps": {
 					"title": "Time Picker Steps",
 					"description": "Choose the time picker steps."
+				},
+				"meetingDuration": {
+					"title": "Meeting Duration",
+					"description": "Choose the meeting duration."
+				},
+				"attendees": {
+					"title": "Attendees",
+					"description": "Choose the attendees of the meeting."
+				},
+				"optionalAttendees": {
+					"title": "Optional Attendees",
+					"description": "Choose the optional attendees of the meeting."
 				},
 				"userField": {
 					"staticUser": "Static user",
