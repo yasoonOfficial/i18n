@@ -341,7 +341,8 @@
 		"chatDensityHelpText": "Wähle zwischen kompakter oder komfortabler Darstellung.",
 		"sendToTeamsButtonTooltip": "Verknüpfe diesen Chat mit Teams (Strg+Enter)",
         "replyButtonTooltip": "Antworte in Teams (Strg+Enter)",
-        "enableNotificationsAskAdmin": "Um Benachrichtigungen zu posten, müssen diese in den Addon-Admin-Einstellungen aktiviert werden."
+        "enableNotificationsAskAdmin": "Um Benachrichtigungen zu posten, müssen diese in den Addon-Admin-Einstellungen aktiviert werden.",
+        "rscTenantMismatch": "Konversationen aus anderen Organisationen können nicht angezeigt werden."
     },
     "addBoardToTeams": {
         "addBoardToTeams": "Board zu Teams hinzufügen",

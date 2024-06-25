@@ -341,7 +341,8 @@
 		"chatDensityHelpText": "Choose between compact and comfy density.",
 		"sendToTeamsButtonTooltip": "Link this chat to teams (Ctrl+Enter)",
         "replyButtonTooltip": "Reply in teams (Ctrl+Enter)",
-        "enableNotificationsAskAdmin": "To post updates, enable notifications in the addon admin settings."
+        "enableNotificationsAskAdmin": "To post updates, enable notifications in the addon admin settings.",
+        "rscTenantMismatch": "You are not allowed to access conversations from a different organisation."
     },
     "addBoardToTeams": {
         "addBoardToTeams": "Add board to Teams",
