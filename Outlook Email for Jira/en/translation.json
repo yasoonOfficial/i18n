@@ -410,7 +410,8 @@
         "suggestions": "Suggestions",
         "allEpics": "All epics",
         "doneLabel": "Done",
-        "includeDoneLabel": "Include done issues"
+        "includeDoneLabel": "Include done issues",
+        "includeIssuesFromOtherProjects": "Include issues from other projects"
     },
     "sprintField": {
         "excludeOtherProjectsLabel": "Only show sprints in this project ({{projectKey}})",

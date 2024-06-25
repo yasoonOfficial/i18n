@@ -343,7 +343,8 @@
     },
     "epicField": {
         "suggestions": "Suggestions",
-        "allEpics": "Tous les epics"
+        "allEpics": "Tous les epics",
+        "includeIssuesFromOtherProjects": "Inclure les epics d'autres projets"
     },
     "officeMessages": {
         "reminderLinkToIssue": "Lien vers ticket :",

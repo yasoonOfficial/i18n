@@ -411,7 +411,8 @@
         "suggestions": "Vorgeschlagen",
         "allEpics": "Alle Epics",
         "doneLabel": "Fertig",
-        "includeDoneLabel": "Abgeschlossene Vorgänge einbeziehen"
+        "includeDoneLabel": "Abgeschlossene Vorgänge einbeziehen",
+        "includeIssuesFromOtherProjects": "Vorgänge aus anderen Projekten einbeziehen"
     },
     "sprintField": {
         "excludeOtherProjectsLabel": "Nur Sprints in diesem Projekt ({{projectKey}}) anzeigen",
