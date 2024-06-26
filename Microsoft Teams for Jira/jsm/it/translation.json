@@ -98,7 +98,8 @@
         "creator": "Creatore",
         "selectRequestParticipants": "Scegli partecipante",
         "requestParticipantsNotAllAdded": "Non è stato possibile aggiungere tutti i partecipanti.",
-        "participantsNoResults": "Nessun risultato"
+        "participantsNoResults": "Nessun risultato",
+        "failedLoadingFields": "Non è stato possibile caricare i campi, aprire la richiesta in Jira."
     },
     "forms": {
         "validation": {

@@ -98,7 +98,8 @@
         "creator": "Aanmaker",
         "selectRequestParticipants": "Selecteer verzoekdeelnemers",
         "requestParticipantsNotAllAdded": "Niet alle deelnemers konden worden toegevoegd.",
-        "participantsNoResults": "Geen resultaten"
+        "participantsNoResults": "Geen resultaten",
+        "failedLoadingFields": "De velden konden niet worden geladen, open het verzoek in Jira."
     },
     "forms": {
         "validation": {

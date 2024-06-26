@@ -98,7 +98,8 @@
         "creator": "Créateur",
         "selectRequestParticipants": "Sélectionner les participants à la demande de",
         "requestParticipantsNotAllAdded": "Tous les participants n'ont pu être ajoutés.",
-        "participantsNoResults": "Aucun résultat"
+        "participantsNoResults": "Aucun résultat",
+        "failedLoadingFields": "Les champs n'ont pas pu être chargés, veuillez ouvrir la demande dans Jira."
     },
     "forms": {
         "validation": {
