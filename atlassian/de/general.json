@@ -5,6 +5,7 @@
 	"email": "Email",
 	"project": "Projekt",
 	"global": "Global",
+    "gettingStarted": "Einstieg",
     "errorMessages": {
         "authenticationErrorTitle": "Seite neu laden",
         "authenticationErrorBody": "Die Verbindung zu Microsoft 365 wurde unterbrochen und die Daten sind möglicherweise veraltet. Lade die Seite neu."
@@ -69,5 +70,12 @@
         "loginAs": "Anmelden als",
         "loginWithAccountChooser": "Anmelden mit Accountauswahl",
 		"loginErrorTitle": "Login mit Microsoft 365 fehlgeschlagen"
+    },
+    "productDisplayName": {
+        "teams": "Microsoft Teams",
+        "email": "E-Mail",
+        "meetings": "Meetings",
+        "todo": "Microsoft To Do",
+        "calendar": "Kalender"
     }
 }

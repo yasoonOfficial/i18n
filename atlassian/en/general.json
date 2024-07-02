@@ -5,6 +5,7 @@
 	"email": "Email",
 	"project": "Project",
 	"global": "Global",
+	"gettingStarted": "Getting started",
     "errorMessages": {
         "authenticationErrorTitle": "Refresh page",
         "authenticationErrorBody": "Connection with Microsoft 365 has been lost and data might be outdated. Please refresh the page."
@@ -100,5 +101,12 @@
         "loginAs": "Login as",
         "loginWithAccountChooser": "Login with account chooser",
 		"loginErrorTitle": "Microsoft 365 login failed"
-    }
+	},
+	"productDisplayName": {
+		"teams": "Microsoft Teams",
+		"email": "Email",
+		"meetings": "Meetings",
+		"todo": "Microsoft To Do",
+		"calendar": "Calendar"
+	}
 }
