@@ -73,7 +73,8 @@
 				"confirmButton": "Delete"
 			},
 			"defaultSettings": "Default Settings",
-			"lifecycleSettings": "Lifecycle Settings"
+			"lifecycleSettings": "Lifecycle Settings",
+			"uiSettings": "UI Settings"
 		},
 		"restrictedBanner": {
 			"title": "Editing is restricted",
@@ -186,7 +187,10 @@
 				},
 				"timePickerSteps": {
 					"title": "Time Picker Steps",
-					"description": "Choose the time picker steps."
+					"description": "Choose the time picker steps.",
+					"15minutes": "15 minutes",
+					"30minutes": "30 minutes",
+					"60minutes": "60 minutes"
 				},
 				"meetingDuration": {
 					"title": "Meeting Duration",
@@ -208,14 +212,21 @@
 				"userPicker": {
 					"typeToSearch": "Type to search",
 					"noOptions": "No options"
+				},
+				"advancedMode": {
+					"title": "Advanced Mode",
+					"description": "Choose if the dialog should open in advanced mode by default."
 				}
 			},
 			"template": {
-				"title": "Template",
+				"title": "Default template",
 				"description": "Choose the settings that should be pre-populated when opening the schedule meeting dialog."
 			},
 			"lifecycleSettings": {
-				"description": "You can predefine settings that apply once a Teams chat has been created in an Jira issue. These control the behaviour of the chat during his lifecycle. This description is poor and should be rewritten."
+				"description": "You can predefine settings that apply once a Outlook meeting has been created in an Jira issue. These control the behaviour of the meeting during his lifecycle. This description is poor and should be rewritten."
+			},
+			"uiSettings": {
+				"description": "Choose the UI settings that should be pre-populated when opening the schedule meeting dialog."
 			},
 			"chatAccess": {
 				"title": "Chat Access",
